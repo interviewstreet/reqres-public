@@ -1,5 +1,6 @@
 var data = require("./../data.json"),
 	config = require("./../config.json"),
+	resources_config = require("./../resources_config.json"),
 	_ = require("lodash");
 
 module.exports = {
@@ -10,7 +11,7 @@ module.exports = {
 			items;
 
 		if (data[resource] && !itemArg) {
-			return returnAll(data[resource], req, res);
+			return returnAll(data[resource], req, res, (resources_config[resource] || {}));
 		} else if (data[resource] && itemArg) {
 			items = data[resource];
 			return returnSingle(items, itemArg, res);
@@ -92,7 +93,7 @@ module.exports = {
 
 		if (data[resource]) {
 			items = search(data[resource], req, res);
-			return returnAll(items, req, res);
+			return returnAll(items, req, res, (resources_config[resource] || {}));
 		} else {
 			return res.status(400).send({
 				error: "Unknown resource"
@@ -102,15 +103,15 @@ module.exports = {
 
 };
 
-function returnAll(items, req, res) {
+function returnAll(items, req, res, options={}) {
 	var page = req.query.page || 1,
-		offset = (page - 1) * config.pagination.page_size,
-		paginatedItems = _.rest(items, offset).slice(0, config.pagination.page_size);
+		offset = (page - 1) * (options.page_size || config.pagination.page_size),
+		paginatedItems = _.rest(items, offset).slice(0, (options.page_size || config.pagination.page_size));
 	return res.status(200).send({
 		page: page,
-		per_page: config.pagination.page_size,
+		per_page: options.page_size || config.pagination.page_size,
 		total: items.length,
-		total_pages: Math.ceil(items.length / config.pagination.page_size),
+		total_pages: Math.ceil(items.length / (options.page_size || config.pagination.page_size)),
 		data: paginatedItems
 	});
 }
