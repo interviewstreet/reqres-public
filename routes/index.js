@@ -143,19 +143,25 @@ function getFilters(items, req, res) {
 	return filters;
 }
 
+function getSanitizedValue(val) {
+	if (["number", "boolean"].indexOf(typeof(val)) !== -1) {
+		return val.toString();
+	}
+	
+	return val.toLowerCase();
+}
+
 function search(items, req, res, exactMatch=false) {
 	filteredItems = items;
 	filters = getFilters(items, req, res);
 	_.each(filters, function(value, key) {
 		if (exactMatch) {
 			filteredItems = _.filter(filteredItems, function(item) {
-				x = (item[key].toLowerCase() == value.toLowerCase());
-				return (item[key].toLowerCase() == value.toLowerCase());
+				return (getSanitizedValue(item[key]) === getSanitizedValue(value));
 			});
 		} else {
 			filteredItems = _.filter(filteredItems, function(item) {
-				x = item[key].toLowerCase().indexOf(value.toLowerCase()) > -1;
-				return item[key].toLowerCase().indexOf(value.toLowerCase()) > -1;
+				return getSanitizedValue(item[key]).indexOf(getSanitizedValue(value)) > -1;
 			});
 		}
 	});
