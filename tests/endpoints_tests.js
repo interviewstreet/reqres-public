@@ -644,6 +644,96 @@ describe('Check all `/api` endpoints', () => {
         });
     });
   });
+
+  describe('football_competitions.json', () => {
+    it('/api/football/competitions?page=...', (done) => {
+        let startIndex = 0;
+        let endIndex = 10;
+        let pages = range(1, 6);
+
+        Promise.mapSeries(pages, (page) => {
+            return chai.request(server)
+              .get('/api/football/competitions/?page=' + page.toString())
+              .then((res) => {
+                return res.body.data;
+              })
+          }).then((results) => {
+            for (let result of results) {
+              result.should.be.eql(data['football_competitions'].slice(startIndex, endIndex));
+              startIndex += 10;
+              endIndex += 10;
+            }
+            done();
+          }).catch((err) => {
+            console.log(err);
+            done(err);
+          });
+    })
+
+    it('/api/football/competitions?property=...&page=...', (done) => {
+        chai.request(server)
+          .get('/api/football/competitions?name=UEFA Champions League&year=2014')
+          .then((res) => {
+            res.body.data[0].should.be.eql({
+              name: "UEFA Champions League",
+              country: "",
+              year: 2014,
+              winner: "Barcelona",
+              runnerup: "Juventus"
+            });
+            done();
+          }).catch((err) => {
+            console.log(err);
+            done(err);
+          });
+        });
+  });
+
+  describe('football_matches.json', () => {
+    it('/api/football/matches?page=...', (done) => {
+        let startIndex = 0;
+        let endIndex = 10;
+        let pages = range(1, 6);
+
+        Promise.mapSeries(pages, (page) => {
+            return chai.request(server)
+              .get('/api/football/matches/?page=' + page.toString())
+              .then((res) => {
+                return res.body.data;
+              })
+          }).then((results) => {
+            for (let result of results) {
+              result.should.be.eql(data['football_matches'].slice(startIndex, endIndex));
+              startIndex += 10;
+              endIndex += 10;
+            }
+            done();
+          }).catch((err) => {
+            console.log(err);
+            done(err);
+          });
+    })
+
+    it('/api/football/matches?property=...&page=...', (done) => {
+        chai.request(server)
+          .get('/api/football/matches?competition=UEFA Champions League&home=Barcelona&round=final')
+          .then((res) => {
+            res.body.data[0].should.be.eql({
+                competition: "UEFA Champions League",
+                home: "Barcelona",
+                away: "Juventus",
+                hgoal: "3",
+                agoal: "1",
+                year: 2014,
+                round: "final"
+            });
+            done();
+          }).catch((err) => {
+            console.log(err);
+            done(err);
+          });
+        });
+  });
 });
 
 describe('Dynamic APIs', () => {

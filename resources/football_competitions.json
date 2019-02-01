@@ -1,0 +1,247 @@
+[
+    {
+        "name": "UEFA Champions League",
+        "country": "",
+        "year": 2011,
+        "winner": "Chelsea",
+        "runnerup": "Bayern Munich"
+    },
+    {
+        "name": "UEFA Champions League",
+        "country": "",
+        "year": 2012,
+        "winner": "Bayern Munich",
+        "runnerup": "Borussia Dortmund"
+    },
+    {
+        "name": "UEFA Champions League",
+        "country": "",
+        "year": 2013,
+        "winner": "Real Madrid",
+        "runnerup": "Atletico Madrid"
+    },
+    {
+        "name": "UEFA Champions League",
+        "country": "",
+        "year": 2014,
+        "winner": "Barcelona",
+        "runnerup": "Juventus"
+    },
+    {
+        "name": "UEFA Champions League",
+        "country": "",
+        "year": 2015,
+        "winner": "Real Madrid",
+        "runnerup": "Atletico Madrid"
+    },
+    {
+        "name": "English Premier League",
+        "country": "England",
+        "year": 2011,
+        "winner": "Manchester City",
+        "runnerup": "Manchester United"
+    },
+    {
+        "name": "English Premier League",
+        "country": "England",
+        "year": 2012,
+        "winner": "Manchester United",
+        "runnerup": "Manchester City"
+    },
+    {
+        "name": "English Premier League",
+        "country": "England",
+        "year": 2013,
+        "winner": "Manchester City",
+        "runnerup": "Liverpool"
+    },
+    {
+        "name": "English Premier League",
+        "country": "England",
+        "year": 2014,
+        "winner": "Chelsea",
+        "runnerup": "Manchester City"
+    },
+    {
+        "name": "English Premier League",
+        "country": "England",
+        "year": 2015,
+        "winner": "Leicester City",
+        "runnerup": "Arsenal"
+    },
+    {
+        "name": "English Premier League",
+        "country": "England",
+        "year": 2016,
+        "winner": "Chelsea",
+        "runnerup": "Tottenham Hotspur"
+    },
+    {
+        "name": "La Liga",
+        "country": "Spain",
+        "year": 2011,
+        "winner": "Real Madrid",
+        "runnerup": "FC Barcelona"
+    },
+    {
+        "name": "La Liga",
+        "country": "Spain",
+        "year": 2012,
+        "winner": "FC Barcelona",
+        "runnerup": "Real Madrid"
+    },
+    {
+        "name": "La Liga",
+        "country": "Spain",
+        "year": 2013,
+        "winner": "Atletico Madrid",
+        "runnerup": "FC Barcelona"
+    },
+    {
+        "name": "La Liga",
+        "country": "Spain",
+        "year": 2014,
+        "winner": "FC Barcelona",
+        "runnerup": "Real Madrid"
+    },
+    {
+        "name": "La Liga",
+        "country": "Spain",
+        "year": 2015,
+        "winner": "FC Barcelona",
+        "runnerup": "Real Madrid"
+    },
+    {
+        "name": "La Liga",
+        "country": "Spain",
+        "year": 2016,
+        "winner": "Real Madrid",
+        "runnerup": "FC Barcelona"
+    },
+    {
+        "name": "League 1",
+        "country": "France",
+        "year": 2011,
+        "winner": "Montpellier HSC",
+        "runnerup": "Paris Saint-Germain"
+    },
+    {
+        "name": "League 1",
+        "country": "France",
+        "year": 2012,
+        "winner": "Paris Saint-Germain",
+        "runnerup": "Olympique Marseille"
+    },
+    {
+        "name": "League 1",
+        "country": "France",
+        "year": 2013,
+        "winner": "Paris Saint-Germain",
+        "runnerup": "AS Monaco"
+    },
+    {
+        "name": "League 1",
+        "country": "France",
+        "year": 2014,
+        "winner": "Paris Saint-Germain",
+        "runnerup": "Olympique Lyon"
+    },
+    {
+        "name": "League 1",
+        "country": "France",
+        "year": 2015,
+        "winner": "Paris Saint-Germain",
+        "runnerup": "Olympique Lyon"
+    },
+    {
+        "name": "League 1",
+        "country": "France",
+        "year": 2016,
+        "winner": "AS Monaco",
+        "runnerup": "Paris Saint-Germain"
+    },
+    {
+        "name": "Serie A",
+        "country": "Italy",
+        "year": 2011,
+        "winner": "Juventus",
+        "runnerup": "AC Milan"
+    },
+    {
+        "name": "Serie A",
+        "country": "Italy",
+        "year": 2012,
+        "winner": "Juventus",
+        "runnerup": "SSC Napoli"
+    },
+    {
+        "name": "Serie A",
+        "country": "Italy",
+        "year": 2013,
+        "winner": "Juventus",
+        "runnerup": "AS Roma"
+    },
+    {
+        "name": "Serie A",
+        "country": "Italy",
+        "year": 2014,
+        "winner": "Juventus",
+        "runnerup": "AS Roma"
+    },
+    {
+        "name": "Serie A",
+        "country": "Italy",
+        "year": 2015,
+        "winner": "Juventus",
+        "runnerup": "SSC Napoli"
+    },
+    {
+        "name": "Serie A",
+        "country": "Italy",
+        "year": 2016,
+        "winner": "Juventus",
+        "runnerup": "AS Roma"
+    },
+    {
+        "name": "Bundesliga",
+        "country": "Germany",
+        "year": 2011,
+        "winner": "Borussia Dortmund",
+        "runnerup": "Bayern Munchen"
+    },
+    {
+        "name": "Bundesliga",
+        "country": "Germany",
+        "year": 2012,
+        "winner": "Bayern Munchen",
+        "runnerup": "Borussia Dortmund"
+    },
+    {
+        "name": "Bundesliga",
+        "country": "Germany",
+        "year": 2013,
+        "winner": "Bayern Munchen",
+        "runnerup": "Borussia Dortmund"
+    },
+    {
+        "name": "Bundesliga",
+        "country": "Germany",
+        "year": 2014,
+        "winner": "Bayern Munchen",
+        "runnerup": "VfL Wolfsburg"
+    },
+    {
+        "name": "Bundesliga",
+        "country": "Germany",
+        "year": 2015,
+        "winner": "Bayern Munchen",
+        "runnerup": "Borussia Dortmund"
+    },
+    {
+        "name": "Bundesliga",
+        "country": "Germany",
+        "year": 2016,
+        "winner": "Bayern Munchen",
+        "runnerup": "RasenBallsport Leipzig"
+    }
+]
