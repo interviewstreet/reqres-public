@@ -1,5 +1,6 @@
 var routes = require("./routes/"),
-	datetime = require("./routes/datetime"),
+    datetime = require("./routes/datetime"),
+    football = require("./routes/football"),
 	express = require("express"),
 	bodyParser = require("body-parser"),
 	hbs = require("hbs"),
@@ -57,6 +58,9 @@ app.all("/api/*", [bodyParser(),
 
 // app.post("/api/logout", routes.logout);
 // app.post("/api/logout/", routes.logout);
+
+app.get("/api/football/:resource/", football.get);
+app.get("/api/football/:resource/*", football.get);
 
 app.get("/api/:resource/search", routes.search);
 app.get("/api/:resource/search/*", routes.search);
