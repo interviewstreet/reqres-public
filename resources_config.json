@@ -4,5 +4,8 @@
   },
   "inventory": {
     "page_size": 500
+  },
+  "restaurants": {
+    "page_size": 100
   }
 }

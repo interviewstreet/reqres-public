@@ -1,0 +1,4823 @@
+[
+  {
+    "city": "bangalore",
+    "name": "Byg Brewski Brewing Company",
+    "average_cost_for_two": 1600,
+    "user_rating": {
+      "aggregate_rating": "4.9",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "16203"
+    },
+    "id": "41"
+  },
+  {
+    "city": "bangalore",
+    "name": "Byg Brewski Brewing Company",
+    "average_cost_for_two": 1600,
+    "user_rating": {
+      "aggregate_rating": "4.9",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "4699"
+    },
+    "id": "42"
+  },
+  {
+    "city": "bangalore",
+    "name": "Flechazo",
+    "average_cost_for_two": 1400,
+    "user_rating": {
+      "aggregate_rating": "4.8",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "2663"
+    },
+    "id": "43"
+  },
+  {
+    "city": "bangalore",
+    "name": "Vanilla Sky",
+    "average_cost_for_two": 1200,
+    "user_rating": {
+      "aggregate_rating": "4.6",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "645"
+    },
+    "id": "44"
+  },
+  {
+    "city": "bangalore",
+    "name": "Bombay Adda",
+    "average_cost_for_two": 1100,
+    "user_rating": {
+      "aggregate_rating": "4.4",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "2116"
+    },
+    "id": "45"
+  },
+  {
+    "city": "bangalore",
+    "name": "Stories",
+    "average_cost_for_two": 1500,
+    "user_rating": {
+      "aggregate_rating": "4.5",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "2087"
+    },
+    "id": "46"
+  },
+  {
+    "city": "bangalore",
+    "name": "Big Pitcher",
+    "average_cost_for_two": 1800,
+    "user_rating": {
+      "aggregate_rating": "4.7",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "9011"
+    },
+    "id": "47"
+  },
+  {
+    "city": "bangalore",
+    "name": "The Black Pearl",
+    "average_cost_for_two": 1500,
+    "user_rating": {
+      "aggregate_rating": "4.8",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "6976"
+    },
+    "id": "48"
+  },
+  {
+    "city": "bangalore",
+    "name": "Truffles",
+    "average_cost_for_two": 900,
+    "user_rating": {
+      "aggregate_rating": "4.7",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "14611"
+    },
+    "id": "49"
+  },
+  {
+    "city": "bangalore",
+    "name": "Biergarten",
+    "average_cost_for_two": 2400,
+    "user_rating": {
+      "aggregate_rating": "4.7",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "299",
+      "custom_rating_text": "NEW",
+      "custom_rating_text_background": "#89959B",
+      "rating_tool_tip": "This restaurant is newly opened. The rating will appear once the restaurant completes 60 days in operation."
+    },
+    "id": "410"
+  },
+  {
+    "city": "bangalore",
+    "name": "TBC Sky Lounge",
+    "average_cost_for_two": 1000,
+    "user_rating": {
+      "aggregate_rating": "4.7",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "6577"
+    },
+    "id": "411"
+  },
+  {
+    "city": "bangalore",
+    "name": "The Pump House",
+    "average_cost_for_two": 1500,
+    "user_rating": {
+      "aggregate_rating": "4.3",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "588"
+    },
+    "id": "412"
+  },
+  {
+    "city": "bangalore",
+    "name": "Shanmukha",
+    "average_cost_for_two": 800,
+    "user_rating": {
+      "aggregate_rating": "4.4",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "1880"
+    },
+    "id": "413"
+  },
+  {
+    "city": "bangalore",
+    "name": "Brew and Barbeque - A Microbrewery Pub",
+    "average_cost_for_two": 1400,
+    "user_rating": {
+      "aggregate_rating": "4.7",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "5695"
+    },
+    "id": "414"
+  },
+  {
+    "city": "bangalore",
+    "name": "Simon Says Brew Works",
+    "average_cost_for_two": 1400,
+    "user_rating": {
+      "aggregate_rating": "4.5",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "1855"
+    },
+    "id": "415"
+  },
+  {
+    "city": "bangalore",
+    "name": "Communiti",
+    "average_cost_for_two": 1500,
+    "user_rating": {
+      "aggregate_rating": "4.6",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "3837"
+    },
+    "id": "416"
+  },
+  {
+    "city": "bangalore",
+    "name": "Asia Kitchen By Mainland China",
+    "average_cost_for_two": 1500,
+    "user_rating": {
+      "aggregate_rating": "4.9",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "2133"
+    },
+    "id": "417"
+  },
+  {
+    "city": "bangalore",
+    "name": "Flechazo",
+    "average_cost_for_two": 1400,
+    "user_rating": {
+      "aggregate_rating": "4.7",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "6860"
+    },
+    "id": "418"
+  },
+  {
+    "city": "bangalore",
+    "name": "The Pallet",
+    "average_cost_for_two": 1600,
+    "user_rating": {
+      "aggregate_rating": "4.4",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "2390"
+    },
+    "id": "419"
+  },
+  {
+    "city": "bangalore",
+    "name": "Hammered",
+    "average_cost_for_two": 1300,
+    "user_rating": {
+      "aggregate_rating": "4.6",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "4562"
+    },
+    "id": "420"
+  },
+  {
+    "city": "bangalore",
+    "name": "Sidewalk - The Garden Bar",
+    "average_cost_for_two": 1300,
+    "user_rating": {
+      "aggregate_rating": "4.5",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "2877"
+    },
+    "id": "421"
+  },
+  {
+    "city": "bangalore",
+    "name": "Brooks and Bonds Brewery",
+    "average_cost_for_two": 1600,
+    "user_rating": {
+      "aggregate_rating": "4.5",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "3825"
+    },
+    "id": "422"
+  },
+  {
+    "city": "bangalore",
+    "name": "Toit",
+    "average_cost_for_two": 1500,
+    "user_rating": {
+      "aggregate_rating": "4.7",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "14938"
+    },
+    "id": "423"
+  },
+  {
+    "city": "bangalore",
+    "name": "AB's - Absolute Barbecues",
+    "average_cost_for_two": 1600,
+    "user_rating": {
+      "aggregate_rating": "4.8",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "11871"
+    },
+    "id": "424"
+  },
+  {
+    "city": "bangalore",
+    "name": "Koramangala Social",
+    "average_cost_for_two": 1500,
+    "user_rating": {
+      "aggregate_rating": "4.6",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "4604"
+    },
+    "id": "425"
+  },
+  {
+    "city": "bangalore",
+    "name": "The Black Pearl",
+    "average_cost_for_two": 1400,
+    "user_rating": {
+      "aggregate_rating": "4.8",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "10330"
+    },
+    "id": "426"
+  },
+  {
+    "city": "bangalore",
+    "name": "Levitate Brewery and Kitchen",
+    "average_cost_for_two": 1500,
+    "user_rating": {
+      "aggregate_rating": "4.4",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "329",
+      "custom_rating_text": "NEW",
+      "custom_rating_text_background": "#89959B",
+      "rating_tool_tip": "This restaurant is newly opened. The rating will appear once the restaurant completes 60 days in operation."
+    },
+    "id": "427"
+  },
+  {
+    "city": "bangalore",
+    "name": "Baar Union",
+    "average_cost_for_two": 850,
+    "user_rating": {
+      "aggregate_rating": "4.7",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "558"
+    },
+    "id": "428"
+  },
+  {
+    "city": "bangalore",
+    "name": "Biergarten",
+    "average_cost_for_two": 2400,
+    "user_rating": {
+      "aggregate_rating": "4.7",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "6829"
+    },
+    "id": "429"
+  },
+  {
+    "city": "bangalore",
+    "name": "XOOX Brewmill",
+    "average_cost_for_two": 2000,
+    "user_rating": {
+      "aggregate_rating": "4.4",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "1483"
+    },
+    "id": "430"
+  },
+  {
+    "city": "bangalore",
+    "name": "The Globe Grub",
+    "average_cost_for_two": 1300,
+    "user_rating": {
+      "aggregate_rating": "4.8",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "3790"
+    },
+    "id": "431"
+  },
+  {
+    "city": "bangalore",
+    "name": "The Bier Library",
+    "average_cost_for_two": 2000,
+    "user_rating": {
+      "aggregate_rating": "4.3",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "476"
+    },
+    "id": "432"
+  },
+  {
+    "city": "bangalore",
+    "name": "Vapour Brewpub and Diner",
+    "average_cost_for_two": 1400,
+    "user_rating": {
+      "aggregate_rating": "4.6",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "2703"
+    },
+    "id": "433"
+  },
+  {
+    "city": "bangalore",
+    "name": "AB's - Absolute Barbecues",
+    "average_cost_for_two": 1600,
+    "user_rating": {
+      "aggregate_rating": "4.9",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "6309"
+    },
+    "id": "434"
+  },
+  {
+    "city": "bangalore",
+    "name": "Tipsy Bull - The Bar Exchange",
+    "average_cost_for_two": 1400,
+    "user_rating": {
+      "aggregate_rating": "4.4",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "2960"
+    },
+    "id": "435"
+  },
+  {
+    "city": "bangalore",
+    "name": "Jetlag",
+    "average_cost_for_two": 1650,
+    "user_rating": {
+      "aggregate_rating": "4.1",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "704"
+    },
+    "id": "436"
+  },
+  {
+    "city": "bangalore",
+    "name": "Barbeque Nation",
+    "average_cost_for_two": 1600,
+    "user_rating": {
+      "aggregate_rating": "4.7",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "7148"
+    },
+    "id": "437"
+  },
+  {
+    "city": "bangalore",
+    "name": "The Boozy Griffin",
+    "average_cost_for_two": 1800,
+    "user_rating": {
+      "aggregate_rating": "4.8",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "4459"
+    },
+    "id": "438"
+  },
+  {
+    "city": "bangalore",
+    "name": "The Reservoire",
+    "average_cost_for_two": 1300,
+    "user_rating": {
+      "aggregate_rating": "4.5",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "2495"
+    },
+    "id": "439"
+  },
+  {
+    "city": "bangalore",
+    "name": "The Big Barbeque",
+    "average_cost_for_two": 1500,
+    "user_rating": {
+      "aggregate_rating": "4.5",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "455",
+      "custom_rating_text": "NEW",
+      "custom_rating_text_background": "#89959B",
+      "rating_tool_tip": "This restaurant is newly opened. The rating will appear once the restaurant completes 60 days in operation."
+    },
+    "id": "440"
+  },
+  {
+    "city": "Delhi NCR",
+    "name": "The Drunken Botanist",
+    "average_cost_for_two": 1500,
+    "user_rating": {
+      "aggregate_rating": "4.3",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "4145"
+    },
+    "id": "11"
+  },
+  {
+    "city": "Delhi NCR",
+    "name": "Hauz Khas Social",
+    "average_cost_for_two": 1300,
+    "user_rating": {
+      "aggregate_rating": "4.6",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "12868"
+    },
+    "id": "12"
+  },
+  {
+    "city": "Delhi NCR",
+    "name": "Plum By Bent Chair",
+    "average_cost_for_two": 1800,
+    "user_rating": {
+      "aggregate_rating": "4.5",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "308",
+      "custom_rating_text": "NEW",
+      "custom_rating_text_background": "#89959B",
+      "rating_tool_tip": "This restaurant is newly opened. The rating will appear once the restaurant completes 60 days in operation."
+    },
+    "id": "13"
+  },
+  {
+    "city": "Delhi NCR",
+    "name": "AIR- An Ivory Region",
+    "average_cost_for_two": 1000,
+    "user_rating": {
+      "aggregate_rating": "4.0",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "901"
+    },
+    "id": "14"
+  },
+  {
+    "city": "Delhi NCR",
+    "name": "Local",
+    "average_cost_for_two": 1600,
+    "user_rating": {
+      "aggregate_rating": "4.3",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "5117"
+    },
+    "id": "15"
+  },
+  {
+    "city": "Delhi NCR",
+    "name": "Tamasha",
+    "average_cost_for_two": 1600,
+    "user_rating": {
+      "aggregate_rating": "4.4",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "7171"
+    },
+    "id": "16"
+  },
+  {
+    "city": "Delhi NCR",
+    "name": "AMA Cafe",
+    "average_cost_for_two": 450,
+    "user_rating": {
+      "aggregate_rating": "4.4",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "2929"
+    },
+    "id": "17"
+  },
+  {
+    "city": "Delhi NCR",
+    "name": "The Junkyard Cafe",
+    "average_cost_for_two": 1500,
+    "user_rating": {
+      "aggregate_rating": "4.4",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "4998"
+    },
+    "id": "18"
+  },
+  {
+    "city": "Delhi NCR",
+    "name": "Pirates of Grill",
+    "average_cost_for_two": 2000,
+    "user_rating": {
+      "aggregate_rating": "4.8",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "4879"
+    },
+    "id": "19"
+  },
+  {
+    "city": "Delhi NCR",
+    "name": "38 Barracks",
+    "average_cost_for_two": 1600,
+    "user_rating": {
+      "aggregate_rating": "4.6",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "2872"
+    },
+    "id": "110"
+  },
+  {
+    "city": "Delhi NCR",
+    "name": "The Burger Club",
+    "average_cost_for_two": 600,
+    "user_rating": {
+      "aggregate_rating": "4.2",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "2332"
+    },
+    "id": "111"
+  },
+  {
+    "city": "Delhi NCR",
+    "name": "Lord of the Drinks",
+    "average_cost_for_two": 2200,
+    "user_rating": {
+      "aggregate_rating": "4.5",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "8759"
+    },
+    "id": "112"
+  },
+  {
+    "city": "Delhi NCR",
+    "name": "Odeon Social",
+    "average_cost_for_two": 1300,
+    "user_rating": {
+      "aggregate_rating": "4.4",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "5205"
+    },
+    "id": "113"
+  },
+  {
+    "city": "Delhi NCR",
+    "name": "The Flying Saucer Cafe",
+    "average_cost_for_two": 1600,
+    "user_rating": {
+      "aggregate_rating": "4.4",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "7370"
+    },
+    "id": "114"
+  },
+  {
+    "city": "Delhi NCR",
+    "name": "AB's - Absolute Barbecues",
+    "average_cost_for_two": 1600,
+    "user_rating": {
+      "aggregate_rating": "4.6",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "3079"
+    },
+    "id": "115"
+  },
+  {
+    "city": "Delhi NCR",
+    "name": "Punjabi Angithi",
+    "average_cost_for_two": 700,
+    "user_rating": {
+      "aggregate_rating": "4.8",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "3421"
+    },
+    "id": "116"
+  },
+  {
+    "city": "Delhi NCR",
+    "name": "Pirates of Grill",
+    "average_cost_for_two": 1500,
+    "user_rating": {
+      "aggregate_rating": "4.6",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "4473"
+    },
+    "id": "117"
+  },
+  {
+    "city": "Delhi NCR",
+    "name": "Decode Air Bar",
+    "average_cost_for_two": 1500,
+    "user_rating": {
+      "aggregate_rating": "4.9",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "452"
+    },
+    "id": "118"
+  },
+  {
+    "city": "Delhi NCR",
+    "name": "Indian Grill Room",
+    "average_cost_for_two": 1800,
+    "user_rating": {
+      "aggregate_rating": "4.7",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "2899"
+    },
+    "id": "119"
+  },
+  {
+    "city": "Delhi NCR",
+    "name": "Warehouse Cafe",
+    "average_cost_for_two": 1500,
+    "user_rating": {
+      "aggregate_rating": "4.4",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "9391"
+    },
+    "id": "120"
+  },
+  {
+    "city": "Delhi NCR",
+    "name": "Chili's Grill & Bar",
+    "average_cost_for_two": 1500,
+    "user_rating": {
+      "aggregate_rating": "4.5",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "3094"
+    },
+    "id": "121"
+  },
+  {
+    "city": "Delhi NCR",
+    "name": "Chili's Grill & Bar",
+    "average_cost_for_two": 1500,
+    "user_rating": {
+      "aggregate_rating": "4.4",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "1857"
+    },
+    "id": "122"
+  },
+  {
+    "city": "Delhi NCR",
+    "name": "Themis Barbecue House",
+    "average_cost_for_two": 1400,
+    "user_rating": {
+      "aggregate_rating": "4.5",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "2140"
+    },
+    "id": "123"
+  },
+  {
+    "city": "Delhi NCR",
+    "name": "Duty Free | Vayu Bar",
+    "average_cost_for_two": 1300,
+    "user_rating": {
+      "aggregate_rating": "4.0",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "692"
+    },
+    "id": "124"
+  },
+  {
+    "city": "Delhi NCR",
+    "name": "Diggin",
+    "average_cost_for_two": 1300,
+    "user_rating": {
+      "aggregate_rating": "4.3",
+      "rating_text": "Ottimo",
+      "rating_color": "5BA829",
+      "votes": "2098"
+    },
+    "id": "125"
+  },
+  {
+    "city": "Delhi NCR",
+    "name": "Ministry Of Beer",
+    "average_cost_for_two": 1500,
+    "user_rating": {
+      "aggregate_rating": "4.6",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "2667"
+    },
+    "id": "126"
+  },
+  {
+    "city": "Delhi NCR",
+    "name": "Cafe Wink",
+    "average_cost_for_two": 700,
+    "user_rating": {
+      "aggregate_rating": "4.8",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "2179"
+    },
+    "id": "127"
+  },
+  {
+    "city": "Delhi NCR",
+    "name": "Decode",
+    "average_cost_for_two": 1200,
+    "user_rating": {
+      "aggregate_rating": "4.6",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "2434"
+    },
+    "id": "128"
+  },
+  {
+    "city": "Delhi NCR",
+    "name": "The Burger Club",
+    "average_cost_for_two": 600,
+    "user_rating": {
+      "aggregate_rating": "4.1",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "2072"
+    },
+    "id": "129"
+  },
+  {
+    "city": "Delhi NCR",
+    "name": "Molecule Air Bar",
+    "average_cost_for_two": 1500,
+    "user_rating": {
+      "aggregate_rating": "4.3",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "4634"
+    },
+    "id": "130"
+  },
+  {
+    "city": "Delhi NCR",
+    "name": "The Mughal Trail",
+    "average_cost_for_two": 500,
+    "user_rating": {
+      "aggregate_rating": "4.8",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "1139"
+    },
+    "id": "131"
+  },
+  {
+    "city": "Delhi NCR",
+    "name": "Not Just Paranthas",
+    "average_cost_for_two": 1100,
+    "user_rating": {
+      "aggregate_rating": "4.2",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "1770"
+    },
+    "id": "132"
+  },
+  {
+    "city": "Delhi NCR",
+    "name": "Cafeteria & Co.",
+    "average_cost_for_two": 900,
+    "user_rating": {
+      "aggregate_rating": "4.5",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "3989"
+    },
+    "id": "133"
+  },
+  {
+    "city": "Delhi NCR",
+    "name": "Punter House Cafe Reloaded",
+    "average_cost_for_two": 1200,
+    "user_rating": {
+      "aggregate_rating": "4.8",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "1248"
+    },
+    "id": "134"
+  },
+  {
+    "city": "Delhi NCR",
+    "name": "Band Baaja Baaraat",
+    "average_cost_for_two": 1300,
+    "user_rating": {
+      "aggregate_rating": "4.4",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "1250"
+    },
+    "id": "135"
+  },
+  {
+    "city": "Delhi NCR",
+    "name": "Hello Meal",
+    "average_cost_for_two": 400,
+    "user_rating": {
+      "aggregate_rating": "4.0",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "2089"
+    },
+    "id": "136"
+  },
+  {
+    "city": "Delhi NCR",
+    "name": "Punjabi Angithi",
+    "average_cost_for_two": 400,
+    "user_rating": {
+      "aggregate_rating": "4.6",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "2329"
+    },
+    "id": "137"
+  },
+  {
+    "city": "Delhi NCR",
+    "name": "Mama's Buoi",
+    "average_cost_for_two": 1000,
+    "user_rating": {
+      "aggregate_rating": "4.5",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "2520"
+    },
+    "id": "138"
+  },
+  {
+    "city": "Delhi NCR",
+    "name": "The Bing's",
+    "average_cost_for_two": 800,
+    "user_rating": {
+      "aggregate_rating": "4.7",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "934"
+    },
+    "id": "139"
+  },
+  {
+    "city": "Delhi NCR",
+    "name": "Dana Choga",
+    "average_cost_for_two": 800,
+    "user_rating": {
+      "aggregate_rating": "4.6",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "2227"
+    },
+    "id": "140"
+  },
+  {
+    "city": "kolkata",
+    "name": "The Awadh Restaurant",
+    "average_cost_for_two": 1200,
+    "user_rating": {
+      "aggregate_rating": "4.6",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "1110"
+    },
+    "id": "21"
+  },
+  {
+    "city": "kolkata",
+    "name": "Tram Deepo",
+    "average_cost_for_two": 1200,
+    "user_rating": {
+      "aggregate_rating": "4.2",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "1769"
+    },
+    "id": "22"
+  },
+  {
+    "city": "kolkata",
+    "name": "Carpe Diem",
+    "average_cost_for_two": 1000,
+    "user_rating": {
+      "aggregate_rating": "4.4",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "1863"
+    },
+    "id": "23"
+  },
+  {
+    "city": "kolkata",
+    "name": "The Saffron Tree",
+    "average_cost_for_two": 1000,
+    "user_rating": {
+      "aggregate_rating": "4.9",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "1048"
+    },
+    "id": "24"
+  },
+  {
+    "city": "kolkata",
+    "name": "Baccara",
+    "average_cost_for_two": 800,
+    "user_rating": {
+      "aggregate_rating": "4.2",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "1086"
+    },
+    "id": "25"
+  },
+  {
+    "city": "kolkata",
+    "name": "JW Kitchen - JW Marriott Hotel Kolkata",
+    "average_cost_for_two": 3000,
+    "user_rating": {
+      "aggregate_rating": "4.7",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "3326"
+    },
+    "id": "26"
+  },
+  {
+    "city": "kolkata",
+    "name": "Barbeque Nation",
+    "average_cost_for_two": 1800,
+    "user_rating": {
+      "aggregate_rating": "4.8",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "4427"
+    },
+    "id": "27"
+  },
+  {
+    "city": "kolkata",
+    "name": "Echoes Kolkata",
+    "average_cost_for_two": 1300,
+    "user_rating": {
+      "aggregate_rating": "4.9",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "232"
+    },
+    "id": "28"
+  },
+  {
+    "city": "kolkata",
+    "name": "Five Mad Men",
+    "average_cost_for_two": 1000,
+    "user_rating": {
+      "aggregate_rating": "4.5",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "1158"
+    },
+    "id": "29"
+  },
+  {
+    "city": "kolkata",
+    "name": "Pepper Chino",
+    "average_cost_for_two": 1200,
+    "user_rating": {
+      "aggregate_rating": "4.7",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "771"
+    },
+    "id": "210"
+  },
+  {
+    "city": "kolkata",
+    "name": "Aaira",
+    "average_cost_for_two": 1800,
+    "user_rating": {
+      "aggregate_rating": "4.4",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "861"
+    },
+    "id": "211"
+  },
+  {
+    "city": "kolkata",
+    "name": "What's Up",
+    "average_cost_for_two": 1500,
+    "user_rating": {
+      "aggregate_rating": "4.3",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "3976"
+    },
+    "id": "212"
+  },
+  {
+    "city": "kolkata",
+    "name": "India Restaurant",
+    "average_cost_for_two": 900,
+    "user_rating": {
+      "aggregate_rating": "4.5",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "3695"
+    },
+    "id": "213"
+  },
+  {
+    "city": "kolkata",
+    "name": "Peter Cat",
+    "average_cost_for_two": 1200,
+    "user_rating": {
+      "aggregate_rating": "4.2",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "11183"
+    },
+    "id": "214"
+  },
+  {
+    "city": "kolkata",
+    "name": "Sly Fox Gastro Club",
+    "average_cost_for_two": 1250,
+    "user_rating": {
+      "aggregate_rating": "4.5",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "1085"
+    },
+    "id": "215"
+  },
+  {
+    "city": "kolkata",
+    "name": "Momo I Am",
+    "average_cost_for_two": 600,
+    "user_rating": {
+      "aggregate_rating": "4.4",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "1522"
+    },
+    "id": "216"
+  },
+  {
+    "city": "kolkata",
+    "name": "Spice Kraft",
+    "average_cost_for_two": 1200,
+    "user_rating": {
+      "aggregate_rating": "4.7",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "4732"
+    },
+    "id": "217"
+  },
+  {
+    "city": "kolkata",
+    "name": "Bawarchi Family Restaurant",
+    "average_cost_for_two": 800,
+    "user_rating": {
+      "aggregate_rating": "4.0",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "1381"
+    },
+    "id": "218"
+  },
+  {
+    "city": "kolkata",
+    "name": "Mocambo",
+    "average_cost_for_two": 1100,
+    "user_rating": {
+      "aggregate_rating": "4.2",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "6103"
+    },
+    "id": "219"
+  },
+  {
+    "city": "kolkata",
+    "name": "Cafe Mezzuna",
+    "average_cost_for_two": 1600,
+    "user_rating": {
+      "aggregate_rating": "4.5",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "1234"
+    },
+    "id": "220"
+  },
+  {
+    "city": "kolkata",
+    "name": "CALCUTTA 64",
+    "average_cost_for_two": 600,
+    "user_rating": {
+      "aggregate_rating": "4.3",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "2015"
+    },
+    "id": "221"
+  },
+  {
+    "city": "kolkata",
+    "name": "Shimla Biryani",
+    "average_cost_for_two": 550,
+    "user_rating": {
+      "aggregate_rating": "4.1",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "1210"
+    },
+    "id": "222"
+  },
+  {
+    "city": "kolkata",
+    "name": "Momo I Am",
+    "average_cost_for_two": 600,
+    "user_rating": {
+      "aggregate_rating": "4.4",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "1541"
+    },
+    "id": "223"
+  },
+  {
+    "city": "kolkata",
+    "name": "Zam Zam",
+    "average_cost_for_two": 500,
+    "user_rating": {
+      "aggregate_rating": "4.3",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "572"
+    },
+    "id": "224"
+  },
+  {
+    "city": "kolkata",
+    "name": "Cassoulet Restaurant",
+    "average_cost_for_two": 400,
+    "user_rating": {
+      "aggregate_rating": "3.7",
+      "rating_text": "Good",
+      "rating_color": "9ACD32",
+      "votes": "2833"
+    },
+    "id": "225"
+  },
+  {
+    "city": "kolkata",
+    "name": "Oudh 1590",
+    "average_cost_for_two": 1200,
+    "user_rating": {
+      "aggregate_rating": "4.2",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "3731"
+    },
+    "id": "226"
+  },
+  {
+    "city": "kolkata",
+    "name": "Hindusthan Dhaba",
+    "average_cost_for_two": 1000,
+    "user_rating": {
+      "aggregate_rating": "4.1",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "1823"
+    },
+    "id": "227"
+  },
+  {
+    "city": "kolkata",
+    "name": "The Great Biryani Co.",
+    "average_cost_for_two": 550,
+    "user_rating": {
+      "aggregate_rating": "4.0",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "1744"
+    },
+    "id": "228"
+  },
+  {
+    "city": "kolkata",
+    "name": "Chili's Grill & Bar",
+    "average_cost_for_two": 1700,
+    "user_rating": {
+      "aggregate_rating": "4.6",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "2950"
+    },
+    "id": "229"
+  },
+  {
+    "city": "kolkata",
+    "name": "Ocean Grill",
+    "average_cost_for_two": 1500,
+    "user_rating": {
+      "aggregate_rating": "4.4",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "2269"
+    },
+    "id": "230"
+  },
+  {
+    "city": "kolkata",
+    "name": "Capella - Altair Boutique Hotel",
+    "average_cost_for_two": 1600,
+    "user_rating": {
+      "aggregate_rating": "4.3",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "1189"
+    },
+    "id": "231"
+  },
+  {
+    "city": "kolkata",
+    "name": "Chili's Grill & Bar",
+    "average_cost_for_two": 1700,
+    "user_rating": {
+      "aggregate_rating": "4.6",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "6998"
+    },
+    "id": "232"
+  },
+  {
+    "city": "kolkata",
+    "name": "Seven kingdom",
+    "average_cost_for_two": 750,
+    "user_rating": {
+      "aggregate_rating": "4.2",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "636"
+    },
+    "id": "233"
+  },
+  {
+    "city": "kolkata",
+    "name": "Pa Pa Ya",
+    "average_cost_for_two": 2000,
+    "user_rating": {
+      "aggregate_rating": "4.8",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "1245"
+    },
+    "id": "234"
+  },
+  {
+    "city": "kolkata",
+    "name": "Afraa Restaurant And Lounge",
+    "average_cost_for_two": 1800,
+    "user_rating": {
+      "aggregate_rating": "4.3",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "2267"
+    },
+    "id": "235"
+  },
+  {
+    "city": "kolkata",
+    "name": "Barbeque Nation",
+    "average_cost_for_two": 1800,
+    "user_rating": {
+      "aggregate_rating": "4.9",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "8115"
+    },
+    "id": "236"
+  },
+  {
+    "city": "kolkata",
+    "name": "Blue Mug",
+    "average_cost_for_two": 700,
+    "user_rating": {
+      "aggregate_rating": "4.3",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "3117"
+    },
+    "id": "237"
+  },
+  {
+    "city": "kolkata",
+    "name": "Chez - Pan Oriental Kitchen",
+    "average_cost_for_two": 800,
+    "user_rating": {
+      "aggregate_rating": "4.6",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "1037"
+    },
+    "id": "238"
+  },
+  {
+    "city": "kolkata",
+    "name": "Dada Boudi Restaurant",
+    "average_cost_for_two": 550,
+    "user_rating": {
+      "aggregate_rating": "4.3",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "1595"
+    },
+    "id": "239"
+  },
+  {
+    "city": "kolkata",
+    "name": "The Irish House",
+    "average_cost_for_two": 1900,
+    "user_rating": {
+      "aggregate_rating": "4.4",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "3428"
+    },
+    "id": "240"
+  },
+  {
+    "city": "chennai",
+    "name": "The Black Pearl",
+    "average_cost_for_two": 1500,
+    "user_rating": {
+      "aggregate_rating": "4.6",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "827"
+    },
+    "id": "71"
+  },
+  {
+    "city": "chennai",
+    "name": "Coal Barbecues",
+    "average_cost_for_two": 1400,
+    "user_rating": {
+      "aggregate_rating": "4.9",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "6025"
+    },
+    "id": "72"
+  },
+  {
+    "city": "chennai",
+    "name": "Coal Barbecues",
+    "average_cost_for_two": 1400,
+    "user_rating": {
+      "aggregate_rating": "4.9",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "4973"
+    },
+    "id": "73"
+  },
+  {
+    "city": "chennai",
+    "name": "Coal Barbecues",
+    "average_cost_for_two": 1400,
+    "user_rating": {
+      "aggregate_rating": "4.6",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "435",
+      "custom_rating_text": "NEW",
+      "custom_rating_text_background": "#89959B",
+      "rating_tool_tip": "This restaurant is newly opened. The rating will appear once the restaurant completes 60 days in operation."
+    },
+    "id": "74"
+  },
+  {
+    "city": "chennai",
+    "name": "Paradise",
+    "average_cost_for_two": 800,
+    "user_rating": {
+      "aggregate_rating": "4.3",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "4246"
+    },
+    "id": "75"
+  },
+  {
+    "city": "chennai",
+    "name": "Onesta",
+    "average_cost_for_two": 600,
+    "user_rating": {
+      "aggregate_rating": "4.5",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "3971"
+    },
+    "id": "76"
+  },
+  {
+    "city": "chennai",
+    "name": "Copper Kitchen",
+    "average_cost_for_two": 800,
+    "user_rating": {
+      "aggregate_rating": "4.6",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "3494"
+    },
+    "id": "77"
+  },
+  {
+    "city": "chennai",
+    "name": "Palmshore",
+    "average_cost_for_two": 850,
+    "user_rating": {
+      "aggregate_rating": "4.6",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "2491"
+    },
+    "id": "78"
+  },
+  {
+    "city": "chennai",
+    "name": "Axpress BBQ",
+    "average_cost_for_two": 700,
+    "user_rating": {
+      "aggregate_rating": "4.7",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "419"
+    },
+    "id": "79"
+  },
+  {
+    "city": "chennai",
+    "name": "BLIND CH3MISTRY",
+    "average_cost_for_two": 700,
+    "user_rating": {
+      "aggregate_rating": "4.4",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "1173"
+    },
+    "id": "710"
+  },
+  {
+    "city": "chennai",
+    "name": "Palmshore",
+    "average_cost_for_two": 850,
+    "user_rating": {
+      "aggregate_rating": "4.4",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "2905"
+    },
+    "id": "711"
+  },
+  {
+    "city": "chennai",
+    "name": "Barbeque Nation",
+    "average_cost_for_two": 1500,
+    "user_rating": {
+      "aggregate_rating": "4.8",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "5210"
+    },
+    "id": "712"
+  },
+  {
+    "city": "chennai",
+    "name": "Barbeque Nation",
+    "average_cost_for_two": 1500,
+    "user_rating": {
+      "aggregate_rating": "4.8",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "1741"
+    },
+    "id": "713"
+  },
+  {
+    "city": "chennai",
+    "name": "AB's - Absolute Barbecues",
+    "average_cost_for_two": 1400,
+    "user_rating": {
+      "aggregate_rating": "4.9",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "9234"
+    },
+    "id": "714"
+  },
+  {
+    "city": "chennai",
+    "name": "Palmshore",
+    "average_cost_for_two": 850,
+    "user_rating": {
+      "aggregate_rating": "4.5",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "2066"
+    },
+    "id": "715"
+  },
+  {
+    "city": "chennai",
+    "name": "Guntur Gongura",
+    "average_cost_for_two": 400,
+    "user_rating": {
+      "aggregate_rating": "3.7",
+      "rating_text": "Good",
+      "rating_color": "9ACD32",
+      "votes": "1962"
+    },
+    "id": "716"
+  },
+  {
+    "city": "chennai",
+    "name": "Dhaba Estd 1986 Delhi",
+    "average_cost_for_two": 1100,
+    "user_rating": {
+      "aggregate_rating": "4.5",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "1026"
+    },
+    "id": "717"
+  },
+  {
+    "city": "chennai",
+    "name": "AB's - Absolute Barbecues",
+    "average_cost_for_two": 1400,
+    "user_rating": {
+      "aggregate_rating": "4.9",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "1936"
+    },
+    "id": "718"
+  },
+  {
+    "city": "chennai",
+    "name": "Cleo's Grill & Cafe",
+    "average_cost_for_two": 1200,
+    "user_rating": {
+      "aggregate_rating": "4.4",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "2328"
+    },
+    "id": "719"
+  },
+  {
+    "city": "chennai",
+    "name": "Barbeque Nation",
+    "average_cost_for_two": 1500,
+    "user_rating": {
+      "aggregate_rating": "4.4",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "965"
+    },
+    "id": "720"
+  },
+  {
+    "city": "chennai",
+    "name": "Fromage",
+    "average_cost_for_two": 1200,
+    "user_rating": {
+      "aggregate_rating": "4.5",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "717"
+    },
+    "id": "721"
+  },
+  {
+    "city": "chennai",
+    "name": "Paradise",
+    "average_cost_for_two": 800,
+    "user_rating": {
+      "aggregate_rating": "4.1",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "1316"
+    },
+    "id": "722"
+  },
+  {
+    "city": "chennai",
+    "name": "AB's - Absolute Barbecues",
+    "average_cost_for_two": 1400,
+    "user_rating": {
+      "aggregate_rating": "4.9",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "3062"
+    },
+    "id": "723"
+  },
+  {
+    "city": "chennai",
+    "name": "Palmshore",
+    "average_cost_for_two": 850,
+    "user_rating": {
+      "aggregate_rating": "4.5",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "1374"
+    },
+    "id": "724"
+  },
+  {
+    "city": "chennai",
+    "name": "Kipling Cafe",
+    "average_cost_for_two": 2400,
+    "user_rating": {
+      "aggregate_rating": "4.2",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "1870"
+    },
+    "id": "725"
+  },
+  {
+    "city": "chennai",
+    "name": "Joker's Kitchen",
+    "average_cost_for_two": 600,
+    "user_rating": {
+      "aggregate_rating": "4.4",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "571"
+    },
+    "id": "726"
+  },
+  {
+    "city": "chennai",
+    "name": "Amelie's",
+    "average_cost_for_two": 900,
+    "user_rating": {
+      "aggregate_rating": "4.4",
+      "rating_text": "Ottimo",
+      "rating_color": "5BA829",
+      "votes": "1147"
+    },
+    "id": "727"
+  },
+  {
+    "city": "chennai",
+    "name": "Grill Box - Unlimited BBQ",
+    "average_cost_for_two": 1200,
+    "user_rating": {
+      "aggregate_rating": "4.7",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "1487"
+    },
+    "id": "728"
+  },
+  {
+    "city": "chennai",
+    "name": "AB's - Absolute Barbecues",
+    "average_cost_for_two": 1400,
+    "user_rating": {
+      "aggregate_rating": "4.9",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "1952"
+    },
+    "id": "729"
+  },
+  {
+    "city": "chennai",
+    "name": "Chili's American Grill & Bar",
+    "average_cost_for_two": 1400,
+    "user_rating": {
+      "aggregate_rating": "4.8",
+      "rating_text": "Eccellente",
+      "rating_color": "3F7E00",
+      "votes": "2666"
+    },
+    "id": "730"
+  },
+  {
+    "city": "chennai",
+    "name": "27 Culinary Street",
+    "average_cost_for_two": 1300,
+    "user_rating": {
+      "aggregate_rating": "4.4",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "986"
+    },
+    "id": "731"
+  },
+  {
+    "city": "chennai",
+    "name": "Big Bang Theory - Bar & Kitchen",
+    "average_cost_for_two": 1500,
+    "user_rating": {
+      "aggregate_rating": "4.2",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "1169"
+    },
+    "id": "732"
+  },
+  {
+    "city": "chennai",
+    "name": "Lloyd's Tea House",
+    "average_cost_for_two": 1000,
+    "user_rating": {
+      "aggregate_rating": "4.3",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "1336"
+    },
+    "id": "733"
+  },
+  {
+    "city": "chennai",
+    "name": "Nasi And Mee",
+    "average_cost_for_two": 1200,
+    "user_rating": {
+      "aggregate_rating": "4.7",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "1265"
+    },
+    "id": "734"
+  },
+  {
+    "city": "chennai",
+    "name": "Yaa Mohideen Biryani",
+    "average_cost_for_two": 400,
+    "user_rating": {
+      "aggregate_rating": "4.4",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "2606"
+    },
+    "id": "735"
+  },
+  {
+    "city": "chennai",
+    "name": "Copper Kitchen",
+    "average_cost_for_two": 800,
+    "user_rating": {
+      "aggregate_rating": "4.3",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "1652"
+    },
+    "id": "736"
+  },
+  {
+    "city": "chennai",
+    "name": "Bhangra",
+    "average_cost_for_two": 800,
+    "user_rating": {
+      "aggregate_rating": "4.9",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "1352"
+    },
+    "id": "737"
+  },
+  {
+    "city": "chennai",
+    "name": "Writer's Cafe",
+    "average_cost_for_two": 500,
+    "user_rating": {
+      "aggregate_rating": "4.5",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "1601"
+    },
+    "id": "738"
+  },
+  {
+    "city": "chennai",
+    "name": "VB Signature - Progressive Veg Restaurant",
+    "average_cost_for_two": 1000,
+    "user_rating": {
+      "aggregate_rating": "4.5",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "861"
+    },
+    "id": "739"
+  },
+  {
+    "city": "chennai",
+    "name": "Maplai",
+    "average_cost_for_two": 1000,
+    "user_rating": {
+      "aggregate_rating": "4.5",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "4130"
+    },
+    "id": "740"
+  },
+  {
+    "city": "mumbai",
+    "name": "Tamasha",
+    "average_cost_for_two": 1800,
+    "user_rating": {
+      "aggregate_rating": "4.9",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "4175"
+    },
+    "id": "31"
+  },
+  {
+    "city": "mumbai",
+    "name": "Mitron - Peninsula Grand Hotel",
+    "average_cost_for_two": 1200,
+    "user_rating": {
+      "aggregate_rating": "4.9",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "644"
+    },
+    "id": "32"
+  },
+  {
+    "city": "mumbai",
+    "name": "Lord Of The Drinks",
+    "average_cost_for_two": 1500,
+    "user_rating": {
+      "aggregate_rating": "4.7",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "2316"
+    },
+    "id": "33"
+  },
+  {
+    "city": "mumbai",
+    "name": "Lord of the Drinks",
+    "average_cost_for_two": 1500,
+    "user_rating": {
+      "aggregate_rating": "4.8",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "2086"
+    },
+    "id": "34"
+  },
+  {
+    "city": "mumbai",
+    "name": "JLWA",
+    "average_cost_for_two": 1600,
+    "user_rating": {
+      "aggregate_rating": "4.7",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "2825"
+    },
+    "id": "35"
+  },
+  {
+    "city": "mumbai",
+    "name": "Plum by Bent Chair",
+    "average_cost_for_two": 1800,
+    "user_rating": {
+      "aggregate_rating": "4.9",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "1657"
+    },
+    "id": "36"
+  },
+  {
+    "city": "mumbai",
+    "name": "Hitchki",
+    "average_cost_for_two": 1200,
+    "user_rating": {
+      "aggregate_rating": "4.8",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "3174"
+    },
+    "id": "37"
+  },
+  {
+    "city": "mumbai",
+    "name": "Carter Road Social",
+    "average_cost_for_two": 1400,
+    "user_rating": {
+      "aggregate_rating": "4.6",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "2311"
+    },
+    "id": "38"
+  },
+  {
+    "city": "mumbai",
+    "name": "R' ADDA",
+    "average_cost_for_two": 1200,
+    "user_rating": {
+      "aggregate_rating": "4.9",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "4255"
+    },
+    "id": "39"
+  },
+  {
+    "city": "mumbai",
+    "name": "Bombay Adda",
+    "average_cost_for_two": 1800,
+    "user_rating": {
+      "aggregate_rating": "4.5",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "3840"
+    },
+    "id": "310"
+  },
+  {
+    "city": "mumbai",
+    "name": "Hitchki",
+    "average_cost_for_two": 1200,
+    "user_rating": {
+      "aggregate_rating": "4.8",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "3277"
+    },
+    "id": "311"
+  },
+  {
+    "city": "mumbai",
+    "name": "The Fusion Kitchen",
+    "average_cost_for_two": 1600,
+    "user_rating": {
+      "aggregate_rating": "4.5",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "1463"
+    },
+    "id": "312"
+  },
+  {
+    "city": "mumbai",
+    "name": "Colaba Social",
+    "average_cost_for_two": 1400,
+    "user_rating": {
+      "aggregate_rating": "4.6",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "7838"
+    },
+    "id": "313"
+  },
+  {
+    "city": "mumbai",
+    "name": "Rude Lounge",
+    "average_cost_for_two": 1600,
+    "user_rating": {
+      "aggregate_rating": "4.1",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "4353"
+    },
+    "id": "314"
+  },
+  {
+    "city": "mumbai",
+    "name": "HITCHKI",
+    "average_cost_for_two": 1200,
+    "user_rating": {
+      "aggregate_rating": "4.7",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "1687"
+    },
+    "id": "315"
+  },
+  {
+    "city": "mumbai",
+    "name": "BKC  DIVE",
+    "average_cost_for_two": 1000,
+    "user_rating": {
+      "aggregate_rating": "4.6",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "5687"
+    },
+    "id": "316"
+  },
+  {
+    "city": "mumbai",
+    "name": "Capital Social",
+    "average_cost_for_two": 1400,
+    "user_rating": {
+      "aggregate_rating": "4.4",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "2937"
+    },
+    "id": "317"
+  },
+  {
+    "city": "mumbai",
+    "name": "Joey's Pizza",
+    "average_cost_for_two": 800,
+    "user_rating": {
+      "aggregate_rating": "4.6",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "6909"
+    },
+    "id": "318"
+  },
+  {
+    "city": "mumbai",
+    "name": "Chili's American Grill & Bar",
+    "average_cost_for_two": 1400,
+    "user_rating": {
+      "aggregate_rating": "4.6",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "6814"
+    },
+    "id": "319"
+  },
+  {
+    "city": "mumbai",
+    "name": "Vedge",
+    "average_cost_for_two": 1000,
+    "user_rating": {
+      "aggregate_rating": "4.7",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "3837"
+    },
+    "id": "320"
+  },
+  {
+    "city": "mumbai",
+    "name": "Joey's Pizza",
+    "average_cost_for_two": 800,
+    "user_rating": {
+      "aggregate_rating": "4.6",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "8289"
+    },
+    "id": "321"
+  },
+  {
+    "city": "mumbai",
+    "name": "Grandmama's Cafe",
+    "average_cost_for_two": 1100,
+    "user_rating": {
+      "aggregate_rating": "4.0",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "3089"
+    },
+    "id": "322"
+  },
+  {
+    "city": "mumbai",
+    "name": "Fun Republic Social",
+    "average_cost_for_two": 900,
+    "user_rating": {
+      "aggregate_rating": "4.6",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "2914"
+    },
+    "id": "323"
+  },
+  {
+    "city": "mumbai",
+    "name": "Angrezi Dhaba",
+    "average_cost_for_two": 1500,
+    "user_rating": {
+      "aggregate_rating": "4.6",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "1887"
+    },
+    "id": "324"
+  },
+  {
+    "city": "mumbai",
+    "name": "Pi Bar and Kitchen",
+    "average_cost_for_two": 1600,
+    "user_rating": {
+      "aggregate_rating": "4.6",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "1927"
+    },
+    "id": "325"
+  },
+  {
+    "city": "mumbai",
+    "name": "Coffee Culture",
+    "average_cost_for_two": 800,
+    "user_rating": {
+      "aggregate_rating": "4.1",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "5634"
+    },
+    "id": "326"
+  },
+  {
+    "city": "mumbai",
+    "name": "Singh Saab",
+    "average_cost_for_two": 1600,
+    "user_rating": {
+      "aggregate_rating": "4.5",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "1980"
+    },
+    "id": "327"
+  },
+  {
+    "city": "mumbai",
+    "name": "Timess Square",
+    "average_cost_for_two": 800,
+    "user_rating": {
+      "aggregate_rating": "4.4",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "1648"
+    },
+    "id": "328"
+  },
+  {
+    "city": "mumbai",
+    "name": "House Of Tipsy",
+    "average_cost_for_two": 1800,
+    "user_rating": {
+      "aggregate_rating": "4.5",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "1558"
+    },
+    "id": "329"
+  },
+  {
+    "city": "mumbai",
+    "name": "Yauatcha",
+    "average_cost_for_two": 2800,
+    "user_rating": {
+      "aggregate_rating": "4.8",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "5359"
+    },
+    "id": "330"
+  },
+  {
+    "city": "mumbai",
+    "name": "HOP : House of Party",
+    "average_cost_for_two": 1600,
+    "user_rating": {
+      "aggregate_rating": "4.7",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "813"
+    },
+    "id": "331"
+  },
+  {
+    "city": "mumbai",
+    "name": "Palladium Social",
+    "average_cost_for_two": 1400,
+    "user_rating": {
+      "aggregate_rating": "4.9",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "4892"
+    },
+    "id": "332"
+  },
+  {
+    "city": "mumbai",
+    "name": "Bayroute",
+    "average_cost_for_two": 3000,
+    "user_rating": {
+      "aggregate_rating": "4.8",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "1466"
+    },
+    "id": "333"
+  },
+  {
+    "city": "mumbai",
+    "name": "Garage Inc. Public House",
+    "average_cost_for_two": 1500,
+    "user_rating": {
+      "aggregate_rating": "4.5",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "684"
+    },
+    "id": "334"
+  },
+  {
+    "city": "mumbai",
+    "name": "Jimis Burger",
+    "average_cost_for_two": 700,
+    "user_rating": {
+      "aggregate_rating": "4.6",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "3680"
+    },
+    "id": "335"
+  },
+  {
+    "city": "mumbai",
+    "name": "Eat Play Love",
+    "average_cost_for_two": 600,
+    "user_rating": {
+      "aggregate_rating": "4.0",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "1178"
+    },
+    "id": "336"
+  },
+  {
+    "city": "mumbai",
+    "name": "Tipsy Gypsy",
+    "average_cost_for_two": 1500,
+    "user_rating": {
+      "aggregate_rating": "4.5",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "2918"
+    },
+    "id": "337"
+  },
+  {
+    "city": "mumbai",
+    "name": "Cafe Safar",
+    "average_cost_for_two": 600,
+    "user_rating": {
+      "aggregate_rating": "4.0",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "2640"
+    },
+    "id": "338"
+  },
+  {
+    "city": "mumbai",
+    "name": "The Cult",
+    "average_cost_for_two": 1700,
+    "user_rating": {
+      "aggregate_rating": "4.4",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "3037"
+    },
+    "id": "339"
+  },
+  {
+    "city": "mumbai",
+    "name": "MRP - My Regular Place",
+    "average_cost_for_two": 1300,
+    "user_rating": {
+      "aggregate_rating": "4.0",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "2302"
+    },
+    "id": "340"
+  },
+  {
+    "city": "ranchi",
+    "name": "KAVERI Restaurant- Main Road",
+    "average_cost_for_two": 500,
+    "user_rating": {
+      "aggregate_rating": "4.9",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "1817"
+    },
+    "id": "271"
+  },
+  {
+    "city": "ranchi",
+    "name": "Punjab Sweet House",
+    "average_cost_for_two": 200,
+    "user_rating": {
+      "aggregate_rating": "4.5",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "780"
+    },
+    "id": "272"
+  },
+  {
+    "city": "ranchi",
+    "name": "Domino's Pizza",
+    "average_cost_for_two": 700,
+    "user_rating": {
+      "aggregate_rating": "4.0",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "939"
+    },
+    "id": "273"
+  },
+  {
+    "city": "ranchi",
+    "name": "Kaveri - Lalpur",
+    "average_cost_for_two": 450,
+    "user_rating": {
+      "aggregate_rating": "4.1",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "692"
+    },
+    "id": "274"
+  },
+  {
+    "city": "ranchi",
+    "name": "Seasons Restaurant",
+    "average_cost_for_two": 800,
+    "user_rating": {
+      "aggregate_rating": "4.0",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "410"
+    },
+    "id": "275"
+  },
+  {
+    "city": "ranchi",
+    "name": "The Mezbaan",
+    "average_cost_for_two": 800,
+    "user_rating": {
+      "aggregate_rating": "4.2",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "562"
+    },
+    "id": "276"
+  },
+  {
+    "city": "ranchi",
+    "name": "Sardar Fast Food Plaza",
+    "average_cost_for_two": 250,
+    "user_rating": {
+      "aggregate_rating": "4.0",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "333"
+    },
+    "id": "277"
+  },
+  {
+    "city": "ranchi",
+    "name": "Punjabi Kitchen",
+    "average_cost_for_two": 500,
+    "user_rating": {
+      "aggregate_rating": "4.1",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "483"
+    },
+    "id": "278"
+  },
+  {
+    "city": "ranchi",
+    "name": "KFC",
+    "average_cost_for_two": 500,
+    "user_rating": {
+      "aggregate_rating": "4.1",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "521"
+    },
+    "id": "279"
+  },
+  {
+    "city": "ranchi",
+    "name": "New Kathi Kabab",
+    "average_cost_for_two": 400,
+    "user_rating": {
+      "aggregate_rating": "4.1",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "554"
+    },
+    "id": "2710"
+  },
+  {
+    "city": "ranchi",
+    "name": "Domino's Pizza",
+    "average_cost_for_two": 700,
+    "user_rating": {
+      "aggregate_rating": "3.6",
+      "rating_text": "Good",
+      "rating_color": "9ACD32",
+      "votes": "500"
+    },
+    "id": "2711"
+  },
+  {
+    "city": "ranchi",
+    "name": "The Breaking Bread",
+    "average_cost_for_two": 600,
+    "user_rating": {
+      "aggregate_rating": "4.5",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "361"
+    },
+    "id": "2712"
+  },
+  {
+    "city": "ranchi",
+    "name": "Kareem's",
+    "average_cost_for_two": 1000,
+    "user_rating": {
+      "aggregate_rating": "4.2",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "444"
+    },
+    "id": "2713"
+  },
+  {
+    "city": "ranchi",
+    "name": "Moti Mahal Delux Tandoori Trail",
+    "average_cost_for_two": 1000,
+    "user_rating": {
+      "aggregate_rating": "4.5",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "434"
+    },
+    "id": "2714"
+  },
+  {
+    "city": "ranchi",
+    "name": "Second Wife Restaurant",
+    "average_cost_for_two": 350,
+    "user_rating": {
+      "aggregate_rating": "4.2",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "235"
+    },
+    "id": "2715"
+  },
+  {
+    "city": "ranchi",
+    "name": "Domino's Pizza",
+    "average_cost_for_two": 700,
+    "user_rating": {
+      "aggregate_rating": "3.7",
+      "rating_text": "Good",
+      "rating_color": "9ACD32",
+      "votes": "455"
+    },
+    "id": "2716"
+  },
+  {
+    "city": "ranchi",
+    "name": "Prana",
+    "average_cost_for_two": 1000,
+    "user_rating": {
+      "aggregate_rating": "4.6",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "343"
+    },
+    "id": "2717"
+  },
+  {
+    "city": "ranchi",
+    "name": "The Best",
+    "average_cost_for_two": 800,
+    "user_rating": {
+      "aggregate_rating": "4.2",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "344"
+    },
+    "id": "2718"
+  },
+  {
+    "city": "ranchi",
+    "name": "Jashn",
+    "average_cost_for_two": 600,
+    "user_rating": {
+      "aggregate_rating": "4.3",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "321"
+    },
+    "id": "2719"
+  },
+  {
+    "city": "ranchi",
+    "name": "Seventh Heaven",
+    "average_cost_for_two": 400,
+    "user_rating": {
+      "aggregate_rating": "4.3",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "491"
+    },
+    "id": "2720"
+  },
+  {
+    "city": "ranchi",
+    "name": "Nirvana",
+    "average_cost_for_two": 1100,
+    "user_rating": {
+      "aggregate_rating": "4.6",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "285"
+    },
+    "id": "2721"
+  },
+  {
+    "city": "ranchi",
+    "name": "KFC",
+    "average_cost_for_two": 500,
+    "user_rating": {
+      "aggregate_rating": "4.2",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "266"
+    },
+    "id": "2722"
+  },
+  {
+    "city": "ranchi",
+    "name": "Kitchen Handi",
+    "average_cost_for_two": 350,
+    "user_rating": {
+      "aggregate_rating": "3.9",
+      "rating_text": "Good",
+      "rating_color": "9ACD32",
+      "votes": "136"
+    },
+    "id": "2723"
+  },
+  {
+    "city": "ranchi",
+    "name": "Hot Lips",
+    "average_cost_for_two": 500,
+    "user_rating": {
+      "aggregate_rating": "4.1",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "269"
+    },
+    "id": "2724"
+  },
+  {
+    "city": "ranchi",
+    "name": "Pizza Hut",
+    "average_cost_for_two": 700,
+    "user_rating": {
+      "aggregate_rating": "4.1",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "294"
+    },
+    "id": "2725"
+  },
+  {
+    "city": "ranchi",
+    "name": "Krsna The Veg Restaurant",
+    "average_cost_for_two": 500,
+    "user_rating": {
+      "aggregate_rating": "4.3",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "370"
+    },
+    "id": "2726"
+  },
+  {
+    "city": "ranchi",
+    "name": "Vyanjan Restaurant",
+    "average_cost_for_two": 600,
+    "user_rating": {
+      "aggregate_rating": "4.0",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "219"
+    },
+    "id": "2727"
+  },
+  {
+    "city": "ranchi",
+    "name": "Fork N Cork",
+    "average_cost_for_two": 700,
+    "user_rating": {
+      "aggregate_rating": "4.3",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "197"
+    },
+    "id": "2728"
+  },
+  {
+    "city": "ranchi",
+    "name": "Cafe Zam Zam",
+    "average_cost_for_two": 450,
+    "user_rating": {
+      "aggregate_rating": "4.1",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "258"
+    },
+    "id": "2729"
+  },
+  {
+    "city": "ranchi",
+    "name": "The Kav's",
+    "average_cost_for_two": 400,
+    "user_rating": {
+      "aggregate_rating": "3.6",
+      "rating_text": "Good",
+      "rating_color": "9ACD32",
+      "votes": "271"
+    },
+    "id": "2730"
+  },
+  {
+    "city": "ranchi",
+    "name": "Chaibubble",
+    "average_cost_for_two": 600,
+    "user_rating": {
+      "aggregate_rating": "4.4",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "171"
+    },
+    "id": "2731"
+  },
+  {
+    "city": "ranchi",
+    "name": "Aroma - The Royal Retreat",
+    "average_cost_for_two": 1500,
+    "user_rating": {
+      "aggregate_rating": "3.9",
+      "rating_text": "Good",
+      "rating_color": "9ACD32",
+      "votes": "150"
+    },
+    "id": "2732"
+  },
+  {
+    "city": "ranchi",
+    "name": "Kullhad",
+    "average_cost_for_two": 350,
+    "user_rating": {
+      "aggregate_rating": "4.4",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "216"
+    },
+    "id": "2733"
+  },
+  {
+    "city": "ranchi",
+    "name": "FOODISM",
+    "average_cost_for_two": 200,
+    "user_rating": {
+      "aggregate_rating": "3.8",
+      "rating_text": "Good",
+      "rating_color": "9ACD32",
+      "votes": "184"
+    },
+    "id": "2734"
+  },
+  {
+    "city": "ranchi",
+    "name": "Hoppipola",
+    "average_cost_for_two": 1200,
+    "user_rating": {
+      "aggregate_rating": "4.0",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "188"
+    },
+    "id": "2735"
+  },
+  {
+    "city": "ranchi",
+    "name": "Hot Lips",
+    "average_cost_for_two": 1000,
+    "user_rating": {
+      "aggregate_rating": "3.9",
+      "rating_text": "Good",
+      "rating_color": "9ACD32",
+      "votes": "236"
+    },
+    "id": "2736"
+  },
+  {
+    "city": "ranchi",
+    "name": "Swad Desh",
+    "average_cost_for_two": 500,
+    "user_rating": {
+      "aggregate_rating": "4.0",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "217"
+    },
+    "id": "2737"
+  },
+  {
+    "city": "ranchi",
+    "name": "The Urban Brava",
+    "average_cost_for_two": 800,
+    "user_rating": {
+      "aggregate_rating": "4.2",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "232"
+    },
+    "id": "2738"
+  },
+  {
+    "city": "ranchi",
+    "name": "Yellow Sapphire - Hotel Capitol Hill",
+    "average_cost_for_two": 1000,
+    "user_rating": {
+      "aggregate_rating": "4.4",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "252"
+    },
+    "id": "2739"
+  },
+  {
+    "city": "ranchi",
+    "name": "Vidorra Restro & Lounge",
+    "average_cost_for_two": 1000,
+    "user_rating": {
+      "aggregate_rating": "3.0",
+      "rating_text": "Average",
+      "rating_color": "CDD614",
+      "votes": "197"
+    },
+    "id": "2740"
+  },
+  {
+    "city": "chandigarh",
+    "name": "Boathouse",
+    "average_cost_for_two": 1500,
+    "user_rating": {
+      "aggregate_rating": "4.5",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "1061"
+    },
+    "id": "121"
+  },
+  {
+    "city": "chandigarh",
+    "name": "Sector 7 Social",
+    "average_cost_for_two": 1400,
+    "user_rating": {
+      "aggregate_rating": "4.8",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "2435"
+    },
+    "id": "122"
+  },
+  {
+    "city": "chandigarh",
+    "name": "Food@U",
+    "average_cost_for_two": 700,
+    "user_rating": {
+      "aggregate_rating": "4.2",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "2056"
+    },
+    "id": "123"
+  },
+  {
+    "city": "chandigarh",
+    "name": "The Night Factory",
+    "average_cost_for_two": 800,
+    "user_rating": {
+      "aggregate_rating": "3.9",
+      "rating_text": "Good",
+      "rating_color": "9ACD32",
+      "votes": "1983"
+    },
+    "id": "124"
+  },
+  {
+    "city": "chandigarh",
+    "name": "La Pino'z Pizza",
+    "average_cost_for_two": 550,
+    "user_rating": {
+      "aggregate_rating": "4.3",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "1271"
+    },
+    "id": "125"
+  },
+  {
+    "city": "chandigarh",
+    "name": "Bhena Da Dhaba",
+    "average_cost_for_two": 250,
+    "user_rating": {
+      "aggregate_rating": "3.8",
+      "rating_text": "Good",
+      "rating_color": "9ACD32",
+      "votes": "1466"
+    },
+    "id": "126"
+  },
+  {
+    "city": "chandigarh",
+    "name": "CAF\u00c8 JC's",
+    "average_cost_for_two": 1200,
+    "user_rating": {
+      "aggregate_rating": "4.5",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "1181"
+    },
+    "id": "127"
+  },
+  {
+    "city": "chandigarh",
+    "name": "Burger King",
+    "average_cost_for_two": 500,
+    "user_rating": {
+      "aggregate_rating": "3.9",
+      "rating_text": "Good",
+      "rating_color": "9ACD32",
+      "votes": "1082"
+    },
+    "id": "128"
+  },
+  {
+    "city": "chandigarh",
+    "name": "Subway",
+    "average_cost_for_two": 500,
+    "user_rating": {
+      "aggregate_rating": "4.2",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "1147"
+    },
+    "id": "129"
+  },
+  {
+    "city": "chandigarh",
+    "name": "La Pino'z Pizza",
+    "average_cost_for_two": 550,
+    "user_rating": {
+      "aggregate_rating": "4.5",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "855"
+    },
+    "id": "1210"
+  },
+  {
+    "city": "chandigarh",
+    "name": "Al Lazeezo",
+    "average_cost_for_two": 500,
+    "user_rating": {
+      "aggregate_rating": "4.2",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "626"
+    },
+    "id": "1211"
+  },
+  {
+    "city": "chandigarh",
+    "name": "Amrit Sweets",
+    "average_cost_for_two": 700,
+    "user_rating": {
+      "aggregate_rating": "4.0",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "963"
+    },
+    "id": "1212"
+  },
+  {
+    "city": "chandigarh",
+    "name": "Falcon Cafe Lounge",
+    "average_cost_for_two": 1100,
+    "user_rating": {
+      "aggregate_rating": "4.7",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "1456"
+    },
+    "id": "1213"
+  },
+  {
+    "city": "chandigarh",
+    "name": "Amritsari Kulcha Hub",
+    "average_cost_for_two": 250,
+    "user_rating": {
+      "aggregate_rating": "4.0",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "1122"
+    },
+    "id": "1214"
+  },
+  {
+    "city": "chandigarh",
+    "name": "Pyramid",
+    "average_cost_for_two": 1500,
+    "user_rating": {
+      "aggregate_rating": "4.3",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "657"
+    },
+    "id": "1215"
+  },
+  {
+    "city": "chandigarh",
+    "name": "New Panna Sweets",
+    "average_cost_for_two": 300,
+    "user_rating": {
+      "aggregate_rating": "4.0",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "1675"
+    },
+    "id": "1216"
+  },
+  {
+    "city": "chandigarh",
+    "name": "The Hedgehog Caf\u00e9",
+    "average_cost_for_two": 1200,
+    "user_rating": {
+      "aggregate_rating": "4.8",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "926"
+    },
+    "id": "1217"
+  },
+  {
+    "city": "chandigarh",
+    "name": "Pizza Freakerz",
+    "average_cost_for_two": 350,
+    "user_rating": {
+      "aggregate_rating": "4.2",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "866"
+    },
+    "id": "1218"
+  },
+  {
+    "city": "chandigarh",
+    "name": "Chandigarh Flavours",
+    "average_cost_for_two": 550,
+    "user_rating": {
+      "aggregate_rating": "3.9",
+      "rating_text": "Good",
+      "rating_color": "9ACD32",
+      "votes": "1051"
+    },
+    "id": "1219"
+  },
+  {
+    "city": "chandigarh",
+    "name": "Katani Dhaba",
+    "average_cost_for_two": 450,
+    "user_rating": {
+      "aggregate_rating": "4.1",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "1334"
+    },
+    "id": "1220"
+  },
+  {
+    "city": "chandigarh",
+    "name": "Jalandhar Sweets",
+    "average_cost_for_two": 300,
+    "user_rating": {
+      "aggregate_rating": "4.1",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "1188"
+    },
+    "id": "1221"
+  },
+  {
+    "city": "chandigarh",
+    "name": "Biryani By Kilo",
+    "average_cost_for_two": 700,
+    "user_rating": {
+      "aggregate_rating": "4.3",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "417"
+    },
+    "id": "1222"
+  },
+  {
+    "city": "chandigarh",
+    "name": "Khalsa Dhaba",
+    "average_cost_for_two": 500,
+    "user_rating": {
+      "aggregate_rating": "3.9",
+      "rating_text": "Good",
+      "rating_color": "9ACD32",
+      "votes": "1005"
+    },
+    "id": "1223"
+  },
+  {
+    "city": "chandigarh",
+    "name": "City Cabana",
+    "average_cost_for_two": 1300,
+    "user_rating": {
+      "aggregate_rating": "4.1",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "291"
+    },
+    "id": "1224"
+  },
+  {
+    "city": "chandigarh",
+    "name": "Chaska 11",
+    "average_cost_for_two": 600,
+    "user_rating": {
+      "aggregate_rating": "4.1",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "872"
+    },
+    "id": "1225"
+  },
+  {
+    "city": "chandigarh",
+    "name": "Beach N Brew",
+    "average_cost_for_two": 1800,
+    "user_rating": {
+      "aggregate_rating": "4.3",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "141",
+      "custom_rating_text": "NEW",
+      "custom_rating_text_background": "#89959B",
+      "rating_tool_tip": "This restaurant is newly opened. The rating will appear once the restaurant completes 60 days in operation."
+    },
+    "id": "1226"
+  },
+  {
+    "city": "chandigarh",
+    "name": "Khalsa Dhaba",
+    "average_cost_for_two": 400,
+    "user_rating": {
+      "aggregate_rating": "4.1",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "1300"
+    },
+    "id": "1227"
+  },
+  {
+    "city": "chandigarh",
+    "name": "Brooklyn Central",
+    "average_cost_for_two": 1300,
+    "user_rating": {
+      "aggregate_rating": "4.6",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "1222"
+    },
+    "id": "1228"
+  },
+  {
+    "city": "chandigarh",
+    "name": "Uncle Jack's",
+    "average_cost_for_two": 800,
+    "user_rating": {
+      "aggregate_rating": "4.9",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "1537"
+    },
+    "id": "1229"
+  },
+  {
+    "city": "chandigarh",
+    "name": "KFC",
+    "average_cost_for_two": 500,
+    "user_rating": {
+      "aggregate_rating": "4.0",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "890"
+    },
+    "id": "1230"
+  },
+  {
+    "city": "chandigarh",
+    "name": "Karthik",
+    "average_cost_for_two": 250,
+    "user_rating": {
+      "aggregate_rating": "4.2",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "1132"
+    },
+    "id": "1231"
+  },
+  {
+    "city": "chandigarh",
+    "name": "Sodhi's Zaika",
+    "average_cost_for_two": 150,
+    "user_rating": {
+      "aggregate_rating": "4.0",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "952"
+    },
+    "id": "1232"
+  },
+  {
+    "city": "chandigarh",
+    "name": "Raju Chinese Fast Food",
+    "average_cost_for_two": 300,
+    "user_rating": {
+      "aggregate_rating": "3.7",
+      "rating_text": "Good",
+      "rating_color": "9ACD32",
+      "votes": "954"
+    },
+    "id": "1233"
+  },
+  {
+    "city": "chandigarh",
+    "name": "The Last Course",
+    "average_cost_for_two": 600,
+    "user_rating": {
+      "aggregate_rating": "4.4",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "564"
+    },
+    "id": "1234"
+  },
+  {
+    "city": "chandigarh",
+    "name": "The G.T. Road",
+    "average_cost_for_two": 1400,
+    "user_rating": {
+      "aggregate_rating": "4.4",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "372"
+    },
+    "id": "1235"
+  },
+  {
+    "city": "chandigarh",
+    "name": "Shirdi Food & Snacks",
+    "average_cost_for_two": 350,
+    "user_rating": {
+      "aggregate_rating": "4.1",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "948"
+    },
+    "id": "1236"
+  },
+  {
+    "city": "chandigarh",
+    "name": "Amigo's Cafe",
+    "average_cost_for_two": 500,
+    "user_rating": {
+      "aggregate_rating": "4.3",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "1099"
+    },
+    "id": "1237"
+  },
+  {
+    "city": "chandigarh",
+    "name": "The Shooters Cafe",
+    "average_cost_for_two": 700,
+    "user_rating": {
+      "aggregate_rating": "4.0",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "636"
+    },
+    "id": "1238"
+  },
+  {
+    "city": "chandigarh",
+    "name": "Lah Di Dah",
+    "average_cost_for_two": 1200,
+    "user_rating": {
+      "aggregate_rating": "4.2",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "505"
+    },
+    "id": "1239"
+  },
+  {
+    "city": "chandigarh",
+    "name": "Subway",
+    "average_cost_for_two": 500,
+    "user_rating": {
+      "aggregate_rating": "4.1",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "648"
+    },
+    "id": "1240"
+  },
+  {
+    "city": "pune",
+    "name": "Flechazo",
+    "average_cost_for_two": 1400,
+    "user_rating": {
+      "aggregate_rating": "4.9",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "2205"
+    },
+    "id": "51"
+  },
+  {
+    "city": "pune",
+    "name": "Culture - \u092a\u0941\u0923\u0947",
+    "average_cost_for_two": 1300,
+    "user_rating": {
+      "aggregate_rating": "4.1",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "2648"
+    },
+    "id": "52"
+  },
+  {
+    "city": "pune",
+    "name": "Viman Nagar Social",
+    "average_cost_for_two": 1500,
+    "user_rating": {
+      "aggregate_rating": "4.5",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "2118"
+    },
+    "id": "53"
+  },
+  {
+    "city": "pune",
+    "name": "Autobahn",
+    "average_cost_for_two": 1300,
+    "user_rating": {
+      "aggregate_rating": "4.8",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "2562"
+    },
+    "id": "54"
+  },
+  {
+    "city": "pune",
+    "name": "Universal Barbeque",
+    "average_cost_for_two": 1200,
+    "user_rating": {
+      "aggregate_rating": "4.6",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "1227"
+    },
+    "id": "55"
+  },
+  {
+    "city": "pune",
+    "name": "Barbeque Ville",
+    "average_cost_for_two": 1000,
+    "user_rating": {
+      "aggregate_rating": "4.5",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "1439"
+    },
+    "id": "56"
+  },
+  {
+    "city": "pune",
+    "name": "Kargo",
+    "average_cost_for_two": 1000,
+    "user_rating": {
+      "aggregate_rating": "4.4",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "2059"
+    },
+    "id": "57"
+  },
+  {
+    "city": "pune",
+    "name": "Teddy Boy",
+    "average_cost_for_two": 1200,
+    "user_rating": {
+      "aggregate_rating": "4.3",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "4063"
+    },
+    "id": "58"
+  },
+  {
+    "city": "pune",
+    "name": "AB's - Absolute Barbecues",
+    "average_cost_for_two": 1400,
+    "user_rating": {
+      "aggregate_rating": "4.9",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "4859"
+    },
+    "id": "59"
+  },
+  {
+    "city": "pune",
+    "name": "Kopp",
+    "average_cost_for_two": 1200,
+    "user_rating": {
+      "aggregate_rating": "4.4",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "1052"
+    },
+    "id": "510"
+  },
+  {
+    "city": "pune",
+    "name": "Darshan",
+    "average_cost_for_two": 700,
+    "user_rating": {
+      "aggregate_rating": "4.6",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "1244"
+    },
+    "id": "511"
+  },
+  {
+    "city": "pune",
+    "name": "Le Plaisir",
+    "average_cost_for_two": 1000,
+    "user_rating": {
+      "aggregate_rating": "4.8",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "4211"
+    },
+    "id": "512"
+  },
+  {
+    "city": "pune",
+    "name": "Cafe 1730",
+    "average_cost_for_two": 1500,
+    "user_rating": {
+      "aggregate_rating": "4.6",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "3156"
+    },
+    "id": "513"
+  },
+  {
+    "city": "pune",
+    "name": "Mughal Mahal",
+    "average_cost_for_two": 900,
+    "user_rating": {
+      "aggregate_rating": "4.6",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "2316"
+    },
+    "id": "514"
+  },
+  {
+    "city": "pune",
+    "name": "Sentosa MultiCuisine Restaurant",
+    "average_cost_for_two": 1200,
+    "user_rating": {
+      "aggregate_rating": "4.9",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "984"
+    },
+    "id": "515"
+  },
+  {
+    "city": "pune",
+    "name": "The FML Lounge",
+    "average_cost_for_two": 1100,
+    "user_rating": {
+      "aggregate_rating": "4.1",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "1772"
+    },
+    "id": "516"
+  },
+  {
+    "city": "pune",
+    "name": "BarBerry",
+    "average_cost_for_two": 1200,
+    "user_rating": {
+      "aggregate_rating": "4.3",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "1490"
+    },
+    "id": "517"
+  },
+  {
+    "city": "pune",
+    "name": "Tatva",
+    "average_cost_for_two": 850,
+    "user_rating": {
+      "aggregate_rating": "4.4",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "2039"
+    },
+    "id": "518"
+  },
+  {
+    "city": "pune",
+    "name": "The FML Lounge",
+    "average_cost_for_two": 1100,
+    "user_rating": {
+      "aggregate_rating": "4.3",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "728"
+    },
+    "id": "519"
+  },
+  {
+    "city": "pune",
+    "name": "Bonsouth",
+    "average_cost_for_two": 1200,
+    "user_rating": {
+      "aggregate_rating": "4.6",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "454"
+    },
+    "id": "520"
+  },
+  {
+    "city": "pune",
+    "name": "Laa Unico",
+    "average_cost_for_two": 1400,
+    "user_rating": {
+      "aggregate_rating": "4.7",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "1207"
+    },
+    "id": "521"
+  },
+  {
+    "city": "pune",
+    "name": "The K Factory",
+    "average_cost_for_two": 1000,
+    "user_rating": {
+      "aggregate_rating": "4.3",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "3225"
+    },
+    "id": "522"
+  },
+  {
+    "city": "pune",
+    "name": "Agent Jack's",
+    "average_cost_for_two": 1300,
+    "user_rating": {
+      "aggregate_rating": "4.2",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "2189"
+    },
+    "id": "523"
+  },
+  {
+    "city": "pune",
+    "name": "Cafe Goodluck",
+    "average_cost_for_two": 600,
+    "user_rating": {
+      "aggregate_rating": "4.3",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "6589"
+    },
+    "id": "524"
+  },
+  {
+    "city": "pune",
+    "name": "11 East Street Cafe",
+    "average_cost_for_two": 1800,
+    "user_rating": {
+      "aggregate_rating": "4.2",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "3584"
+    },
+    "id": "525"
+  },
+  {
+    "city": "pune",
+    "name": "AB's - Absolute Barbecues",
+    "average_cost_for_two": 1400,
+    "user_rating": {
+      "aggregate_rating": "4.7",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "1581"
+    },
+    "id": "526"
+  },
+  {
+    "city": "pune",
+    "name": "Tarsh Gastronomia",
+    "average_cost_for_two": 1500,
+    "user_rating": {
+      "aggregate_rating": "4.4",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "1796"
+    },
+    "id": "527"
+  },
+  {
+    "city": "pune",
+    "name": "Cafe 1730",
+    "average_cost_for_two": 1300,
+    "user_rating": {
+      "aggregate_rating": "4.4",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "1082"
+    },
+    "id": "528"
+  },
+  {
+    "city": "pune",
+    "name": "Tales & Spirits",
+    "average_cost_for_two": 1200,
+    "user_rating": {
+      "aggregate_rating": "4.3",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "3496"
+    },
+    "id": "529"
+  },
+  {
+    "city": "pune",
+    "name": "Tawa Street",
+    "average_cost_for_two": 500,
+    "user_rating": {
+      "aggregate_rating": "4.0",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "1011"
+    },
+    "id": "530"
+  },
+  {
+    "city": "pune",
+    "name": "Publiq",
+    "average_cost_for_two": 1400,
+    "user_rating": {
+      "aggregate_rating": "4.0",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "1426"
+    },
+    "id": "531"
+  },
+  {
+    "city": "pune",
+    "name": "Anna Idli",
+    "average_cost_for_two": 450,
+    "user_rating": {
+      "aggregate_rating": "4.5",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "2461"
+    },
+    "id": "532"
+  },
+  {
+    "city": "pune",
+    "name": "Publiq",
+    "average_cost_for_two": 1400,
+    "user_rating": {
+      "aggregate_rating": "4.3",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "735"
+    },
+    "id": "533"
+  },
+  {
+    "city": "pune",
+    "name": "Gong",
+    "average_cost_for_two": 1800,
+    "user_rating": {
+      "aggregate_rating": "4.8",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "1145"
+    },
+    "id": "534"
+  },
+  {
+    "city": "pune",
+    "name": "Barbeque Ville",
+    "average_cost_for_two": 1000,
+    "user_rating": {
+      "aggregate_rating": "4.7",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "662"
+    },
+    "id": "535"
+  },
+  {
+    "city": "pune",
+    "name": "Fish Curry Rice",
+    "average_cost_for_two": 1200,
+    "user_rating": {
+      "aggregate_rating": "4.6",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "385"
+    },
+    "id": "536"
+  },
+  {
+    "city": "pune",
+    "name": "Agent Jack's",
+    "average_cost_for_two": 1300,
+    "user_rating": {
+      "aggregate_rating": "4.5",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "3750"
+    },
+    "id": "537"
+  },
+  {
+    "city": "pune",
+    "name": "Tales & Spirits",
+    "average_cost_for_two": 1200,
+    "user_rating": {
+      "aggregate_rating": "4.2",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "1580"
+    },
+    "id": "538"
+  },
+  {
+    "city": "pune",
+    "name": "Vaishali",
+    "average_cost_for_two": 500,
+    "user_rating": {
+      "aggregate_rating": "4.4",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "5123"
+    },
+    "id": "539"
+  },
+  {
+    "city": "pune",
+    "name": "Effingut Brewerkz",
+    "average_cost_for_two": 1700,
+    "user_rating": {
+      "aggregate_rating": "4.6",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "2421"
+    },
+    "id": "540"
+  },
+  {
+    "city": "ahmedabad",
+    "name": "The Esplendido Cafe",
+    "average_cost_for_two": 800,
+    "user_rating": {
+      "aggregate_rating": "4.5",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "719"
+    },
+    "id": "111"
+  },
+  {
+    "city": "ahmedabad",
+    "name": "Shree Annpurna",
+    "average_cost_for_two": 500,
+    "user_rating": {
+      "aggregate_rating": "4.0",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "1680"
+    },
+    "id": "112"
+  },
+  {
+    "city": "ahmedabad",
+    "name": "Bogarosa",
+    "average_cost_for_two": 800,
+    "user_rating": {
+      "aggregate_rating": "4.1",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "1074"
+    },
+    "id": "113"
+  },
+  {
+    "city": "ahmedabad",
+    "name": "Mocha",
+    "average_cost_for_two": 800,
+    "user_rating": {
+      "aggregate_rating": "4.6",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "2225"
+    },
+    "id": "114"
+  },
+  {
+    "city": "ahmedabad",
+    "name": "I Love Sandwich House",
+    "average_cost_for_two": 900,
+    "user_rating": {
+      "aggregate_rating": "4.1",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "1004"
+    },
+    "id": "115"
+  },
+  {
+    "city": "ahmedabad",
+    "name": "Yanki Sizzlers",
+    "average_cost_for_two": 1200,
+    "user_rating": {
+      "aggregate_rating": "4.8",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "679"
+    },
+    "id": "116"
+  },
+  {
+    "city": "ahmedabad",
+    "name": "Huber & Holly",
+    "average_cost_for_two": 800,
+    "user_rating": {
+      "aggregate_rating": "4.7",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "1284"
+    },
+    "id": "117"
+  },
+  {
+    "city": "ahmedabad",
+    "name": "Yanki Sizzlers",
+    "average_cost_for_two": 1200,
+    "user_rating": {
+      "aggregate_rating": "4.9",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "3221"
+    },
+    "id": "118"
+  },
+  {
+    "city": "ahmedabad",
+    "name": "Makeba - The Lounge Cafe",
+    "average_cost_for_two": 1000,
+    "user_rating": {
+      "aggregate_rating": "4.2",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "215",
+      "custom_rating_text": "NEW",
+      "custom_rating_text_background": "#89959B",
+      "rating_tool_tip": "This restaurant is newly opened. The rating will appear once the restaurant completes 60 days in operation."
+    },
+    "id": "119"
+  },
+  {
+    "city": "ahmedabad",
+    "name": "Coffee Culture",
+    "average_cost_for_two": 800,
+    "user_rating": {
+      "aggregate_rating": "4.0",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "173"
+    },
+    "id": "1110"
+  },
+  {
+    "city": "ahmedabad",
+    "name": "Ph Se Food",
+    "average_cost_for_two": 900,
+    "user_rating": {
+      "aggregate_rating": "4.2",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "404"
+    },
+    "id": "1111"
+  },
+  {
+    "city": "ahmedabad",
+    "name": "Mocha",
+    "average_cost_for_two": 800,
+    "user_rating": {
+      "aggregate_rating": "4.4",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "916"
+    },
+    "id": "1112"
+  },
+  {
+    "city": "ahmedabad",
+    "name": "Kabir Restaurant",
+    "average_cost_for_two": 600,
+    "user_rating": {
+      "aggregate_rating": "4.1",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "2822"
+    },
+    "id": "1113"
+  },
+  {
+    "city": "ahmedabad",
+    "name": "Rp's Pizzeria",
+    "average_cost_for_two": 550,
+    "user_rating": {
+      "aggregate_rating": "4.4",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "639"
+    },
+    "id": "1114"
+  },
+  {
+    "city": "ahmedabad",
+    "name": "La Pino'z Pizza",
+    "average_cost_for_two": 700,
+    "user_rating": {
+      "aggregate_rating": "4.5",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "2227"
+    },
+    "id": "1115"
+  },
+  {
+    "city": "ahmedabad",
+    "name": "Tea Villa Cafe",
+    "average_cost_for_two": 1000,
+    "user_rating": {
+      "aggregate_rating": "4.2",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "646"
+    },
+    "id": "1116"
+  },
+  {
+    "city": "ahmedabad",
+    "name": "Forking Awesome",
+    "average_cost_for_two": 700,
+    "user_rating": {
+      "aggregate_rating": "4.5",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "185"
+    },
+    "id": "1117"
+  },
+  {
+    "city": "ahmedabad",
+    "name": "Queso Y Cafe",
+    "average_cost_for_two": 700,
+    "user_rating": {
+      "aggregate_rating": "4.2",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "661"
+    },
+    "id": "1118"
+  },
+  {
+    "city": "ahmedabad",
+    "name": "Kadak Bhagat",
+    "average_cost_for_two": 1000,
+    "user_rating": {
+      "aggregate_rating": "4.6",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "253"
+    },
+    "id": "1119"
+  },
+  {
+    "city": "ahmedabad",
+    "name": "Fozzie's Pizzaiolo. Cafe. Deli",
+    "average_cost_for_two": 900,
+    "user_rating": {
+      "aggregate_rating": "4.1",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "1617"
+    },
+    "id": "1120"
+  },
+  {
+    "city": "ahmedabad",
+    "name": "The Cafe Baraco",
+    "average_cost_for_two": 750,
+    "user_rating": {
+      "aggregate_rating": "4.1",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "1313"
+    },
+    "id": "1121"
+  },
+  {
+    "city": "ahmedabad",
+    "name": "The Secret Kitchen",
+    "average_cost_for_two": 1100,
+    "user_rating": {
+      "aggregate_rating": "4.1",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "356"
+    },
+    "id": "1122"
+  },
+  {
+    "city": "ahmedabad",
+    "name": "Anjoy Latenight Meals",
+    "average_cost_for_two": 500,
+    "user_rating": {
+      "aggregate_rating": "4.3",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "1076"
+    },
+    "id": "1123"
+  },
+  {
+    "city": "ahmedabad",
+    "name": "Yash's GBT",
+    "average_cost_for_two": 800,
+    "user_rating": {
+      "aggregate_rating": "4.1",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "558"
+    },
+    "id": "1124"
+  },
+  {
+    "city": "ahmedabad",
+    "name": "Honest",
+    "average_cost_for_two": 700,
+    "user_rating": {
+      "aggregate_rating": "3.7",
+      "rating_text": "Good",
+      "rating_color": "9ACD32",
+      "votes": "943"
+    },
+    "id": "1125"
+  },
+  {
+    "city": "ahmedabad",
+    "name": "Eleven 11 Restro Cafe",
+    "average_cost_for_two": 1000,
+    "user_rating": {
+      "aggregate_rating": "4.2",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "968"
+    },
+    "id": "1126"
+  },
+  {
+    "city": "ahmedabad",
+    "name": "Parosa",
+    "average_cost_for_two": 800,
+    "user_rating": {
+      "aggregate_rating": "4.0",
+      "rating_text": "Muy Bueno",
+      "rating_color": "5BA829",
+      "votes": "713"
+    },
+    "id": "1127"
+  },
+  {
+    "city": "ahmedabad",
+    "name": "Standard's Punjabi Khana",
+    "average_cost_for_two": 450,
+    "user_rating": {
+      "aggregate_rating": "3.7",
+      "rating_text": "Good",
+      "rating_color": "9ACD32",
+      "votes": "1030"
+    },
+    "id": "1128"
+  },
+  {
+    "city": "ahmedabad",
+    "name": "Kovallam",
+    "average_cost_for_two": 500,
+    "user_rating": {
+      "aggregate_rating": "4.7",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "470"
+    },
+    "id": "1129"
+  },
+  {
+    "city": "ahmedabad",
+    "name": "Brick Kitchen - Five Petals",
+    "average_cost_for_two": 900,
+    "user_rating": {
+      "aggregate_rating": "4.4",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "1337"
+    },
+    "id": "1130"
+  },
+  {
+    "city": "ahmedabad",
+    "name": "Little French House",
+    "average_cost_for_two": 1000,
+    "user_rating": {
+      "aggregate_rating": "4.3",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "185"
+    },
+    "id": "1131"
+  },
+  {
+    "city": "ahmedabad",
+    "name": "Cafe De Italiano",
+    "average_cost_for_two": 950,
+    "user_rating": {
+      "aggregate_rating": "4.3",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "693"
+    },
+    "id": "1132"
+  },
+  {
+    "city": "ahmedabad",
+    "name": "RP's Pizzeria",
+    "average_cost_for_two": 550,
+    "user_rating": {
+      "aggregate_rating": "4.4",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "940"
+    },
+    "id": "1133"
+  },
+  {
+    "city": "ahmedabad",
+    "name": "Swati Snacks",
+    "average_cost_for_two": 600,
+    "user_rating": {
+      "aggregate_rating": "4.6",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "1227"
+    },
+    "id": "1134"
+  },
+  {
+    "city": "ahmedabad",
+    "name": "The Dhaba",
+    "average_cost_for_two": 600,
+    "user_rating": {
+      "aggregate_rating": "4.5",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "261"
+    },
+    "id": "1135"
+  },
+  {
+    "city": "ahmedabad",
+    "name": "Food On Way",
+    "average_cost_for_two": 400,
+    "user_rating": {
+      "aggregate_rating": "3.9",
+      "rating_text": "Good",
+      "rating_color": "9ACD32",
+      "votes": "2627"
+    },
+    "id": "1136"
+  },
+  {
+    "city": "ahmedabad",
+    "name": "Kadak Bhagat",
+    "average_cost_for_two": 1200,
+    "user_rating": {
+      "aggregate_rating": "4.7",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "258"
+    },
+    "id": "1137"
+  },
+  {
+    "city": "ahmedabad",
+    "name": "Unlocked",
+    "average_cost_for_two": 1000,
+    "user_rating": {
+      "aggregate_rating": "4.4",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "1202"
+    },
+    "id": "1138"
+  },
+  {
+    "city": "ahmedabad",
+    "name": "Kaffee - Mast Hai",
+    "average_cost_for_two": 750,
+    "user_rating": {
+      "aggregate_rating": "4.4",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "864"
+    },
+    "id": "1139"
+  },
+  {
+    "city": "ahmedabad",
+    "name": "Nini's Kitchen",
+    "average_cost_for_two": 1000,
+    "user_rating": {
+      "aggregate_rating": "4.5",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "1809"
+    },
+    "id": "1140"
+  },
+  {
+    "city": "kochi",
+    "name": "Double Roti",
+    "average_cost_for_two": 700,
+    "user_rating": {
+      "aggregate_rating": "4.2",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "312"
+    },
+    "id": "91"
+  },
+  {
+    "city": "kochi",
+    "name": "Ifthar",
+    "average_cost_for_two": 350,
+    "user_rating": {
+      "aggregate_rating": "4.0",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "732"
+    },
+    "id": "92"
+  },
+  {
+    "city": "kochi",
+    "name": "Kashi Art Cafe",
+    "average_cost_for_two": 600,
+    "user_rating": {
+      "aggregate_rating": "4.4",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "1209"
+    },
+    "id": "93"
+  },
+  {
+    "city": "kochi",
+    "name": "Cafe 17",
+    "average_cost_for_two": 700,
+    "user_rating": {
+      "aggregate_rating": "4.6",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "877"
+    },
+    "id": "94"
+  },
+  {
+    "city": "kochi",
+    "name": "The Grill Lab",
+    "average_cost_for_two": 700,
+    "user_rating": {
+      "aggregate_rating": "4.3",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "579"
+    },
+    "id": "95"
+  },
+  {
+    "city": "kochi",
+    "name": "Mocha Art Cafe",
+    "average_cost_for_two": 700,
+    "user_rating": {
+      "aggregate_rating": "4.8",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "566"
+    },
+    "id": "96"
+  },
+  {
+    "city": "kochi",
+    "name": "Bikash Babu Sweets",
+    "average_cost_for_two": 250,
+    "user_rating": {
+      "aggregate_rating": "4.5",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "168"
+    },
+    "id": "97"
+  },
+  {
+    "city": "kochi",
+    "name": "360 Degrees Pizzeria",
+    "average_cost_for_two": 1500,
+    "user_rating": {
+      "aggregate_rating": "4.2",
+      "rating_text": "Velmi dobr\u00e9",
+      "rating_color": "5BA829",
+      "votes": "427"
+    },
+    "id": "98"
+  },
+  {
+    "city": "kochi",
+    "name": "Nasi And Mee",
+    "average_cost_for_two": 1000,
+    "user_rating": {
+      "aggregate_rating": "4.7",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "196"
+    },
+    "id": "99"
+  },
+  {
+    "city": "kochi",
+    "name": "Dhe Puttu",
+    "average_cost_for_two": 600,
+    "user_rating": {
+      "aggregate_rating": "4.4",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "1142"
+    },
+    "id": "910"
+  },
+  {
+    "city": "kochi",
+    "name": "Hotel Harsh Dhaba",
+    "average_cost_for_two": 250,
+    "user_rating": {
+      "aggregate_rating": "4.1",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "579"
+    },
+    "id": "911"
+  },
+  {
+    "city": "kochi",
+    "name": "Mi Casa",
+    "average_cost_for_two": 500,
+    "user_rating": {
+      "aggregate_rating": "4.1",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "234"
+    },
+    "id": "912"
+  },
+  {
+    "city": "kochi",
+    "name": "Al Reem Kuzhimandi",
+    "average_cost_for_two": 400,
+    "user_rating": {
+      "aggregate_rating": "4.4",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "915"
+    },
+    "id": "913"
+  },
+  {
+    "city": "kochi",
+    "name": "Bloomsbury's Global Kitchen & Bakehouse",
+    "average_cost_for_two": 650,
+    "user_rating": {
+      "aggregate_rating": "4.4",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "882"
+    },
+    "id": "914"
+  },
+  {
+    "city": "kochi",
+    "name": "Paragon",
+    "average_cost_for_two": 900,
+    "user_rating": {
+      "aggregate_rating": "4.5",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "1422"
+    },
+    "id": "915"
+  },
+  {
+    "city": "kochi",
+    "name": "Tonico Cafe",
+    "average_cost_for_two": 400,
+    "user_rating": {
+      "aggregate_rating": "4.3",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "917"
+    },
+    "id": "916"
+  },
+  {
+    "city": "kochi",
+    "name": "Barbeque Nation",
+    "average_cost_for_two": 1500,
+    "user_rating": {
+      "aggregate_rating": "4.9",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "925"
+    },
+    "id": "917"
+  },
+  {
+    "city": "kochi",
+    "name": "Zaatar Arabic Restaurant",
+    "average_cost_for_two": 300,
+    "user_rating": {
+      "aggregate_rating": "4.2",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "283"
+    },
+    "id": "918"
+  },
+  {
+    "city": "kochi",
+    "name": "Seagull Restaurant",
+    "average_cost_for_two": 800,
+    "user_rating": {
+      "aggregate_rating": "3.8",
+      "rating_text": "Good",
+      "rating_color": "9ACD32",
+      "votes": "499"
+    },
+    "id": "919"
+  },
+  {
+    "city": "kochi",
+    "name": "The Voyager",
+    "average_cost_for_two": 600,
+    "user_rating": {
+      "aggregate_rating": "4.0",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "514"
+    },
+    "id": "920"
+  },
+  {
+    "city": "kochi",
+    "name": "Ming's Wok",
+    "average_cost_for_two": 550,
+    "user_rating": {
+      "aggregate_rating": "4.2",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "490"
+    },
+    "id": "921"
+  },
+  {
+    "city": "kochi",
+    "name": "Cafe d' arabia",
+    "average_cost_for_two": 500,
+    "user_rating": {
+      "aggregate_rating": "4.1",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "502"
+    },
+    "id": "922"
+  },
+  {
+    "city": "kochi",
+    "name": "The Asian Kitchen by Tokyo Bay",
+    "average_cost_for_two": 1100,
+    "user_rating": {
+      "aggregate_rating": "4.5",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "308"
+    },
+    "id": "923"
+  },
+  {
+    "city": "kochi",
+    "name": "ChaiCofi",
+    "average_cost_for_two": 750,
+    "user_rating": {
+      "aggregate_rating": "4.3",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "503"
+    },
+    "id": "924"
+  },
+  {
+    "city": "kochi",
+    "name": "Sethi Da Dhaba",
+    "average_cost_for_two": 500,
+    "user_rating": {
+      "aggregate_rating": "4.1",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "451"
+    },
+    "id": "925"
+  },
+  {
+    "city": "kochi",
+    "name": "French Toast",
+    "average_cost_for_two": 700,
+    "user_rating": {
+      "aggregate_rating": "4.6",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "579"
+    },
+    "id": "926"
+  },
+  {
+    "city": "kochi",
+    "name": "Zaatar Arabic Restaurant",
+    "average_cost_for_two": 500,
+    "user_rating": {
+      "aggregate_rating": "4.1",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "395"
+    },
+    "id": "927"
+  },
+  {
+    "city": "kochi",
+    "name": "Milano Ice Cream",
+    "average_cost_for_two": 300,
+    "user_rating": {
+      "aggregate_rating": "4.7",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "567"
+    },
+    "id": "928"
+  },
+  {
+    "city": "kochi",
+    "name": "Sheba Kuzhimandhi",
+    "average_cost_for_two": 400,
+    "user_rating": {
+      "aggregate_rating": "4.2",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "403"
+    },
+    "id": "929"
+  },
+  {
+    "city": "kochi",
+    "name": "KFC",
+    "average_cost_for_two": 500,
+    "user_rating": {
+      "aggregate_rating": "3.4",
+      "rating_text": "Average",
+      "rating_color": "CDD614",
+      "votes": "455"
+    },
+    "id": "930"
+  },
+  {
+    "city": "kochi",
+    "name": "Thaal Kitchen",
+    "average_cost_for_two": 300,
+    "user_rating": {
+      "aggregate_rating": "3.6",
+      "rating_text": "Good",
+      "rating_color": "9ACD32",
+      "votes": "607"
+    },
+    "id": "931"
+  },
+  {
+    "city": "kochi",
+    "name": "Thakkaaram",
+    "average_cost_for_two": 600,
+    "user_rating": {
+      "aggregate_rating": "3.9",
+      "rating_text": "Good",
+      "rating_color": "9ACD32",
+      "votes": "619"
+    },
+    "id": "932"
+  },
+  {
+    "city": "kochi",
+    "name": "Alakapuri",
+    "average_cost_for_two": 300,
+    "user_rating": {
+      "aggregate_rating": "4.2",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "659"
+    },
+    "id": "933"
+  },
+  {
+    "city": "kochi",
+    "name": "Nawras Seafood Restaurant",
+    "average_cost_for_two": 1000,
+    "user_rating": {
+      "aggregate_rating": "4.3",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "541"
+    },
+    "id": "934"
+  },
+  {
+    "city": "kochi",
+    "name": "Palaaram",
+    "average_cost_for_two": 550,
+    "user_rating": {
+      "aggregate_rating": "4.1",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "370"
+    },
+    "id": "935"
+  },
+  {
+    "city": "kochi",
+    "name": "Brindhavan Vegetarian Restaurant",
+    "average_cost_for_two": 300,
+    "user_rating": {
+      "aggregate_rating": "4.3",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "507"
+    },
+    "id": "936"
+  },
+  {
+    "city": "kochi",
+    "name": "Mustake Multicuisine Restaurant",
+    "average_cost_for_two": 1000,
+    "user_rating": {
+      "aggregate_rating": "3.9",
+      "rating_text": "Good",
+      "rating_color": "9ACD32",
+      "votes": "567"
+    },
+    "id": "937"
+  },
+  {
+    "city": "kochi",
+    "name": "Cocoa Tree",
+    "average_cost_for_two": 1000,
+    "user_rating": {
+      "aggregate_rating": "4.5",
+      "rating_text": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "969"
+    },
+    "id": "938"
+  },
+  {
+    "city": "kochi",
+    "name": "Chiyang",
+    "average_cost_for_two": 450,
+    "user_rating": {
+      "aggregate_rating": "4.0",
+      "rating_text": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "590"
+    },
+    "id": "939"
+  },
+  {
+    "city": "kochi",
+    "name": "Ikka's Restaurant",
+    "average_cost_for_two": 600,
+    "user_rating": {
+      "aggregate_rating": "3.6",
+      "rating_text": "Good",
+      "rating_color": "9ACD32",
+      "votes": "112"
+    },
+    "id": "940"
+  }
+]
