@@ -738,7 +738,7 @@ describe('Check all `/api` endpoints', () => {
   describe('restaurants.json', () => {
     it('/api/restaurants?page=...', (done) => {
         let startIndex = 0;
-        let endIndex = 100;
+        let endIndex = 15;
         let pages = range(1, 6);
 
         Promise.mapSeries(pages, (page) => {
@@ -750,8 +750,8 @@ describe('Check all `/api` endpoints', () => {
           }).then((results) => {
             for (let result of results) {
               result.should.be.eql(data['restaurants'].slice(startIndex, endIndex));
-              startIndex += 100;
-              endIndex += 100;
+              startIndex += 15;
+              endIndex += 15;
             }
             done();
           }).catch((err) => {
@@ -767,11 +767,9 @@ describe('Check all `/api` endpoints', () => {
             res.body.data[0].should.be.eql({
                 "city": "bangalore",
                 "name": "Byg Brewski Brewing Company",
-                "average_cost_for_two": 1600,
+                "estimated_cost": 1600,
                 "user_rating": {
                     "aggregate_rating": "4.9",
-                    "rating_text": "Excellent",
-                    "rating_color": "3F7E00",
                     "votes": "16203"
                 },
                 "id": "41"
