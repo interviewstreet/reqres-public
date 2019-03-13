@@ -781,6 +781,52 @@ describe('Check all `/api` endpoints', () => {
           });
         });
   });
+
+  describe('books.json', () => {
+    it('/api/books?page=...', (done) => {
+        let startIndex = 0;
+        let endIndex = 500;
+        let pages = range(1, 6);
+
+        Promise.mapSeries(pages, (page) => {
+            return chai.request(server)
+              .get('/api/books/?page=' + page.toString())
+              .then((res) => {
+                return res.body.data;
+              })
+          }).then((results) => {
+            for (let result of results) {
+              result.should.be.eql(data['books'].slice(startIndex, endIndex));
+              startIndex += 500;
+              endIndex += 500;
+            }
+            done();
+          }).catch((err) => {
+            console.log(err);
+            done(err);
+          });
+    })
+
+    it('/api/books?property=...&page=...', (done) => {
+        chai.request(server)
+          .get('/api/books?city=bangalore&name=Byg Brewski Brewing Company')
+          .then((res) => {
+            res.body.data[0].should.be.eql({
+                "author": "Ernest Hemingway",
+                "book_name": "The Old Man and the Sea",
+                "genre": "Classics",
+                "isbn13": "9780684830490",
+                "no_of_pages": 132,
+                "rating": 3.72,
+                "votes": 534937
+            });
+            done();
+          }).catch((err) => {
+            console.log(err);
+            done(err);
+          });
+        });
+  });
 });
 
 describe('Dynamic APIs', () => {
