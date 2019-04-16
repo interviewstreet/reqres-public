@@ -716,14 +716,14 @@ describe('Check all `/api` endpoints', () => {
 
     it('/api/football/matches?property=...&page=...', (done) => {
         chai.request(server)
-          .get('/api/football/matches?competition=UEFA Champions League&home=Barcelona&round=final')
+          .get('/api/football/matches?competition=UEFA Champions League&team1=Barcelona&round=final')
           .then((res) => {
             res.body.data[0].should.be.eql({
                 competition: "UEFA Champions League",
-                home: "Barcelona",
-                away: "Juventus",
-                hgoal: "3",
-                agoal: "1",
+                team1: "Barcelona",
+                team2: "Juventus",
+                team1goals: "3",
+                team2goals: "1",
                 year: 2014,
                 round: "final"
             });
