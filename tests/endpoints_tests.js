@@ -509,9 +509,7 @@ describe('Check all `/api` endpoints', () => {
         .get('/api/movies?imdbID=tt5847056&page=1')
         .then((res) => {
           res.body.data[0].should.be.eql({
-            "Poster": "N/A",
             "Title": "Behind the Scenes of the Most Fascinating Waterworld on Earth: The Great Backwaters, Kerala.",
-            "Type": "movie",
             "Year": 2014,
             "imdbID": "tt5847056"
           });
@@ -524,39 +522,27 @@ describe('Check all `/api` endpoints', () => {
         .get('/api/movies/search?Title=Behind&page=1')
         .then((res) => {
           res.body.data.should.be.eql([{
-            "Poster": "N/A",
             "Title": "Behind the Scenes of the Most Fascinating Waterworld on Earth: The Great Backwaters, Kerala.",
-            "Type": "movie",
             "Year": 2014,
             "imdbID": "tt5847056"
           }, {
-            "Poster": "N/A",
             "Title": "'Harry Potter': Behind the Magic",
-            "Type": "movie",
             "Year": 2001,
             "imdbID": "tt0301379"
           }, {
-            "Poster": "N/A",
             "Title": "'Harry Potter': Behind the Magic",
-            "Type": "movie",
             "Year": 2005,
             "imdbID": "tt0497106"
           }, {
-            "Poster": "N/A",
             "Title": "Behind the Scenes of 'Sin the Movie'",
-            "Type": "movie",
             "Year": 2000,
             "imdbID": "tt4663740"
           }, {
-            "Poster": "N/A",
             "Title": "Walk & Talk - The West Wing Reunion: Behind the Scenes",
-            "Type": "movie",
             "Year": 2012,
             "imdbID": "tt2401109"
           }, {
-            "Poster": "N/A",
             "Title": "Behind the Scenes of Walk Tall Stand Strong",
-            "Type": "movie",
             "Year": 2012,
             "imdbID": "tt2936294"
           }]);
