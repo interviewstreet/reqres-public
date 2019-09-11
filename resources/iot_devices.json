@@ -1,0 +1,1580 @@
+[
+  {
+    "id": 0,
+    "timestamp": 1555512454240,
+    "status": "MALFUNCTIONING",
+    "operatingParams": {
+      "rotorSpeed": 242,
+      "slack": 7.27,
+      "rootThreshold": 4.42
+    },
+    "asset": {
+      "id": 2,
+      "alias": "Main Rotor Shaft"
+    }
+  },
+  {
+    "id": 1,
+    "timestamp": 1553918336196,
+    "status": "MALFUNCTIONING",
+    "operatingParams": {
+      "rotorSpeed": 642,
+      "slack": 6.18,
+      "rootThreshold": 8.06
+    },
+    "asset": {
+      "id": 2,
+      "alias": "Main Rotor Shaft"
+    }
+  },
+  {
+    "id": 2,
+    "timestamp": 1560207582311,
+    "status": "STOPPED",
+    "operatingParams": {
+      "rotorSpeed": 0,
+      "slack": 0,
+      "rootThreshold": 19.55
+    },
+    "asset": {
+      "id": 1,
+      "alias": "Axle Motor"
+    },
+    "parent": null
+  },
+  {
+    "id": 3,
+    "timestamp": 1547598771792,
+    "status": "MALFUNCTIONING",
+    "operatingParams": {
+      "rotorSpeed": 507,
+      "slack": 5.45,
+      "rootThreshold": 7.67
+    },
+    "asset": {
+      "id": 7,
+      "alias": "Counter Blades"
+    }
+  },
+  {
+    "id": 4,
+    "timestamp": 1554240798496,
+    "status": "RUNNING",
+    "operatingParams": {
+      "rotorSpeed": 2967,
+      "slack": 37.32,
+      "rootThreshold": 0
+    },
+    "asset": {
+      "id": 2,
+      "alias": "Main Rotor Shaft"
+    }
+  },
+  {
+    "id": 5,
+    "timestamp": 1552525258442,
+    "status": "MALFUNCTIONING",
+    "operatingParams": {
+      "rotorSpeed": 498,
+      "slack": 8,
+      "rootThreshold": 9.49
+    },
+    "asset": {
+      "id": 2,
+      "alias": "Main Rotor Shaft"
+    }
+  },
+  {
+    "id": 6,
+    "timestamp": 1552070631752,
+    "status": "STOPPED",
+    "operatingParams": {
+      "rotorSpeed": 0,
+      "slack": 0,
+      "rootThreshold": 68.8
+    },
+    "asset": {
+      "id": 7,
+      "alias": "Counter Blades"
+    }
+  },
+  {
+    "id": 7,
+    "timestamp": 1553776263672,
+    "status": "MALFUNCTIONING",
+    "operatingParams": {
+      "rotorSpeed": 209,
+      "slack": 1.74,
+      "rootThreshold": 5.41
+    },
+    "asset": {
+      "id": 6,
+      "alias": "Penstock Guage"
+    }
+  },
+  {
+    "id": 8,
+    "timestamp": 1556931364850,
+    "status": "STOPPED",
+    "operatingParams": {
+      "rotorSpeed": 0,
+      "slack": 0,
+      "rootThreshold": 11.87
+    },
+    "asset": {
+      "id": 3,
+      "alias": "Secondary Rotor Shaft"
+    },
+    "parent": {
+      "id": 7,
+      "alias": "Counter Blades"
+    }
+  },
+  {
+    "id": 9,
+    "timestamp": 1552799232246,
+    "status": "STOPPED",
+    "operatingParams": {
+      "rotorSpeed": 0,
+      "slack": 0,
+      "rootThreshold": 59.76
+    },
+    "asset": {
+      "id": 6,
+      "alias": "Penstock Guage"
+    }
+  },
+  {
+    "id": 10,
+    "timestamp": 1554333987222,
+    "status": "STOPPED",
+    "operatingParams": {
+      "rotorSpeed": 0,
+      "slack": 0,
+      "rootThreshold": 29.31
+    },
+    "asset": {
+      "id": 0,
+      "alias": "Primary Rotor"
+    },
+    "parent": {
+      "id": 2,
+      "alias": "Main Rotor Shaft"
+    }
+  },
+  {
+    "id": 11,
+    "timestamp": 1565193225660,
+    "status": "RUNNING",
+    "operatingParams": {
+      "rotorSpeed": 2363,
+      "slack": 63.07,
+      "rootThreshold": 0
+    },
+    "asset": {
+      "id": 4,
+      "alias": "Secondary Rotor"
+    },
+    "parent": {
+      "id": 2,
+      "alias": "Main Rotor Shaft"
+    }
+  },
+  {
+    "id": 12,
+    "timestamp": 1563372668921,
+    "status": "STOPPED",
+    "operatingParams": {
+      "rotorSpeed": 0,
+      "slack": 0,
+      "rootThreshold": 27.48
+    },
+    "asset": {
+      "id": 3,
+      "alias": "Secondary Rotor Shaft"
+    },
+    "parent": {
+      "id": 7,
+      "alias": "Counter Blades"
+    }
+  },
+  {
+    "id": 13,
+    "timestamp": 1566004807118,
+    "status": "STOPPED",
+    "operatingParams": {
+      "rotorSpeed": 0,
+      "slack": 0,
+      "rootThreshold": 43.84
+    },
+    "asset": {
+      "id": 2,
+      "alias": "Main Rotor Shaft"
+    }
+  },
+  {
+    "id": 14,
+    "timestamp": 1566352838102,
+    "status": "RUNNING",
+    "operatingParams": {
+      "rotorSpeed": 1536,
+      "slack": 86.52,
+      "rootThreshold": 0
+    },
+    "asset": {
+      "id": 2,
+      "alias": "Main Rotor Shaft"
+    }
+  },
+  {
+    "id": 15,
+    "timestamp": 1565008649102,
+    "status": "RUNNING",
+    "operatingParams": {
+      "rotorSpeed": 4114,
+      "slack": 45.38,
+      "rootThreshold": 0
+    },
+    "asset": {
+      "id": 1,
+      "alias": "Axle Motor"
+    },
+    "parent": null
+  },
+  {
+    "id": 16,
+    "timestamp": 1556530607664,
+    "status": "STOPPED",
+    "operatingParams": {
+      "rotorSpeed": 0,
+      "slack": 0,
+      "rootThreshold": 45.71
+    },
+    "asset": {
+      "id": 7,
+      "alias": "Counter Blades"
+    }
+  },
+  {
+    "id": 17,
+    "timestamp": 1555513021926,
+    "status": "MALFUNCTIONING",
+    "operatingParams": {
+      "rotorSpeed": 644,
+      "slack": 4.72,
+      "rootThreshold": 3.29
+    },
+    "asset": {
+      "id": 4,
+      "alias": "Secondary Rotor"
+    },
+    "parent": {
+      "id": 2,
+      "alias": "Main Rotor Shaft"
+    }
+  },
+  {
+    "id": 18,
+    "timestamp": 1566019196610,
+    "status": "MALFUNCTIONING",
+    "operatingParams": {
+      "rotorSpeed": 123,
+      "slack": 1.12,
+      "rootThreshold": 4.75
+    },
+    "asset": {
+      "id": 2,
+      "alias": "Main Rotor Shaft"
+    }
+  },
+  {
+    "id": 19,
+    "timestamp": 1546917341408,
+    "status": "RUNNING",
+    "operatingParams": {
+      "rotorSpeed": 2673,
+      "slack": 16.3,
+      "rootThreshold": 0
+    },
+    "asset": {
+      "id": 2,
+      "alias": "Main Rotor Shaft"
+    }
+  },
+  {
+    "id": 20,
+    "timestamp": 1561376982322,
+    "status": "MALFUNCTIONING",
+    "operatingParams": {
+      "rotorSpeed": 946,
+      "slack": 6.84,
+      "rootThreshold": 4.91
+    },
+    "asset": {
+      "id": 4,
+      "alias": "Secondary Rotor"
+    },
+    "parent": {
+      "id": 2,
+      "alias": "Main Rotor Shaft"
+    }
+  },
+  {
+    "id": 21,
+    "timestamp": 1563677245362,
+    "status": "STOPPED",
+    "operatingParams": {
+      "rotorSpeed": 0,
+      "slack": 0,
+      "rootThreshold": 12.1
+    },
+    "asset": {
+      "id": 3,
+      "alias": "Secondary Rotor Shaft"
+    },
+    "parent": {
+      "id": 7,
+      "alias": "Counter Blades"
+    }
+  },
+  {
+    "id": 22,
+    "timestamp": 1559106761519,
+    "status": "MALFUNCTIONING",
+    "operatingParams": {
+      "rotorSpeed": 88,
+      "slack": 1.93,
+      "rootThreshold": 2.68
+    },
+    "asset": {
+      "id": 1,
+      "alias": "Axle Motor"
+    },
+    "parent": null
+  },
+  {
+    "id": 23,
+    "timestamp": 1554478379196,
+    "status": "RUNNING",
+    "operatingParams": {
+      "rotorSpeed": 2319,
+      "slack": 91.81,
+      "rootThreshold": 0
+    },
+    "asset": {
+      "id": 1,
+      "alias": "Axle Motor"
+    },
+    "parent": null
+  },
+  {
+    "id": 24,
+    "timestamp": 1559995855367,
+    "status": "MALFUNCTIONING",
+    "operatingParams": {
+      "rotorSpeed": 567,
+      "slack": 7.48,
+      "rootThreshold": 7.93
+    },
+    "asset": {
+      "id": 0,
+      "alias": "Primary Rotor"
+    },
+    "parent": {
+      "id": 2,
+      "alias": "Main Rotor Shaft"
+    }
+  },
+  {
+    "id": 25,
+    "timestamp": 1551253486115,
+    "status": "MALFUNCTIONING",
+    "operatingParams": {
+      "rotorSpeed": 303,
+      "slack": 7,
+      "rootThreshold": 6.05
+    },
+    "asset": {
+      "id": 0,
+      "alias": "Primary Rotor"
+    },
+    "parent": {
+      "id": 2,
+      "alias": "Main Rotor Shaft"
+    }
+  },
+  {
+    "id": 26,
+    "timestamp": 1547900798144,
+    "status": "STOPPED",
+    "operatingParams": {
+      "rotorSpeed": 0,
+      "slack": 0,
+      "rootThreshold": 35.06
+    },
+    "asset": {
+      "id": 2,
+      "alias": "Main Rotor Shaft"
+    }
+  },
+  {
+    "id": 27,
+    "timestamp": 1565715044200,
+    "status": "RUNNING",
+    "operatingParams": {
+      "rotorSpeed": 2257,
+      "slack": 65.91,
+      "rootThreshold": 0
+    },
+    "asset": {
+      "id": 7,
+      "alias": "Counter Blades"
+    }
+  },
+  {
+    "id": 28,
+    "timestamp": 1563744781223,
+    "status": "RUNNING",
+    "operatingParams": {
+      "rotorSpeed": 4056,
+      "slack": 40.1,
+      "rootThreshold": 0
+    },
+    "asset": {
+      "id": 6,
+      "alias": "Penstock Guage"
+    }
+  },
+  {
+    "id": 29,
+    "timestamp": 1551346719679,
+    "status": "RUNNING",
+    "operatingParams": {
+      "rotorSpeed": 2679,
+      "slack": 58.29,
+      "rootThreshold": 0
+    },
+    "asset": {
+      "id": 7,
+      "alias": "Counter Blades"
+    }
+  },
+  {
+    "id": 30,
+    "timestamp": 1550541691500,
+    "status": "STOPPED",
+    "operatingParams": {
+      "rotorSpeed": 0,
+      "slack": 0,
+      "rootThreshold": 48.97
+    },
+    "asset": {
+      "id": 7,
+      "alias": "Counter Blades"
+    }
+  },
+  {
+    "id": 31,
+    "timestamp": 1561114683132,
+    "status": "STOPPED",
+    "operatingParams": {
+      "rotorSpeed": 0,
+      "slack": 0,
+      "rootThreshold": 96.38
+    },
+    "asset": {
+      "id": 6,
+      "alias": "Penstock Guage"
+    }
+  },
+  {
+    "id": 32,
+    "timestamp": 1563070259085,
+    "status": "MALFUNCTIONING",
+    "operatingParams": {
+      "rotorSpeed": 35,
+      "slack": 1.88,
+      "rootThreshold": 1.34
+    },
+    "asset": {
+      "id": 4,
+      "alias": "Secondary Rotor"
+    },
+    "parent": {
+      "id": 2,
+      "alias": "Main Rotor Shaft"
+    }
+  },
+  {
+    "id": 33,
+    "timestamp": 1548326871932,
+    "status": "STOPPED",
+    "operatingParams": {
+      "rotorSpeed": 0,
+      "slack": 0,
+      "rootThreshold": 96.22
+    },
+    "asset": {
+      "id": 1,
+      "alias": "Axle Motor"
+    },
+    "parent": null
+  },
+  {
+    "id": 34,
+    "timestamp": 1564555119341,
+    "status": "STOPPED",
+    "operatingParams": {
+      "rotorSpeed": 0,
+      "slack": 0,
+      "rootThreshold": 30.26
+    },
+    "asset": {
+      "id": 4,
+      "alias": "Secondary Rotor"
+    },
+    "parent": {
+      "id": 2,
+      "alias": "Main Rotor Shaft"
+    }
+  },
+  {
+    "id": 35,
+    "timestamp": 1561475735845,
+    "status": "MALFUNCTIONING",
+    "operatingParams": {
+      "rotorSpeed": 518,
+      "slack": 3.62,
+      "rootThreshold": 3.42
+    },
+    "asset": {
+      "id": 6,
+      "alias": "Penstock Guage"
+    }
+  },
+  {
+    "id": 36,
+    "timestamp": 1552381556864,
+    "status": "STOPPED",
+    "operatingParams": {
+      "rotorSpeed": 0,
+      "slack": 0,
+      "rootThreshold": 45
+    },
+    "asset": {
+      "id": 0,
+      "alias": "Primary Rotor"
+    },
+    "parent": {
+      "id": 2,
+      "alias": "Main Rotor Shaft"
+    }
+  },
+  {
+    "id": 37,
+    "timestamp": 1555588815698,
+    "status": "MALFUNCTIONING",
+    "operatingParams": {
+      "rotorSpeed": 392,
+      "slack": 2.11,
+      "rootThreshold": 3.39
+    },
+    "asset": {
+      "id": 0,
+      "alias": "Primary Rotor"
+    },
+    "parent": {
+      "id": 2,
+      "alias": "Main Rotor Shaft"
+    }
+  },
+  {
+    "id": 38,
+    "timestamp": 1553720462771,
+    "status": "MALFUNCTIONING",
+    "operatingParams": {
+      "rotorSpeed": 941,
+      "slack": 9.47,
+      "rootThreshold": 2.42
+    },
+    "asset": {
+      "id": 7,
+      "alias": "Counter Blades"
+    }
+  },
+  {
+    "id": 39,
+    "timestamp": 1564946177173,
+    "status": "STOPPED",
+    "operatingParams": {
+      "rotorSpeed": 0,
+      "slack": 0,
+      "rootThreshold": 24.96
+    },
+    "asset": {
+      "id": 4,
+      "alias": "Secondary Rotor"
+    },
+    "parent": {
+      "id": 2,
+      "alias": "Main Rotor Shaft"
+    }
+  },
+  {
+    "id": 40,
+    "timestamp": 1548040103302,
+    "status": "RUNNING",
+    "operatingParams": {
+      "rotorSpeed": 1807,
+      "slack": 34.12,
+      "rootThreshold": 0
+    },
+    "asset": {
+      "id": 1,
+      "alias": "Axle Motor"
+    },
+    "parent": null
+  },
+  {
+    "id": 41,
+    "timestamp": 1549388074620,
+    "status": "STOPPED",
+    "operatingParams": {
+      "rotorSpeed": 0,
+      "slack": 0,
+      "rootThreshold": 93.6
+    },
+    "asset": {
+      "id": 2,
+      "alias": "Main Rotor Shaft"
+    }
+  },
+  {
+    "id": 42,
+    "timestamp": 1565692775077,
+    "status": "RUNNING",
+    "operatingParams": {
+      "rotorSpeed": 3036,
+      "slack": 78.6,
+      "rootThreshold": 0
+    },
+    "asset": {
+      "id": 0,
+      "alias": "Primary Rotor"
+    },
+    "parent": {
+      "id": 2,
+      "alias": "Main Rotor Shaft"
+    }
+  },
+  {
+    "id": 43,
+    "timestamp": 1556642674532,
+    "status": "STOPPED",
+    "operatingParams": {
+      "rotorSpeed": 0,
+      "slack": 0,
+      "rootThreshold": 47.02
+    },
+    "asset": {
+      "id": 3,
+      "alias": "Secondary Rotor Shaft"
+    },
+    "parent": {
+      "id": 7,
+      "alias": "Counter Blades"
+    }
+  },
+  {
+    "id": 44,
+    "timestamp": 1563752473088,
+    "status": "MALFUNCTIONING",
+    "operatingParams": {
+      "rotorSpeed": 415,
+      "slack": 1.02,
+      "rootThreshold": 9.06
+    },
+    "asset": {
+      "id": 5,
+      "alias": "Tertiary Rotor"
+    },
+    "parent": {
+      "id": 2,
+      "alias": "Main Rotor Shaft"
+    }
+  },
+  {
+    "id": 45,
+    "timestamp": 1559037003686,
+    "status": "MALFUNCTIONING",
+    "operatingParams": {
+      "rotorSpeed": 797,
+      "slack": 8.51,
+      "rootThreshold": 4.48
+    },
+    "asset": {
+      "id": 3,
+      "alias": "Secondary Rotor Shaft"
+    },
+    "parent": {
+      "id": 7,
+      "alias": "Counter Blades"
+    }
+  },
+  {
+    "id": 46,
+    "timestamp": 1552562195715,
+    "status": "RUNNING",
+    "operatingParams": {
+      "rotorSpeed": 2281,
+      "slack": 55.14,
+      "rootThreshold": 0
+    },
+    "asset": {
+      "id": 7,
+      "alias": "Counter Blades"
+    }
+  },
+  {
+    "id": 47,
+    "timestamp": 1547224303019,
+    "status": "RUNNING",
+    "operatingParams": {
+      "rotorSpeed": 2044,
+      "slack": 53.54,
+      "rootThreshold": 0
+    },
+    "asset": {
+      "id": 7,
+      "alias": "Counter Blades"
+    }
+  },
+  {
+    "id": 48,
+    "timestamp": 1551888048792,
+    "status": "MALFUNCTIONING",
+    "operatingParams": {
+      "rotorSpeed": 740,
+      "slack": 2.58,
+      "rootThreshold": 4.52
+    },
+    "asset": {
+      "id": 1,
+      "alias": "Axle Motor"
+    },
+    "parent": null
+  },
+  {
+    "id": 49,
+    "timestamp": 1560064864330,
+    "status": "RUNNING",
+    "operatingParams": {
+      "rotorSpeed": 4721,
+      "slack": 90.46,
+      "rootThreshold": 0
+    },
+    "asset": {
+      "id": 3,
+      "alias": "Secondary Rotor Shaft"
+    },
+    "parent": {
+      "id": 7,
+      "alias": "Counter Blades"
+    }
+  },
+  {
+    "id": 50,
+    "timestamp": 1559597269563,
+    "status": "STOPPED",
+    "operatingParams": {
+      "rotorSpeed": 0,
+      "slack": 0,
+      "rootThreshold": 86.07
+    },
+    "asset": {
+      "id": 2,
+      "alias": "Main Rotor Shaft"
+    }
+  },
+  {
+    "id": 51,
+    "timestamp": 1554411734690,
+    "status": "RUNNING",
+    "operatingParams": {
+      "rotorSpeed": 2957,
+      "slack": 87.8,
+      "rootThreshold": 0
+    },
+    "asset": {
+      "id": 4,
+      "alias": "Secondary Rotor"
+    },
+    "parent": {
+      "id": 2,
+      "alias": "Main Rotor Shaft"
+    }
+  },
+  {
+    "id": 52,
+    "timestamp": 1555273747500,
+    "status": "STOPPED",
+    "operatingParams": {
+      "rotorSpeed": 0,
+      "slack": 0,
+      "rootThreshold": 79.73
+    },
+    "asset": {
+      "id": 4,
+      "alias": "Secondary Rotor"
+    },
+    "parent": {
+      "id": 2,
+      "alias": "Main Rotor Shaft"
+    }
+  },
+  {
+    "id": 53,
+    "timestamp": 1558214184499,
+    "status": "STOPPED",
+    "operatingParams": {
+      "rotorSpeed": 0,
+      "slack": 0,
+      "rootThreshold": 15.28
+    },
+    "asset": {
+      "id": 4,
+      "alias": "Secondary Rotor"
+    },
+    "parent": {
+      "id": 2,
+      "alias": "Main Rotor Shaft"
+    }
+  },
+  {
+    "id": 54,
+    "timestamp": 1553587216516,
+    "status": "RUNNING",
+    "operatingParams": {
+      "rotorSpeed": 3226,
+      "slack": 84.66,
+      "rootThreshold": 0
+    },
+    "asset": {
+      "id": 6,
+      "alias": "Penstock Guage"
+    }
+  },
+  {
+    "id": 55,
+    "timestamp": 1562136834547,
+    "status": "STOPPED",
+    "operatingParams": {
+      "rotorSpeed": 0,
+      "slack": 0,
+      "rootThreshold": 96.66
+    },
+    "asset": {
+      "id": 1,
+      "alias": "Axle Motor"
+    },
+    "parent": null
+  },
+  {
+    "id": 56,
+    "timestamp": 1557117848956,
+    "status": "MALFUNCTIONING",
+    "operatingParams": {
+      "rotorSpeed": 240,
+      "slack": 7.86,
+      "rootThreshold": 3.03
+    },
+    "asset": {
+      "id": 4,
+      "alias": "Secondary Rotor"
+    },
+    "parent": {
+      "id": 2,
+      "alias": "Main Rotor Shaft"
+    }
+  },
+  {
+    "id": 57,
+    "timestamp": 1555874682656,
+    "status": "RUNNING",
+    "operatingParams": {
+      "rotorSpeed": 1585,
+      "slack": 53.07,
+      "rootThreshold": 0
+    },
+    "asset": {
+      "id": 1,
+      "alias": "Axle Motor"
+    },
+    "parent": null
+  },
+  {
+    "id": 58,
+    "timestamp": 1551817319450,
+    "status": "MALFUNCTIONING",
+    "operatingParams": {
+      "rotorSpeed": 785,
+      "slack": 1.52,
+      "rootThreshold": 6.17
+    },
+    "asset": {
+      "id": 6,
+      "alias": "Penstock Guage"
+    }
+  },
+  {
+    "id": 59,
+    "timestamp": 1553671973838,
+    "status": "RUNNING",
+    "operatingParams": {
+      "rotorSpeed": 4238,
+      "slack": 33.08,
+      "rootThreshold": 0
+    },
+    "asset": {
+      "id": 1,
+      "alias": "Axle Motor"
+    },
+    "parent": null
+  },
+  {
+    "id": 60,
+    "timestamp": 1566828588900,
+    "status": "RUNNING",
+    "operatingParams": {
+      "rotorSpeed": 4686,
+      "slack": 19.24,
+      "rootThreshold": 0
+    },
+    "asset": {
+      "id": 2,
+      "alias": "Main Rotor Shaft"
+    }
+  },
+  {
+    "id": 61,
+    "timestamp": 1554481877068,
+    "status": "MALFUNCTIONING",
+    "operatingParams": {
+      "rotorSpeed": 939,
+      "slack": 6.42,
+      "rootThreshold": 1.47
+    },
+    "asset": {
+      "id": 5,
+      "alias": "Tertiary Rotor"
+    },
+    "parent": {
+      "id": 2,
+      "alias": "Main Rotor Shaft"
+    }
+  },
+  {
+    "id": 62,
+    "timestamp": 1563263018996,
+    "status": "RUNNING",
+    "operatingParams": {
+      "rotorSpeed": 4005,
+      "slack": 33.92,
+      "rootThreshold": 0
+    },
+    "asset": {
+      "id": 2,
+      "alias": "Main Rotor Shaft"
+    }
+  },
+  {
+    "id": 63,
+    "timestamp": 1556128780196,
+    "status": "RUNNING",
+    "operatingParams": {
+      "rotorSpeed": 1048,
+      "slack": 65.87,
+      "rootThreshold": 0
+    },
+    "asset": {
+      "id": 6,
+      "alias": "Penstock Guage"
+    }
+  },
+  {
+    "id": 64,
+    "timestamp": 1565950442818,
+    "status": "RUNNING",
+    "operatingParams": {
+      "rotorSpeed": 4809,
+      "slack": 42.4,
+      "rootThreshold": 0
+    },
+    "asset": {
+      "id": 2,
+      "alias": "Main Rotor Shaft"
+    }
+  },
+  {
+    "id": 65,
+    "timestamp": 1551946819246,
+    "status": "RUNNING",
+    "operatingParams": {
+      "rotorSpeed": 3338,
+      "slack": 83.17,
+      "rootThreshold": 0
+    },
+    "asset": {
+      "id": 0,
+      "alias": "Primary Rotor"
+    },
+    "parent": {
+      "id": 2,
+      "alias": "Main Rotor Shaft"
+    }
+  },
+  {
+    "id": 66,
+    "timestamp": 1548342608263,
+    "status": "STOPPED",
+    "operatingParams": {
+      "rotorSpeed": 0,
+      "slack": 0,
+      "rootThreshold": 14.55
+    },
+    "asset": {
+      "id": 1,
+      "alias": "Axle Motor"
+    },
+    "parent": null
+  },
+  {
+    "id": 67,
+    "timestamp": 1563024471053,
+    "status": "MALFUNCTIONING",
+    "operatingParams": {
+      "rotorSpeed": 252,
+      "slack": 4.69,
+      "rootThreshold": 6.2
+    },
+    "asset": {
+      "id": 2,
+      "alias": "Main Rotor Shaft"
+    }
+  },
+  {
+    "id": 68,
+    "timestamp": 1552712748997,
+    "status": "RUNNING",
+    "operatingParams": {
+      "rotorSpeed": 1987,
+      "slack": 88.38,
+      "rootThreshold": 0
+    },
+    "asset": {
+      "id": 0,
+      "alias": "Primary Rotor"
+    },
+    "parent": {
+      "id": 2,
+      "alias": "Main Rotor Shaft"
+    }
+  },
+  {
+    "id": 69,
+    "timestamp": 1562090056789,
+    "status": "STOPPED",
+    "operatingParams": {
+      "rotorSpeed": 0,
+      "slack": 0,
+      "rootThreshold": 87.66
+    },
+    "asset": {
+      "id": 1,
+      "alias": "Axle Motor"
+    },
+    "parent": null
+  },
+  {
+    "id": 70,
+    "timestamp": 1548880144946,
+    "status": "RUNNING",
+    "operatingParams": {
+      "rotorSpeed": 4579,
+      "slack": 92.13,
+      "rootThreshold": 0
+    },
+    "asset": {
+      "id": 0,
+      "alias": "Primary Rotor"
+    },
+    "parent": {
+      "id": 2,
+      "alias": "Main Rotor Shaft"
+    }
+  },
+  {
+    "id": 71,
+    "timestamp": 1554203042472,
+    "status": "RUNNING",
+    "operatingParams": {
+      "rotorSpeed": 4446,
+      "slack": 88.08,
+      "rootThreshold": 0
+    },
+    "asset": {
+      "id": 3,
+      "alias": "Secondary Rotor Shaft"
+    },
+    "parent": {
+      "id": 7,
+      "alias": "Counter Blades"
+    }
+  },
+  {
+    "id": 72,
+    "timestamp": 1555703665592,
+    "status": "MALFUNCTIONING",
+    "operatingParams": {
+      "rotorSpeed": 87,
+      "slack": 6.51,
+      "rootThreshold": 9.99
+    },
+    "asset": {
+      "id": 1,
+      "alias": "Axle Motor"
+    },
+    "parent": null
+  },
+  {
+    "id": 73,
+    "timestamp": 1559583050611,
+    "status": "MALFUNCTIONING",
+    "operatingParams": {
+      "rotorSpeed": 14,
+      "slack": 3.91,
+      "rootThreshold": 1.29
+    },
+    "asset": {
+      "id": 3,
+      "alias": "Secondary Rotor Shaft"
+    },
+    "parent": {
+      "id": 7,
+      "alias": "Counter Blades"
+    }
+  },
+  {
+    "id": 74,
+    "timestamp": 1547825600199,
+    "status": "STOPPED",
+    "operatingParams": {
+      "rotorSpeed": 0,
+      "slack": 0,
+      "rootThreshold": 58.44
+    },
+    "asset": {
+      "id": 7,
+      "alias": "Counter Blades"
+    }
+  },
+  {
+    "id": 75,
+    "timestamp": 1548594337374,
+    "status": "STOPPED",
+    "operatingParams": {
+      "rotorSpeed": 0,
+      "slack": 0,
+      "rootThreshold": 85.08
+    },
+    "asset": {
+      "id": 1,
+      "alias": "Axle Motor"
+    },
+    "parent": null
+  },
+  {
+    "id": 76,
+    "timestamp": 1567094909258,
+    "status": "RUNNING",
+    "operatingParams": {
+      "rotorSpeed": 4375,
+      "slack": 34.77,
+      "rootThreshold": 0
+    },
+    "asset": {
+      "id": 4,
+      "alias": "Secondary Rotor"
+    },
+    "parent": {
+      "id": 2,
+      "alias": "Main Rotor Shaft"
+    }
+  },
+  {
+    "id": 77,
+    "timestamp": 1557425903210,
+    "status": "RUNNING",
+    "operatingParams": {
+      "rotorSpeed": 2906,
+      "slack": 28.69,
+      "rootThreshold": 0
+    },
+    "asset": {
+      "id": 5,
+      "alias": "Tertiary Rotor"
+    },
+    "parent": {
+      "id": 2,
+      "alias": "Main Rotor Shaft"
+    }
+  },
+  {
+    "id": 78,
+    "timestamp": 1566772304240,
+    "status": "MALFUNCTIONING",
+    "operatingParams": {
+      "rotorSpeed": 655,
+      "slack": 1.29,
+      "rootThreshold": 4.44
+    },
+    "asset": {
+      "id": 2,
+      "alias": "Main Rotor Shaft"
+    }
+  },
+  {
+    "id": 79,
+    "timestamp": 1554646330465,
+    "status": "MALFUNCTIONING",
+    "operatingParams": {
+      "rotorSpeed": 578,
+      "slack": 5.92,
+      "rootThreshold": 3.44
+    },
+    "asset": {
+      "id": 2,
+      "alias": "Main Rotor Shaft"
+    }
+  },
+  {
+    "id": 80,
+    "timestamp": 1547789162068,
+    "status": "RUNNING",
+    "operatingParams": {
+      "rotorSpeed": 3287,
+      "slack": 70.4,
+      "rootThreshold": 0
+    },
+    "asset": {
+      "id": 2,
+      "alias": "Main Rotor Shaft"
+    }
+  },
+  {
+    "id": 81,
+    "timestamp": 1561700496076,
+    "status": "MALFUNCTIONING",
+    "operatingParams": {
+      "rotorSpeed": 556,
+      "slack": 2.21,
+      "rootThreshold": 5.32
+    },
+    "asset": {
+      "id": 1,
+      "alias": "Axle Motor"
+    },
+    "parent": null
+  },
+  {
+    "id": 82,
+    "timestamp": 1554695217400,
+    "status": "RUNNING",
+    "operatingParams": {
+      "rotorSpeed": 1592,
+      "slack": 76.93,
+      "rootThreshold": 0
+    },
+    "asset": {
+      "id": 3,
+      "alias": "Secondary Rotor Shaft"
+    },
+    "parent": {
+      "id": 7,
+      "alias": "Counter Blades"
+    }
+  },
+  {
+    "id": 83,
+    "timestamp": 1547239665283,
+    "status": "STOPPED",
+    "operatingParams": {
+      "rotorSpeed": 0,
+      "slack": 0,
+      "rootThreshold": 87.5
+    },
+    "asset": {
+      "id": 1,
+      "alias": "Axle Motor"
+    },
+    "parent": null
+  },
+  {
+    "id": 84,
+    "timestamp": 1555075723254,
+    "status": "MALFUNCTIONING",
+    "operatingParams": {
+      "rotorSpeed": 797,
+      "slack": 3.33,
+      "rootThreshold": 4.7
+    },
+    "asset": {
+      "id": 3,
+      "alias": "Secondary Rotor Shaft"
+    },
+    "parent": {
+      "id": 7,
+      "alias": "Counter Blades"
+    }
+  },
+  {
+    "id": 85,
+    "timestamp": 1549280135256,
+    "status": "STOPPED",
+    "operatingParams": {
+      "rotorSpeed": 0,
+      "slack": 0,
+      "rootThreshold": 42.33
+    },
+    "asset": {
+      "id": 7,
+      "alias": "Counter Blades"
+    }
+  },
+  {
+    "id": 86,
+    "timestamp": 1550732223047,
+    "status": "MALFUNCTIONING",
+    "operatingParams": {
+      "rotorSpeed": 247,
+      "slack": 7.75,
+      "rootThreshold": 4.25
+    },
+    "asset": {
+      "id": 7,
+      "alias": "Counter Blades"
+    }
+  },
+  {
+    "id": 87,
+    "timestamp": 1552773509630,
+    "status": "MALFUNCTIONING",
+    "operatingParams": {
+      "rotorSpeed": 47,
+      "slack": 1.69,
+      "rootThreshold": 8.77
+    },
+    "asset": {
+      "id": 4,
+      "alias": "Secondary Rotor"
+    },
+    "parent": {
+      "id": 2,
+      "alias": "Main Rotor Shaft"
+    }
+  },
+  {
+    "id": 88,
+    "timestamp": 1560970138990,
+    "status": "MALFUNCTIONING",
+    "operatingParams": {
+      "rotorSpeed": 322,
+      "slack": 8.21,
+      "rootThreshold": 9.98
+    },
+    "asset": {
+      "id": 0,
+      "alias": "Primary Rotor"
+    },
+    "parent": {
+      "id": 2,
+      "alias": "Main Rotor Shaft"
+    }
+  },
+  {
+    "id": 89,
+    "timestamp": 1565177840863,
+    "status": "MALFUNCTIONING",
+    "operatingParams": {
+      "rotorSpeed": 511,
+      "slack": 8.95,
+      "rootThreshold": 2.72
+    },
+    "asset": {
+      "id": 7,
+      "alias": "Counter Blades"
+    }
+  },
+  {
+    "id": 90,
+    "timestamp": 1565113224939,
+    "status": "RUNNING",
+    "operatingParams": {
+      "rotorSpeed": 2234,
+      "slack": 70.09,
+      "rootThreshold": 0
+    },
+    "asset": {
+      "id": 5,
+      "alias": "Tertiary Rotor"
+    },
+    "parent": {
+      "id": 2,
+      "alias": "Main Rotor Shaft"
+    }
+  },
+  {
+    "id": 91,
+    "timestamp": 1547935231077,
+    "status": "STOPPED",
+    "operatingParams": {
+      "rotorSpeed": 0,
+      "slack": 0,
+      "rootThreshold": 86.74
+    },
+    "asset": {
+      "id": 6,
+      "alias": "Penstock Guage"
+    }
+  },
+  {
+    "id": 92,
+    "timestamp": 1567865441564,
+    "status": "MALFUNCTIONING",
+    "operatingParams": {
+      "rotorSpeed": 841,
+      "slack": 5.05,
+      "rootThreshold": 9.72
+    },
+    "asset": {
+      "id": 0,
+      "alias": "Primary Rotor"
+    },
+    "parent": {
+      "id": 2,
+      "alias": "Main Rotor Shaft"
+    }
+  },
+  {
+    "id": 93,
+    "timestamp": 1552623254609,
+    "status": "RUNNING",
+    "operatingParams": {
+      "rotorSpeed": 1792,
+      "slack": 32.17,
+      "rootThreshold": 0
+    },
+    "asset": {
+      "id": 2,
+      "alias": "Main Rotor Shaft"
+    }
+  },
+  {
+    "id": 94,
+    "timestamp": 1567911918731,
+    "status": "RUNNING",
+    "operatingParams": {
+      "rotorSpeed": 2957,
+      "slack": 41.36,
+      "rootThreshold": 0
+    },
+    "asset": {
+      "id": 6,
+      "alias": "Penstock Guage"
+    }
+  },
+  {
+    "id": 95,
+    "timestamp": 1558165134282,
+    "status": "RUNNING",
+    "operatingParams": {
+      "rotorSpeed": 4761,
+      "slack": 80.26,
+      "rootThreshold": 0
+    },
+    "asset": {
+      "id": 3,
+      "alias": "Secondary Rotor Shaft"
+    },
+    "parent": {
+      "id": 7,
+      "alias": "Counter Blades"
+    }
+  },
+  {
+    "id": 96,
+    "timestamp": 1556180147137,
+    "status": "RUNNING",
+    "operatingParams": {
+      "rotorSpeed": 4402,
+      "slack": 61.77,
+      "rootThreshold": 0
+    },
+    "asset": {
+      "id": 1,
+      "alias": "Axle Motor"
+    },
+    "parent": null
+  },
+  {
+    "id": 97,
+    "timestamp": 1556225468979,
+    "status": "MALFUNCTIONING",
+    "operatingParams": {
+      "rotorSpeed": 615,
+      "slack": 4.87,
+      "rootThreshold": 4.66
+    },
+    "asset": {
+      "id": 4,
+      "alias": "Secondary Rotor"
+    },
+    "parent": {
+      "id": 2,
+      "alias": "Main Rotor Shaft"
+    }
+  },
+  {
+    "id": 98,
+    "timestamp": 1547406243885,
+    "status": "MALFUNCTIONING",
+    "operatingParams": {
+      "rotorSpeed": 97,
+      "slack": 9.35,
+      "rootThreshold": 1.33
+    },
+    "asset": {
+      "id": 1,
+      "alias": "Axle Motor"
+    },
+    "parent": null
+  },
+  {
+    "id": 99,
+    "timestamp": 1547599050573,
+    "status": "STOPPED",
+    "operatingParams": {
+      "rotorSpeed": 0,
+      "slack": 0,
+      "rootThreshold": 45.29
+    },
+    "asset": {
+      "id": 0,
+      "alias": "Primary Rotor"
+    },
+    "parent": {
+      "id": 2,
+      "alias": "Main Rotor Shaft"
+    }
+  }
+]
