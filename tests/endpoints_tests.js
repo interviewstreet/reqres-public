@@ -767,6 +767,57 @@ describe('Check all `/api` endpoints', () => {
           });
         });
   });
+
+  describe('iot_devices.json', () => {
+    it('/api/iot_devices?page=...', (done) => {
+        let startIndex = 0;
+        let endIndex = 10;
+        let pages = range(1, 10);
+
+        Promise.mapSeries(pages, (page) => {
+            return chai.request(server)
+              .get('/api/iot_devices/?page=' + page.toString())
+              .then((res) => {
+                return res.body.data;
+              })
+          }).then((results) => {
+            for (let result of results) {
+              result.should.be.eql(data['iot_devices'].slice(startIndex, endIndex));
+              startIndex += 10;
+              endIndex += 10;
+            }
+            done();
+          }).catch((err) => {
+            console.log(err);
+            done(err);
+          });
+    })
+
+    it('/api/iot_devices?property=...&page=...', (done) => {
+        chai.request(server)
+          .get('/api/iot_devices?status=RUNNING')
+          .then((res) => {
+            res.body.data[0].should.be.eql({
+              "id": 4,
+              "timestamp": 1554240798496,
+              "status": "RUNNING",
+              "operatingParams": {
+                "rotorSpeed": 2967,
+                "slack": 37.32,
+                "rootThreshold": 0
+              },
+              "asset": {
+                "id": 2,
+                "alias": "Main Rotor Shaft"
+              }
+            });
+            done();
+          }).catch((err) => {
+            console.log(err);
+            done(err);
+          });
+        });
+  });
 });
 
 describe('Dynamic APIs', () => {
