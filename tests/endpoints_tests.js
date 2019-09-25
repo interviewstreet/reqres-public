@@ -882,6 +882,58 @@ describe('Check all `/api` endpoints', () => {
           });
         });
   });
+
+    describe('transactions.json', () => {
+        it('/api/transactions?page=...', (done) => {
+            let startIndex = 0;
+            let endIndex = 10;
+            let pages = range(1, 6);
+
+            Promise.mapSeries(pages, (page) => {
+                return chai.request(server)
+                    .get('/api/transactions/?page=' + page.toString())
+                    .then((res) => {
+                        return res.body.data;
+                    })
+            }).then((results) => {
+                for (let result of results) {
+                    result.should.be.eql(data['transactions'].slice(startIndex, endIndex));
+                    startIndex += 10;
+                    endIndex += 10;
+                }
+                done();
+            }).catch((err) => {
+                console.log(err);
+                done(err);
+            });
+        })
+
+        it('/api/transactions?property=...&page=...', (done) => {
+            chai.request(server)
+                .get('/api/transactions?txnType=debit&userId=4')
+                .then((res) => {
+                    res.body.data[0].should.be.eql({
+                        "id": 30,
+                        "userId": 4,
+                        "userName": "Francesco De Mello",
+                        "timestamp": 1548262142180,
+                        "txnType": "debit",
+                        "amount": "$2,647.85",
+                        "location": {
+                            "id": 9,
+                            "address": "961, Neptide, Elliott Walk",
+                            "city": "Bourg",
+                            "zipCode": 68602
+                        },
+                        "ip": "119.162.205.226"
+                    });
+                    done();
+                }).catch((err) => {
+                console.log(err);
+                done(err);
+            });
+        });
+    });
 });
 
 describe('Dynamic APIs', () => {
