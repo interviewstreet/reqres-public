@@ -14,7 +14,7 @@
     "cors": "^2.4.2",
     "express": "^4.9.7",
     "fecha": "^2.3.3",
-    "hbs": "^2.7.0",
+    "hbs": "^4.0.5",
     "lodash": "^2.4.1"
   },
   "devDependencies": {
