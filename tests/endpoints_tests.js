@@ -818,6 +818,122 @@ describe('Check all `/api` endpoints', () => {
           });
         });
   });
+
+  describe('medical_records.json', () => {
+    it('/api/medical_records?page=...', (done) => {
+        let startIndex = 0;
+        let endIndex = 10;
+        let pages = range(1, 6);
+
+        Promise.mapSeries(pages, (page) => {
+            return chai.request(server)
+              .get('/api/medical_records/?page=' + page.toString())
+              .then((res) => {
+                return res.body.data;
+              })
+          }).then((results) => {
+            for (let result of results) {
+              result.should.be.eql(data['medical_records'].slice(startIndex, endIndex));
+              startIndex += 10;
+              endIndex += 10;
+            }
+            done();
+          }).catch((err) => {
+            console.log(err);
+            done(err);
+          });
+    })
+
+    it('/api/medical_records?property=...&page=...', (done) => {
+        chai.request(server)
+          .get('/api/medical_records?userName=Bob Martin')
+          .then((res) => {
+            res.body.data[0].should.be.eql({
+              "id": 1,
+              "timestamp": 1565637002408,
+              "diagnosis": {
+                "id": 3,
+                "name": "Pulmonary embolism",
+                "severity": 4
+              },
+              "vitals": {
+                "bloodPressureDiastole": 154,
+                "bloodPressureSystole": 91,
+                "pulse": 125,
+                "breathingRate": 32,
+                "bodyTemperature": 100
+              },
+              "doctor": {
+                "id": 2,
+                "name": "Dr Arnold Bullock"
+              },
+              "userId": 2,
+              "userName": "Bob Martin",
+              "userDob": "14-09-1989",
+              "meta": {
+                "height": 174,
+                "weight": 172
+              }
+            });
+            done();
+          }).catch((err) => {
+            console.log(err);
+            done(err);
+          });
+        });
+  });
+
+    describe('transactions.json', () => {
+        it('/api/transactions?page=...', (done) => {
+            let startIndex = 0;
+            let endIndex = 10;
+            let pages = range(1, 6);
+
+            Promise.mapSeries(pages, (page) => {
+                return chai.request(server)
+                    .get('/api/transactions/?page=' + page.toString())
+                    .then((res) => {
+                        return res.body.data;
+                    })
+            }).then((results) => {
+                for (let result of results) {
+                    result.should.be.eql(data['transactions'].slice(startIndex, endIndex));
+                    startIndex += 10;
+                    endIndex += 10;
+                }
+                done();
+            }).catch((err) => {
+                console.log(err);
+                done(err);
+            });
+        })
+
+        it('/api/transactions?property=...&page=...', (done) => {
+            chai.request(server)
+                .get('/api/transactions?txnType=debit&userId=4')
+                .then((res) => {
+                    res.body.data[0].should.be.eql({
+                        "id": 30,
+                        "userId": 4,
+                        "userName": "Francesco De Mello",
+                        "timestamp": 1548262142180,
+                        "txnType": "debit",
+                        "amount": "$2,647.85",
+                        "location": {
+                            "id": 9,
+                            "address": "961, Neptide, Elliott Walk",
+                            "city": "Bourg",
+                            "zipCode": 68602
+                        },
+                        "ip": "119.162.205.226"
+                    });
+                    done();
+                }).catch((err) => {
+                console.log(err);
+                done(err);
+            });
+        });
+    });
 });
 
 describe('articles.json', () => {
