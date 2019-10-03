@@ -936,6 +936,101 @@ describe('Check all `/api` endpoints', () => {
     });
 });
 
+describe('articles.json', () => {
+  it('/api/articles?page=...', (done) => {
+    let startIndex = 0;
+    let endIndex = 10;
+    let pages = [];
+    for (let i = 1; i <= 25; i += 1)
+      pages.push(i);
+
+    Promise.mapSeries(pages, (page) => {
+      return chai.request(server)
+          .get('/api/articles?page=' + page.toString())
+          .then((res) => {
+            return res.body.data;
+          })
+    }).then((results) => {
+      for (let result of results) {
+        result.should.be.eql(data['articles'].slice(startIndex, endIndex));
+        startIndex += 10;
+        endIndex += 10;
+      }
+      done();
+    }).catch((err) => {
+      console.log(err);
+      done(err);
+    });
+  });
+
+  it('/api/articles?author=...', (done) => {
+    chai.request(server)
+        .get('/api/articles?author=panny')
+        .then((res) => {
+          res.body.data[0].should.be.eql({
+            "title": "F.C.C. Repeals Net Neutrality Rules",
+            "url": "https://www.nytimes.com/2017/12/14/technology/net-neutrality-repeal-vote.html",
+            "author": "panny",
+            "num_comments": 1397,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at": 1513275215
+          });
+          done();
+        });
+  });
+
+});
+
+describe('article_users.json', () => {
+  it('/api/article_user?page=...', (done) => {
+    let startIndex = 0;
+    let endIndex = 10;
+    let pages = [];
+    for (let i = 1; i <= 25; i += 1)
+      pages.push(i);
+
+    Promise.mapSeries(pages, (page) => {
+      return chai.request(server)
+          .get('/api/article_users?page=' + page.toString())
+          .then((res) => {
+            return res.body.data;
+          })
+    }).then((results) => {
+      for (let result of results) {
+        result.should.be.eql(data['article_users'].slice(startIndex, endIndex));
+        startIndex += 10;
+        endIndex += 10;
+      }
+      done();
+    }).catch((err) => {
+      console.log(err);
+      done(err);
+    });
+  });
+
+  it('/api/article_users?username=...', (done) => {
+    chai.request(server)
+        .get('/api/article_users?username=epaga')
+        .then((res) => {
+          res.body.data[0].should.be.eql({
+            "id": 1,
+            "username": "epaga",
+            "about": "Java developer / team leader at inetsoftware.de by day<p>iOS developer by night<p>http://www.mindscopeapp.com<p>http://inflightassistant.info<p>http://appstore.com/johngoering<p>[ my public key: https://keybase.io/johngoering; my proof: https://keybase.io/johngoering/sigs/I1UIk7t3PjfB5v2GI-fhiOMvdkzn370_Z2iU5GitXa0 ]<p>hnchat:oYwa7PJ4Yaf1Vw9Om4ju",
+            "submitted": 654,
+            "updated_at": "2019-08-29T13:45:12.000Z",
+            "submission_count": 197,
+            "comment_count": 439,
+            "created_at": 1301039509
+          });
+          done();
+        });
+  });
+
+});
+
 describe('Dynamic APIs', () => {
   it('/datetime', (done) => {
     chai.request(server)
