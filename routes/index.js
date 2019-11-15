@@ -15,7 +15,11 @@ module.exports = {
 				items = data[resource];
 				return returnSingle(items, itemArg, res);
 			}
-			items = search(data[resource], req, res, true);
+			if (resource === 'cities') {
+				items = search(data[resource], req, res, false, true);
+			} else {
+				items = search(data[resource], req, res, true);
+			}
 			return returnAll(items, req, res, (resources_config[resource] || {}));
 		} else {
 			return res.status(400).send({ error: "Unknown resource" });

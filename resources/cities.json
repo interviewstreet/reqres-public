@@ -1,0 +1,35 @@
+[
+    {
+        "city": "Agra",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "city": "Aligarh",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "city": "Ajmer",
+        "state": "Rajasthan"
+    },
+    {
+        "city": "Alwar",
+        "state": "Rajasthan"
+    },
+    {
+        "city": "Aurangabad",
+        "state": "Maharashtra"
+    },
+    {
+        "city": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "city": "Ahemdabad",
+        "state": "Gujarat"
+    },
+    {
+        "city": "Anand",
+        "state": "Gujarat"
+    }
+]
+
