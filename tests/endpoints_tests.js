@@ -1018,7 +1018,7 @@ describe('article_users.json', () => {
           res.body.data[0].should.be.eql({
             "id": 1,
             "username": "epaga",
-            "about": "Java developer / team leader at inetsoftware.de by day<p>iOS developer by night<p>http://www.mindscopeapp.com<p>http://inflightassistant.info<p>http://appstore.com/johngoering<p>[ my public key: https://keybase.io/johngoering; my proof: https://keybase.io/johngoering/sigs/I1UIk7t3PjfB5v2GI-fhiOMvdkzn370_Z2iU5GitXa0 ]<p>hnchat:oYwa7PJ4Yaf1Vw9Om4ju",
+            "about": "Java developer / team leader at inetsoftware.de ",
             "submitted": 654,
             "updated_at": "2019-08-29T13:45:12.000Z",
             "submission_count": 197,

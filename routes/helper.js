@@ -28,13 +28,17 @@ module.exports = {
         return res.status(404).send({});
     },
     
-    search: function(items, req, res, exactMatch=false) {
+    search: function(items, req, res, exactMatch=false, prefixMatch = false) {
         filteredItems = items;
         filters = getFilters(items, req, res);
         _.each(filters, function(value, key) {
             if (exactMatch) {
                 filteredItems = _.filter(filteredItems, function(item) {
                     return (getSanitizedValue(item[key]) === getSanitizedValue(value));
+                });
+            } else if (prefixMatch) {
+                filteredItems = _.filter(filteredItems, function(item) {
+                    return getSanitizedValue(item[key]).indexOf(getSanitizedValue(value)) === 0;
                 });
             } else {
                 filteredItems = _.filter(filteredItems, function(item) {
