@@ -1,35 +1,1411 @@
 [
     {
-        "city": "Agra",
-        "state": "Uttar Pradesh"
+      "city": "Abbeville",
+      "state": "Louisiana"
     },
     {
-        "city": "Aligarh",
-        "state": "Uttar Pradesh"
+      "city": "Aberdeen",
+      "state": "Maryland"
     },
     {
-        "city": "Ajmer",
-        "state": "Rajasthan"
+      "city": "Aberdeen",
+      "state": "Mississippi"
     },
     {
-        "city": "Alwar",
-        "state": "Rajasthan"
+      "city": "Aberdeen",
+      "state": "South Dakota"
     },
     {
-        "city": "Aurangabad",
-        "state": "Maharashtra"
+      "city": "Aberdeen",
+      "state": "Washington"
     },
     {
-        "city": "Mumbai",
-        "state": "Maharashtra"
+      "city": "Abilene",
+      "state": "Texas"
     },
     {
-        "city": "Ahemdabad",
-        "state": "Gujarat"
+      "city": "Abilene",
+      "state": "Kansas"
     },
     {
-        "city": "Anand",
-        "state": "Gujarat"
+      "city": "Abingdon",
+      "state": "Virginia"
+    },
+    {
+      "city": "Abington",
+      "state": "Massachusetts"
+    },
+    {
+      "city": "Abington",
+      "state": "Massachusetts"
+    },
+    {
+      "city": "Babylon",
+      "state": "New York"
+    },
+    {
+      "city": "Babylon",
+      "state": "New York"
+    },
+    {
+      "city": "Back Mountain",
+      "state": "Pennsylvania"
+    },
+    {
+      "city": "Bacliff",
+      "state": "Texas"
+    },
+    {
+      "city": "Bailey’s Crossroads",
+      "state": "Virginia"
+    },
+    {
+      "city": "Bainbridge",
+      "state": "Georgia"
+    },
+    {
+      "city": "Bainbridge Island",
+      "state": "Washington"
+    },
+    {
+      "city": "Baker",
+      "state": "Louisiana"
+    },
+    {
+      "city": "Baker City",
+      "state": "Oregon"
+    },
+    {
+      "city": "Bakersfield",
+      "state": "California"
+    },
+    {
+      "city": "Cabot",
+      "state": "Arkansas"
+    },
+    {
+      "city": "Cadillac",
+      "state": "Michigan"
+    },
+    {
+      "city": "Cahokia",
+      "state": "Illinois"
+    },
+    {
+      "city": "Cairo",
+      "state": "Georgia"
+    },
+    {
+      "city": "Cairo",
+      "state": "New York"
+    },
+    {
+      "city": "Calabasas",
+      "state": "California"
+    },
+    {
+      "city": "D’Iberville",
+      "state": "Mississippi"
+    },
+    {
+      "city": "Dade City",
+      "state": "Florida"
+    },
+    {
+      "city": "Dale City",
+      "state": "Virginia"
+    },
+    {
+      "city": "Dalhart",
+      "state": "Texas"
+    },
+    {
+      "city": "Dallas",
+      "state": "Texas"
+    },
+    {
+      "city": "Dallas",
+      "state": "Oregon"
+    },
+    {
+      "city": "Dalton",
+      "state": "Massachusetts"
+    },
+    {
+      "city": "Dalton",
+      "state": "Georgia"
+    },
+    {
+      "city": "Eagan",
+      "state": "Minnesota"
+    },
+    {
+      "city": "Eagle",
+      "state": "Idaho"
+    },
+    {
+      "city": "Eagle Mountain",
+      "state": "Texas"
+    },
+    {
+      "city": "Eagle Pass",
+      "state": "Texas"
+    },
+    {
+      "city": "Earlimart",
+      "state": "California"
+    },
+    {
+      "city": "Easley",
+      "state": "South Carolina"
+    },
+    {
+      "city": "East Alton",
+      "state": "Illinois"
+    },
+    {
+      "city": "East Aurora",
+      "state": "New York"
+    },
+    {
+      "city": "East Bethel",
+      "state": "Minnesota"
+    },
+    {
+      "city": "East Brainerd",
+      "state": "Tennessee"
+    },
+    {
+      "city": "East Bridgewater",
+      "state": "Massachusetts"
+    },
+    {
+      "city": "East Brunswick",
+      "state": "New Jersey"
+    },
+    {
+      "city": "East Chicago",
+      "state": "Indiana"
+    },
+    {
+      "city": "East Cleveland",
+      "state": "Ohio"
+    },
+    {
+      "city": "East Compton",
+      "state": "California"
+    },
+    {
+      "city": "East Falmouth",
+      "state": "Massachusetts"
+    },
+    {
+      "city": "East Fishkill",
+      "state": "New York"
+    },
+    {
+      "city": "Fabens",
+      "state": "Texas"
+    },
+    {
+      "city": "Fair Lawn",
+      "state": "New Jersey"
+    },
+    {
+      "city": "Fair Oaks",
+      "state": "California"
+    },
+    {
+      "city": "Fair Oaks",
+      "state": "Georgia"
+    },
+    {
+      "city": "Fair Plain",
+      "state": "Michigan"
+    },
+    {
+      "city": "Fairbanks",
+      "state": "Alaska"
+    },
+    {
+      "city": "Fairborn",
+      "state": "Ohio"
+    },
+    {
+      "city": "Fairdale",
+      "state": "Kentucky"
+    },
+    {
+      "city": "Fairfax",
+      "state": "California"
+    },
+    {
+      "city": "Fairfax",
+      "state": "Virginia"
+    },
+    {
+      "city": "Fairfield",
+      "state": "Ohio"
+    },
+    {
+      "city": "Fairfield",
+      "state": "New Jersey"
+    },
+    {
+      "city": "Fairfield",
+      "state": "California"
+    },
+    {
+      "city": "Fairfield",
+      "state": "Alabama"
+    },
+    {
+      "city": "Fairfield",
+      "state": "Connecticut"
+    },
+    {
+      "city": "Fairfield",
+      "state": "Iowa"
+    },
+    {
+      "city": "Fairfield",
+      "state": "Maine"
+    },
+    {
+      "city": "Fairhaven",
+      "state": "Massachusetts"
+    },
+    {
+      "city": "Fairhope",
+      "state": "Alabama"
+    },
+    {
+      "city": "Fairland",
+      "state": "Maryland"
+    },
+    {
+      "city": "Fairlawn",
+      "state": "Ohio"
+    },
+    {
+      "city": "Fairless Hills",
+      "state": "Pennsylvania"
+    },
+    {
+      "city": "Fairmont",
+      "state": "West Virginia"
+    },
+    {
+      "city": "Fairmont",
+      "state": "Minnesota"
+    },
+    {
+      "city": "Fairmount",
+      "state": "New York"
+    },
+    {
+      "city": "Fairview",
+      "state": "Oregon"
+    },
+    {
+      "city": "Fairview",
+      "state": "New Jersey"
+    },
+    {
+      "city": "Fairview",
+      "state": "California"
+    },
+    {
+      "city": "Fairview",
+      "state": "Georgia"
+    },
+    {
+      "city": "Fairview Heights",
+      "state": "Illinois"
+    },
+    {
+      "city": "Fairview Park",
+      "state": "Ohio"
+    },
+    {
+      "city": "Fairview Shores",
+      "state": "Florida"
+    },
+    {
+      "city": "Fairwood",
+      "state": "Washington"
+    },
+    {
+      "city": "Fall River",
+      "state": "Massachusetts"
+    },
+    {
+      "city": "Fallbrook",
+      "state": "California"
+    },
+    {
+      "city": "Fallon",
+      "state": "Nevada"
+    },
+    {
+      "city": "Falls Church",
+      "state": "Virginia"
+    },
+    {
+      "city": "Gadsden",
+      "state": "Alabama"
+    },
+    {
+      "city": "Gaffney",
+      "state": "South Carolina"
+    },
+    {
+      "city": "Gages Lake",
+      "state": "Illinois"
+    },
+    {
+      "city": "Gahanna",
+      "state": "Ohio"
+    },
+    {
+      "city": "Gainesville",
+      "state": "Texas"
+    },
+    {
+      "city": "Gainesville",
+      "state": "Georgia"
+    },
+    {
+      "city": "Gainesville",
+      "state": "Florida"
+    },
+    {
+      "city": "Gaithersburg",
+      "state": "Maryland"
+    },
+    {
+      "city": "Galax",
+      "state": "Virginia"
+    },
+    {
+      "city": "Galena Park",
+      "state": "Texas"
+    },
+    {
+      "city": "Hacienda Heights",
+      "state": "California"
+    },
+    {
+      "city": "Hackensack",
+      "state": "New Jersey"
+    },
+    {
+      "city": "Hackettstown",
+      "state": "New Jersey"
+    },
+    {
+      "city": "Haddam",
+      "state": "Connecticut"
+    },
+    {
+      "city": "Haddon Heights",
+      "state": "New Jersey"
+    },
+    {
+      "city": "Haddonfield",
+      "state": "New Jersey"
+    },
+    {
+      "city": "Hagerstown",
+      "state": "Maryland"
+    },
+    {
+      "city": "Haiku-Pauwela",
+      "state": "Hawaii"
+    },
+    {
+      "city": "Hailey",
+      "state": "Idaho"
+    },
+    {
+      "city": "Haines City",
+      "state": "Florida"
+    },
+    {
+      "city": "Halawa",
+      "state": "Hawaii"
+    },
+    {
+      "city": "Haledon",
+      "state": "New Jersey"
+    },
+    {
+      "city": "Hales Corners",
+      "state": "Wisconsin"
+    },
+    {
+      "city": "Half Moon",
+      "state": "North Carolina"
+    },
+    {
+      "city": "Idabel",
+      "state": "Oklahoma"
+    },
+    {
+      "city": "Idaho Falls",
+      "state": "Idaho"
+    },
+    {
+      "city": "Idylwood",
+      "state": "Virginia"
+    },
+    {
+      "city": "Ilion",
+      "state": "New York"
+    },
+    {
+      "city": "Immokalee",
+      "state": "Florida"
+    },
+    {
+      "city": "Imperial",
+      "state": "California"
+    },
+    {
+      "city": "Imperial Beach",
+      "state": "California"
+    },
+    {
+      "city": "Incline Village-Crystal Bay",
+      "state": "Nevada"
+    },
+    {
+      "city": "Indianola",
+      "state": "Mississippi"
+    },
+    {
+      "city": "Indianola",
+      "state": "Iowa"
+    },
+    {
+      "city": "Indio",
+      "state": "California"
+    },
+    {
+      "city": "Jacinto City",
+      "state": "Texas"
+    },
+    {
+      "city": "Jackson",
+      "state": "Tennessee"
+    },
+    {
+      "city": "Jackson",
+      "state": "Ohio"
+    },
+    {
+      "city": "Jackson",
+      "state": "Wyoming"
+    },
+    {
+      "city": "Jackson",
+      "state": "Michigan"
+    },
+    {
+      "city": "Jackson",
+      "state": "Mississippi"
+    },
+    {
+      "city": "Jackson",
+      "state": "Missouri"
+    },
+    {
+      "city": "Jacksonville",
+      "state": "Alabama"
+    },
+    {
+      "city": "Jacksonville",
+      "state": "Arkansas"
+    },
+    {
+      "city": "Jacksonville",
+      "state": "Florida"
+    },
+    {
+      "city": "Jacksonville",
+      "state": "Illinois"
+    },
+    {
+      "city": "Jacksonville",
+      "state": "North Carolina"
+    },
+    {
+      "city": "Jacksonville",
+      "state": "Texas"
+    },
+    {
+      "city": "Kahului",
+      "state": "Hawaii"
+    },
+    {
+      "city": "Kailua",
+      "state": "Hawaii"
+    },
+    {
+      "city": "Kailua",
+      "state": "Hawaii"
+    },
+    {
+      "city": "Kalamazoo",
+      "state": "Michigan"
+    },
+    {
+      "city": "Kalaoa",
+      "state": "Hawaii"
+    },
+    {
+      "city": "Kalispell",
+      "state": "Montana"
+    },
+    {
+      "city": "Kaneohe",
+      "state": "Hawaii"
+    },
+    {
+      "city": "Kaneohe Station",
+      "state": "Hawaii"
+    },
+    {
+      "city": "Kankakee",
+      "state": "Illinois"
+    },
+    {
+      "city": "Kannapolis",
+      "state": "North Carolina"
+    },
+    {
+      "city": "Kansas City",
+      "state": "Missouri"
+    },
+    {
+      "city": "Kansas City",
+      "state": "Kansas"
+    },
+    {
+      "city": "La Canada Flintridge",
+      "state": "California"
+    },
+    {
+      "city": "La Crescenta-Montrose",
+      "state": "California"
+    },
+    {
+      "city": "La Crosse",
+      "state": "Wisconsin"
+    },
+    {
+      "city": "La Fayette",
+      "state": "Georgia"
+    },
+    {
+      "city": "La Feria",
+      "state": "Texas"
+    },
+    {
+      "city": "La Follette",
+      "state": "Tennessee"
+    },
+    {
+      "city": "La Grande",
+      "state": "Oregon"
+    },
+    {
+      "city": "La Grange",
+      "state": "New York"
+    },
+    {
+      "city": "La Grange",
+      "state": "Illinois"
+    },
+    {
+      "city": "La Grange Park",
+      "state": "Illinois"
+    },
+    {
+      "city": "La Habra",
+      "state": "California"
+    },
+    {
+      "city": "La Homa",
+      "state": "Texas"
+    },
+    {
+      "city": "Mableton",
+      "state": "Georgia"
+    },
+    {
+      "city": "Macedon",
+      "state": "New York"
+    },
+    {
+      "city": "Macedonia",
+      "state": "Ohio"
+    },
+    {
+      "city": "Machesney Park",
+      "state": "Illinois"
+    },
+    {
+      "city": "Macomb",
+      "state": "Illinois"
+    },
+    {
+      "city": "Macon",
+      "state": "Georgia"
+    },
+    {
+      "city": "Madeira",
+      "state": "Ohio"
+    },
+    {
+      "city": "Madera",
+      "state": "California"
+    },
+    {
+      "city": "Madera Acres",
+      "state": "California"
+    },
+    {
+      "city": "Madison",
+      "state": "Alabama"
+    },
+    {
+      "city": "Madison",
+      "state": "Indiana"
+    },
+    {
+      "city": "Nacogdoches",
+      "state": "Texas"
+    },
+    {
+      "city": "Nampa",
+      "state": "Idaho"
+    },
+    {
+      "city": "Nanakuli",
+      "state": "Hawaii"
+    },
+    {
+      "city": "Nanticoke",
+      "state": "Pennsylvania"
+    },
+    {
+      "city": "Nantucket",
+      "state": "Massachusetts"
+    },
+    {
+      "city": "Nanuet",
+      "state": "New York"
+    },
+    {
+      "city": "Napa",
+      "state": "California"
+    },
+    {
+      "city": "Naperville",
+      "state": "Illinois"
+    },
+    {
+      "city": "Napili-Honokowai",
+      "state": "Hawaii"
+    },
+    {
+      "city": "Naples",
+      "state": "Florida"
+    },
+    {
+      "city": "Naples Park",
+      "state": "Florida"
+    },
+    {
+      "city": "Napoleon",
+      "state": "Ohio"
+    },
+    {
+      "city": "O’Fallon",
+      "state": "Illinois"
+    },
+    {
+      "city": "O’Fallon",
+      "state": "Missouri"
+    },
+    {
+      "city": "O’Hara Township",
+      "state": "Pennsylvania"
+    },
+    {
+      "city": "Oak Brook",
+      "state": "Illinois"
+    },
+    {
+      "city": "Oak Creek",
+      "state": "Wisconsin"
+    },
+    {
+      "city": "Oak Forest",
+      "state": "Illinois"
+    },
+    {
+      "city": "Oak Grove",
+      "state": "Kentucky"
+    },
+    {
+      "city": "Oak Grove",
+      "state": "South Carolina"
+    },
+    {
+      "city": "Oak Grove",
+      "state": "Oregon"
+    },
+    {
+      "city": "Oak Grove",
+      "state": "Minnesota"
+    },
+    {
+      "city": "Oak Harbor",
+      "state": "Washington"
+    },
+    {
+      "city": "Oak Hill",
+      "state": "West Virginia"
+    },
+    {
+      "city": "Oak Hills",
+      "state": "Oregon"
+    },
+    {
+      "city": "Oak Hills Place",
+      "state": "Louisiana"
+    },
+    {
+      "city": "Oak Island",
+      "state": "North Carolina"
+    },
+    {
+      "city": "Oak Lawn",
+      "state": "Illinois"
+    },
+    {
+      "city": "Oak Park",
+      "state": "Illinois"
+    },
+    {
+      "city": "Oak Park",
+      "state": "Michigan"
+    },
+    {
+      "city": "Oak Ridge",
+      "state": "Tennessee"
+    },
+    {
+      "city": "Oak Ridge",
+      "state": "Florida"
+    },
+    {
+      "city": "Palmview South",
+      "state": "Texas"
+    },
+    {
+      "city": "Palmyra",
+      "state": "Pennsylvania"
+    },
+    {
+      "city": "Palmyra",
+      "state": "New Jersey"
+    },
+    {
+      "city": "Palmyra",
+      "state": "New York"
+    },
+    {
+      "city": "Palo Alto",
+      "state": "California"
+    },
+    {
+      "city": "Palos Heights",
+      "state": "Illinois"
+    },
+    {
+      "city": "Palos Hills",
+      "state": "Illinois"
+    },
+    {
+      "city": "Palos Verdes Estates",
+      "state": "California"
+    },
+    {
+      "city": "Pampa",
+      "state": "Texas"
+    },
+    {
+      "city": "Panama City",
+      "state": "Florida"
+    },
+    {
+      "city": "Panama City Beach",
+      "state": "Florida"
+    },
+    {
+      "city": "Panthersville",
+      "state": "Georgia"
+    },
+    {
+      "city": "Quakertown",
+      "state": "Pennsylvania"
+    },
+    {
+      "city": "Quantico Station",
+      "state": "Virginia"
+    },
+    {
+      "city": "Quartz Hill",
+      "state": "California"
+    },
+    {
+      "city": "Queensbury",
+      "state": "New York"
+    },
+    {
+      "city": "Quincy",
+      "state": "Florida"
+    },
+    {
+      "city": "Quincy",
+      "state": "Illinois"
+    },
+    {
+      "city": "Quincy",
+      "state": "Massachusetts"
+    },
+    {
+      "city": "Raceland",
+      "state": "Louisiana"
+    },
+    {
+      "city": "Racine",
+      "state": "Wisconsin"
+    },
+    {
+      "city": "Radcliff",
+      "state": "Kentucky"
+    },
+    {
+      "city": "Radford",
+      "state": "Virginia"
+    },
+    {
+      "city": "Radnor Township",
+      "state": "Pennsylvania"
+    },
+    {
+      "city": "Rahway",
+      "state": "New Jersey"
+    },
+    {
+      "city": "Rainbow City",
+      "state": "Alabama"
+    },
+    {
+      "city": "Raleigh",
+      "state": "North Carolina"
+    },
+    {
+      "city": "Ralston",
+      "state": "Nebraska"
+    },
+    {
+      "city": "Ramapo",
+      "state": "New York"
+    },
+    {
+      "city": "Sachse",
+      "state": "Texas"
+    },
+    {
+      "city": "Saco",
+      "state": "Maine"
+    },
+    {
+      "city": "Sacramento",
+      "state": "California"
+    },
+    {
+      "city": "Saddle Brook",
+      "state": "New Jersey"
+    },
+    {
+      "city": "Safety Harbor",
+      "state": "Florida"
+    },
+    {
+      "city": "Safford",
+      "state": "Arizona"
+    },
+    {
+      "city": "Saginaw",
+      "state": "Michigan"
+    },
+    {
+      "city": "Saginaw",
+      "state": "Texas"
+    },
+    {
+      "city": "Saginaw Township North",
+      "state": "Michigan"
+    },
+    {
+      "city": "Saginaw Township South",
+      "state": "Michigan"
+    },
+    {
+      "city": "Saks",
+      "state": "Alabama"
+    },
+    {
+      "city": "Salamanca",
+      "state": "New York"
+    },
+    {
+      "city": "Salem",
+      "state": "New Hampshire"
+    },
+    {
+      "city": "Travilah",
+      "state": "Maryland"
+    },
+    {
+      "city": "Treasure Island",
+      "state": "Florida"
+    },
+    {
+      "city": "Trenton",
+      "state": "Michigan"
+    },
+    {
+      "city": "Trenton",
+      "state": "Missouri"
+    },
+    {
+      "city": "Trenton",
+      "state": "New Jersey"
+    },
+    {
+      "city": "Trenton",
+      "state": "Ohio"
+    },
+    {
+      "city": "Trinidad",
+      "state": "Colorado"
+    },
+    {
+      "city": "Trinity",
+      "state": "North Carolina"
+    },
+    {
+      "city": "Trooper",
+      "state": "Pennsylvania"
+    },
+    {
+      "city": "Trophy Club",
+      "state": "Texas"
+    },
+    {
+      "city": "Trotwood",
+      "state": "Ohio"
+    },
+    {
+      "city": "Troutdale",
+      "state": "Oregon"
+    },
+    {
+      "city": "Troy",
+      "state": "Ohio"
+    },
+    {
+      "city": "Troy",
+      "state": "New York"
+    },
+    {
+      "city": "Troy",
+      "state": "Missouri"
+    },
+    {
+      "city": "Troy",
+      "state": "Michigan"
+    },
+    {
+      "city": "Troy",
+      "state": "Alabama"
+    },
+    {
+      "city": "Troy",
+      "state": "Illinois"
+    },
+    {
+      "city": "University Park",
+      "state": "Texas"
+    },
+    {
+      "city": "University Park",
+      "state": "Florida"
+    },
+    {
+      "city": "University Park",
+      "state": "Illinois"
+    },
+    {
+      "city": "University Place",
+      "state": "Washington"
+    },
+    {
+      "city": "Upland",
+      "state": "California"
+    },
+    {
+      "city": "Upper Arlington",
+      "state": "Ohio"
+    },
+    {
+      "city": "Upper Grand Lagoon",
+      "state": "Florida"
+    },
+    {
+      "city": "Upper Providence Township",
+      "state": "Pennsylvania"
+    },
+    {
+      "city": "Upper Saddle River",
+      "state": "New Jersey"
+    },
+    {
+      "city": "Upper Sandusky",
+      "state": "Ohio"
+    },
+    {
+      "city": "Upper St. Clair",
+      "state": "Pennsylvania"
+    },
+    {
+      "city": "Urbana",
+      "state": "Ohio"
+    },
+    {
+      "city": "Urbana",
+      "state": "Illinois"
+    },
+    {
+      "city": "Urbandale",
+      "state": "Iowa"
+    },
+    {
+      "city": "Utica",
+      "state": "New York"
+    },
+    {
+      "city": "Uvalde",
+      "state": "Texas"
+    },
+    {
+      "city": "Uxbridge",
+      "state": "Massachusetts"
+    },
+    {
+      "city": "Vacaville",
+      "state": "California"
+    },
+    {
+      "city": "Vadnais Heights",
+      "state": "Minnesota"
+    },
+    {
+      "city": "Valdosta",
+      "state": "Georgia"
+    },
+    {
+      "city": "Valinda",
+      "state": "California"
+    },
+    {
+      "city": "Valle Vista",
+      "state": "California"
+    },
+    {
+      "city": "Vallejo",
+      "state": "California"
+    },
+    {
+      "city": "Valley",
+      "state": "Alabama"
+    },
+    {
+      "city": "Valley Center",
+      "state": "California"
+    },
+    {
+      "city": "Valley City",
+      "state": "North Dakota"
+    },
+    {
+      "city": "Valley Cottage",
+      "state": "New York"
+    },
+    {
+      "city": "Valley Falls",
+      "state": "Rhode Island"
+    },
+    {
+      "city": "Valley Park",
+      "state": "Missouri"
+    },
+    {
+      "city": "Valley Station",
+      "state": "Kentucky"
+    },
+    {
+      "city": "Valley Stream",
+      "state": "New York"
+    },
+    {
+      "city": "Valparaiso",
+      "state": "Indiana"
+    },
+    {
+      "city": "Valparaiso",
+      "state": "Florida"
+    },
+    {
+      "city": "Valrico",
+      "state": "Florida"
+    },
+    {
+      "city": "Van Buren",
+      "state": "Arkansas"
+    },
+    {
+      "city": "Van Buren",
+      "state": "New York"
+    },
+    {
+      "city": "Waterloo",
+      "state": "Iowa"
+    },
+    {
+      "city": "Watertown",
+      "state": "Connecticut"
+    },
+    {
+      "city": "Watertown",
+      "state": "New York"
+    },
+    {
+      "city": "Watertown",
+      "state": "Massachusetts"
+    },
+    {
+      "city": "Watertown",
+      "state": "South Dakota"
+    },
+    {
+      "city": "Watertown",
+      "state": "Wisconsin"
+    },
+    {
+      "city": "Waterville",
+      "state": "Maine"
+    },
+    {
+      "city": "Watervliet",
+      "state": "New York"
+    },
+    {
+      "city": "Watsonville",
+      "state": "California"
+    },
+    {
+      "city": "Wauconda",
+      "state": "Illinois"
+    },
+    {
+      "city": "Waukegan",
+      "state": "Illinois"
+    },
+    {
+      "city": "Waukesha",
+      "state": "Wisconsin"
+    },
+    {
+      "city": "Waukesha",
+      "state": "Wisconsin"
+    },
+    {
+      "city": "Waunakee",
+      "state": "Wisconsin"
+    },
+    {
+      "city": "Waupun",
+      "state": "Wisconsin"
+    },
+    {
+      "city": "Wausau",
+      "state": "Wisconsin"
+    },
+    {
+      "city": "Wauseon",
+      "state": "Ohio"
+    },
+    {
+      "city": "Wauwatosa",
+      "state": "Wisconsin"
+    },
+    {
+      "city": "Xenia",
+      "state": "Ohio"
+    },
+    {
+      "city": "Yakima",
+      "state": "Washington"
+    },
+    {
+      "city": "Yankton",
+      "state": "South Dakota"
+    },
+    {
+      "city": "Yardville-Groveville",
+      "state": "New Jersey"
+    },
+    {
+      "city": "Yarmouth",
+      "state": "Maine"
+    },
+    {
+      "city": "Yarmouth",
+      "state": "Massachusetts"
+    },
+    {
+      "city": "Yazoo City",
+      "state": "Mississippi"
+    },
+    {
+      "city": "Yeadon",
+      "state": "Pennsylvania"
+    },
+    {
+      "city": "Yeehaw Junction",
+      "state": "Florida"
+    },
+    {
+      "city": "Yonkers",
+      "state": "New York"
+    },
+    {
+      "city": "Yorba Linda",
+      "state": "California"
+    },
+    {
+      "city": "York",
+      "state": "Nebraska"
+    },
+    {
+      "city": "York",
+      "state": "Maine"
+    },
+    {
+      "city": "York",
+      "state": "Pennsylvania"
+    },
+    {
+      "city": "York",
+      "state": "South Carolina"
+    },
+    {
+      "city": "Yorketown",
+      "state": "New Jersey"
+    },
+    {
+      "city": "Yorkshire",
+      "state": "Virginia"
+    },
+    {
+      "city": "Yorktown",
+      "state": "New York"
+    },
+    {
+      "city": "Yorktown Heights",
+      "state": "New York"
+    },
+    {
+      "city": "Yorkville",
+      "state": "Illinois"
+    },
+    {
+      "city": "Youngstown",
+      "state": "Ohio"
+    },
+    {
+      "city": "Ypsilanti",
+      "state": "Michigan"
+    },
+    {
+      "city": "Yreka",
+      "state": "California"
+    },
+    {
+      "city": "Yuba City",
+      "state": "California"
+    },
+    {
+      "city": "Yucaipa",
+      "state": "California"
+    },
+    {
+      "city": "Yucca Valley",
+      "state": "California"
+    },
+    {
+      "city": "Yukon",
+      "state": "Oklahoma"
+    },
+    {
+      "city": "Yulee",
+      "state": "Florida"
+    },
+    {
+      "city": "Yuma",
+      "state": "Arizona"
+    },
+    {
+      "city": "Zachary",
+      "state": "Louisiana"
+    },
+    {
+      "city": "Zanesville",
+      "state": "Ohio"
+    },
+    {
+      "city": "Zephyrhills",
+      "state": "Florida"
+    },
+    {
+      "city": "Zion",
+      "state": "Illinois"
+    },
+    {
+      "city": "Zionsville",
+      "state": "Indiana"
+    },
+    {
+      "city": "Zuni Pueblo",
+      "state": "New Mexico"
     }
 ]
 
