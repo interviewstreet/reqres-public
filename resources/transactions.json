@@ -5,7 +5,7 @@
     "userName": "John Oliver",
     "timestamp": 1549536882071,
     "txnType": "debit",
-    "amount": "$1,670.57",
+    "amount": "$1,670",
     "location": {
       "id": 7,
       "address": "770, Deepends, Stockton Street",
@@ -20,7 +20,7 @@
     "userName": "Bob Martin",
     "timestamp": 1549260902604,
     "txnType": "debit",
-    "amount": "$3,574.95",
+    "amount": "$3,574",
     "location": {
       "id": 8,
       "address": "389, Everest, Barwell Terrace",
@@ -35,7 +35,7 @@
     "userName": "Helena Fernandez",
     "timestamp": 1549530365037,
     "txnType": "debit",
-    "amount": "$2,718.70",
+    "amount": "$2,718",
     "location": {
       "id": 1,
       "address": "948, Entroflex, Franklin Avenue",
@@ -50,7 +50,7 @@
     "userName": "Bob Martin",
     "timestamp": 1549272069586,
     "txnType": "debit",
-    "amount": "$0.87",
+    "amount": "$0",
     "location": {
       "id": 8,
       "address": "389, Everest, Barwell Terrace",
@@ -65,7 +65,7 @@
     "userName": "Helena Fernandez",
     "timestamp": 1549170316216,
     "txnType": "debit",
-    "amount": "$642.39",
+    "amount": "$642",
     "location": {
       "id": 7,
       "address": "770, Deepends, Stockton Street",
@@ -80,7 +80,7 @@
     "userName": "Helena Fernandez",
     "timestamp": 1549096617797,
     "txnType": "debit",
-    "amount": "$2,241.65",
+    "amount": "$2,241",
     "location": {
       "id": 7,
       "address": "770, Deepends, Stockton Street",
@@ -95,7 +95,7 @@
     "userName": "John Oliver",
     "timestamp": 1550456379407,
     "txnType": "credit",
-    "amount": "$1,368.81",
+    "amount": "$1,368",
     "location": {
       "id": 9,
       "address": "961, Neptide, Elliott Walk",
@@ -110,7 +110,7 @@
     "userName": "Francesco De Mello",
     "timestamp": 1548805761859,
     "txnType": "credit",
-    "amount": "$1,214.44",
+    "amount": "$1,214",
     "location": {
       "id": 1,
       "address": "948, Entroflex, Franklin Avenue",
@@ -125,7 +125,7 @@
     "userName": "John Oliver",
     "timestamp": 1551503697834,
     "txnType": "debit",
-    "amount": "$295.66",
+    "amount": "$295",
     "location": {
       "id": 6,
       "address": "206, Portaline, Brooklyn Avenue",
@@ -140,7 +140,7 @@
     "userName": "Bob Martin",
     "timestamp": 1552863189963,
     "txnType": "debit",
-    "amount": "$3,611.80",
+    "amount": "$3,611",
     "location": {
       "id": 1,
       "address": "948, Entroflex, Franklin Avenue",
@@ -155,7 +155,7 @@
     "userName": "John Oliver",
     "timestamp": 1547112098173,
     "txnType": "debit",
-    "amount": "$1,100.59",
+    "amount": "$1,100",
     "location": {
       "id": 9,
       "address": "961, Neptide, Elliott Walk",
@@ -170,7 +170,7 @@
     "userName": "John Oliver",
     "timestamp": 1553870734435,
     "txnType": "debit",
-    "amount": "$892.10",
+    "amount": "$892",
     "location": {
       "id": 8,
       "address": "389, Everest, Barwell Terrace",
@@ -185,7 +185,7 @@
     "userName": "John Oliver",
     "timestamp": 1547039521086,
     "txnType": "credit",
-    "amount": "$820.28",
+    "amount": "$820",
     "location": {
       "id": 8,
       "address": "389, Everest, Barwell Terrace",
@@ -200,7 +200,7 @@
     "userName": "John Oliver",
     "timestamp": 1552146846090,
     "txnType": "credit",
-    "amount": "$2,984.25",
+    "amount": "$2,984",
     "location": {
       "id": 1,
       "address": "948, Entroflex, Franklin Avenue",
@@ -215,7 +215,7 @@
     "userName": "Helena Fernandez",
     "timestamp": 1551421711822,
     "txnType": "credit",
-    "amount": "$1,248.68",
+    "amount": "$1,248",
     "location": {
       "id": 9,
       "address": "961, Neptide, Elliott Walk",
@@ -230,7 +230,7 @@
     "userName": "Francesco De Mello",
     "timestamp": 1551533186809,
     "txnType": "credit",
-    "amount": "$1,233.56",
+    "amount": "$1,233",
     "location": {
       "id": 9,
       "address": "961, Neptide, Elliott Walk",
@@ -245,7 +245,7 @@
     "userName": "Francesco De Mello",
     "timestamp": 1551693726293,
     "txnType": "credit",
-    "amount": "$1,806.13",
+    "amount": "$1,806",
     "location": {
       "id": 6,
       "address": "206, Portaline, Brooklyn Avenue",
@@ -260,7 +260,7 @@
     "userName": "Bob Martin",
     "timestamp": 1550143522252,
     "txnType": "debit",
-    "amount": "$2,235.13",
+    "amount": "$2,235",
     "location": {
       "id": 1,
       "address": "948, Entroflex, Franklin Avenue",
@@ -275,7 +275,7 @@
     "userName": "Bob Martin",
     "timestamp": 1552070436910,
     "txnType": "credit",
-    "amount": "$2,659.47",
+    "amount": "$2,659",
     "location": {
       "id": 6,
       "address": "206, Portaline, Brooklyn Avenue",
@@ -290,7 +290,7 @@
     "userName": "Bob Martin",
     "timestamp": 1546523118910,
     "txnType": "debit",
-    "amount": "$1,543.25",
+    "amount": "$1,543",
     "location": {
       "id": 9,
       "address": "961, Neptide, Elliott Walk",
@@ -305,7 +305,7 @@
     "userName": "Helena Fernandez",
     "timestamp": 1550344902389,
     "txnType": "debit",
-    "amount": "$2,909.28",
+    "amount": "$2,909",
     "location": {
       "id": 9,
       "address": "961, Neptide, Elliott Walk",
@@ -320,7 +320,7 @@
     "userName": "Helena Fernandez",
     "timestamp": 1546327708421,
     "txnType": "credit",
-    "amount": "$1,938.88",
+    "amount": "$1,938",
     "location": {
       "id": 6,
       "address": "206, Portaline, Brooklyn Avenue",
@@ -335,7 +335,7 @@
     "userName": "John Oliver",
     "timestamp": 1546301415613,
     "txnType": "debit",
-    "amount": "$1,987.18",
+    "amount": "$1,987",
     "location": {
       "id": 1,
       "address": "948, Entroflex, Franklin Avenue",
@@ -350,7 +350,7 @@
     "userName": "Bob Martin",
     "timestamp": 1546530515282,
     "txnType": "debit",
-    "amount": "$2,201.65",
+    "amount": "$2,201",
     "location": {
       "id": 6,
       "address": "206, Portaline, Brooklyn Avenue",
@@ -365,7 +365,7 @@
     "userName": "John Oliver",
     "timestamp": 1548208881338,
     "txnType": "debit",
-    "amount": "$2,649.71",
+    "amount": "$2,649",
     "location": {
       "id": 9,
       "address": "961, Neptide, Elliott Walk",
@@ -380,7 +380,7 @@
     "userName": "Francesco De Mello",
     "timestamp": 1548544617435,
     "txnType": "credit",
-    "amount": "$743.38",
+    "amount": "$743",
     "location": {
       "id": 6,
       "address": "206, Portaline, Brooklyn Avenue",
@@ -395,7 +395,7 @@
     "userName": "John Oliver",
     "timestamp": 1552680889886,
     "txnType": "debit",
-    "amount": "$3,102.22",
+    "amount": "$3,102",
     "location": {
       "id": 7,
       "address": "770, Deepends, Stockton Street",
@@ -410,7 +410,7 @@
     "userName": "Francesco De Mello",
     "timestamp": 1552809326043,
     "txnType": "credit",
-    "amount": "$2,769.86",
+    "amount": "$2,769",
     "location": {
       "id": 1,
       "address": "948, Entroflex, Franklin Avenue",
@@ -425,7 +425,7 @@
     "userName": "Helena Fernandez",
     "timestamp": 1548419625311,
     "txnType": "debit",
-    "amount": "$195.64",
+    "amount": "$195",
     "location": {
       "id": 7,
       "address": "770, Deepends, Stockton Street",
@@ -440,7 +440,7 @@
     "userName": "Francesco De Mello",
     "timestamp": 1548262142180,
     "txnType": "debit",
-    "amount": "$2,647.85",
+    "amount": "$2,647",
     "location": {
       "id": 9,
       "address": "961, Neptide, Elliott Walk",
@@ -455,7 +455,7 @@
     "userName": "Francesco De Mello",
     "timestamp": 1550206254757,
     "txnType": "credit",
-    "amount": "$3,960.30",
+    "amount": "$3,960",
     "location": {
       "id": 8,
       "address": "389, Everest, Barwell Terrace",
@@ -470,7 +470,7 @@
     "userName": "John Oliver",
     "timestamp": 1552272823149,
     "txnType": "credit",
-    "amount": "$1,223.37",
+    "amount": "$1,223",
     "location": {
       "id": 8,
       "address": "389, Everest, Barwell Terrace",
@@ -485,7 +485,7 @@
     "userName": "Bob Martin",
     "timestamp": 1549507438915,
     "txnType": "debit",
-    "amount": "$2,898.16",
+    "amount": "$2,898",
     "location": {
       "id": 8,
       "address": "389, Everest, Barwell Terrace",
@@ -500,7 +500,7 @@
     "userName": "Helena Fernandez",
     "timestamp": 1549910782718,
     "txnType": "credit",
-    "amount": "$3,863.41",
+    "amount": "$3,863",
     "location": {
       "id": 6,
       "address": "206, Portaline, Brooklyn Avenue",
@@ -515,7 +515,7 @@
     "userName": "Francesco De Mello",
     "timestamp": 1546446032263,
     "txnType": "credit",
-    "amount": "$1,162.60",
+    "amount": "$1,162",
     "location": {
       "id": 1,
       "address": "948, Entroflex, Franklin Avenue",
@@ -530,7 +530,7 @@
     "userName": "Francesco De Mello",
     "timestamp": 1549391785785,
     "txnType": "debit",
-    "amount": "$188.04",
+    "amount": "$188",
     "location": {
       "id": 8,
       "address": "389, Everest, Barwell Terrace",
@@ -545,7 +545,7 @@
     "userName": "John Oliver",
     "timestamp": 1549270877608,
     "txnType": "debit",
-    "amount": "$2,930.80",
+    "amount": "$2,930",
     "location": {
       "id": 9,
       "address": "961, Neptide, Elliott Walk",
@@ -560,7 +560,7 @@
     "userName": "Helena Fernandez",
     "timestamp": 1553717380429,
     "txnType": "credit",
-    "amount": "$2,797.87",
+    "amount": "$2,797",
     "location": {
       "id": 1,
       "address": "948, Entroflex, Franklin Avenue",
@@ -575,7 +575,7 @@
     "userName": "Francesco De Mello",
     "timestamp": 1552166736242,
     "txnType": "credit",
-    "amount": "$3,705.83",
+    "amount": "$3,705",
     "location": {
       "id": 9,
       "address": "961, Neptide, Elliott Walk",
@@ -590,7 +590,7 @@
     "userName": "John Oliver",
     "timestamp": 1552930339010,
     "txnType": "debit",
-    "amount": "$2,277.37",
+    "amount": "$2,277",
     "location": {
       "id": 7,
       "address": "770, Deepends, Stockton Street",
@@ -605,7 +605,7 @@
     "userName": "John Oliver",
     "timestamp": 1549153767183,
     "txnType": "credit",
-    "amount": "$344.83",
+    "amount": "$344",
     "location": {
       "id": 9,
       "address": "961, Neptide, Elliott Walk",
@@ -620,7 +620,7 @@
     "userName": "Bob Martin",
     "timestamp": 1548791324284,
     "txnType": "credit",
-    "amount": "$2,084.06",
+    "amount": "$2,084",
     "location": {
       "id": 6,
       "address": "206, Portaline, Brooklyn Avenue",
@@ -635,7 +635,7 @@
     "userName": "Bob Martin",
     "timestamp": 1550842200606,
     "txnType": "credit",
-    "amount": "$3,844.66",
+    "amount": "$3,844",
     "location": {
       "id": 1,
       "address": "948, Entroflex, Franklin Avenue",
@@ -650,7 +650,7 @@
     "userName": "Bob Martin",
     "timestamp": 1546401458604,
     "txnType": "credit",
-    "amount": "$1,134.12",
+    "amount": "$1,134",
     "location": {
       "id": 1,
       "address": "948, Entroflex, Franklin Avenue",
@@ -665,7 +665,7 @@
     "userName": "Bob Martin",
     "timestamp": 1549247308734,
     "txnType": "credit",
-    "amount": "$514.70",
+    "amount": "$514",
     "location": {
       "id": 9,
       "address": "961, Neptide, Elliott Walk",
@@ -680,7 +680,7 @@
     "userName": "Helena Fernandez",
     "timestamp": 1546555154140,
     "txnType": "credit",
-    "amount": "$2,892.36",
+    "amount": "$2,892",
     "location": {
       "id": 9,
       "address": "961, Neptide, Elliott Walk",
@@ -695,7 +695,7 @@
     "userName": "Helena Fernandez",
     "timestamp": 1547464070380,
     "txnType": "credit",
-    "amount": "$2,166.51",
+    "amount": "$2,166",
     "location": {
       "id": 1,
       "address": "948, Entroflex, Franklin Avenue",
@@ -710,7 +710,7 @@
     "userName": "Francesco De Mello",
     "timestamp": 1546886712232,
     "txnType": "debit",
-    "amount": "$3,712.58",
+    "amount": "$3,712",
     "location": {
       "id": 7,
       "address": "770, Deepends, Stockton Street",
@@ -725,7 +725,7 @@
     "userName": "John Oliver",
     "timestamp": 1553586814900,
     "txnType": "credit",
-    "amount": "$887.64",
+    "amount": "$887",
     "location": {
       "id": 6,
       "address": "206, Portaline, Brooklyn Avenue",
@@ -740,7 +740,7 @@
     "userName": "Helena Fernandez",
     "timestamp": 1546933896069,
     "txnType": "credit",
-    "amount": "$686.67",
+    "amount": "$686",
     "location": {
       "id": 9,
       "address": "961, Neptide, Elliott Walk",
@@ -755,7 +755,7 @@
     "userName": "Francesco De Mello",
     "timestamp": 1550251778949,
     "txnType": "credit",
-    "amount": "$178.98",
+    "amount": "$178",
     "location": {
       "id": 1,
       "address": "948, Entroflex, Franklin Avenue",
@@ -770,7 +770,7 @@
     "userName": "Bob Martin",
     "timestamp": 1550887247981,
     "txnType": "debit",
-    "amount": "$434.38",
+    "amount": "$434",
     "location": {
       "id": 1,
       "address": "948, Entroflex, Franklin Avenue",
@@ -785,7 +785,7 @@
     "userName": "John Oliver",
     "timestamp": 1553267416245,
     "txnType": "credit",
-    "amount": "$1,290.39",
+    "amount": "$1,290",
     "location": {
       "id": 8,
       "address": "389, Everest, Barwell Terrace",
@@ -800,7 +800,7 @@
     "userName": "Francesco De Mello",
     "timestamp": 1547389035434,
     "txnType": "credit",
-    "amount": "$3,006.76",
+    "amount": "$3,006",
     "location": {
       "id": 9,
       "address": "961, Neptide, Elliott Walk",
@@ -815,7 +815,7 @@
     "userName": "Bob Martin",
     "timestamp": 1550038422331,
     "txnType": "credit",
-    "amount": "$630.80",
+    "amount": "$630",
     "location": {
       "id": 1,
       "address": "948, Entroflex, Franklin Avenue",
@@ -830,7 +830,7 @@
     "userName": "Francesco De Mello",
     "timestamp": 1548807230383,
     "txnType": "debit",
-    "amount": "$3,966.66",
+    "amount": "$3,966",
     "location": {
       "id": 7,
       "address": "770, Deepends, Stockton Street",
@@ -845,7 +845,7 @@
     "userName": "John Oliver",
     "timestamp": 1551156445951,
     "txnType": "credit",
-    "amount": "$1,594.80",
+    "amount": "$1,594",
     "location": {
       "id": 6,
       "address": "206, Portaline, Brooklyn Avenue",
@@ -860,7 +860,7 @@
     "userName": "Helena Fernandez",
     "timestamp": 1551759936015,
     "txnType": "debit",
-    "amount": "$2,925.02",
+    "amount": "$2,925",
     "location": {
       "id": 6,
       "address": "206, Portaline, Brooklyn Avenue",
@@ -875,7 +875,7 @@
     "userName": "Helena Fernandez",
     "timestamp": 1550175915279,
     "txnType": "debit",
-    "amount": "$3,807.28",
+    "amount": "$3,807",
     "location": {
       "id": 1,
       "address": "948, Entroflex, Franklin Avenue",
@@ -890,7 +890,7 @@
     "userName": "John Oliver",
     "timestamp": 1548043036666,
     "txnType": "debit",
-    "amount": "$725.68",
+    "amount": "$725",
     "location": {
       "id": 8,
       "address": "389, Everest, Barwell Terrace",
@@ -905,7 +905,7 @@
     "userName": "Francesco De Mello",
     "timestamp": 1547770218881,
     "txnType": "credit",
-    "amount": "$2,687.18",
+    "amount": "$2,687",
     "location": {
       "id": 6,
       "address": "206, Portaline, Brooklyn Avenue",
@@ -920,7 +920,7 @@
     "userName": "Francesco De Mello",
     "timestamp": 1553195227378,
     "txnType": "debit",
-    "amount": "$2,584.90",
+    "amount": "$2,584",
     "location": {
       "id": 9,
       "address": "961, Neptide, Elliott Walk",
@@ -935,7 +935,7 @@
     "userName": "Bob Martin",
     "timestamp": 1547141971176,
     "txnType": "debit",
-    "amount": "$1,142.55",
+    "amount": "$1,142",
     "location": {
       "id": 1,
       "address": "948, Entroflex, Franklin Avenue",
@@ -950,7 +950,7 @@
     "userName": "John Oliver",
     "timestamp": 1553702507589,
     "txnType": "debit",
-    "amount": "$2,007.76",
+    "amount": "$2,007",
     "location": {
       "id": 8,
       "address": "389, Everest, Barwell Terrace",
@@ -965,7 +965,7 @@
     "userName": "John Oliver",
     "timestamp": 1547973103855,
     "txnType": "debit",
-    "amount": "$812.07",
+    "amount": "$812",
     "location": {
       "id": 6,
       "address": "206, Portaline, Brooklyn Avenue",
@@ -980,7 +980,7 @@
     "userName": "Helena Fernandez",
     "timestamp": 1547531313468,
     "txnType": "credit",
-    "amount": "$684.56",
+    "amount": "$684",
     "location": {
       "id": 1,
       "address": "948, Entroflex, Franklin Avenue",
@@ -995,7 +995,7 @@
     "userName": "Helena Fernandez",
     "timestamp": 1551309554003,
     "txnType": "credit",
-    "amount": "$2,130.41",
+    "amount": "$2,130",
     "location": {
       "id": 6,
       "address": "206, Portaline, Brooklyn Avenue",
@@ -1010,7 +1010,7 @@
     "userName": "Bob Martin",
     "timestamp": 1547943352806,
     "txnType": "debit",
-    "amount": "$2,218.57",
+    "amount": "$2,218",
     "location": {
       "id": 8,
       "address": "389, Everest, Barwell Terrace",
@@ -1025,7 +1025,7 @@
     "userName": "Bob Martin",
     "timestamp": 1552245792882,
     "txnType": "credit",
-    "amount": "$1,073.47",
+    "amount": "$1,073",
     "location": {
       "id": 8,
       "address": "389, Everest, Barwell Terrace",
@@ -1040,7 +1040,7 @@
     "userName": "John Oliver",
     "timestamp": 1548843540522,
     "txnType": "debit",
-    "amount": "$967.38",
+    "amount": "$967",
     "location": {
       "id": 7,
       "address": "770, Deepends, Stockton Street",
@@ -1055,7 +1055,7 @@
     "userName": "John Oliver",
     "timestamp": 1547404705471,
     "txnType": "debit",
-    "amount": "$2,705.07",
+    "amount": "$2,705",
     "location": {
       "id": 1,
       "address": "948, Entroflex, Franklin Avenue",
@@ -1070,7 +1070,7 @@
     "userName": "Francesco De Mello",
     "timestamp": 1547372779037,
     "txnType": "debit",
-    "amount": "$3,972.79",
+    "amount": "$3,972",
     "location": {
       "id": 1,
       "address": "948, Entroflex, Franklin Avenue",
@@ -1085,7 +1085,7 @@
     "userName": "Helena Fernandez",
     "timestamp": 1548971815097,
     "txnType": "credit",
-    "amount": "$3,187.35",
+    "amount": "$3,187",
     "location": {
       "id": 7,
       "address": "770, Deepends, Stockton Street",
@@ -1100,7 +1100,7 @@
     "userName": "Bob Martin",
     "timestamp": 1546966983149,
     "txnType": "credit",
-    "amount": "$889.53",
+    "amount": "$889",
     "location": {
       "id": 9,
       "address": "961, Neptide, Elliott Walk",
@@ -1115,7 +1115,7 @@
     "userName": "Helena Fernandez",
     "timestamp": 1546767298189,
     "txnType": "credit",
-    "amount": "$453.69",
+    "amount": "$453",
     "location": {
       "id": 6,
       "address": "206, Portaline, Brooklyn Avenue",
@@ -1130,7 +1130,7 @@
     "userName": "Francesco De Mello",
     "timestamp": 1550730693219,
     "txnType": "debit",
-    "amount": "$1,724.13",
+    "amount": "$1,724",
     "location": {
       "id": 6,
       "address": "206, Portaline, Brooklyn Avenue",
@@ -1145,7 +1145,7 @@
     "userName": "Francesco De Mello",
     "timestamp": 1552972228014,
     "txnType": "credit",
-    "amount": "$34.08",
+    "amount": "$34",
     "location": {
       "id": 8,
       "address": "389, Everest, Barwell Terrace",
@@ -1160,7 +1160,7 @@
     "userName": "Francesco De Mello",
     "timestamp": 1549088402755,
     "txnType": "credit",
-    "amount": "$3,715.97",
+    "amount": "$3,715",
     "location": {
       "id": 8,
       "address": "389, Everest, Barwell Terrace",
@@ -1175,7 +1175,7 @@
     "userName": "Francesco De Mello",
     "timestamp": 1548319889987,
     "txnType": "debit",
-    "amount": "$2,837.49",
+    "amount": "$2,837",
     "location": {
       "id": 9,
       "address": "961, Neptide, Elliott Walk",
@@ -1190,7 +1190,7 @@
     "userName": "Francesco De Mello",
     "timestamp": 1551627867048,
     "txnType": "credit",
-    "amount": "$3,780.93",
+    "amount": "$3,780",
     "location": {
       "id": 9,
       "address": "961, Neptide, Elliott Walk",
@@ -1205,7 +1205,7 @@
     "userName": "Bob Martin",
     "timestamp": 1554000873959,
     "txnType": "debit",
-    "amount": "$3,568.55",
+    "amount": "$3,568",
     "location": {
       "id": 9,
       "address": "961, Neptide, Elliott Walk",
@@ -1220,7 +1220,7 @@
     "userName": "Bob Martin",
     "timestamp": 1546793876879,
     "txnType": "credit",
-    "amount": "$1,703.06",
+    "amount": "$1,703",
     "location": {
       "id": 9,
       "address": "961, Neptide, Elliott Walk",
@@ -1235,7 +1235,7 @@
     "userName": "Bob Martin",
     "timestamp": 1546606369803,
     "txnType": "debit",
-    "amount": "$2,551.34",
+    "amount": "$2,551",
     "location": {
       "id": 1,
       "address": "948, Entroflex, Franklin Avenue",
@@ -1250,7 +1250,7 @@
     "userName": "Bob Martin",
     "timestamp": 1546369438369,
     "txnType": "credit",
-    "amount": "$2,615.48",
+    "amount": "$2,615",
     "location": {
       "id": 6,
       "address": "206, Portaline, Brooklyn Avenue",
@@ -1265,7 +1265,7 @@
     "userName": "Helena Fernandez",
     "timestamp": 1548438562147,
     "txnType": "debit",
-    "amount": "$176.15",
+    "amount": "$176",
     "location": {
       "id": 6,
       "address": "206, Portaline, Brooklyn Avenue",
@@ -1280,7 +1280,7 @@
     "userName": "Helena Fernandez",
     "timestamp": 1548676884074,
     "txnType": "credit",
-    "amount": "$130.04",
+    "amount": "$130",
     "location": {
       "id": 7,
       "address": "770, Deepends, Stockton Street",
@@ -1295,7 +1295,7 @@
     "userName": "Helena Fernandez",
     "timestamp": 1550609508618,
     "txnType": "debit",
-    "amount": "$1,502.29",
+    "amount": "$1,502",
     "location": {
       "id": 8,
       "address": "389, Everest, Barwell Terrace",
@@ -1310,7 +1310,7 @@
     "userName": "Francesco De Mello",
     "timestamp": 1548984495569,
     "txnType": "debit",
-    "amount": "$1,629.16",
+    "amount": "$1,629",
     "location": {
       "id": 9,
       "address": "961, Neptide, Elliott Walk",
@@ -1325,7 +1325,7 @@
     "userName": "John Oliver",
     "timestamp": 1553973537414,
     "txnType": "debit",
-    "amount": "$345.31",
+    "amount": "$345",
     "location": {
       "id": 6,
       "address": "206, Portaline, Brooklyn Avenue",
@@ -1340,7 +1340,7 @@
     "userName": "Francesco De Mello",
     "timestamp": 1547624757311,
     "txnType": "credit",
-    "amount": "$2,848.73",
+    "amount": "$2,848",
     "location": {
       "id": 1,
       "address": "948, Entroflex, Franklin Avenue",
@@ -1355,7 +1355,7 @@
     "userName": "Bob Martin",
     "timestamp": 1549474339557,
     "txnType": "credit",
-    "amount": "$652.81",
+    "amount": "$652",
     "location": {
       "id": 9,
       "address": "961, Neptide, Elliott Walk",
@@ -1370,7 +1370,7 @@
     "userName": "Bob Martin",
     "timestamp": 1552834351584,
     "txnType": "credit",
-    "amount": "$595.51",
+    "amount": "$595",
     "location": {
       "id": 1,
       "address": "948, Entroflex, Franklin Avenue",
@@ -1385,7 +1385,7 @@
     "userName": "Francesco De Mello",
     "timestamp": 1549614431087,
     "txnType": "credit",
-    "amount": "$3,661.74",
+    "amount": "$3,661",
     "location": {
       "id": 9,
       "address": "961, Neptide, Elliott Walk",
@@ -1400,7 +1400,7 @@
     "userName": "Francesco De Mello",
     "timestamp": 1549176451325,
     "txnType": "debit",
-    "amount": "$1,198.09",
+    "amount": "$1,198",
     "location": {
       "id": 9,
       "address": "961, Neptide, Elliott Walk",
@@ -1415,7 +1415,7 @@
     "userName": "Helena Fernandez",
     "timestamp": 1548081642573,
     "txnType": "debit",
-    "amount": "$2,911.93",
+    "amount": "$2,911",
     "location": {
       "id": 8,
       "address": "389, Everest, Barwell Terrace",
@@ -1430,7 +1430,7 @@
     "userName": "Helena Fernandez",
     "timestamp": 1550092791552,
     "txnType": "debit",
-    "amount": "$1,093.01",
+    "amount": "$1,093",
     "location": {
       "id": 8,
       "address": "389, Everest, Barwell Terrace",
@@ -1445,7 +1445,7 @@
     "userName": "Helena Fernandez",
     "timestamp": 1553925231982,
     "txnType": "debit",
-    "amount": "$2,586.14",
+    "amount": "$2,586",
     "location": {
       "id": 9,
       "address": "961, Neptide, Elliott Walk",
@@ -1460,7 +1460,7 @@
     "userName": "Francesco De Mello",
     "timestamp": 1551241402355,
     "txnType": "debit",
-    "amount": "$2,806.43",
+    "amount": "$2,806",
     "location": {
       "id": 6,
       "address": "206, Portaline, Brooklyn Avenue",
@@ -1475,7 +1475,7 @@
     "userName": "John Oliver",
     "timestamp": 1548508728553,
     "txnType": "debit",
-    "amount": "$2,021.08",
+    "amount": "$2,021",
     "location": {
       "id": 8,
       "address": "389, Everest, Barwell Terrace",
@@ -1490,7 +1490,7 @@
     "userName": "Helena Fernandez",
     "timestamp": 1552665347004,
     "txnType": "credit",
-    "amount": "$2,073.04",
+    "amount": "$2,073",
     "location": {
       "id": 6,
       "address": "206, Portaline, Brooklyn Avenue",
@@ -1505,7 +1505,7 @@
     "userName": "Francesco De Mello",
     "timestamp": 1557906382395,
     "txnType": "credit",
-    "amount": "$1,897.17",
+    "amount": "$1,897",
     "location": {
       "id": 8,
       "address": "389, Everest, Barwell Terrace",
@@ -1520,7 +1520,7 @@
     "userName": "Bob Martin",
     "timestamp": 1556165928518,
     "txnType": "credit",
-    "amount": "$1,688.24",
+    "amount": "$1,688",
     "location": {
       "id": 8,
       "address": "389, Everest, Barwell Terrace",
@@ -1535,7 +1535,7 @@
     "userName": "John Oliver",
     "timestamp": 1561207356944,
     "txnType": "credit",
-    "amount": "$1,676.77",
+    "amount": "$1,676",
     "location": {
       "id": 6,
       "address": "206, Portaline, Brooklyn Avenue",
@@ -1550,7 +1550,7 @@
     "userName": "John Oliver",
     "timestamp": 1557225027268,
     "txnType": "debit",
-    "amount": "$3,193.17",
+    "amount": "$3,193",
     "location": {
       "id": 6,
       "address": "206, Portaline, Brooklyn Avenue",
@@ -1565,7 +1565,7 @@
     "userName": "Helena Fernandez",
     "timestamp": 1558750900017,
     "txnType": "debit",
-    "amount": "$2,711.03",
+    "amount": "$2,711",
     "location": {
       "id": 1,
       "address": "948, Entroflex, Franklin Avenue",
@@ -1580,7 +1580,7 @@
     "userName": "John Oliver",
     "timestamp": 1560060835824,
     "txnType": "debit",
-    "amount": "$1,499.55",
+    "amount": "$1,499",
     "location": {
       "id": 7,
       "address": "770, Deepends, Stockton Street",
@@ -1595,7 +1595,7 @@
     "userName": "Bob Martin",
     "timestamp": 1559402521261,
     "txnType": "debit",
-    "amount": "$1,872.07",
+    "amount": "$1,872",
     "location": {
       "id": 6,
       "address": "206, Portaline, Brooklyn Avenue",
@@ -1610,7 +1610,7 @@
     "userName": "Francesco De Mello",
     "timestamp": 1558730748389,
     "txnType": "debit",
-    "amount": "$2,555.97",
+    "amount": "$2,555",
     "location": {
       "id": 9,
       "address": "961, Neptide, Elliott Walk",
@@ -1625,7 +1625,7 @@
     "userName": "John Oliver",
     "timestamp": 1555901246423,
     "txnType": "credit",
-    "amount": "$3,379.47",
+    "amount": "$3,379",
     "location": {
       "id": 6,
       "address": "206, Portaline, Brooklyn Avenue",
@@ -1640,7 +1640,7 @@
     "userName": "Helena Fernandez",
     "timestamp": 1555548010038,
     "txnType": "credit",
-    "amount": "$379.99",
+    "amount": "$379",
     "location": {
       "id": 1,
       "address": "948, Entroflex, Franklin Avenue",
@@ -1655,7 +1655,7 @@
     "userName": "Bob Martin",
     "timestamp": 1557076924093,
     "txnType": "credit",
-    "amount": "$2,330.05",
+    "amount": "$2,330",
     "location": {
       "id": 1,
       "address": "948, Entroflex, Franklin Avenue",
@@ -1670,7 +1670,7 @@
     "userName": "Helena Fernandez",
     "timestamp": 1556445969901,
     "txnType": "credit",
-    "amount": "$2,228.52",
+    "amount": "$2,228",
     "location": {
       "id": 8,
       "address": "389, Everest, Barwell Terrace",
@@ -1685,7 +1685,7 @@
     "userName": "John Oliver",
     "timestamp": 1559156493048,
     "txnType": "debit",
-    "amount": "$3,467.44",
+    "amount": "$3,467",
     "location": {
       "id": 7,
       "address": "770, Deepends, Stockton Street",
@@ -1700,7 +1700,7 @@
     "userName": "Helena Fernandez",
     "timestamp": 1558074613598,
     "txnType": "debit",
-    "amount": "$222.78",
+    "amount": "$222",
     "location": {
       "id": 6,
       "address": "206, Portaline, Brooklyn Avenue",
@@ -1715,7 +1715,7 @@
     "userName": "Helena Fernandez",
     "timestamp": 1559375763784,
     "txnType": "credit",
-    "amount": "$1,744.24",
+    "amount": "$1,744",
     "location": {
       "id": 6,
       "address": "206, Portaline, Brooklyn Avenue",
@@ -1730,7 +1730,7 @@
     "userName": "Francesco De Mello",
     "timestamp": 1561480551172,
     "txnType": "debit",
-    "amount": "$100.97",
+    "amount": "$100",
     "location": {
       "id": 6,
       "address": "206, Portaline, Brooklyn Avenue",
@@ -1745,7 +1745,7 @@
     "userName": "Francesco De Mello",
     "timestamp": 1560465936439,
     "txnType": "credit",
-    "amount": "$1,130.38",
+    "amount": "$1,130",
     "location": {
       "id": 6,
       "address": "206, Portaline, Brooklyn Avenue",
@@ -1760,7 +1760,7 @@
     "userName": "Bob Martin",
     "timestamp": 1560694086761,
     "txnType": "credit",
-    "amount": "$3,192.75",
+    "amount": "$3,192",
     "location": {
       "id": 6,
       "address": "206, Portaline, Brooklyn Avenue",
@@ -1775,7 +1775,7 @@
     "userName": "Helena Fernandez",
     "timestamp": 1554666427115,
     "txnType": "credit",
-    "amount": "$3,057.55",
+    "amount": "$3,057",
     "location": {
       "id": 8,
       "address": "389, Everest, Barwell Terrace",
@@ -1790,7 +1790,7 @@
     "userName": "Bob Martin",
     "timestamp": 1557871193894,
     "txnType": "debit",
-    "amount": "$924.93",
+    "amount": "$924",
     "location": {
       "id": 6,
       "address": "206, Portaline, Brooklyn Avenue",
@@ -1805,7 +1805,7 @@
     "userName": "Bob Martin",
     "timestamp": 1561826593797,
     "txnType": "debit",
-    "amount": "$3,134.51",
+    "amount": "$3,134",
     "location": {
       "id": 8,
       "address": "389, Everest, Barwell Terrace",
@@ -1820,7 +1820,7 @@
     "userName": "John Oliver",
     "timestamp": 1560163586918,
     "txnType": "debit",
-    "amount": "$3,078.14",
+    "amount": "$3,078",
     "location": {
       "id": 9,
       "address": "961, Neptide, Elliott Walk",
@@ -1835,7 +1835,7 @@
     "userName": "Helena Fernandez",
     "timestamp": 1556214669341,
     "txnType": "debit",
-    "amount": "$403.11",
+    "amount": "$403",
     "location": {
       "id": 7,
       "address": "770, Deepends, Stockton Street",
@@ -1850,7 +1850,7 @@
     "userName": "Bob Martin",
     "timestamp": 1560330476187,
     "txnType": "credit",
-    "amount": "$3,238.70",
+    "amount": "$3,238",
     "location": {
       "id": 6,
       "address": "206, Portaline, Brooklyn Avenue",
@@ -1865,7 +1865,7 @@
     "userName": "Bob Martin",
     "timestamp": 1559783929312,
     "txnType": "credit",
-    "amount": "$3,441.63",
+    "amount": "$3,441",
     "location": {
       "id": 7,
       "address": "770, Deepends, Stockton Street",
@@ -1880,7 +1880,7 @@
     "userName": "John Oliver",
     "timestamp": 1558815387288,
     "txnType": "credit",
-    "amount": "$3,039.48",
+    "amount": "$3,039",
     "location": {
       "id": 9,
       "address": "961, Neptide, Elliott Walk",
@@ -1895,7 +1895,7 @@
     "userName": "Francesco De Mello",
     "timestamp": 1554892709863,
     "txnType": "debit",
-    "amount": "$2,124.93",
+    "amount": "$2,124",
     "location": {
       "id": 1,
       "address": "948, Entroflex, Franklin Avenue",
@@ -1910,7 +1910,7 @@
     "userName": "Bob Martin",
     "timestamp": 1560404217056,
     "txnType": "debit",
-    "amount": "$1,186.85",
+    "amount": "$1,186",
     "location": {
       "id": 7,
       "address": "770, Deepends, Stockton Street",
@@ -1925,7 +1925,7 @@
     "userName": "Bob Martin",
     "timestamp": 1556517581997,
     "txnType": "debit",
-    "amount": "$3,482.87",
+    "amount": "$3,482",
     "location": {
       "id": 8,
       "address": "389, Everest, Barwell Terrace",
@@ -1940,7 +1940,7 @@
     "userName": "Bob Martin",
     "timestamp": 1559695261267,
     "txnType": "debit",
-    "amount": "$317.42",
+    "amount": "$317",
     "location": {
       "id": 8,
       "address": "389, Everest, Barwell Terrace",
@@ -1955,7 +1955,7 @@
     "userName": "Helena Fernandez",
     "timestamp": 1560254589019,
     "txnType": "credit",
-    "amount": "$1,968.61",
+    "amount": "$1,968",
     "location": {
       "id": 1,
       "address": "948, Entroflex, Franklin Avenue",
@@ -1970,7 +1970,7 @@
     "userName": "Francesco De Mello",
     "timestamp": 1554754258144,
     "txnType": "debit",
-    "amount": "$3,412.37",
+    "amount": "$3,412",
     "location": {
       "id": 7,
       "address": "770, Deepends, Stockton Street",
@@ -1985,7 +1985,7 @@
     "userName": "John Oliver",
     "timestamp": 1556235426008,
     "txnType": "credit",
-    "amount": "$1,265.87",
+    "amount": "$1,265",
     "location": {
       "id": 6,
       "address": "206, Portaline, Brooklyn Avenue",
@@ -2000,7 +2000,7 @@
     "userName": "Bob Martin",
     "timestamp": 1561802945256,
     "txnType": "credit",
-    "amount": "$965.92",
+    "amount": "$965",
     "location": {
       "id": 6,
       "address": "206, Portaline, Brooklyn Avenue",
@@ -2015,7 +2015,7 @@
     "userName": "Bob Martin",
     "timestamp": 1554254315000,
     "txnType": "debit",
-    "amount": "$141.50",
+    "amount": "$141",
     "location": {
       "id": 1,
       "address": "948, Entroflex, Franklin Avenue",
@@ -2030,7 +2030,7 @@
     "userName": "Helena Fernandez",
     "timestamp": 1555560022954,
     "txnType": "debit",
-    "amount": "$1,804.65",
+    "amount": "$1,804",
     "location": {
       "id": 1,
       "address": "948, Entroflex, Franklin Avenue",
@@ -2045,7 +2045,7 @@
     "userName": "Bob Martin",
     "timestamp": 1554867084094,
     "txnType": "debit",
-    "amount": "$2,569.53",
+    "amount": "$2,569",
     "location": {
       "id": 6,
       "address": "206, Portaline, Brooklyn Avenue",
@@ -2060,7 +2060,7 @@
     "userName": "John Oliver",
     "timestamp": 1560936547047,
     "txnType": "debit",
-    "amount": "$2,646.30",
+    "amount": "$2,646",
     "location": {
       "id": 9,
       "address": "961, Neptide, Elliott Walk",
@@ -2075,7 +2075,7 @@
     "userName": "Bob Martin",
     "timestamp": 1557579078372,
     "txnType": "credit",
-    "amount": "$2,762.92",
+    "amount": "$2,762",
     "location": {
       "id": 6,
       "address": "206, Portaline, Brooklyn Avenue",
@@ -2090,7 +2090,7 @@
     "userName": "Francesco De Mello",
     "timestamp": 1558957189706,
     "txnType": "credit",
-    "amount": "$3,678.54",
+    "amount": "$3,678",
     "location": {
       "id": 6,
       "address": "206, Portaline, Brooklyn Avenue",
@@ -2105,7 +2105,7 @@
     "userName": "John Oliver",
     "timestamp": 1558251469213,
     "txnType": "debit",
-    "amount": "$2,537.75",
+    "amount": "$2,537",
     "location": {
       "id": 8,
       "address": "389, Everest, Barwell Terrace",
@@ -2120,7 +2120,7 @@
     "userName": "John Oliver",
     "timestamp": 1555285237008,
     "txnType": "debit",
-    "amount": "$793.61",
+    "amount": "$793",
     "location": {
       "id": 9,
       "address": "961, Neptide, Elliott Walk",
@@ -2135,7 +2135,7 @@
     "userName": "Francesco De Mello",
     "timestamp": 1558647585909,
     "txnType": "credit",
-    "amount": "$2,281.25",
+    "amount": "$2,281",
     "location": {
       "id": 1,
       "address": "948, Entroflex, Franklin Avenue",
@@ -2150,7 +2150,7 @@
     "userName": "Francesco De Mello",
     "timestamp": 1558871061080,
     "txnType": "credit",
-    "amount": "$3,613.46",
+    "amount": "$3,613",
     "location": {
       "id": 9,
       "address": "961, Neptide, Elliott Walk",
@@ -2165,7 +2165,7 @@
     "userName": "Bob Martin",
     "timestamp": 1560438366364,
     "txnType": "debit",
-    "amount": "$3,121.99",
+    "amount": "$3,121",
     "location": {
       "id": 6,
       "address": "206, Portaline, Brooklyn Avenue",
@@ -2180,7 +2180,7 @@
     "userName": "Helena Fernandez",
     "timestamp": 1554372571461,
     "txnType": "debit",
-    "amount": "$3,522.89",
+    "amount": "$3,522",
     "location": {
       "id": 9,
       "address": "961, Neptide, Elliott Walk",
@@ -2195,7 +2195,7 @@
     "userName": "Helena Fernandez",
     "timestamp": 1556520316864,
     "txnType": "credit",
-    "amount": "$906.13",
+    "amount": "$906",
     "location": {
       "id": 8,
       "address": "389, Everest, Barwell Terrace",
@@ -2210,7 +2210,7 @@
     "userName": "John Oliver",
     "timestamp": 1555867093562,
     "txnType": "debit",
-    "amount": "$2,950.13",
+    "amount": "$2,950",
     "location": {
       "id": 7,
       "address": "770, Deepends, Stockton Street",
@@ -2225,7 +2225,7 @@
     "userName": "Helena Fernandez",
     "timestamp": 1559677614341,
     "txnType": "debit",
-    "amount": "$1,532.10",
+    "amount": "$1,532",
     "location": {
       "id": 8,
       "address": "389, Everest, Barwell Terrace",
@@ -2240,7 +2240,7 @@
     "userName": "John Oliver",
     "timestamp": 1554348337770,
     "txnType": "debit",
-    "amount": "$3,057.61",
+    "amount": "$3,057",
     "location": {
       "id": 9,
       "address": "961, Neptide, Elliott Walk",
@@ -2255,7 +2255,7 @@
     "userName": "Bob Martin",
     "timestamp": 1558504716984,
     "txnType": "credit",
-    "amount": "$1,701.09",
+    "amount": "$1,701",
     "location": {
       "id": 9,
       "address": "961, Neptide, Elliott Walk",
@@ -2270,7 +2270,7 @@
     "userName": "Francesco De Mello",
     "timestamp": 1561497297598,
     "txnType": "credit",
-    "amount": "$3,144.06",
+    "amount": "$3,144",
     "location": {
       "id": 6,
       "address": "206, Portaline, Brooklyn Avenue",
@@ -2285,7 +2285,7 @@
     "userName": "Helena Fernandez",
     "timestamp": 1560196205047,
     "txnType": "credit",
-    "amount": "$777.02",
+    "amount": "$777",
     "location": {
       "id": 8,
       "address": "389, Everest, Barwell Terrace",
@@ -2300,7 +2300,7 @@
     "userName": "John Oliver",
     "timestamp": 1557784682326,
     "txnType": "credit",
-    "amount": "$2,354.38",
+    "amount": "$2,354",
     "location": {
       "id": 1,
       "address": "948, Entroflex, Franklin Avenue",
@@ -2315,7 +2315,7 @@
     "userName": "Helena Fernandez",
     "timestamp": 1561125480185,
     "txnType": "debit",
-    "amount": "$1,011.20",
+    "amount": "$1,011",
     "location": {
       "id": 7,
       "address": "770, Deepends, Stockton Street",
@@ -2330,7 +2330,7 @@
     "userName": "Francesco De Mello",
     "timestamp": 1560762790106,
     "txnType": "credit",
-    "amount": "$2,993.95",
+    "amount": "$2,993",
     "location": {
       "id": 9,
       "address": "961, Neptide, Elliott Walk",
@@ -2345,7 +2345,7 @@
     "userName": "Bob Martin",
     "timestamp": 1561025417910,
     "txnType": "credit",
-    "amount": "$2,438.49",
+    "amount": "$2,438",
     "location": {
       "id": 7,
       "address": "770, Deepends, Stockton Street",
@@ -2360,7 +2360,7 @@
     "userName": "Helena Fernandez",
     "timestamp": 1559895651355,
     "txnType": "credit",
-    "amount": "$2,872.60",
+    "amount": "$2,872",
     "location": {
       "id": 7,
       "address": "770, Deepends, Stockton Street",
@@ -2375,7 +2375,7 @@
     "userName": "John Oliver",
     "timestamp": 1560874862738,
     "txnType": "debit",
-    "amount": "$350.62",
+    "amount": "$350",
     "location": {
       "id": 9,
       "address": "961, Neptide, Elliott Walk",
@@ -2390,7 +2390,7 @@
     "userName": "John Oliver",
     "timestamp": 1561303384904,
     "txnType": "credit",
-    "amount": "$10.85",
+    "amount": "$10",
     "location": {
       "id": 8,
       "address": "389, Everest, Barwell Terrace",
@@ -2405,7 +2405,7 @@
     "userName": "Francesco De Mello",
     "timestamp": 1557915115739,
     "txnType": "debit",
-    "amount": "$3,576.32",
+    "amount": "$3,576",
     "location": {
       "id": 9,
       "address": "961, Neptide, Elliott Walk",
@@ -2420,7 +2420,7 @@
     "userName": "Helena Fernandez",
     "timestamp": 1561899556626,
     "txnType": "debit",
-    "amount": "$3,702.86",
+    "amount": "$3,702",
     "location": {
       "id": 9,
       "address": "961, Neptide, Elliott Walk",
@@ -2435,7 +2435,7 @@
     "userName": "Francesco De Mello",
     "timestamp": 1561651639920,
     "txnType": "credit",
-    "amount": "$3,575.93",
+    "amount": "$3,575",
     "location": {
       "id": 9,
       "address": "961, Neptide, Elliott Walk",
@@ -2450,7 +2450,7 @@
     "userName": "Helena Fernandez",
     "timestamp": 1559046943054,
     "txnType": "debit",
-    "amount": "$265.50",
+    "amount": "$265",
     "location": {
       "id": 9,
       "address": "961, Neptide, Elliott Walk",
@@ -2465,7 +2465,7 @@
     "userName": "Francesco De Mello",
     "timestamp": 1555621191704,
     "txnType": "debit",
-    "amount": "$2,263.70",
+    "amount": "$2,263",
     "location": {
       "id": 6,
       "address": "206, Portaline, Brooklyn Avenue",
@@ -2480,7 +2480,7 @@
     "userName": "Bob Martin",
     "timestamp": 1559740888182,
     "txnType": "debit",
-    "amount": "$2,451.88",
+    "amount": "$2,451",
     "location": {
       "id": 9,
       "address": "961, Neptide, Elliott Walk",
@@ -2495,7 +2495,7 @@
     "userName": "Bob Martin",
     "timestamp": 1558099494221,
     "txnType": "debit",
-    "amount": "$2,671.97",
+    "amount": "$2,671",
     "location": {
       "id": 7,
       "address": "770, Deepends, Stockton Street",
@@ -2510,7 +2510,7 @@
     "userName": "Francesco De Mello",
     "timestamp": 1561085928728,
     "txnType": "credit",
-    "amount": "$3,522.11",
+    "amount": "$3,522",
     "location": {
       "id": 6,
       "address": "206, Portaline, Brooklyn Avenue",
@@ -2525,7 +2525,7 @@
     "userName": "John Oliver",
     "timestamp": 1558892964448,
     "txnType": "debit",
-    "amount": "$2,744.93",
+    "amount": "$2,744",
     "location": {
       "id": 8,
       "address": "389, Everest, Barwell Terrace",
@@ -2540,7 +2540,7 @@
     "userName": "Helena Fernandez",
     "timestamp": 1557060953661,
     "txnType": "credit",
-    "amount": "$885.46",
+    "amount": "$885",
     "location": {
       "id": 6,
       "address": "206, Portaline, Brooklyn Avenue",
@@ -2555,7 +2555,7 @@
     "userName": "Francesco De Mello",
     "timestamp": 1560692763598,
     "txnType": "debit",
-    "amount": "$2,861.47",
+    "amount": "$2,861",
     "location": {
       "id": 9,
       "address": "961, Neptide, Elliott Walk",
@@ -2570,7 +2570,7 @@
     "userName": "Francesco De Mello",
     "timestamp": 1561879198099,
     "txnType": "debit",
-    "amount": "$1,880.07",
+    "amount": "$1,880",
     "location": {
       "id": 6,
       "address": "206, Portaline, Brooklyn Avenue",
@@ -2585,7 +2585,7 @@
     "userName": "John Oliver",
     "timestamp": 1554467037916,
     "txnType": "debit",
-    "amount": "$2,463.81",
+    "amount": "$2,463",
     "location": {
       "id": 9,
       "address": "961, Neptide, Elliott Walk",
@@ -2600,7 +2600,7 @@
     "userName": "Helena Fernandez",
     "timestamp": 1559727336053,
     "txnType": "credit",
-    "amount": "$1,096.26",
+    "amount": "$1,096",
     "location": {
       "id": 6,
       "address": "206, Portaline, Brooklyn Avenue",
@@ -2615,7 +2615,7 @@
     "userName": "John Oliver",
     "timestamp": 1555003653685,
     "txnType": "credit",
-    "amount": "$3,586.22",
+    "amount": "$3,586",
     "location": {
       "id": 9,
       "address": "961, Neptide, Elliott Walk",
@@ -2630,7 +2630,7 @@
     "userName": "Helena Fernandez",
     "timestamp": 1560588533127,
     "txnType": "debit",
-    "amount": "$2,882.93",
+    "amount": "$2,882",
     "location": {
       "id": 1,
       "address": "948, Entroflex, Franklin Avenue",
@@ -2645,7 +2645,7 @@
     "userName": "Bob Martin",
     "timestamp": 1560380372070,
     "txnType": "credit",
-    "amount": "$959.88",
+    "amount": "$959",
     "location": {
       "id": 8,
       "address": "389, Everest, Barwell Terrace",
@@ -2660,7 +2660,7 @@
     "userName": "John Oliver",
     "timestamp": 1559902923332,
     "txnType": "debit",
-    "amount": "$1,826.44",
+    "amount": "$1,826",
     "location": {
       "id": 9,
       "address": "961, Neptide, Elliott Walk",
@@ -2675,7 +2675,7 @@
     "userName": "Helena Fernandez",
     "timestamp": 1556767430827,
     "txnType": "credit",
-    "amount": "$2,440.72",
+    "amount": "$2,440",
     "location": {
       "id": 9,
       "address": "961, Neptide, Elliott Walk",
@@ -2690,7 +2690,7 @@
     "userName": "Francesco De Mello",
     "timestamp": 1556118390758,
     "txnType": "debit",
-    "amount": "$2,903.85",
+    "amount": "$2,903",
     "location": {
       "id": 1,
       "address": "948, Entroflex, Franklin Avenue",
@@ -2705,7 +2705,7 @@
     "userName": "John Oliver",
     "timestamp": 1554323605198,
     "txnType": "credit",
-    "amount": "$483.25",
+    "amount": "$483",
     "location": {
       "id": 1,
       "address": "948, Entroflex, Franklin Avenue",
@@ -2720,7 +2720,7 @@
     "userName": "John Oliver",
     "timestamp": 1560677938969,
     "txnType": "debit",
-    "amount": "$1,453.71",
+    "amount": "$1,453",
     "location": {
       "id": 8,
       "address": "389, Everest, Barwell Terrace",
@@ -2735,7 +2735,7 @@
     "userName": "John Oliver",
     "timestamp": 1561047523712,
     "txnType": "credit",
-    "amount": "$3,066.39",
+    "amount": "$3,066",
     "location": {
       "id": 7,
       "address": "770, Deepends, Stockton Street",
@@ -2750,7 +2750,7 @@
     "userName": "Bob Martin",
     "timestamp": 1554579202054,
     "txnType": "credit",
-    "amount": "$3,717.84",
+    "amount": "$3,717",
     "location": {
       "id": 9,
       "address": "961, Neptide, Elliott Walk",
@@ -2765,7 +2765,7 @@
     "userName": "Helena Fernandez",
     "timestamp": 1559166725611,
     "txnType": "credit",
-    "amount": "$449.23",
+    "amount": "$449",
     "location": {
       "id": 9,
       "address": "961, Neptide, Elliott Walk",
@@ -2780,7 +2780,7 @@
     "userName": "Francesco De Mello",
     "timestamp": 1555178869748,
     "txnType": "credit",
-    "amount": "$3,868.33",
+    "amount": "$3,868",
     "location": {
       "id": 1,
       "address": "948, Entroflex, Franklin Avenue",
@@ -2795,7 +2795,7 @@
     "userName": "John Oliver",
     "timestamp": 1558219490848,
     "txnType": "debit",
-    "amount": "$422.88",
+    "amount": "$422",
     "location": {
       "id": 7,
       "address": "770, Deepends, Stockton Street",
@@ -2810,7 +2810,7 @@
     "userName": "Bob Martin",
     "timestamp": 1554216081353,
     "txnType": "credit",
-    "amount": "$1,153.61",
+    "amount": "$1,153",
     "location": {
       "id": 1,
       "address": "948, Entroflex, Franklin Avenue",
@@ -2825,7 +2825,7 @@
     "userName": "Helena Fernandez",
     "timestamp": 1555645930267,
     "txnType": "credit",
-    "amount": "$946.65",
+    "amount": "$946",
     "location": {
       "id": 7,
       "address": "770, Deepends, Stockton Street",
@@ -2840,7 +2840,7 @@
     "userName": "John Oliver",
     "timestamp": 1560390538043,
     "txnType": "debit",
-    "amount": "$112.68",
+    "amount": "$112",
     "location": {
       "id": 6,
       "address": "206, Portaline, Brooklyn Avenue",
@@ -2855,7 +2855,7 @@
     "userName": "Bob Martin",
     "timestamp": 1559101665729,
     "txnType": "credit",
-    "amount": "$430.89",
+    "amount": "$430",
     "location": {
       "id": 6,
       "address": "206, Portaline, Brooklyn Avenue",
@@ -2870,7 +2870,7 @@
     "userName": "Francesco De Mello",
     "timestamp": 1560575314714,
     "txnType": "debit",
-    "amount": "$1,461.82",
+    "amount": "$1,461",
     "location": {
       "id": 8,
       "address": "389, Everest, Barwell Terrace",
@@ -2885,7 +2885,7 @@
     "userName": "Francesco De Mello",
     "timestamp": 1556201271263,
     "txnType": "debit",
-    "amount": "$860.27",
+    "amount": "$860",
     "location": {
       "id": 6,
       "address": "206, Portaline, Brooklyn Avenue",
@@ -2900,7 +2900,7 @@
     "userName": "John Oliver",
     "timestamp": 1558457441650,
     "txnType": "debit",
-    "amount": "$83.79",
+    "amount": "$83",
     "location": {
       "id": 6,
       "address": "206, Portaline, Brooklyn Avenue",
@@ -2915,7 +2915,7 @@
     "userName": "Bob Martin",
     "timestamp": 1558056583495,
     "txnType": "debit",
-    "amount": "$189.16",
+    "amount": "$189",
     "location": {
       "id": 9,
       "address": "961, Neptide, Elliott Walk",
@@ -2930,7 +2930,7 @@
     "userName": "John Oliver",
     "timestamp": 1558283697243,
     "txnType": "credit",
-    "amount": "$3,321.83",
+    "amount": "$3,321",
     "location": {
       "id": 7,
       "address": "770, Deepends, Stockton Street",
@@ -2945,7 +2945,7 @@
     "userName": "Bob Martin",
     "timestamp": 1554259601254,
     "txnType": "credit",
-    "amount": "$2,308.85",
+    "amount": "$2,308",
     "location": {
       "id": 7,
       "address": "770, Deepends, Stockton Street",
@@ -2960,7 +2960,7 @@
     "userName": "Bob Martin",
     "timestamp": 1555164373498,
     "txnType": "credit",
-    "amount": "$2,639.43",
+    "amount": "$2,639",
     "location": {
       "id": 7,
       "address": "770, Deepends, Stockton Street",
@@ -2975,7 +2975,7 @@
     "userName": "John Oliver",
     "timestamp": 1561620852751,
     "txnType": "debit",
-    "amount": "$532.30",
+    "amount": "$532",
     "location": {
       "id": 1,
       "address": "948, Entroflex, Franklin Avenue",
@@ -2990,7 +2990,7 @@
     "userName": "Helena Fernandez",
     "timestamp": 1555963261004,
     "txnType": "credit",
-    "amount": "$2,551.76",
+    "amount": "$2,551",
     "location": {
       "id": 1,
       "address": "948, Entroflex, Franklin Avenue",
@@ -3005,7 +3005,7 @@
     "userName": "Bob Martin",
     "timestamp": 1569412528132,
     "txnType": "debit",
-    "amount": "$3,683.03",
+    "amount": "$3,683",
     "location": {
       "id": 6,
       "address": "206, Portaline, Brooklyn Avenue",
@@ -3020,7 +3020,7 @@
     "userName": "Francesco De Mello",
     "timestamp": 1563546769114,
     "txnType": "credit",
-    "amount": "$923.67",
+    "amount": "$923",
     "location": {
       "id": 7,
       "address": "770, Deepends, Stockton Street",
@@ -3035,7 +3035,7 @@
     "userName": "Bob Martin",
     "timestamp": 1566561334738,
     "txnType": "debit",
-    "amount": "$3,013.97",
+    "amount": "$3,013",
     "location": {
       "id": 7,
       "address": "770, Deepends, Stockton Street",
@@ -3050,7 +3050,7 @@
     "userName": "Helena Fernandez",
     "timestamp": 1566604164973,
     "txnType": "credit",
-    "amount": "$2,046.51",
+    "amount": "$2,046",
     "location": {
       "id": 8,
       "address": "389, Everest, Barwell Terrace",
@@ -3065,7 +3065,7 @@
     "userName": "John Oliver",
     "timestamp": 1562777638205,
     "txnType": "debit",
-    "amount": "$3,572.91",
+    "amount": "$3,572",
     "location": {
       "id": 8,
       "address": "389, Everest, Barwell Terrace",
@@ -3080,7 +3080,7 @@
     "userName": "Helena Fernandez",
     "timestamp": 1565293941392,
     "txnType": "debit",
-    "amount": "$1,891.66",
+    "amount": "$1,891",
     "location": {
       "id": 7,
       "address": "770, Deepends, Stockton Street",
@@ -3095,7 +3095,7 @@
     "userName": "John Oliver",
     "timestamp": 1564732047262,
     "txnType": "debit",
-    "amount": "$2,788.79",
+    "amount": "$2,788",
     "location": {
       "id": 8,
       "address": "389, Everest, Barwell Terrace",
@@ -3110,7 +3110,7 @@
     "userName": "John Oliver",
     "timestamp": 1566568259253,
     "txnType": "debit",
-    "amount": "$2,649.04",
+    "amount": "$2,649",
     "location": {
       "id": 1,
       "address": "948, Entroflex, Franklin Avenue",
@@ -3125,7 +3125,7 @@
     "userName": "Helena Fernandez",
     "timestamp": 1564383851843,
     "txnType": "credit",
-    "amount": "$381.62",
+    "amount": "$381",
     "location": {
       "id": 9,
       "address": "961, Neptide, Elliott Walk",
@@ -3140,7 +3140,7 @@
     "userName": "Helena Fernandez",
     "timestamp": 1563780949676,
     "txnType": "debit",
-    "amount": "$1,578.62",
+    "amount": "$1,578",
     "location": {
       "id": 7,
       "address": "770, Deepends, Stockton Street",
@@ -3155,7 +3155,7 @@
     "userName": "Helena Fernandez",
     "timestamp": 1566090454868,
     "txnType": "credit",
-    "amount": "$881.03",
+    "amount": "$881",
     "location": {
       "id": 7,
       "address": "770, Deepends, Stockton Street",
@@ -3170,7 +3170,7 @@
     "userName": "Bob Martin",
     "timestamp": 1564619118271,
     "txnType": "debit",
-    "amount": "$3,408.88",
+    "amount": "$3,408",
     "location": {
       "id": 1,
       "address": "948, Entroflex, Franklin Avenue",
@@ -3185,7 +3185,7 @@
     "userName": "Bob Martin",
     "timestamp": 1565296786685,
     "txnType": "debit",
-    "amount": "$3,220.14",
+    "amount": "$3,220",
     "location": {
       "id": 1,
       "address": "948, Entroflex, Franklin Avenue",
@@ -3200,7 +3200,7 @@
     "userName": "John Oliver",
     "timestamp": 1568210026750,
     "txnType": "credit",
-    "amount": "$3,683.87",
+    "amount": "$3,683",
     "location": {
       "id": 6,
       "address": "206, Portaline, Brooklyn Avenue",
@@ -3215,7 +3215,7 @@
     "userName": "John Oliver",
     "timestamp": 1565667508194,
     "txnType": "debit",
-    "amount": "$913.68",
+    "amount": "$913",
     "location": {
       "id": 8,
       "address": "389, Everest, Barwell Terrace",
@@ -3230,7 +3230,7 @@
     "userName": "Helena Fernandez",
     "timestamp": 1566849479912,
     "txnType": "credit",
-    "amount": "$441.14",
+    "amount": "$441",
     "location": {
       "id": 8,
       "address": "389, Everest, Barwell Terrace",
@@ -3245,7 +3245,7 @@
     "userName": "John Oliver",
     "timestamp": 1564477230361,
     "txnType": "credit",
-    "amount": "$327.72",
+    "amount": "$327",
     "location": {
       "id": 9,
       "address": "961, Neptide, Elliott Walk",
@@ -3260,7 +3260,7 @@
     "userName": "John Oliver",
     "timestamp": 1566760954316,
     "txnType": "credit",
-    "amount": "$426.65",
+    "amount": "$426",
     "location": {
       "id": 7,
       "address": "770, Deepends, Stockton Street",
@@ -3275,7 +3275,7 @@
     "userName": "Helena Fernandez",
     "timestamp": 1566032787543,
     "txnType": "debit",
-    "amount": "$2,117.14",
+    "amount": "$2,117",
     "location": {
       "id": 1,
       "address": "948, Entroflex, Franklin Avenue",
@@ -3290,7 +3290,7 @@
     "userName": "Francesco De Mello",
     "timestamp": 1562249895414,
     "txnType": "debit",
-    "amount": "$1,970.42",
+    "amount": "$1,970",
     "location": {
       "id": 9,
       "address": "961, Neptide, Elliott Walk",
@@ -3305,7 +3305,7 @@
     "userName": "Helena Fernandez",
     "timestamp": 1562920092006,
     "txnType": "debit",
-    "amount": "$174.36",
+    "amount": "$174",
     "location": {
       "id": 8,
       "address": "389, Everest, Barwell Terrace",
@@ -3320,7 +3320,7 @@
     "userName": "Helena Fernandez",
     "timestamp": 1562651588257,
     "txnType": "credit",
-    "amount": "$1,876.21",
+    "amount": "$1,876",
     "location": {
       "id": 9,
       "address": "961, Neptide, Elliott Walk",
@@ -3335,7 +3335,7 @@
     "userName": "John Oliver",
     "timestamp": 1565327151603,
     "txnType": "credit",
-    "amount": "$1,555.56",
+    "amount": "$1,555",
     "location": {
       "id": 6,
       "address": "206, Portaline, Brooklyn Avenue",
@@ -3350,7 +3350,7 @@
     "userName": "Francesco De Mello",
     "timestamp": 1562934782561,
     "txnType": "credit",
-    "amount": "$2,797.24",
+    "amount": "$2,797",
     "location": {
       "id": 9,
       "address": "961, Neptide, Elliott Walk",
@@ -3365,7 +3365,7 @@
     "userName": "Bob Martin",
     "timestamp": 1568894452011,
     "txnType": "debit",
-    "amount": "$2,108.38",
+    "amount": "$2,108",
     "location": {
       "id": 9,
       "address": "961, Neptide, Elliott Walk",
@@ -3380,7 +3380,7 @@
     "userName": "Helena Fernandez",
     "timestamp": 1566687506362,
     "txnType": "credit",
-    "amount": "$1,268.67",
+    "amount": "$1,268",
     "location": {
       "id": 6,
       "address": "206, Portaline, Brooklyn Avenue",
@@ -3395,7 +3395,7 @@
     "userName": "Francesco De Mello",
     "timestamp": 1562153328067,
     "txnType": "credit",
-    "amount": "$2,678.21",
+    "amount": "$2,678",
     "location": {
       "id": 9,
       "address": "961, Neptide, Elliott Walk",
@@ -3410,7 +3410,7 @@
     "userName": "Helena Fernandez",
     "timestamp": 1566891080415,
     "txnType": "credit",
-    "amount": "$1,918.66",
+    "amount": "$1,918",
     "location": {
       "id": 9,
       "address": "961, Neptide, Elliott Walk",
@@ -3425,7 +3425,7 @@
     "userName": "Helena Fernandez",
     "timestamp": 1563336663878,
     "txnType": "credit",
-    "amount": "$281.58",
+    "amount": "$281",
     "location": {
       "id": 7,
       "address": "770, Deepends, Stockton Street",
@@ -3440,7 +3440,7 @@
     "userName": "Francesco De Mello",
     "timestamp": 1567772789691,
     "txnType": "credit",
-    "amount": "$568.87",
+    "amount": "$568",
     "location": {
       "id": 7,
       "address": "770, Deepends, Stockton Street",
@@ -3455,7 +3455,7 @@
     "userName": "Francesco De Mello",
     "timestamp": 1567103592002,
     "txnType": "debit",
-    "amount": "$526.31",
+    "amount": "$526",
     "location": {
       "id": 9,
       "address": "961, Neptide, Elliott Walk",
@@ -3470,7 +3470,7 @@
     "userName": "Bob Martin",
     "timestamp": 1569107804438,
     "txnType": "credit",
-    "amount": "$3,135.85",
+    "amount": "$3,135",
     "location": {
       "id": 6,
       "address": "206, Portaline, Brooklyn Avenue",
@@ -3485,7 +3485,7 @@
     "userName": "John Oliver",
     "timestamp": 1567320973709,
     "txnType": "credit",
-    "amount": "$1,195.71",
+    "amount": "$1,195",
     "location": {
       "id": 8,
       "address": "389, Everest, Barwell Terrace",
@@ -3500,7 +3500,7 @@
     "userName": "John Oliver",
     "timestamp": 1566566525604,
     "txnType": "debit",
-    "amount": "$3,765.71",
+    "amount": "$3,765",
     "location": {
       "id": 7,
       "address": "770, Deepends, Stockton Street",
@@ -3515,7 +3515,7 @@
     "userName": "Bob Martin",
     "timestamp": 1566672098896,
     "txnType": "credit",
-    "amount": "$2,744.16",
+    "amount": "$2,744",
     "location": {
       "id": 8,
       "address": "389, Everest, Barwell Terrace",
@@ -3530,7 +3530,7 @@
     "userName": "Francesco De Mello",
     "timestamp": 1568286815285,
     "txnType": "debit",
-    "amount": "$2,990.42",
+    "amount": "$2,990",
     "location": {
       "id": 8,
       "address": "389, Everest, Barwell Terrace",
@@ -3545,7 +3545,7 @@
     "userName": "Helena Fernandez",
     "timestamp": 1566346206781,
     "txnType": "debit",
-    "amount": "$1,069.35",
+    "amount": "$1,069",
     "location": {
       "id": 1,
       "address": "948, Entroflex, Franklin Avenue",
@@ -3560,7 +3560,7 @@
     "userName": "John Oliver",
     "timestamp": 1562232458950,
     "txnType": "debit",
-    "amount": "$2,475.39",
+    "amount": "$2,475",
     "location": {
       "id": 6,
       "address": "206, Portaline, Brooklyn Avenue",
@@ -3575,7 +3575,7 @@
     "userName": "John Oliver",
     "timestamp": 1563267784956,
     "txnType": "credit",
-    "amount": "$465.33",
+    "amount": "$465",
     "location": {
       "id": 8,
       "address": "389, Everest, Barwell Terrace",
@@ -3590,7 +3590,7 @@
     "userName": "Bob Martin",
     "timestamp": 1568544242024,
     "txnType": "credit",
-    "amount": "$2,070.92",
+    "amount": "$2,070",
     "location": {
       "id": 1,
       "address": "948, Entroflex, Franklin Avenue",
@@ -3605,7 +3605,7 @@
     "userName": "Bob Martin",
     "timestamp": 1566899821513,
     "txnType": "debit",
-    "amount": "$1,236.75",
+    "amount": "$1,236",
     "location": {
       "id": 9,
       "address": "961, Neptide, Elliott Walk",
@@ -3620,7 +3620,7 @@
     "userName": "Francesco De Mello",
     "timestamp": 1568862670664,
     "txnType": "debit",
-    "amount": "$1,358.75",
+    "amount": "$1,358",
     "location": {
       "id": 1,
       "address": "948, Entroflex, Franklin Avenue",
@@ -3635,7 +3635,7 @@
     "userName": "Francesco De Mello",
     "timestamp": 1563132372604,
     "txnType": "credit",
-    "amount": "$1,156.90",
+    "amount": "$1,156",
     "location": {
       "id": 8,
       "address": "389, Everest, Barwell Terrace",
@@ -3650,7 +3650,7 @@
     "userName": "John Oliver",
     "timestamp": 1562390851878,
     "txnType": "debit",
-    "amount": "$1,462.21",
+    "amount": "$1,462",
     "location": {
       "id": 8,
       "address": "389, Everest, Barwell Terrace",
@@ -3665,7 +3665,7 @@
     "userName": "Bob Martin",
     "timestamp": 1568849983123,
     "txnType": "debit",
-    "amount": "$1,522.35",
+    "amount": "$1,522",
     "location": {
       "id": 7,
       "address": "770, Deepends, Stockton Street",
@@ -3680,7 +3680,7 @@
     "userName": "John Oliver",
     "timestamp": 1562684913994,
     "txnType": "debit",
-    "amount": "$969.28",
+    "amount": "$969",
     "location": {
       "id": 9,
       "address": "961, Neptide, Elliott Walk",
@@ -3695,7 +3695,7 @@
     "userName": "Bob Martin",
     "timestamp": 1564263573286,
     "txnType": "debit",
-    "amount": "$408.17",
+    "amount": "$408",
     "location": {
       "id": 9,
       "address": "961, Neptide, Elliott Walk",
@@ -3710,7 +3710,7 @@
     "userName": "Helena Fernandez",
     "timestamp": 1564150556841,
     "txnType": "debit",
-    "amount": "$2,828.57",
+    "amount": "$2,828",
     "location": {
       "id": 9,
       "address": "961, Neptide, Elliott Walk",
@@ -3725,7 +3725,7 @@
     "userName": "Bob Martin",
     "timestamp": 1569117159151,
     "txnType": "debit",
-    "amount": "$3,614.78",
+    "amount": "$3,614",
     "location": {
       "id": 6,
       "address": "206, Portaline, Brooklyn Avenue",
@@ -3740,7 +3740,7 @@
     "userName": "Francesco De Mello",
     "timestamp": 1567374731671,
     "txnType": "credit",
-    "amount": "$1,277.64",
+    "amount": "$1,277",
     "location": {
       "id": 8,
       "address": "389, Everest, Barwell Terrace",
@@ -3755,7 +3755,7 @@
     "userName": "John Oliver",
     "timestamp": 1564789790293,
     "txnType": "debit",
-    "amount": "$54.19",
+    "amount": "$54",
     "location": {
       "id": 1,
       "address": "948, Entroflex, Franklin Avenue",
@@ -3770,7 +3770,7 @@
     "userName": "Helena Fernandez",
     "timestamp": 1569038564250,
     "txnType": "credit",
-    "amount": "$2,403.27",
+    "amount": "$2,403",
     "location": {
       "id": 8,
       "address": "389, Everest, Barwell Terrace",
@@ -3785,7 +3785,7 @@
     "userName": "Bob Martin",
     "timestamp": 1566081309542,
     "txnType": "credit",
-    "amount": "$3,515.10",
+    "amount": "$3,515",
     "location": {
       "id": 9,
       "address": "961, Neptide, Elliott Walk",
@@ -3800,7 +3800,7 @@
     "userName": "Helena Fernandez",
     "timestamp": 1562500405503,
     "txnType": "credit",
-    "amount": "$2,424.19",
+    "amount": "$2,424",
     "location": {
       "id": 9,
       "address": "961, Neptide, Elliott Walk",
@@ -3815,7 +3815,7 @@
     "userName": "Helena Fernandez",
     "timestamp": 1564646043478,
     "txnType": "credit",
-    "amount": "$3,288.97",
+    "amount": "$3,288",
     "location": {
       "id": 1,
       "address": "948, Entroflex, Franklin Avenue",
@@ -3830,7 +3830,7 @@
     "userName": "Bob Martin",
     "timestamp": 1563004223065,
     "txnType": "credit",
-    "amount": "$619.12",
+    "amount": "$619",
     "location": {
       "id": 1,
       "address": "948, Entroflex, Franklin Avenue",
@@ -3845,7 +3845,7 @@
     "userName": "Helena Fernandez",
     "timestamp": 1566326643783,
     "txnType": "credit",
-    "amount": "$2,775.82",
+    "amount": "$2,775",
     "location": {
       "id": 9,
       "address": "961, Neptide, Elliott Walk",
@@ -3860,7 +3860,7 @@
     "userName": "Francesco De Mello",
     "timestamp": 1565827784794,
     "txnType": "credit",
-    "amount": "$1,984.43",
+    "amount": "$1,984",
     "location": {
       "id": 1,
       "address": "948, Entroflex, Franklin Avenue",
@@ -3875,7 +3875,7 @@
     "userName": "John Oliver",
     "timestamp": 1567992166725,
     "txnType": "credit",
-    "amount": "$1,970.44",
+    "amount": "$1,970",
     "location": {
       "id": 9,
       "address": "961, Neptide, Elliott Walk",
@@ -3890,7 +3890,7 @@
     "userName": "Bob Martin",
     "timestamp": 1566556666749,
     "txnType": "credit",
-    "amount": "$209.13",
+    "amount": "$209",
     "location": {
       "id": 9,
       "address": "961, Neptide, Elliott Walk",
@@ -3905,7 +3905,7 @@
     "userName": "Bob Martin",
     "timestamp": 1567973338308,
     "txnType": "credit",
-    "amount": "$2,366.91",
+    "amount": "$2,366",
     "location": {
       "id": 9,
       "address": "961, Neptide, Elliott Walk",
@@ -3920,7 +3920,7 @@
     "userName": "Bob Martin",
     "timestamp": 1567629432279,
     "txnType": "debit",
-    "amount": "$2,778.55",
+    "amount": "$2,778",
     "location": {
       "id": 9,
       "address": "961, Neptide, Elliott Walk",
@@ -3935,7 +3935,7 @@
     "userName": "John Oliver",
     "timestamp": 1563060871738,
     "txnType": "debit",
-    "amount": "$3,014.46",
+    "amount": "$3,014",
     "location": {
       "id": 1,
       "address": "948, Entroflex, Franklin Avenue",
@@ -3950,7 +3950,7 @@
     "userName": "Francesco De Mello",
     "timestamp": 1566292845117,
     "txnType": "credit",
-    "amount": "$879.39",
+    "amount": "$879",
     "location": {
       "id": 1,
       "address": "948, Entroflex, Franklin Avenue",
@@ -3965,7 +3965,7 @@
     "userName": "Francesco De Mello",
     "timestamp": 1565280568041,
     "txnType": "debit",
-    "amount": "$1,636.91",
+    "amount": "$1,636",
     "location": {
       "id": 8,
       "address": "389, Everest, Barwell Terrace",
@@ -3980,7 +3980,7 @@
     "userName": "Helena Fernandez",
     "timestamp": 1567963004105,
     "txnType": "debit",
-    "amount": "$1,748.69",
+    "amount": "$1,748",
     "location": {
       "id": 1,
       "address": "948, Entroflex, Franklin Avenue",
@@ -3995,7 +3995,7 @@
     "userName": "Helena Fernandez",
     "timestamp": 1568573287027,
     "txnType": "credit",
-    "amount": "$3,601.06",
+    "amount": "$3,601",
     "location": {
       "id": 8,
       "address": "389, Everest, Barwell Terrace",
@@ -4010,7 +4010,7 @@
     "userName": "Helena Fernandez",
     "timestamp": 1567731025866,
     "txnType": "credit",
-    "amount": "$267.66",
+    "amount": "$267",
     "location": {
       "id": 1,
       "address": "948, Entroflex, Franklin Avenue",
@@ -4025,7 +4025,7 @@
     "userName": "John Oliver",
     "timestamp": 1568019344855,
     "txnType": "debit",
-    "amount": "$3,910.15",
+    "amount": "$3,910",
     "location": {
       "id": 6,
       "address": "206, Portaline, Brooklyn Avenue",
@@ -4040,7 +4040,7 @@
     "userName": "John Oliver",
     "timestamp": 1563599700919,
     "txnType": "debit",
-    "amount": "$3,445.99",
+    "amount": "$3,445",
     "location": {
       "id": 6,
       "address": "206, Portaline, Brooklyn Avenue",
@@ -4055,7 +4055,7 @@
     "userName": "Bob Martin",
     "timestamp": 1562638297825,
     "txnType": "debit",
-    "amount": "$1,577.37",
+    "amount": "$1,577",
     "location": {
       "id": 7,
       "address": "770, Deepends, Stockton Street",
@@ -4070,7 +4070,7 @@
     "userName": "John Oliver",
     "timestamp": 1562766352011,
     "txnType": "credit",
-    "amount": "$1,475.24",
+    "amount": "$1,475",
     "location": {
       "id": 8,
       "address": "389, Everest, Barwell Terrace",
@@ -4085,7 +4085,7 @@
     "userName": "Helena Fernandez",
     "timestamp": 1566678086091,
     "txnType": "debit",
-    "amount": "$1,742.14",
+    "amount": "$1,742",
     "location": {
       "id": 8,
       "address": "389, Everest, Barwell Terrace",
@@ -4100,7 +4100,7 @@
     "userName": "Francesco De Mello",
     "timestamp": 1564161800870,
     "txnType": "debit",
-    "amount": "$868.46",
+    "amount": "$868",
     "location": {
       "id": 7,
       "address": "770, Deepends, Stockton Street",
@@ -4115,7 +4115,7 @@
     "userName": "Helena Fernandez",
     "timestamp": 1563516974632,
     "txnType": "debit",
-    "amount": "$3,877.57",
+    "amount": "$3,877",
     "location": {
       "id": 9,
       "address": "961, Neptide, Elliott Walk",
@@ -4130,7 +4130,7 @@
     "userName": "Bob Martin",
     "timestamp": 1566970227213,
     "txnType": "debit",
-    "amount": "$533.62",
+    "amount": "$533",
     "location": {
       "id": 7,
       "address": "770, Deepends, Stockton Street",
@@ -4145,7 +4145,7 @@
     "userName": "Bob Martin",
     "timestamp": 1569015381280,
     "txnType": "credit",
-    "amount": "$3,816.46",
+    "amount": "$3,816",
     "location": {
       "id": 1,
       "address": "948, Entroflex, Franklin Avenue",
@@ -4160,7 +4160,7 @@
     "userName": "Helena Fernandez",
     "timestamp": 1563002611129,
     "txnType": "credit",
-    "amount": "$1,364.37",
+    "amount": "$1,364",
     "location": {
       "id": 9,
       "address": "961, Neptide, Elliott Walk",
@@ -4175,7 +4175,7 @@
     "userName": "Francesco De Mello",
     "timestamp": 1568291811678,
     "txnType": "credit",
-    "amount": "$3,404.36",
+    "amount": "$3,404",
     "location": {
       "id": 9,
       "address": "961, Neptide, Elliott Walk",
@@ -4190,7 +4190,7 @@
     "userName": "Bob Martin",
     "timestamp": 1566523847955,
     "txnType": "debit",
-    "amount": "$1,610.62",
+    "amount": "$1,610",
     "location": {
       "id": 9,
       "address": "961, Neptide, Elliott Walk",
@@ -4205,7 +4205,7 @@
     "userName": "Bob Martin",
     "timestamp": 1565986320949,
     "txnType": "debit",
-    "amount": "$3,914.73",
+    "amount": "$3,914",
     "location": {
       "id": 6,
       "address": "206, Portaline, Brooklyn Avenue",
@@ -4220,7 +4220,7 @@
     "userName": "Helena Fernandez",
     "timestamp": 1569335954731,
     "txnType": "credit",
-    "amount": "$3,676.45",
+    "amount": "$3,676",
     "location": {
       "id": 8,
       "address": "389, Everest, Barwell Terrace",
@@ -4235,7 +4235,7 @@
     "userName": "John Oliver",
     "timestamp": 1563172960008,
     "txnType": "credit",
-    "amount": "$3,618.75",
+    "amount": "$3,618",
     "location": {
       "id": 7,
       "address": "770, Deepends, Stockton Street",
@@ -4250,7 +4250,7 @@
     "userName": "Bob Martin",
     "timestamp": 1567641412513,
     "txnType": "debit",
-    "amount": "$682.54",
+    "amount": "$682",
     "location": {
       "id": 8,
       "address": "389, Everest, Barwell Terrace",
@@ -4265,7 +4265,7 @@
     "userName": "Francesco De Mello",
     "timestamp": 1566954726380,
     "txnType": "credit",
-    "amount": "$3,587.93",
+    "amount": "$3,587",
     "location": {
       "id": 1,
       "address": "948, Entroflex, Franklin Avenue",
@@ -4280,7 +4280,7 @@
     "userName": "John Oliver",
     "timestamp": 1565485100364,
     "txnType": "debit",
-    "amount": "$1,131.63",
+    "amount": "$1,131",
     "location": {
       "id": 1,
       "address": "948, Entroflex, Franklin Avenue",
@@ -4295,7 +4295,7 @@
     "userName": "Helena Fernandez",
     "timestamp": 1563093047353,
     "txnType": "credit",
-    "amount": "$1,273.83",
+    "amount": "$1,273",
     "location": {
       "id": 1,
       "address": "948, Entroflex, Franklin Avenue",
@@ -4310,7 +4310,7 @@
     "userName": "John Oliver",
     "timestamp": 1563752373892,
     "txnType": "debit",
-    "amount": "$2,273.95",
+    "amount": "$2,273",
     "location": {
       "id": 6,
       "address": "206, Portaline, Brooklyn Avenue",
@@ -4325,7 +4325,7 @@
     "userName": "Francesco De Mello",
     "timestamp": 1565999449488,
     "txnType": "credit",
-    "amount": "$3,054.76",
+    "amount": "$3,054",
     "location": {
       "id": 8,
       "address": "389, Everest, Barwell Terrace",
@@ -4340,7 +4340,7 @@
     "userName": "Bob Martin",
     "timestamp": 1567991018381,
     "txnType": "debit",
-    "amount": "$1,776.49",
+    "amount": "$1,776",
     "location": {
       "id": 9,
       "address": "961, Neptide, Elliott Walk",
@@ -4355,7 +4355,7 @@
     "userName": "Helena Fernandez",
     "timestamp": 1566827268242,
     "txnType": "debit",
-    "amount": "$1,342.02",
+    "amount": "$1,342",
     "location": {
       "id": 9,
       "address": "961, Neptide, Elliott Walk",
@@ -4370,7 +4370,7 @@
     "userName": "John Oliver",
     "timestamp": 1565314240791,
     "txnType": "debit",
-    "amount": "$629.33",
+    "amount": "$629",
     "location": {
       "id": 8,
       "address": "389, Everest, Barwell Terrace",
@@ -4385,7 +4385,7 @@
     "userName": "Francesco De Mello",
     "timestamp": 1568599018167,
     "txnType": "debit",
-    "amount": "$1,778.21",
+    "amount": "$1,778",
     "location": {
       "id": 9,
       "address": "961, Neptide, Elliott Walk",
@@ -4400,7 +4400,7 @@
     "userName": "John Oliver",
     "timestamp": 1568208319191,
     "txnType": "credit",
-    "amount": "$2,350.15",
+    "amount": "$2,350",
     "location": {
       "id": 6,
       "address": "206, Portaline, Brooklyn Avenue",
@@ -4415,7 +4415,7 @@
     "userName": "Helena Fernandez",
     "timestamp": 1567939903383,
     "txnType": "debit",
-    "amount": "$2,226.56",
+    "amount": "$2,226",
     "location": {
       "id": 7,
       "address": "770, Deepends, Stockton Street",
@@ -4430,7 +4430,7 @@
     "userName": "John Oliver",
     "timestamp": 1566675356485,
     "txnType": "debit",
-    "amount": "$3,397.22",
+    "amount": "$3,397",
     "location": {
       "id": 9,
       "address": "961, Neptide, Elliott Walk",
@@ -4445,7 +4445,7 @@
     "userName": "Bob Martin",
     "timestamp": 1568706241221,
     "txnType": "debit",
-    "amount": "$2,113.75",
+    "amount": "$2,113",
     "location": {
       "id": 8,
       "address": "389, Everest, Barwell Terrace",
@@ -4460,7 +4460,7 @@
     "userName": "Francesco De Mello",
     "timestamp": 1563726386998,
     "txnType": "credit",
-    "amount": "$204.87",
+    "amount": "$204",
     "location": {
       "id": 9,
       "address": "961, Neptide, Elliott Walk",
@@ -4475,7 +4475,7 @@
     "userName": "Helena Fernandez",
     "timestamp": 1569421290625,
     "txnType": "debit",
-    "amount": "$3,079.92",
+    "amount": "$3,079",
     "location": {
       "id": 9,
       "address": "961, Neptide, Elliott Walk",
@@ -4490,7 +4490,7 @@
     "userName": "John Oliver",
     "timestamp": 1567189518954,
     "txnType": "debit",
-    "amount": "$1,126.21",
+    "amount": "$1,126",
     "location": {
       "id": 1,
       "address": "948, Entroflex, Franklin Avenue",

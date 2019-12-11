@@ -918,7 +918,7 @@ describe('Check all `/api` endpoints', () => {
                         "userName": "Francesco De Mello",
                         "timestamp": 1548262142180,
                         "txnType": "debit",
-                        "amount": "$2,647.85",
+                        "amount": "$2,647",
                         "location": {
                             "id": 9,
                             "address": "961, Neptide, Elliott Walk",
