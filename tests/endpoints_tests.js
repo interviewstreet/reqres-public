@@ -934,6 +934,55 @@ describe('Check all `/api` endpoints', () => {
             });
         });
     });
+
+  describe('questions.json', () => {
+    it('/api/questions?page=...', (done) => {
+      let startIndex = 0;
+      let endIndex = 10;
+      let pages = [];
+      for (let i = 1; i <= 2; i += 1)
+        pages.push(i);
+
+      Promise.mapSeries(pages, (page) => {
+        return chai.request(server)
+            .get('/api/questions?page=' + page.toString())
+            .then((res) => {
+              return res.body.data;
+            })
+      }).then((results) => {
+        for (let result of results) {
+          result.should.be.eql(data['questions'].slice(startIndex, endIndex));
+          startIndex += 10;
+          endIndex += 10;
+        }
+        done();
+      }).catch((err) => {
+        console.log(err);
+        done(err);
+      });
+    });
+
+    it('/api/questions/:id', (done) => {
+      chai.request(server)
+          .get('/api/questions/1')
+          .then((res) => {
+            res.body.data.should.be.eql({
+              "question": "Angular 2 components can be described using ________is a way to do some meta-programming.",
+              "options": [
+                "a) controllers, controller",
+                "b) Loaders, loader",
+                "c) typescripts, typescript",
+                "d) decorators, decorator"
+              ],
+              "answer": 3,
+              "id": 1
+            },);
+            done();
+          });
+    });
+
+  });
+
 });
 
 describe('articles.json', () => {
