@@ -15,7 +15,7 @@ module.exports = {
 				items = data[resource];
 				return returnSingle(items, itemArg, res);
 			}
-			if (resource === 'cities') {
+			if (resource === 'cities' || resource === 'weather') {
 				items = search(data[resource], req, res, false, true);
 			} else {
 				items = search(data[resource], req, res, true);
