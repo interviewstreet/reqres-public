@@ -1,0 +1,1962 @@
+[
+  {
+    "name": "Aberdeen",
+    "weather": "36 degree",
+    "status": [
+      "Wind: 31Kmph",
+      "Humidity: 66%"
+    ]
+  },
+  {
+    "name": "Abu Dhabi",
+    "weather": "3 degree",
+    "status": [
+      "Wind: 4Kmph",
+      "Humidity: 9%"
+    ]
+  },
+  {
+    "name": "Adelaide",
+    "weather": "15 degree",
+    "status": [
+      "Wind: 8Kmph",
+      "Humidity: 61%"
+    ]
+  },
+  {
+    "name": "Aizuwakamatsu",
+    "weather": "27 degree",
+    "status": [
+      "Wind: 35Kmph",
+      "Humidity: 2%"
+    ]
+  },
+  {
+    "name": "Altay City",
+    "weather": "12 degree",
+    "status": [
+      "Wind: 25Kmph",
+      "Humidity: 5%"
+    ]
+  },
+  {
+    "name": "Alwar",
+    "weather": "15 degree",
+    "status": [
+      "Wind: 1Kmph",
+      "Humidity: 5%"
+    ]
+  },
+  {
+    "name": "Amadora",
+    "weather": "5 degree",
+    "status": [
+      "Wind: 8Kmph",
+      "Humidity: 48%"
+    ]
+  },
+  {
+    "name": "Amarah",
+    "weather": "20 degree",
+    "status": [
+      "Wind: 23Kmph",
+      "Humidity: 17%"
+    ]
+  },
+  {
+    "name": "Amravati",
+    "weather": "36 degree",
+    "status": [
+      "Wind: 27Kmph",
+      "Humidity: 74%"
+    ]
+  },
+  {
+    "name": "Amsterdam",
+    "weather": "33 degree",
+    "status": [
+      "Wind: 6Kmph",
+      "Humidity: 11%"
+    ]
+  },
+  {
+    "name": "Baise",
+    "weather": "35 degree",
+    "status": [
+      "Wind: 14Kmph",
+      "Humidity: 39%"
+    ]
+  },
+  {
+    "name": "Bahawalpur",
+    "weather": "16 degree",
+    "status": [
+      "Wind: 13Kmph",
+      "Humidity: 36%"
+    ]
+  },
+  {
+    "name": "Baharampur",
+    "weather": "23 degree",
+    "status": [
+      "Wind: 11Kmph",
+      "Humidity: 35%"
+    ]
+  },
+  {
+    "name": "Beijing",
+    "weather": "34 degree",
+    "status": [
+      "Wind: 36Kmph",
+      "Humidity: 25%"
+    ]
+  },
+  {
+    "name": "Benguela",
+    "weather": "10 degree",
+    "status": [
+      "Wind: 4Kmph",
+      "Humidity: 1%"
+    ]
+  },
+  {
+    "name": "Berezniki",
+    "weather": "12 degree",
+    "status": [
+      "Wind: 29Kmph",
+      "Humidity: 30%"
+    ]
+  },
+  {
+    "name": "Bergen",
+    "weather": "17 degree",
+    "status": [
+      "Wind: 7Kmph",
+      "Humidity: 12%"
+    ]
+  },
+  {
+    "name": "Berlin",
+    "weather": "23 degree",
+    "status": [
+      "Wind: 2Kmph",
+      "Humidity: 3%"
+    ]
+  },
+  {
+    "name": "Betul",
+    "weather": "5 degree",
+    "status": [
+      "Wind: 35Kmph",
+      "Humidity: 51%"
+    ]
+  },
+  {
+    "name": "Bhadreswar",
+    "weather": "35 degree",
+    "status": [
+      "Wind: 12Kmph",
+      "Humidity: 35%"
+    ]
+  },
+  {
+    "name": "Cagliari",
+    "weather": "31 degree",
+    "status": [
+      "Wind: 11Kmph",
+      "Humidity: 52%"
+    ]
+  },
+  {
+    "name": "Chandrapur",
+    "weather": "14 degree",
+    "status": [
+      "Wind: 18Kmph",
+      "Humidity: 12%"
+    ]
+  },
+  {
+    "name": "Cebu City",
+    "weather": "23 degree",
+    "status": [
+      "Wind: 12Kmph",
+      "Humidity: 20%"
+    ]
+  },
+  {
+    "name": "Chikusei",
+    "weather": "10 degree",
+    "status": [
+      "Wind: 7Kmph",
+      "Humidity: 31%"
+    ]
+  },
+  {
+    "name": "Clarksville",
+    "weather": "27 degree",
+    "status": [
+      "Wind: 40Kmph",
+      "Humidity: 1%"
+    ]
+  },
+  {
+    "name": "Contagem",
+    "weather": "1 degree",
+    "status": [
+      "Wind: 39Kmph",
+      "Humidity: 1%"
+    ]
+  },
+  {
+    "name": "Çorum",
+    "weather": "5 degree",
+    "status": [
+      "Wind: 21Kmph",
+      "Humidity: 49%"
+    ]
+  },
+  {
+    "name": "Culiacán",
+    "weather": "30 degree",
+    "status": [
+      "Wind: 8Kmph",
+      "Humidity: 10%"
+    ]
+  },
+  {
+    "name": "Cusco",
+    "weather": "16 degree",
+    "status": [
+      "Wind: 5Kmph",
+      "Humidity: 71%"
+    ]
+  },
+  {
+    "name": "Częstochowa",
+    "weather": "32 degree",
+    "status": [
+      "Wind: 6Kmph",
+      "Humidity: 16%"
+    ]
+  },
+  {
+    "name": "Dallas",
+    "weather": "12 degree",
+    "status": [
+      "Wind: 2Kmph",
+      "Humidity: 5%"
+    ]
+  },
+  {
+    "name": "Dallupura",
+    "weather": "10 degree",
+    "status": [
+      "Wind: 9Kmph",
+      "Humidity: 14%"
+    ]
+  },
+  {
+    "name": "Darmstadt",
+    "weather": "32 degree",
+    "status": [
+      "Wind: 17Kmph",
+      "Humidity: 6%"
+    ]
+  },
+  {
+    "name": "Deesa",
+    "weather": "16 degree",
+    "status": [
+      "Wind: 39Kmph",
+      "Humidity: 22%"
+    ]
+  },
+  {
+    "name": "Diadema",
+    "weather": "14 degree",
+    "status": [
+      "Wind: 1Kmph",
+      "Humidity: 59%"
+    ]
+  },
+  {
+    "name": "Dholpur",
+    "weather": "40 degree",
+    "status": [
+      "Wind: 11Kmph",
+      "Humidity: 16%"
+    ]
+  },
+  {
+    "name": "Dili",
+    "weather": "6 degree",
+    "status": [
+      "Wind: 11Kmph",
+      "Humidity: 76%"
+    ]
+  },
+  {
+    "name": "Dortmund",
+    "weather": "18 degree",
+    "status": [
+      "Wind: 15Kmph",
+      "Humidity: 49%"
+    ]
+  },
+  {
+    "name": "Dourados",
+    "weather": "9 degree",
+    "status": [
+      "Wind: 35Kmph",
+      "Humidity: 5%"
+    ]
+  },
+  {
+    "name": "Dublin",
+    "weather": "38 degree",
+    "status": [
+      "Wind: 12Kmph",
+      "Humidity: 75%"
+    ]
+  },
+  {
+    "name": "Dundee",
+    "weather": "21 degree",
+    "status": [
+      "Wind: 19Kmph",
+      "Humidity: 69%"
+    ]
+  },
+  {
+    "name": "East Jerusalem",
+    "weather": "13 degree",
+    "status": [
+      "Wind: 36Kmph",
+      "Humidity: 17%"
+    ]
+  },
+  {
+    "name": "El Paso",
+    "weather": "20 degree",
+    "status": [
+      "Wind: 5Kmph",
+      "Humidity: 57%"
+    ]
+  },
+  {
+    "name": "Elizabeth",
+    "weather": "7 degree",
+    "status": [
+      "Wind: 38Kmph",
+      "Humidity: 69%"
+    ]
+  },
+  {
+    "name": "Erode",
+    "weather": "20 degree",
+    "status": [
+      "Wind: 24Kmph",
+      "Humidity: 50%"
+    ]
+  },
+  {
+    "name": "Erbil",
+    "weather": "2 degree",
+    "status": [
+      "Wind: 17Kmph",
+      "Humidity: 51%"
+    ]
+  },
+  {
+    "name": "Essen",
+    "weather": "12 degree",
+    "status": [
+      "Wind: 18Kmph",
+      "Humidity: 18%"
+    ]
+  },
+  {
+    "name": "Etah",
+    "weather": "29 degree",
+    "status": [
+      "Wind: 2Kmph",
+      "Humidity: 33%"
+    ]
+  },
+  {
+    "name": "Exeter",
+    "weather": "19 degree",
+    "status": [
+      "Wind: 32Kmph",
+      "Humidity: 70%"
+    ]
+  },
+  {
+    "name": "Eugene",
+    "weather": "27 degree",
+    "status": [
+      "Wind: 29Kmph",
+      "Humidity: 57%"
+    ]
+  },
+  {
+    "name": "Faisalabad",
+    "weather": "22 degree",
+    "status": [
+      "Wind: 4Kmph",
+      "Humidity: 44%"
+    ]
+  },
+  {
+    "name": "Fargo",
+    "weather": "20 degree",
+    "status": [
+      "Wind: 13Kmph",
+      "Humidity: 11%"
+    ]
+  },
+  {
+    "name": "Fatehgarh",
+    "weather": "13 degree",
+    "status": [
+      "Wind: 6Kmph",
+      "Humidity: 10%"
+    ]
+  },
+  {
+    "name": "Ferrara",
+    "weather": "13 degree",
+    "status": [
+      "Wind: 33Kmph",
+      "Humidity: 10%"
+    ]
+  },
+  {
+    "name": "Flint",
+    "weather": "14 degree",
+    "status": [
+      "Wind: 32Kmph",
+      "Humidity: 42%"
+    ]
+  },
+  {
+    "name": "Foggia",
+    "weather": "11 degree",
+    "status": [
+      "Wind: 31Kmph",
+      "Humidity: 14%"
+    ]
+  },
+  {
+    "name": "Franca",
+    "weather": "35 degree",
+    "status": [
+      "Wind: 13Kmph",
+      "Humidity: 5%"
+    ]
+  },
+  {
+    "name": "Fuji",
+    "weather": "8 degree",
+    "status": [
+      "Wind: 4Kmph",
+      "Humidity: 26%"
+    ]
+  },
+  {
+    "name": "Galați",
+    "weather": "28 degree",
+    "status": [
+      "Wind: 14Kmph",
+      "Humidity: 11%"
+    ]
+  },
+  {
+    "name": "Gangapur",
+    "weather": "16 degree",
+    "status": [
+      "Wind: 25Kmph",
+      "Humidity: 9%"
+    ]
+  },
+  {
+    "name": "Gapan",
+    "weather": "39 degree",
+    "status": [
+      "Wind: 5Kmph",
+      "Humidity: 8%"
+    ]
+  },
+  {
+    "name": "Gelsenkirchen",
+    "weather": "3 degree",
+    "status": [
+      "Wind: 15Kmph",
+      "Humidity: 25%"
+    ]
+  },
+  {
+    "name": "Ghaziabad",
+    "weather": "18 degree",
+    "status": [
+      "Wind: 13Kmph",
+      "Humidity: 4%"
+    ]
+  },
+  {
+    "name": "Gingoog",
+    "weather": "33 degree",
+    "status": [
+      "Wind: 8Kmph",
+      "Humidity: 27%"
+    ]
+  },
+  {
+    "name": "Godhra",
+    "weather": "38 degree",
+    "status": [
+      "Wind: 18Kmph",
+      "Humidity: 25%"
+    ]
+  },
+  {
+    "name": "Gonda",
+    "weather": "13 degree",
+    "status": [
+      "Wind: 5Kmph",
+      "Humidity: 38%"
+    ]
+  },
+  {
+    "name": "Grozny",
+    "weather": "20 degree",
+    "status": [
+      "Wind: 24Kmph",
+      "Humidity: 65%"
+    ]
+  },
+  {
+    "name": "Guri",
+    "weather": "17 degree",
+    "status": [
+      "Wind: 32Kmph",
+      "Humidity: 9%"
+    ]
+  },
+  {
+    "name": "Hagen",
+    "weather": "12 degree",
+    "status": [
+      "Wind: 21Kmph",
+      "Humidity: 54%"
+    ]
+  },
+  {
+    "name": "Haining City",
+    "weather": "17 degree",
+    "status": [
+      "Wind: 5Kmph",
+      "Humidity: 64%"
+    ]
+  },
+  {
+    "name": "Heilbronn",
+    "weather": "2 degree",
+    "status": [
+      "Wind: 39Kmph",
+      "Humidity: 49%"
+    ]
+  },
+  {
+    "name": "Helsinki",
+    "weather": "25 degree",
+    "status": [
+      "Wind: 34Kmph",
+      "Humidity: 53%"
+    ]
+  },
+  {
+    "name": "High Point",
+    "weather": "40 degree",
+    "status": [
+      "Wind: 4Kmph",
+      "Humidity: 15%"
+    ]
+  },
+  {
+    "name": "Hoima",
+    "weather": "17 degree",
+    "status": [
+      "Wind: 3Kmph",
+      "Humidity: 13%"
+    ]
+  },
+  {
+    "name": "Hrodna",
+    "weather": "4 degree",
+    "status": [
+      "Wind: 28Kmph",
+      "Humidity: 16%"
+    ]
+  },
+  {
+    "name": "Huaiyin",
+    "weather": "7 degree",
+    "status": [
+      "Wind: 3Kmph",
+      "Humidity: 75%"
+    ]
+  },
+  {
+    "name": "Hyderabad",
+    "weather": "11 degree",
+    "status": [
+      "Wind: 21Kmph",
+      "Humidity: 45%"
+    ]
+  },
+  {
+    "name": "Iaşi",
+    "weather": "28 degree",
+    "status": [
+      "Wind: 10Kmph",
+      "Humidity: 8%"
+    ]
+  },
+  {
+    "name": "Aberdeen",
+    "weather": "9 degree",
+    "status": [
+      "Wind: 13Kmph",
+      "Humidity: 52%"
+    ]
+  },
+  {
+    "name": "Ibaraki",
+    "weather": "37 degree",
+    "status": [
+      "Wind: 27Kmph",
+      "Humidity: 48%"
+    ]
+  },
+  {
+    "name": "Ibarra",
+    "weather": "8 degree",
+    "status": [
+      "Wind: 17Kmph",
+      "Humidity: 9%"
+    ]
+  },
+  {
+    "name": "Ica",
+    "weather": "16 degree",
+    "status": [
+      "Wind: 36Kmph",
+      "Humidity: 18%"
+    ]
+  },
+  {
+    "name": "Igarassu",
+    "weather": "16 degree",
+    "status": [
+      "Wind: 22Kmph",
+      "Humidity: 28%"
+    ]
+  },
+  {
+    "name": "Iida",
+    "weather": "3 degree",
+    "status": [
+      "Wind: 17Kmph",
+      "Humidity: 33%"
+    ]
+  },
+  {
+    "name": "Imabari",
+    "weather": "11 degree",
+    "status": [
+      "Wind: 18Kmph",
+      "Humidity: 2%"
+    ]
+  },
+  {
+    "name": "Independence",
+    "weather": "3 degree",
+    "status": [
+      "Wind: 17Kmph",
+      "Humidity: 8%"
+    ]
+  },
+  {
+    "name": "Irving",
+    "weather": "14 degree",
+    "status": [
+      "Wind: 25Kmph",
+      "Humidity: 76%"
+    ]
+  },
+  {
+    "name": "Itami",
+    "weather": "19 degree",
+    "status": [
+      "Wind: 10Kmph",
+      "Humidity: 42%"
+    ]
+  },
+  {
+    "name": "Jabalpur",
+    "weather": "36 degree",
+    "status": [
+      "Wind: 35Kmph",
+      "Humidity: 42%"
+    ]
+  },
+  {
+    "name": "Jena",
+    "weather": "22 degree",
+    "status": [
+      "Wind: 2Kmph",
+      "Humidity: 13%"
+    ]
+  },
+  {
+    "name": "Jhansi",
+    "weather": "24 degree",
+    "status": [
+      "Wind: 26Kmph",
+      "Humidity: 2%"
+    ]
+  },
+  {
+    "name": "Jiangshan",
+    "weather": "6 degree",
+    "status": [
+      "Wind: 1Kmph",
+      "Humidity: 18%"
+    ]
+  },
+  {
+    "name": "Jingdezhen",
+    "weather": "6 degree",
+    "status": [
+      "Wind: 12Kmph",
+      "Humidity: 79%"
+    ]
+  },
+  {
+    "name": "Jodhpur",
+    "weather": "18 degree",
+    "status": [
+      "Wind: 5Kmph",
+      "Humidity: 40%"
+    ]
+  },
+  {
+    "name": "Jos",
+    "weather": "12 degree",
+    "status": [
+      "Wind: 10Kmph",
+      "Humidity: 24%"
+    ]
+  },
+  {
+    "name": "Juiz de Fora",
+    "weather": "2 degree",
+    "status": [
+      "Wind: 40Kmph",
+      "Humidity: 11%"
+    ]
+  },
+  {
+    "name": "Juticalpa",
+    "weather": "12 degree",
+    "status": [
+      "Wind: 24Kmph",
+      "Humidity: 9%"
+    ]
+  },
+  {
+    "name": "Kabul",
+    "weather": "2 degree",
+    "status": [
+      "Wind: 12Kmph",
+      "Humidity: 78%"
+    ]
+  },
+  {
+    "name": "Kaili",
+    "weather": "25 degree",
+    "status": [
+      "Wind: 18Kmph",
+      "Humidity: 35%"
+    ]
+  },
+  {
+    "name": "Kamakura",
+    "weather": "4 degree",
+    "status": [
+      "Wind: 25Kmph",
+      "Humidity: 9%"
+    ]
+  },
+  {
+    "name": "Kenema",
+    "weather": "16 degree",
+    "status": [
+      "Wind: 1Kmph",
+      "Humidity: 7%"
+    ]
+  },
+  {
+    "name": "Khan Yunis",
+    "weather": "15 degree",
+    "status": [
+      "Wind: 18Kmph",
+      "Humidity: 2%"
+    ]
+  },
+  {
+    "name": "Khargone",
+    "weather": "26 degree",
+    "status": [
+      "Wind: 3Kmph",
+      "Humidity: 19%"
+    ]
+  },
+  {
+    "name": "Kiel",
+    "weather": "7 degree",
+    "status": [
+      "Wind: 8Kmph",
+      "Humidity: 70%"
+    ]
+  },
+  {
+    "name": "Kingston upon Hull",
+    "weather": "16 degree",
+    "status": [
+      "Wind: 19Kmph",
+      "Humidity: 45%"
+    ]
+  },
+  {
+    "name": "Koriyama",
+    "weather": "30 degree",
+    "status": [
+      "Wind: 27Kmph",
+      "Humidity: 16%"
+    ]
+  },
+  {
+    "name": "Kuki",
+    "weather": "11 degree",
+    "status": [
+      "Wind: 40Kmph",
+      "Humidity: 23%"
+    ]
+  },
+  {
+    "name": "Kyzylorda",
+    "weather": "22 degree",
+    "status": [
+      "Wind: 35Kmph",
+      "Humidity: 64%"
+    ]
+  },
+  {
+    "name": "La Vega",
+    "weather": "19 degree",
+    "status": [
+      "Wind: 29Kmph",
+      "Humidity: 2%"
+    ]
+  },
+  {
+    "name": "Leninsk-Kuznetsky",
+    "weather": "22 degree",
+    "status": [
+      "Wind: 16Kmph",
+      "Humidity: 34%"
+    ]
+  },
+  {
+    "name": "Liloan",
+    "weather": "15 degree",
+    "status": [
+      "Wind: 34Kmph",
+      "Humidity: 61%"
+    ]
+  },
+  {
+    "name": "Lleida",
+    "weather": "19 degree",
+    "status": [
+      "Wind: 7Kmph",
+      "Humidity: 11%"
+    ]
+  },
+  {
+    "name": "Longxuyen",
+    "weather": "20 degree",
+    "status": [
+      "Wind: 11Kmph",
+      "Humidity: 3%"
+    ]
+  },
+  {
+    "name": "Los Guayos",
+    "weather": "17 degree",
+    "status": [
+      "Wind: 1Kmph",
+      "Humidity: 7%"
+    ]
+  },
+  {
+    "name": "Lubumbashi",
+    "weather": "24 degree",
+    "status": [
+      "Wind: 33Kmph",
+      "Humidity: 1%"
+    ]
+  },
+  {
+    "name": "Lyubertsy",
+    "weather": "6 degree",
+    "status": [
+      "Wind: 17Kmph",
+      "Humidity: 11%"
+    ]
+  },
+  {
+    "name": "Macon",
+    "weather": "33 degree",
+    "status": [
+      "Wind: 8Kmph",
+      "Humidity: 63%"
+    ]
+  },
+  {
+    "name": "Madrid",
+    "weather": "17 degree",
+    "status": [
+      "Wind: 23Kmph",
+      "Humidity: 5%"
+    ]
+  },
+  {
+    "name": "Majadahonda",
+    "weather": "22 degree",
+    "status": [
+      "Wind: 28Kmph",
+      "Humidity: 1%"
+    ]
+  },
+  {
+    "name": "McKinney",
+    "weather": "30 degree",
+    "status": [
+      "Wind: 14Kmph",
+      "Humidity: 15%"
+    ]
+  },
+  {
+    "name": "Medea",
+    "weather": "3 degree",
+    "status": [
+      "Wind: 24Kmph",
+      "Humidity: 48%"
+    ]
+  },
+  {
+    "name": "Minglanilla",
+    "weather": "21 degree",
+    "status": [
+      "Wind: 28Kmph",
+      "Humidity: 47%"
+    ]
+  },
+  {
+    "name": "Modesto",
+    "weather": "2 degree",
+    "status": [
+      "Wind: 9Kmph",
+      "Humidity: 47%"
+    ]
+  },
+  {
+    "name": "Mokolo",
+    "weather": "10 degree",
+    "status": [
+      "Wind: 31Kmph",
+      "Humidity: 80%"
+    ]
+  },
+  {
+    "name": "Mufulira",
+    "weather": "15 degree",
+    "status": [
+      "Wind: 37Kmph",
+      "Humidity: 5%"
+    ]
+  },
+  {
+    "name": "Nabari",
+    "weather": "36 degree",
+    "status": [
+      "Wind: 21Kmph",
+      "Humidity: 2%"
+    ]
+  },
+  {
+    "name": "Nepean",
+    "weather": "13 degree",
+    "status": [
+      "Wind: 24Kmph",
+      "Humidity: 60%"
+    ]
+  },
+  {
+    "name": "Nigde",
+    "weather": "5 degree",
+    "status": [
+      "Wind: 5Kmph",
+      "Humidity: 14%"
+    ]
+  },
+  {
+    "name": "Nizhyn",
+    "weather": "16 degree",
+    "status": [
+      "Wind: 17Kmph",
+      "Humidity: 63%"
+    ]
+  },
+  {
+    "name": "Nkpor",
+    "weather": "27 degree",
+    "status": [
+      "Wind: 16Kmph",
+      "Humidity: 63%"
+    ]
+  },
+  {
+    "name": "Novomoskovsk",
+    "weather": "30 degree",
+    "status": [
+      "Wind: 24Kmph",
+      "Humidity: 79%"
+    ]
+  },
+  {
+    "name": "Nyaunglebin",
+    "weather": "4 degree",
+    "status": [
+      "Wind: 33Kmph",
+      "Humidity: 35%"
+    ]
+  },
+  {
+    "name": "Oakland",
+    "weather": "34 degree",
+    "status": [
+      "Wind: 21Kmph",
+      "Humidity: 59%"
+    ]
+  },
+  {
+    "name": "Obninsk",
+    "weather": "15 degree",
+    "status": [
+      "Wind: 39Kmph",
+      "Humidity: 50%"
+    ]
+  },
+  {
+    "name": "Odawara",
+    "weather": "16 degree",
+    "status": [
+      "Wind: 26Kmph",
+      "Humidity: 49%"
+    ]
+  },
+  {
+    "name": "Okayama",
+    "weather": "19 degree",
+    "status": [
+      "Wind: 24Kmph",
+      "Humidity: 9%"
+    ]
+  },
+  {
+    "name": "Okrika",
+    "weather": "18 degree",
+    "status": [
+      "Wind: 24Kmph",
+      "Humidity: 80%"
+    ]
+  },
+  {
+    "name": "Ooty",
+    "weather": "31 degree",
+    "status": [
+      "Wind: 36Kmph",
+      "Humidity: 40%"
+    ]
+  },
+  {
+    "name": "Orel",
+    "weather": "20 degree",
+    "status": [
+      "Wind: 16Kmph",
+      "Humidity: 17%"
+    ]
+  },
+  {
+    "name": "Osmaniye",
+    "weather": "39 degree",
+    "status": [
+      "Wind: 27Kmph",
+      "Humidity: 4%"
+    ]
+  },
+  {
+    "name": "Ottakring",
+    "weather": "13 degree",
+    "status": [
+      "Wind: 39Kmph",
+      "Humidity: 4%"
+    ]
+  },
+  {
+    "name": "Ozubulu",
+    "weather": "11 degree",
+    "status": [
+      "Wind: 4Kmph",
+      "Humidity: 72%"
+    ]
+  },
+  {
+    "name": "Paarl",
+    "weather": "3 degree",
+    "status": [
+      "Wind: 17Kmph",
+      "Humidity: 9%"
+    ]
+  },
+  {
+    "name": "Paradsasvar",
+    "weather": "36 degree",
+    "status": [
+      "Wind: 16Kmph",
+      "Humidity: 19%"
+    ]
+  },
+  {
+    "name": "Petroupolis",
+    "weather": "34 degree",
+    "status": [
+      "Wind: 39Kmph",
+      "Humidity: 63%"
+    ]
+  },
+  {
+    "name": "Phaltan",
+    "weather": "17 degree",
+    "status": [
+      "Wind: 14Kmph",
+      "Humidity: 17%"
+    ]
+  },
+  {
+    "name": "Picos",
+    "weather": "17 degree",
+    "status": [
+      "Wind: 22Kmph",
+      "Humidity: 20%"
+    ]
+  },
+  {
+    "name": "Pleven",
+    "weather": "19 degree",
+    "status": [
+      "Wind: 18Kmph",
+      "Humidity: 7%"
+    ]
+  },
+  {
+    "name": "Porbandar",
+    "weather": "6 degree",
+    "status": [
+      "Wind: 29Kmph",
+      "Humidity: 56%"
+    ]
+  },
+  {
+    "name": "Prabumulih",
+    "weather": "33 degree",
+    "status": [
+      "Wind: 30Kmph",
+      "Humidity: 75%"
+    ]
+  },
+  {
+    "name": "Pyongyang",
+    "weather": "12 degree",
+    "status": [
+      "Wind: 5Kmph",
+      "Humidity: 67%"
+    ]
+  },
+  {
+    "name": "Qapqal",
+    "weather": "11 degree",
+    "status": [
+      "Wind: 29Kmph",
+      "Humidity: 46%"
+    ]
+  },
+  {
+    "name": "Quchan",
+    "weather": "20 degree",
+    "status": [
+      "Wind: 35Kmph",
+      "Humidity: 20%"
+    ]
+  },
+  {
+    "name": "Queens",
+    "weather": "33 degree",
+    "status": [
+      "Wind: 8Kmph",
+      "Humidity: 75%"
+    ]
+  },
+  {
+    "name": "Quillacollo",
+    "weather": "37 degree",
+    "status": [
+      "Wind: 29Kmph",
+      "Humidity: 59%"
+    ]
+  },
+  {
+    "name": "Quzhou",
+    "weather": "38 degree",
+    "status": [
+      "Wind: 40Kmph",
+      "Humidity: 80%"
+    ]
+  },
+  {
+    "name": "Qom",
+    "weather": "33 degree",
+    "status": [
+      "Wind: 33Kmph",
+      "Humidity: 63%"
+    ]
+  },
+  {
+    "name": "Qiongshan",
+    "weather": "3 degree",
+    "status": [
+      "Wind: 31Kmph",
+      "Humidity: 47%"
+    ]
+  },
+  {
+    "name": "Rabak",
+    "weather": "4 degree",
+    "status": [
+      "Wind: 36Kmph",
+      "Humidity: 15%"
+    ]
+  },
+  {
+    "name": "Ramenki",
+    "weather": "12 degree",
+    "status": [
+      "Wind: 7Kmph",
+      "Humidity: 29%"
+    ]
+  },
+  {
+    "name": "Regensburg",
+    "weather": "16 degree",
+    "status": [
+      "Wind: 28Kmph",
+      "Humidity: 67%"
+    ]
+  },
+  {
+    "name": "Resita",
+    "weather": "19 degree",
+    "status": [
+      "Wind: 8Kmph",
+      "Humidity: 69%"
+    ]
+  },
+  {
+    "name": "Ridder",
+    "weather": "15 degree",
+    "status": [
+      "Wind: 19Kmph",
+      "Humidity: 33%"
+    ]
+  },
+  {
+    "name": "Rochester",
+    "weather": "6 degree",
+    "status": [
+      "Wind: 9Kmph",
+      "Humidity: 17%"
+    ]
+  },
+  {
+    "name": "Rogers",
+    "weather": "27 degree",
+    "status": [
+      "Wind: 15Kmph",
+      "Humidity: 52%"
+    ]
+  },
+  {
+    "name": "Runcorn",
+    "weather": "11 degree",
+    "status": [
+      "Wind: 17Kmph",
+      "Humidity: 11%"
+    ]
+  },
+  {
+    "name": "Rzhev",
+    "weather": "7 degree",
+    "status": [
+      "Wind: 15Kmph",
+      "Humidity: 7%"
+    ]
+  },
+  {
+    "name": "Sabinas",
+    "weather": "5 degree",
+    "status": [
+      "Wind: 6Kmph",
+      "Humidity: 5%"
+    ]
+  },
+  {
+    "name": "Schwerin",
+    "weather": "27 degree",
+    "status": [
+      "Wind: 17Kmph",
+      "Humidity: 33%"
+    ]
+  },
+  {
+    "name": "Sector 2",
+    "weather": "8 degree",
+    "status": [
+      "Wind: 30Kmph",
+      "Humidity: 53%"
+    ]
+  },
+  {
+    "name": "Sete Lagoas",
+    "weather": "15 degree",
+    "status": [
+      "Wind: 23Kmph",
+      "Humidity: 11%"
+    ]
+  },
+  {
+    "name": "Sheffield",
+    "weather": "2 degree",
+    "status": [
+      "Wind: 8Kmph",
+      "Humidity: 50%"
+    ]
+  },
+  {
+    "name": "Shima",
+    "weather": "38 degree",
+    "status": [
+      "Wind: 31Kmph",
+      "Humidity: 46%"
+    ]
+  },
+  {
+    "name": "Sikasso",
+    "weather": "27 degree",
+    "status": [
+      "Wind: 7Kmph",
+      "Humidity: 3%"
+    ]
+  },
+  {
+    "name": "South Vineland",
+    "weather": "36 degree",
+    "status": [
+      "Wind: 9Kmph",
+      "Humidity: 1%"
+    ]
+  },
+  {
+    "name": "Stafford",
+    "weather": "5 degree",
+    "status": [
+      "Wind: 13Kmph",
+      "Humidity: 28%"
+    ]
+  },
+  {
+    "name": "Sultangazi",
+    "weather": "33 degree",
+    "status": [
+      "Wind: 19Kmph",
+      "Humidity: 25%"
+    ]
+  },
+  {
+    "name": "Szombathely",
+    "weather": "11 degree",
+    "status": [
+      "Wind: 17Kmph",
+      "Humidity: 69%"
+    ]
+  },
+  {
+    "name": "Tabaco",
+    "weather": "6 degree",
+    "status": [
+      "Wind: 38Kmph",
+      "Humidity: 62%"
+    ]
+  },
+  {
+    "name": "Tan-Tan",
+    "weather": "5 degree",
+    "status": [
+      "Wind: 13Kmph",
+      "Humidity: 27%"
+    ]
+  },
+  {
+    "name": "Tempe",
+    "weather": "5 degree",
+    "status": [
+      "Wind: 5Kmph",
+      "Humidity: 78%"
+    ]
+  },
+  {
+    "name": "Teni",
+    "weather": "31 degree",
+    "status": [
+      "Wind: 10Kmph",
+      "Humidity: 30%"
+    ]
+  },
+  {
+    "name": "Thika",
+    "weather": "19 degree",
+    "status": [
+      "Wind: 29Kmph",
+      "Humidity: 43%"
+    ]
+  },
+  {
+    "name": "Thongwa",
+    "weather": "22 degree",
+    "status": [
+      "Wind: 23Kmph",
+      "Humidity: 57%"
+    ]
+  },
+  {
+    "name": "Tianfu",
+    "weather": "14 degree",
+    "status": [
+      "Wind: 14Kmph",
+      "Humidity: 35%"
+    ]
+  },
+  {
+    "name": "Tonghae",
+    "weather": "3 degree",
+    "status": [
+      "Wind: 27Kmph",
+      "Humidity: 2%"
+    ]
+  },
+  {
+    "name": "Towson",
+    "weather": "10 degree",
+    "status": [
+      "Wind: 15Kmph",
+      "Humidity: 71%"
+    ]
+  },
+  {
+    "name": "Trapani",
+    "weather": "3 degree",
+    "status": [
+      "Wind: 17Kmph",
+      "Humidity: 68%"
+    ]
+  },
+  {
+    "name": "Troyes",
+    "weather": "33 degree",
+    "status": [
+      "Wind: 17Kmph",
+      "Humidity: 14%"
+    ]
+  },
+  {
+    "name": "Ualog",
+    "weather": "15 degree",
+    "status": [
+      "Wind: 8Kmph",
+      "Humidity: 5%"
+    ]
+  },
+  {
+    "name": "Ulm",
+    "weather": "38 degree",
+    "status": [
+      "Wind: 30Kmph",
+      "Humidity: 8%"
+    ]
+  },
+  {
+    "name": "Ujhani",
+    "weather": "33 degree",
+    "status": [
+      "Wind: 39Kmph",
+      "Humidity: 7%"
+    ]
+  },
+  {
+    "name": "Ughelli",
+    "weather": "7 degree",
+    "status": [
+      "Wind: 11Kmph",
+      "Humidity: 9%"
+    ]
+  },
+  {
+    "name": "Upleta",
+    "weather": "19 degree",
+    "status": [
+      "Wind: 5Kmph",
+      "Humidity: 15%"
+    ]
+  },
+  {
+    "name": "Urumqi",
+    "weather": "31 degree",
+    "status": [
+      "Wind: 11Kmph",
+      "Humidity: 30%"
+    ]
+  },
+  {
+    "name": "Ussuriysk",
+    "weather": "32 degree",
+    "status": [
+      "Wind: 20Kmph",
+      "Humidity: 19%"
+    ]
+  },
+  {
+    "name": "Uttaradit",
+    "weather": "40 degree",
+    "status": [
+      "Wind: 34Kmph",
+      "Humidity: 25%"
+    ]
+  },
+  {
+    "name": "Uzlovaya",
+    "weather": "12 degree",
+    "status": [
+      "Wind: 10Kmph",
+      "Humidity: 6%"
+    ]
+  },
+  {
+    "name": "Vaasa",
+    "weather": "20 degree",
+    "status": [
+      "Wind: 14Kmph",
+      "Humidity: 11%"
+    ]
+  },
+  {
+    "name": "Valenca",
+    "weather": "15 degree",
+    "status": [
+      "Wind: 39Kmph",
+      "Humidity: 80%"
+    ]
+  },
+  {
+    "name": "Vallejo",
+    "weather": "1 degree",
+    "status": [
+      "Wind: 24Kmph",
+      "Humidity: 56%"
+    ]
+  },
+  {
+    "name": "Veszprem",
+    "weather": "32 degree",
+    "status": [
+      "Wind: 4Kmph",
+      "Humidity: 23%"
+    ]
+  },
+  {
+    "name": "Victoria",
+    "weather": "22 degree",
+    "status": [
+      "Wind: 22Kmph",
+      "Humidity: 73%"
+    ]
+  },
+  {
+    "name": "Villa",
+    "weather": "16 degree",
+    "status": [
+      "Wind: 28Kmph",
+      "Humidity: 39%"
+    ]
+  },
+  {
+    "name": "Villahermosa",
+    "weather": "6 degree",
+    "status": [
+      "Wind: 33Kmph",
+      "Humidity: 60%"
+    ]
+  },
+  {
+    "name": "Votuporanga",
+    "weather": "3 degree",
+    "status": [
+      "Wind: 7Kmph",
+      "Humidity: 76%"
+    ]
+  },
+  {
+    "name": "Vryheid",
+    "weather": "13 degree",
+    "status": [
+      "Wind: 13Kmph",
+      "Humidity: 69%"
+    ]
+  },
+  {
+    "name": "Vyronas",
+    "weather": "12 degree",
+    "status": [
+      "Wind: 25Kmph",
+      "Humidity: 3%"
+    ]
+  },
+  {
+    "name": "Wakefield",
+    "weather": "20 degree",
+    "status": [
+      "Wind: 9Kmph",
+      "Humidity: 70%"
+    ]
+  },
+  {
+    "name": "Waltham",
+    "weather": "11 degree",
+    "status": [
+      "Wind: 32Kmph",
+      "Humidity: 80%"
+    ]
+  },
+  {
+    "name": "Weinan",
+    "weather": "22 degree",
+    "status": [
+      "Wind: 4Kmph",
+      "Humidity: 3%"
+    ]
+  },
+  {
+    "name": "West Ridge",
+    "weather": "3 degree",
+    "status": [
+      "Wind: 38Kmph",
+      "Humidity: 60%"
+    ]
+  },
+  {
+    "name": "White Rock",
+    "weather": "40 degree",
+    "status": [
+      "Wind: 30Kmph",
+      "Humidity: 14%"
+    ]
+  },
+  {
+    "name": "Widnes",
+    "weather": "23 degree",
+    "status": [
+      "Wind: 1Kmph",
+      "Humidity: 1%"
+    ]
+  },
+  {
+    "name": "Wollongong",
+    "weather": "27 degree",
+    "status": [
+      "Wind: 20Kmph",
+      "Humidity: 67%"
+    ]
+  },
+  {
+    "name": "Wuchang",
+    "weather": "22 degree",
+    "status": [
+      "Wind: 6Kmph",
+      "Humidity: 4%"
+    ]
+  },
+  {
+    "name": "Wyoming",
+    "weather": "14 degree",
+    "status": [
+      "Wind: 25Kmph",
+      "Humidity: 48%"
+    ]
+  },
+  {
+    "name": "Xiamen",
+    "weather": "28 degree",
+    "status": [
+      "Wind: 37Kmph",
+      "Humidity: 51%"
+    ]
+  },
+  {
+    "name": "Xiangtan",
+    "weather": "16 degree",
+    "status": [
+      "Wind: 19Kmph",
+      "Humidity: 30%"
+    ]
+  },
+  {
+    "name": "Xingcheng",
+    "weather": "36 degree",
+    "status": [
+      "Wind: 27Kmph",
+      "Humidity: 79%"
+    ]
+  },
+  {
+    "name": "Xishan",
+    "weather": "11 degree",
+    "status": [
+      "Wind: 12Kmph",
+      "Humidity: 68%"
+    ]
+  },
+  {
+    "name": "Xiuying",
+    "weather": "31 degree",
+    "status": [
+      "Wind: 4Kmph",
+      "Humidity: 72%"
+    ]
+  },
+  {
+    "name": "Xuanzhou",
+    "weather": "39 degree",
+    "status": [
+      "Wind: 2Kmph",
+      "Humidity: 55%"
+    ]
+  },
+  {
+    "name": "Xucheng",
+    "weather": "11 degree",
+    "status": [
+      "Wind: 25Kmph",
+      "Humidity: 72%"
+    ]
+  },
+  {
+    "name": "Xochimilco",
+    "weather": "32 degree",
+    "status": [
+      "Wind: 32Kmph",
+      "Humidity: 12%"
+    ]
+  },
+  {
+    "name": "Yakutsk",
+    "weather": "22 degree",
+    "status": [
+      "Wind: 16Kmph",
+      "Humidity: 77%"
+    ]
+  },
+  {
+    "name": "Yamunanagar",
+    "weather": "39 degree",
+    "status": [
+      "Wind: 2Kmph",
+      "Humidity: 4%"
+    ]
+  },
+  {
+    "name": "Yelets",
+    "weather": "18 degree",
+    "status": [
+      "Wind: 40Kmph",
+      "Humidity: 25%"
+    ]
+  },
+  {
+    "name": "Yingchuan",
+    "weather": "17 degree",
+    "status": [
+      "Wind: 31Kmph",
+      "Humidity: 79%"
+    ]
+  },
+  {
+    "name": "Yoshikawa",
+    "weather": "27 degree",
+    "status": [
+      "Wind: 37Kmph",
+      "Humidity: 31%"
+    ]
+  },
+  {
+    "name": "Yozgat",
+    "weather": "1 degree",
+    "status": [
+      "Wind: 25Kmph",
+      "Humidity: 28%"
+    ]
+  },
+  {
+    "name": "Yurga",
+    "weather": "18 degree",
+    "status": [
+      "Wind: 6Kmph",
+      "Humidity: 52%"
+    ]
+  },
+  {
+    "name": "Yuyao",
+    "weather": "40 degree",
+    "status": [
+      "Wind: 7Kmph",
+      "Humidity: 55%"
+    ]
+  },
+  {
+    "name": "Yutan",
+    "weather": "12 degree",
+    "status": [
+      "Wind: 3Kmph",
+      "Humidity: 24%"
+    ]
+  },
+  {
+    "name": "Yulin",
+    "weather": "19 degree",
+    "status": [
+      "Wind: 39Kmph",
+      "Humidity: 3%"
+    ]
+  },
+  {
+    "name": "Zacapu",
+    "weather": "28 degree",
+    "status": [
+      "Wind: 12Kmph",
+      "Humidity: 25%"
+    ]
+  },
+  {
+    "name": "Zaozhuang",
+    "weather": "3 degree",
+    "status": [
+      "Wind: 22Kmph",
+      "Humidity: 7%"
+    ]
+  },
+  {
+    "name": "Zefta",
+    "weather": "26 degree",
+    "status": [
+      "Wind: 5Kmph",
+      "Humidity: 79%"
+    ]
+  },
+  {
+    "name": "Zhangjiajie",
+    "weather": "36 degree",
+    "status": [
+      "Wind: 36Kmph",
+      "Humidity: 5%"
+    ]
+  },
+  {
+    "name": "Zhaogezhuang",
+    "weather": "6 degree",
+    "status": [
+      "Wind: 37Kmph",
+      "Humidity: 16%"
+    ]
+  },
+  {
+    "name": "Zhenjiang",
+    "weather": "13 degree",
+    "status": [
+      "Wind: 17Kmph",
+      "Humidity: 2%"
+    ]
+  },
+  {
+    "name": "Zhenjiang",
+    "weather": "28 degree",
+    "status": [
+      "Wind: 20Kmph",
+      "Humidity: 13%"
+    ]
+  },
+  {
+    "name": "Zrenjanin",
+    "weather": "7 degree",
+    "status": [
+      "Wind: 26Kmph",
+      "Humidity: 8%"
+    ]
+  },
+  {
+    "name": "Zyuzino",
+    "weather": "28 degree",
+    "status": [
+      "Wind: 10Kmph",
+      "Humidity: 12%"
+    ]
+  },
+  {
+    "name": "Zwolle",
+    "weather": "33 degree",
+    "status": [
+      "Wind: 20Kmph",
+      "Humidity: 9%"
+    ]
+  }
+]

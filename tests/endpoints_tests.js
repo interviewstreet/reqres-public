@@ -1093,3 +1093,21 @@ describe('Dynamic APIs', () => {
         })
   });
 });
+
+describe('weather.json', () => {
+  it('/api/weather/?name=...', (done) => {
+    chai.request(server)
+        .get('/api/weather/?name=ad')
+        .then((res) => {
+          res.body.data[0].should.be.eql({
+            name: "Adelaide",
+            weather: "15 degree",
+            status: [
+              "Wind: 8Kmph",
+              "Humidity: 61%"
+            ]
+          });
+          done();
+        }).catch((err) => console.log(err));
+  });
+});
