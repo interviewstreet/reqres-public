@@ -57,10 +57,10 @@
   {
     "question": "What is the correct JavaScript syntax to change the content of the HTML element below?\n\n<p id=\"demo\">This is a demonstration.</p>",
     "options": [
-      "a)  document.getElementByName(\"p\").innerHTML = \"Hello World!\";",
-      "b)  document.getElementById(\"demo\").innerHTML = \"Hello World!\";",
-      "c)  document.getElement(\"p\").innerHTML = \"Hello World!\";",
-      "d)  #demo.innerHTML = \"Hello World!\";"
+      "a) document.getElementByName(\"p\").innerHTML = \"Hello World!\";",
+      "b) document.getElementById(\"demo\").innerHTML = \"Hello World!\";",
+      "c) document.getElement(\"p\").innerHTML = \"Hello World!\";",
+      "d) #demo.innerHTML = \"Hello World!\";"
     ],
     "answer": 1,
     "id": 5
