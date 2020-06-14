@@ -983,6 +983,47 @@ describe('Check all `/api` endpoints', () => {
 
   });
 
+  describe('ip.json', () => {
+    it('/api/ip?page=...', (done) => {
+      let startIndex = 0;
+      let endIndex = 10;
+      let pages = [];
+      for (let i = 1; i <= 2; i += 1) {
+        pages.push(i);
+      }
+
+      Promise.mapSeries(pages, (page) => {
+        return chai.request(server)
+            .get('/api/ip?page=' + page.toString())
+            .then((res) => {
+              return res.body.data;
+            })
+      }).then((results) => {
+        for (let result of results) {
+          result.should.be.eql(data['ip'].slice(startIndex, endIndex));
+          startIndex += 10;
+          endIndex += 10;
+        }
+        done();
+      }).catch((err) => {
+        console.log(err);
+        done(err);
+      });
+    });
+
+    it('/api/ip/:ip', (done) => {
+      chai.request(server)
+          .get('/api/ip/149.202.249.255')
+          .then((res) => {
+            res.body.data.should.be.eql({
+              "ip": "149.202.249.255",
+              "country": "FR"
+            },);
+            done();
+          });
+    });
+  })
+  
 });
 
 describe('articles.json', () => {
