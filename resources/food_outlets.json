@@ -1,0 +1,4002 @@
+[
+    {
+        "city": "Seattle",
+        "name": "Cafe Juanita",
+        "estimated_cost": 160,
+        "user_rating": {
+            "average_rating": 4.9,
+            "votes": 16203
+        },
+        "id": 41
+    },
+    {
+        "city": "Seattle",
+        "name": "Cafe Munir",
+        "estimated_cost": 160,
+        "user_rating": {
+            "average_rating": 4.9,
+            "votes": 4699
+        },
+        "id": 42
+    },
+    {
+        "city": "Seattle",
+        "name": "Flechazo",
+        "estimated_cost": 140,
+        "user_rating": {
+            "average_rating": 4.8,
+            "votes": 2663
+        },
+        "id": 43
+    },
+    {
+        "city": "Seattle",
+        "name": "Vanilla Sky",
+        "estimated_cost": 120,
+        "user_rating": {
+            "average_rating": 4.6,
+            "votes": 645
+        },
+        "id": 44
+    },
+    {
+        "city": "Seattle",
+        "name": "The Shambles",
+        "estimated_cost": 110,
+        "user_rating": {
+            "average_rating": 4.4,
+            "votes": 2116
+        },
+        "id": 45
+    },
+    {
+        "city": "Seattle",
+        "name": "Stories",
+        "estimated_cost": 150,
+        "user_rating": {
+            "average_rating": 4.5,
+            "votes": 2087
+        },
+        "id": 46
+    },
+    {
+        "city": "Seattle",
+        "name": "Big Pitcher",
+        "estimated_cost": 180,
+        "user_rating": {
+            "average_rating": 4.7,
+            "votes": 9011
+        },
+        "id": 47
+    },
+    {
+        "city": "Seattle",
+        "name": "The Black Pearl",
+        "estimated_cost": 150,
+        "user_rating": {
+            "average_rating": 4.8,
+            "votes": 6976
+        },
+        "id": 48
+    },
+    {
+        "city": "Seattle",
+        "name": "Truffles",
+        "estimated_cost": 90,
+        "user_rating": {
+            "average_rating": 4.7,
+            "votes": 14611
+        },
+        "id": 49
+    },
+    {
+        "city": "Seattle",
+        "name": "Biergarten",
+        "estimated_cost": 240,
+        "user_rating": {
+            "average_rating": 4.7,
+            "votes": 299
+        },
+        "id": 410
+    },
+    {
+        "city": "Seattle",
+        "name": "TBC Sky Lounge",
+        "estimated_cost": 10,
+        "user_rating": {
+            "average_rating": 4.7,
+            "votes": 6577
+        },
+        "id": 411
+    },
+    {
+        "city": "Seattle",
+        "name": "The Pump House",
+        "estimated_cost": 150,
+        "user_rating": {
+            "average_rating": 4.3,
+            "votes": 588
+        },
+        "id": 412
+    },
+    {
+        "city": "Seattle",
+        "name": "JuneBaby",
+        "estimated_cost": 80,
+        "user_rating": {
+            "average_rating": 4.4,
+            "votes": 1880
+        },
+        "id": 413
+    },
+    {
+        "city": "Seattle",
+        "name": "Brew and Barbeque - A Microbrewery Pub",
+        "estimated_cost": 140,
+        "user_rating": {
+            "average_rating": 4.7,
+            "votes": 5695
+        },
+        "id": 414
+    },
+    {
+        "city": "Seattle",
+        "name": "Simon Says Brew Works",
+        "estimated_cost": 140,
+        "user_rating": {
+            "average_rating": 4.5,
+            "votes": 1855
+        },
+        "id": 415
+    },
+    {
+        "city": "Seattle",
+        "name": "Communiti",
+        "estimated_cost": 150,
+        "user_rating": {
+            "average_rating": 4.6,
+            "votes": 3837
+        },
+        "id": 416
+    },
+    {
+        "city": "Seattle",
+        "name": "Asia Kitchen By Mainland China",
+        "estimated_cost": 150,
+        "user_rating": {
+            "average_rating": 4.9,
+            "votes": 2133
+        },
+        "id": 417
+    },
+    {
+        "city": "Seattle",
+        "name": "Addo",
+        "estimated_cost": 140,
+        "user_rating": {
+            "average_rating": 4.7,
+            "votes": 6860
+        },
+        "id": 418
+    },
+    {
+        "city": "Seattle",
+        "name": "The Pallet",
+        "estimated_cost": 160,
+        "user_rating": {
+            "average_rating": 4.4,
+            "votes": 2390
+        },
+        "id": 419
+    },
+    {
+        "city": "Seattle",
+        "name": "Hammered",
+        "estimated_cost": 130,
+        "user_rating": {
+            "average_rating": 4.6,
+            "votes": 4562
+        },
+        "id": 420
+    },
+    {
+        "city": "Seattle",
+        "name": "Sidewalk - The Garden Bar",
+        "estimated_cost": 130,
+        "user_rating": {
+            "average_rating": 4.5,
+            "votes": 2877
+        },
+        "id": 421
+    },
+    {
+        "city": "Seattle",
+        "name": "Brooks and Bonds Brewery",
+        "estimated_cost": 160,
+        "user_rating": {
+            "average_rating": 4.5,
+            "votes": 3825
+        },
+        "id": 422
+    },
+    {
+        "city": "Seattle",
+        "name": "Toit",
+        "estimated_cost": 150,
+        "user_rating": {
+            "average_rating": 4.7,
+            "votes": 14938
+        },
+        "id": 423
+    },
+    {
+        "city": "Seattle",
+        "name": "AB's - Absolute Barbecues",
+        "estimated_cost": 160,
+        "user_rating": {
+            "average_rating": 4.8,
+            "votes": 11871
+        },
+        "id": 424
+    },
+    {
+        "city": "Seattle",
+        "name": "Frelard Tamales",
+        "estimated_cost": 150,
+        "user_rating": {
+            "average_rating": 4.6,
+            "votes": 4604
+        },
+        "id": 425
+    },
+    {
+        "city": "Seattle",
+        "name": "Xi'an Noodles",
+        "estimated_cost": 140,
+        "user_rating": {
+            "average_rating": 4.8,
+            "votes": 10330
+        },
+        "id": 426
+    },
+    {
+        "city": "Seattle",
+        "name": "Levitate Brewery and Kitchen",
+        "estimated_cost": 150,
+        "user_rating": {
+            "average_rating": 4.4,
+            "votes": 329
+        },
+        "id": 427
+    },
+    {
+        "city": "Seattle",
+        "name": "Baar Union",
+        "estimated_cost": 850,
+        "user_rating": {
+            "average_rating": 4.7,
+            "votes": 558
+        },
+        "id": 428
+    },
+    {
+        "city": "Seattle",
+        "name": "La Carta de Oaxaca",
+        "estimated_cost": 240,
+        "user_rating": {
+            "average_rating": 4.7,
+            "votes": 6829
+        },
+        "id": 429
+    },
+    {
+        "city": "Seattle",
+        "name": "XOOX Brewmill",
+        "estimated_cost": 200,
+        "user_rating": {
+            "average_rating": 4.4,
+            "votes": 1483
+        },
+        "id": 430
+    },
+    {
+        "city": "Seattle",
+        "name": "The Globe Grub",
+        "estimated_cost": 130,
+        "user_rating": {
+            "average_rating": 4.8,
+            "votes": 3790
+        },
+        "id": 431
+    },
+    {
+        "city": "Seattle",
+        "name": "The Bier Library",
+        "estimated_cost": 200,
+        "user_rating": {
+            "average_rating": 4.3,
+            "votes": 476
+        },
+        "id": 432
+    },
+    {
+        "city": "Seattle",
+        "name": "Vapour Brewpub and Diner",
+        "estimated_cost": 140,
+        "user_rating": {
+            "average_rating": 4.6,
+            "votes": 2703
+        },
+        "id": 433
+    },
+    {
+        "city": "Seattle",
+        "name": "AB's - Absolute Barbecues",
+        "estimated_cost": 160,
+        "user_rating": {
+            "average_rating": 4.9,
+            "votes": 6309
+        },
+        "id": 434
+    },
+    {
+        "city": "Seattle",
+        "name": "Off The Rez Cafe",
+        "estimated_cost": 140,
+        "user_rating": {
+            "average_rating": 4.4,
+            "votes": 2960
+        },
+        "id": 435
+    },
+    {
+        "city": "Seattle",
+        "name": "Jetlag",
+        "estimated_cost": 1650,
+        "user_rating": {
+            "average_rating": 4.1,
+            "votes": 704
+        },
+        "id": 436
+    },
+    {
+        "city": "Seattle",
+        "name": "Barbeque Nation",
+        "estimated_cost": 160,
+        "user_rating": {
+            "average_rating": 4.7,
+            "votes": 7148
+        },
+        "id": 437
+    },
+    {
+        "city": "Seattle",
+        "name": "The Boozy Griffin",
+        "estimated_cost": 180,
+        "user_rating": {
+            "average_rating": 4.8,
+            "votes": 4459
+        },
+        "id": 438
+    },
+    {
+        "city": "Seattle",
+        "name": "The Reservoire",
+        "estimated_cost": 130,
+        "user_rating": {
+            "average_rating": 4.5,
+            "votes": 2495
+        },
+        "id": 439
+    },
+    {
+        "city": "Seattle",
+        "name": "The Big Barbeque",
+        "estimated_cost": 150,
+        "user_rating": {
+            "average_rating": 4.5,
+            "votes": 455
+        },
+        "id": 440
+    },
+    {
+        "city": "Miami",
+        "name": "The Drunken Botanist",
+        "estimated_cost": 150,
+        "user_rating": {
+            "average_rating": 4.3,
+            "votes": 4145
+        },
+        "id": 11
+    },
+    {
+        "city": "Miami",
+        "name": "Kamonegi",
+        "estimated_cost": 130,
+        "user_rating": {
+            "average_rating": 4.6,
+            "votes": 12868
+        },
+        "id": 12
+    },
+    {
+        "city": "Miami",
+        "name": "Plum By Bent Chair",
+        "estimated_cost": 180,
+        "user_rating": {
+            "average_rating": 4.5,
+            "votes": 308
+        },
+        "id": 13
+    },
+    {
+        "city": "Miami",
+        "name": "AIR- An Ivory Region",
+        "estimated_cost": 10,
+        "user_rating": {
+            "average_rating": 4.0,
+            "votes": 901
+        },
+        "id": 14
+    },
+    {
+        "city": "Miami",
+        "name": "Local",
+        "estimated_cost": 160,
+        "user_rating": {
+            "average_rating": 4.3,
+            "votes": 5117
+        },
+        "id": 15
+    },
+    {
+        "city": "Miami",
+        "name": "Joule",
+        "estimated_cost": 160,
+        "user_rating": {
+            "average_rating": 4.4,
+            "votes": 7171
+        },
+        "id": 16
+    },
+    {
+        "city": "Miami",
+        "name": "AMA Cafe",
+        "estimated_cost": 450,
+        "user_rating": {
+            "average_rating": 4.4,
+            "votes": 2929
+        },
+        "id": 17
+    },
+    {
+        "city": "Miami",
+        "name": "The Junkyard Cafe",
+        "estimated_cost": 150,
+        "user_rating": {
+            "average_rating": 4.4,
+            "votes": 4998
+        },
+        "id": 18
+    },
+    {
+        "city": "Miami",
+        "name": "Pirates of Grill",
+        "estimated_cost": 200,
+        "user_rating": {
+            "average_rating": 4.8,
+            "votes": 4879
+        },
+        "id": 19
+    },
+    {
+        "city": "Miami",
+        "name": "38 Barracks",
+        "estimated_cost": 160,
+        "user_rating": {
+            "average_rating": 4.6,
+            "votes": 2872
+        },
+        "id": 110
+    },
+    {
+        "city": "Miami",
+        "name": "The Burger Club",
+        "estimated_cost": 60,
+        "user_rating": {
+            "average_rating": 4.2,
+            "votes": 2332
+        },
+        "id": 111
+    },
+    {
+        "city": "Miami",
+        "name": "Lord of the Drinks",
+        "estimated_cost": 220,
+        "user_rating": {
+            "average_rating": 4.5,
+            "votes": 8759
+        },
+        "id": 112
+    },
+    {
+        "city": "Miami",
+        "name": "Odeon Social",
+        "estimated_cost": 130,
+        "user_rating": {
+            "average_rating": 4.4,
+            "votes": 5205
+        },
+        "id": 113
+    },
+    {
+        "city": "Miami",
+        "name": "The Flying Saucer Cafe",
+        "estimated_cost": 160,
+        "user_rating": {
+            "average_rating": 4.4,
+            "votes": 7370
+        },
+        "id": 114
+    },
+    {
+        "city": "Miami",
+        "name": "AB's - Absolute Barbecues",
+        "estimated_cost": 160,
+        "user_rating": {
+            "average_rating": 4.6,
+            "votes": 3079
+        },
+        "id": 115
+    },
+    {
+        "city": "Miami",
+        "name": "Canlis",
+        "estimated_cost": 70,
+        "user_rating": {
+            "average_rating": 4.8,
+            "votes": 3421
+        },
+        "id": 116
+    },
+    {
+        "city": "Miami",
+        "name": "Pirates of Grill",
+        "estimated_cost": 150,
+        "user_rating": {
+            "average_rating": 4.6,
+            "votes": 4473
+        },
+        "id": 117
+    },
+    {
+        "city": "Miami",
+        "name": "Decode Air Bar",
+        "estimated_cost": 150,
+        "user_rating": {
+            "average_rating": 4.9,
+            "votes": 452
+        },
+        "id": 118
+    },
+    {
+        "city": "Miami",
+        "name": "Ba Sa",
+        "estimated_cost": 180,
+        "user_rating": {
+            "average_rating": 4.7,
+            "votes": 2899
+        },
+        "id": 119
+    },
+    {
+        "city": "Miami",
+        "name": "Warehouse Cafe",
+        "estimated_cost": 150,
+        "user_rating": {
+            "average_rating": 4.4,
+            "votes": 9391
+        },
+        "id": 120
+    },
+    {
+        "city": "Miami",
+        "name": "Chili's Grill & Bar",
+        "estimated_cost": 150,
+        "user_rating": {
+            "average_rating": 4.5,
+            "votes": 3094
+        },
+        "id": 121
+    },
+    {
+        "city": "Miami",
+        "name": "Chili's Grill & Bar",
+        "estimated_cost": 150,
+        "user_rating": {
+            "average_rating": 4.4,
+            "votes": 1857
+        },
+        "id": 122
+    },
+    {
+        "city": "Miami",
+        "name": "Themis Barbecue House",
+        "estimated_cost": 140,
+        "user_rating": {
+            "average_rating": 4.5,
+            "votes": 2140
+        },
+        "id": 123
+    },
+    {
+        "city": "Miami",
+        "name": "Duty Bar",
+        "estimated_cost": 130,
+        "user_rating": {
+            "average_rating": 4.0,
+            "votes": 692
+        },
+        "id": 124
+    },
+    {
+        "city": "Miami",
+        "name": "Diggin",
+        "estimated_cost": 130,
+        "user_rating": {
+            "average_rating": 4.3,
+            "votes": 2098
+        },
+        "id": 125
+    },
+    {
+        "city": "Miami",
+        "name": "Ministry Of Beer",
+        "estimated_cost": 150,
+        "user_rating": {
+            "average_rating": 4.6,
+            "votes": 2667
+        },
+        "id": 126
+    },
+    {
+        "city": "Miami",
+        "name": "Cafe Wink",
+        "estimated_cost": 70,
+        "user_rating": {
+            "average_rating": 4.8,
+            "votes": 2179
+        },
+        "id": 127
+    },
+    {
+        "city": "Miami",
+        "name": "Decode",
+        "estimated_cost": 120,
+        "user_rating": {
+            "average_rating": 4.6,
+            "votes": 2434
+        },
+        "id": 128
+    },
+    {
+        "city": "Miami",
+        "name": "The Burger Club",
+        "estimated_cost": 60,
+        "user_rating": {
+            "average_rating": 4.1,
+            "votes": 2072
+        },
+        "id": 129
+    },
+    {
+        "city": "Miami",
+        "name": "Molecule Air Bar",
+        "estimated_cost": 150,
+        "user_rating": {
+            "average_rating": 4.3,
+            "votes": 4634
+        },
+        "id": 130
+    },
+    {
+        "city": "Miami",
+        "name": "The Mughal Trail",
+        "estimated_cost": 50,
+        "user_rating": {
+            "average_rating": 4.8,
+            "votes": 1139
+        },
+        "id": 131
+    },
+    {
+        "city": "Miami",
+        "name": "Paju",
+        "estimated_cost": 110,
+        "user_rating": {
+            "average_rating": 4.2,
+            "votes": 1770
+        },
+        "id": 132
+    },
+    {
+        "city": "Miami",
+        "name": "Cafeteria & Co.",
+        "estimated_cost": 90,
+        "user_rating": {
+            "average_rating": 4.5,
+            "votes": 3989
+        },
+        "id": 133
+    },
+    {
+        "city": "Miami",
+        "name": "Punter House Cafe Reloaded",
+        "estimated_cost": 120,
+        "user_rating": {
+            "average_rating": 4.8,
+            "votes": 1248
+        },
+        "id": 134
+    },
+    {
+        "city": "Miami",
+        "name": "Kedai Makan",
+        "estimated_cost": 130,
+        "user_rating": {
+            "average_rating": 4.4,
+            "votes": 1250
+        },
+        "id": 135
+    },
+    {
+        "city": "Miami",
+        "name": "Hello Meal",
+        "estimated_cost": 40,
+        "user_rating": {
+            "average_rating": 4.0,
+            "votes": 2089
+        },
+        "id": 136
+    },
+    {
+        "city": "Miami",
+        "name": "Spinasse",
+        "estimated_cost": 40,
+        "user_rating": {
+            "average_rating": 4.6,
+            "votes": 2329
+        },
+        "id": 137
+    },
+    {
+        "city": "Miami",
+        "name": "Mama's Buoi",
+        "estimated_cost": 10,
+        "user_rating": {
+            "average_rating": 4.5,
+            "votes": 2520
+        },
+        "id": 138
+    },
+    {
+        "city": "Miami",
+        "name": "The Bing's",
+        "estimated_cost": 80,
+        "user_rating": {
+            "average_rating": 4.7,
+            "votes": 934
+        },
+        "id": 139
+    },
+    {
+        "city": "Miami",
+        "name": "Dana Choga",
+        "estimated_cost": 80,
+        "user_rating": {
+            "average_rating": 4.6,
+            "votes": 2227
+        },
+        "id": 140
+    },
+    {
+        "city": "Omaha",
+        "name": "Jerk Shack",
+        "estimated_cost": 120,
+        "user_rating": {
+            "average_rating": 4.6,
+            "votes": 1110
+        },
+        "id": 21
+    },
+    {
+        "city": "Omaha",
+        "name": "Tram Deepo",
+        "estimated_cost": 120,
+        "user_rating": {
+            "average_rating": 4.2,
+            "votes": 1769
+        },
+        "id": 22
+    },
+    {
+        "city": "Omaha",
+        "name": "Carpe Diem",
+        "estimated_cost": 10,
+        "user_rating": {
+            "average_rating": 4.4,
+            "votes": 1863
+        },
+        "id": 23
+    },
+    {
+        "city": "Omaha",
+        "name": "The Saffron Tree",
+        "estimated_cost": 10,
+        "user_rating": {
+            "average_rating": 4.9,
+            "votes": 1048
+        },
+        "id": 24
+    },
+    {
+        "city": "Omaha",
+        "name": "Baccara",
+        "estimated_cost": 80,
+        "user_rating": {
+            "average_rating": 4.2,
+            "votes": 1086
+        },
+        "id": 25
+    },
+    {
+        "city": "Omaha",
+        "name": "JW Kitchen - JW Marriott Hotel Omaha",
+        "estimated_cost": 300,
+        "user_rating": {
+            "average_rating": 4.7,
+            "votes": 3326
+        },
+        "id": 26
+    },
+    {
+        "city": "Omaha",
+        "name": "Barbeque Nation",
+        "estimated_cost": 180,
+        "user_rating": {
+            "average_rating": 4.8,
+            "votes": 4427
+        },
+        "id": 27
+    },
+    {
+        "city": "Omaha",
+        "name": "Echoes Omaha",
+        "estimated_cost": 130,
+        "user_rating": {
+            "average_rating": 4.9,
+            "votes": 232
+        },
+        "id": 28
+    },
+    {
+        "city": "Omaha",
+        "name": "Five Mad Men",
+        "estimated_cost": 10,
+        "user_rating": {
+            "average_rating": 4.5,
+            "votes": 1158
+        },
+        "id": 29
+    },
+    {
+        "city": "Omaha",
+        "name": "Pepper Chino",
+        "estimated_cost": 120,
+        "user_rating": {
+            "average_rating": 4.7,
+            "votes": 771
+        },
+        "id": 210
+    },
+    {
+        "city": "Omaha",
+        "name": "Aaira",
+        "estimated_cost": 180,
+        "user_rating": {
+            "average_rating": 4.4,
+            "votes": 861
+        },
+        "id": 211
+    },
+    {
+        "city": "Omaha",
+        "name": "What's Up",
+        "estimated_cost": 150,
+        "user_rating": {
+            "average_rating": 4.3,
+            "votes": 3976
+        },
+        "id": 212
+    },
+    {
+        "city": "Omaha",
+        "name": "India Restaurant",
+        "estimated_cost": 90,
+        "user_rating": {
+            "average_rating": 4.5,
+            "votes": 3695
+        },
+        "id": 213
+    },
+    {
+        "city": "Omaha",
+        "name": "Peter Cat",
+        "estimated_cost": 120,
+        "user_rating": {
+            "average_rating": 4.2,
+            "votes": 11183
+        },
+        "id": 214
+    },
+    {
+        "city": "Omaha",
+        "name": "Sly Fox Gastro Club",
+        "estimated_cost": 1250,
+        "user_rating": {
+            "average_rating": 4.5,
+            "votes": 1085
+        },
+        "id": 215
+    },
+    {
+        "city": "Omaha",
+        "name": "Momo I Am",
+        "estimated_cost": 60,
+        "user_rating": {
+            "average_rating": 4.4,
+            "votes": 1522
+        },
+        "id": 216
+    },
+    {
+        "city": "Omaha",
+        "name": "Spice Kraft",
+        "estimated_cost": 120,
+        "user_rating": {
+            "average_rating": 4.7,
+            "votes": 4732
+        },
+        "id": 217
+    },
+    {
+        "city": "Omaha",
+        "name": "Bawarchi Family Restaurant",
+        "estimated_cost": 80,
+        "user_rating": {
+            "average_rating": 4.0,
+            "votes": 1381
+        },
+        "id": 218
+    },
+    {
+        "city": "Omaha",
+        "name": "Mocambo",
+        "estimated_cost": 110,
+        "user_rating": {
+            "average_rating": 4.2,
+            "votes": 6103
+        },
+        "id": 219
+    },
+    {
+        "city": "Omaha",
+        "name": "Cafe Mezzuna",
+        "estimated_cost": 160,
+        "user_rating": {
+            "average_rating": 4.5,
+            "votes": 1234
+        },
+        "id": 220
+    },
+    {
+        "city": "Omaha",
+        "name": "Taurus Ox",
+        "estimated_cost": 60,
+        "user_rating": {
+            "average_rating": 4.3,
+            "votes": 2015
+        },
+        "id": 221
+    },
+    {
+        "city": "Omaha",
+        "name": "Stateside",
+        "estimated_cost": 550,
+        "user_rating": {
+            "average_rating": 4.1,
+            "votes": 1210
+        },
+        "id": 222
+    },
+    {
+        "city": "Omaha",
+        "name": "Momo I Am",
+        "estimated_cost": 60,
+        "user_rating": {
+            "average_rating": 4.4,
+            "votes": 1541
+        },
+        "id": 223
+    },
+    {
+        "city": "Omaha",
+        "name": "Zam Zam",
+        "estimated_cost": 50,
+        "user_rating": {
+            "average_rating": 4.3,
+            "votes": 572
+        },
+        "id": 224
+    },
+    {
+        "city": "Omaha",
+        "name": "Cassoulet Restaurant",
+        "estimated_cost": 40,
+        "user_rating": {
+            "average_rating": 3.7,
+            "votes": 2833
+        },
+        "id": 225
+    },
+    {
+        "city": "Omaha",
+        "name": "Oudh 1590",
+        "estimated_cost": 120,
+        "user_rating": {
+            "average_rating": 4.2,
+            "votes": 3731
+        },
+        "id": 226
+    },
+    {
+        "city": "Omaha",
+        "name": "Hard Rock Cafe",
+        "estimated_cost": 10,
+        "user_rating": {
+            "average_rating": 4.1,
+            "votes": 1823
+        },
+        "id": 227
+    },
+    {
+        "city": "Omaha",
+        "name": "The Great Biryani Co.",
+        "estimated_cost": 550,
+        "user_rating": {
+            "average_rating": 4.0,
+            "votes": 1744
+        },
+        "id": 228
+    },
+    {
+        "city": "Omaha",
+        "name": "Chili's Grill & Bar",
+        "estimated_cost": 170,
+        "user_rating": {
+            "average_rating": 4.6,
+            "votes": 2950
+        },
+        "id": 229
+    },
+    {
+        "city": "Omaha",
+        "name": "Ocean Grill",
+        "estimated_cost": 150,
+        "user_rating": {
+            "average_rating": 4.4,
+            "votes": 2269
+        },
+        "id": 230
+    },
+    {
+        "city": "Omaha",
+        "name": "Capella - Altair Boutique Hotel",
+        "estimated_cost": 160,
+        "user_rating": {
+            "average_rating": 4.3,
+            "votes": 1189
+        },
+        "id": 231
+    },
+    {
+        "city": "Omaha",
+        "name": "Chili's Grill & Bar",
+        "estimated_cost": 170,
+        "user_rating": {
+            "average_rating": 4.6,
+            "votes": 6998
+        },
+        "id": 232
+    },
+    {
+        "city": "Omaha",
+        "name": "Seven kingdom",
+        "estimated_cost": 750,
+        "user_rating": {
+            "average_rating": 4.2,
+            "votes": 636
+        },
+        "id": 233
+    },
+    {
+        "city": "Omaha",
+        "name": "Pa Pa Ya",
+        "estimated_cost": 200,
+        "user_rating": {
+            "average_rating": 4.8,
+            "votes": 1245
+        },
+        "id": 234
+    },
+    {
+        "city": "Omaha",
+        "name": "Afraa Restaurant And Lounge",
+        "estimated_cost": 180,
+        "user_rating": {
+            "average_rating": 4.3,
+            "votes": 2267
+        },
+        "id": 235
+    },
+    {
+        "city": "Omaha",
+        "name": "Barbeque Nation",
+        "estimated_cost": 180,
+        "user_rating": {
+            "average_rating": 4.9,
+            "votes": 8115
+        },
+        "id": 236
+    },
+    {
+        "city": "Omaha",
+        "name": "Blue Mug",
+        "estimated_cost": 70,
+        "user_rating": {
+            "average_rating": 4.3,
+            "votes": 3117
+        },
+        "id": 237
+    },
+    {
+        "city": "Omaha",
+        "name": "Chez - Pan Oriental Kitchen",
+        "estimated_cost": 80,
+        "user_rating": {
+            "average_rating": 4.6,
+            "votes": 1037
+        },
+        "id": 238
+    },
+    {
+        "city": "Omaha",
+        "name": "Plum Bistro",
+        "estimated_cost": 550,
+        "user_rating": {
+            "average_rating": 4.3,
+            "votes": 1595
+        },
+        "id": 239
+    },
+    {
+        "city": "Omaha",
+        "name": "The Irish House",
+        "estimated_cost": 190,
+        "user_rating": {
+            "average_rating": 4.4,
+            "votes": 3428
+        },
+        "id": 240
+    },
+    {
+        "city": "Dallas",
+        "name": "The Black Pearl",
+        "estimated_cost": 150,
+        "user_rating": {
+            "average_rating": 4.6,
+            "votes": 827
+        },
+        "id": 71
+    },
+    {
+        "city": "Dallas",
+        "name": "Coal Barbecues",
+        "estimated_cost": 140,
+        "user_rating": {
+            "average_rating": 4.9,
+            "votes": 6025
+        },
+        "id": 72
+    },
+    {
+        "city": "Dallas",
+        "name": "Coal Barbecues",
+        "estimated_cost": 140,
+        "user_rating": {
+            "average_rating": 4.9,
+            "votes": 4973
+        },
+        "id": 73
+    },
+    {
+        "city": "Dallas",
+        "name": "By Tae",
+        "estimated_cost": 140,
+        "user_rating": {
+            "average_rating": 4.6,
+            "votes": 435
+        },
+        "id": 74
+    },
+    {
+        "city": "Dallas",
+        "name": "Paradise",
+        "estimated_cost": 80,
+        "user_rating": {
+            "average_rating": 4.3,
+            "votes": 4246
+        },
+        "id": 75
+    },
+    {
+        "city": "Dallas",
+        "name": "Onesta",
+        "estimated_cost": 60,
+        "user_rating": {
+            "average_rating": 4.5,
+            "votes": 3971
+        },
+        "id": 76
+    },
+    {
+        "city": "Dallas",
+        "name": "Copper Kitchen",
+        "estimated_cost": 80,
+        "user_rating": {
+            "average_rating": 4.6,
+            "votes": 3494
+        },
+        "id": 77
+    },
+    {
+        "city": "Dallas",
+        "name": "Palmshore",
+        "estimated_cost": 850,
+        "user_rating": {
+            "average_rating": 4.6,
+            "votes": 2491
+        },
+        "id": 78
+    },
+    {
+        "city": "Dallas",
+        "name": "Axpress BBQ",
+        "estimated_cost": 70,
+        "user_rating": {
+            "average_rating": 4.7,
+            "votes": 419
+        },
+        "id": 79
+    },
+    {
+        "city": "Dallas",
+        "name": "BLIND CH3MISTRY",
+        "estimated_cost": 70,
+        "user_rating": {
+            "average_rating": 4.4,
+            "votes": 1173
+        },
+        "id": 710
+    },
+    {
+        "city": "Dallas",
+        "name": "Palmshore",
+        "estimated_cost": 850,
+        "user_rating": {
+            "average_rating": 4.4,
+            "votes": 2905
+        },
+        "id": 711
+    },
+    {
+        "city": "Dallas",
+        "name": "Barbeque Nation",
+        "estimated_cost": 150,
+        "user_rating": {
+            "average_rating": 4.8,
+            "votes": 5210
+        },
+        "id": 712
+    },
+    {
+        "city": "Dallas",
+        "name": "Barbeque Nation",
+        "estimated_cost": 150,
+        "user_rating": {
+            "average_rating": 4.8,
+            "votes": 1741
+        },
+        "id": 713
+    },
+    {
+        "city": "Dallas",
+        "name": "AB's - Absolute Barbecues",
+        "estimated_cost": 140,
+        "user_rating": {
+            "average_rating": 4.9,
+            "votes": 9234
+        },
+        "id": 714
+    },
+    {
+        "city": "Dallas",
+        "name": "Palmshore",
+        "estimated_cost": 850,
+        "user_rating": {
+            "average_rating": 4.5,
+            "votes": 2066
+        },
+        "id": 715
+    },
+    {
+        "city": "Dallas",
+        "name": "Guntur Gongura",
+        "estimated_cost": 40,
+        "user_rating": {
+            "average_rating": 3.7,
+            "votes": 1962
+        },
+        "id": 716
+    },
+    {
+        "city": "Dallas",
+        "name": "Dhaba Estd 1986 Delhi",
+        "estimated_cost": 110,
+        "user_rating": {
+            "average_rating": 4.5,
+            "votes": 1026
+        },
+        "id": 717
+    },
+    {
+        "city": "Dallas",
+        "name": "AB's - Absolute Barbecues",
+        "estimated_cost": 140,
+        "user_rating": {
+            "average_rating": 4.9,
+            "votes": 1936
+        },
+        "id": 718
+    },
+    {
+        "city": "Dallas",
+        "name": "Cleo's Grill & Cafe",
+        "estimated_cost": 120,
+        "user_rating": {
+            "average_rating": 4.4,
+            "votes": 2328
+        },
+        "id": 719
+    },
+    {
+        "city": "Dallas",
+        "name": "Barbeque Nation",
+        "estimated_cost": 150,
+        "user_rating": {
+            "average_rating": 4.4,
+            "votes": 965
+        },
+        "id": 720
+    },
+    {
+        "city": "Dallas",
+        "name": "Fromage",
+        "estimated_cost": 120,
+        "user_rating": {
+            "average_rating": 4.5,
+            "votes": 717
+        },
+        "id": 721
+    },
+    {
+        "city": "Dallas",
+        "name": "Paradise",
+        "estimated_cost": 80,
+        "user_rating": {
+            "average_rating": 4.1,
+            "votes": 1316
+        },
+        "id": 722
+    },
+    {
+        "city": "Dallas",
+        "name": "AB's - Absolute Barbecues",
+        "estimated_cost": 140,
+        "user_rating": {
+            "average_rating": 4.9,
+            "votes": 3062
+        },
+        "id": 723
+    },
+    {
+        "city": "Dallas",
+        "name": "Palmshore",
+        "estimated_cost": 850,
+        "user_rating": {
+            "average_rating": 4.5,
+            "votes": 1374
+        },
+        "id": 724
+    },
+    {
+        "city": "Dallas",
+        "name": "Kipling Cafe",
+        "estimated_cost": 240,
+        "user_rating": {
+            "average_rating": 4.2,
+            "votes": 1870
+        },
+        "id": 725
+    },
+    {
+        "city": "Dallas",
+        "name": "Joker's Kitchen",
+        "estimated_cost": 60,
+        "user_rating": {
+            "average_rating": 4.4,
+            "votes": 571
+        },
+        "id": 726
+    },
+    {
+        "city": "Dallas",
+        "name": "Amelie's",
+        "estimated_cost": 90,
+        "user_rating": {
+            "average_rating": 4.4,
+            "votes": 1147
+        },
+        "id": 727
+    },
+    {
+        "city": "Dallas",
+        "name": "Grill Box - Unlimited BBQ",
+        "estimated_cost": 120,
+        "user_rating": {
+            "average_rating": 4.7,
+            "votes": 1487
+        },
+        "id": 728
+    },
+    {
+        "city": "Dallas",
+        "name": "AB's - Absolute Barbecues",
+        "estimated_cost": 140,
+        "user_rating": {
+            "average_rating": 4.9,
+            "votes": 1952
+        },
+        "id": 729
+    },
+    {
+        "city": "Dallas",
+        "name": "Chili's American Grill & Bar",
+        "estimated_cost": 140,
+        "user_rating": {
+            "average_rating": 4.8,
+            "votes": 2666
+        },
+        "id": 730
+    },
+    {
+        "city": "Dallas",
+        "name": "27 Culinary Street",
+        "estimated_cost": 130,
+        "user_rating": {
+            "average_rating": 4.4,
+            "votes": 986
+        },
+        "id": 731
+    },
+    {
+        "city": "Dallas",
+        "name": "Big Bang Theory - Bar & Kitchen",
+        "estimated_cost": 150,
+        "user_rating": {
+            "average_rating": 4.2,
+            "votes": 1169
+        },
+        "id": 732
+    },
+    {
+        "city": "Dallas",
+        "name": "Lloyd's Tea House",
+        "estimated_cost": 10,
+        "user_rating": {
+            "average_rating": 4.3,
+            "votes": 1336
+        },
+        "id": 733
+    },
+    {
+        "city": "Dallas",
+        "name": "Nasi And Mee",
+        "estimated_cost": 120,
+        "user_rating": {
+            "average_rating": 4.7,
+            "votes": 1265
+        },
+        "id": 734
+    },
+    {
+        "city": "Dallas",
+        "name": "Yaa Mohideen Biryani",
+        "estimated_cost": 40,
+        "user_rating": {
+            "average_rating": 4.4,
+            "votes": 2606
+        },
+        "id": 735
+    },
+    {
+        "city": "Dallas",
+        "name": "Copper Kitchen",
+        "estimated_cost": 80,
+        "user_rating": {
+            "average_rating": 4.3,
+            "votes": 1652
+        },
+        "id": 736
+    },
+    {
+        "city": "Dallas",
+        "name": "Bateau",
+        "estimated_cost": 80,
+        "user_rating": {
+            "average_rating": 4.9,
+            "votes": 1352
+        },
+        "id": 737
+    },
+    {
+        "city": "Dallas",
+        "name": "Writer's Cafe",
+        "estimated_cost": 50,
+        "user_rating": {
+            "average_rating": 4.5,
+            "votes": 1601
+        },
+        "id": 738
+    },
+    {
+        "city": "Dallas",
+        "name": "VB Signature - Progressive Veg Restaurant",
+        "estimated_cost": 10,
+        "user_rating": {
+            "average_rating": 4.5,
+            "votes": 861
+        },
+        "id": 739
+    },
+    {
+        "city": "Dallas",
+        "name": "Maplai",
+        "estimated_cost": 10,
+        "user_rating": {
+            "average_rating": 4.5,
+            "votes": 4130
+        },
+        "id": 740
+    },
+    {
+        "city": "Denver",
+        "name": "Sushi Kashiba",
+        "estimated_cost": 180,
+        "user_rating": {
+            "average_rating": 4.9,
+            "votes": 4175
+        },
+        "id": 31
+    },
+    {
+        "city": "Denver",
+        "name": "Peninsula Grand Hotel",
+        "estimated_cost": 120,
+        "user_rating": {
+            "average_rating": 4.9,
+            "votes": 644
+        },
+        "id": 32
+    },
+    {
+        "city": "Denver",
+        "name": "Lord Of The Drinks",
+        "estimated_cost": 150,
+        "user_rating": {
+            "average_rating": 4.7,
+            "votes": 2316
+        },
+        "id": 33
+    },
+    {
+        "city": "Denver",
+        "name": "Lord of the Drinks",
+        "estimated_cost": 150,
+        "user_rating": {
+            "average_rating": 4.8,
+            "votes": 2086
+        },
+        "id": 34
+    },
+    {
+        "city": "Denver",
+        "name": "JLWA",
+        "estimated_cost": 160,
+        "user_rating": {
+            "average_rating": 4.7,
+            "votes": 2825
+        },
+        "id": 35
+    },
+    {
+        "city": "Denver",
+        "name": "Plum by Bent Chair",
+        "estimated_cost": 180,
+        "user_rating": {
+            "average_rating": 4.9,
+            "votes": 1657
+        },
+        "id": 36
+    },
+    {
+        "city": "Denver",
+        "name": "Hitchki",
+        "estimated_cost": 120,
+        "user_rating": {
+            "average_rating": 4.8,
+            "votes": 3174
+        },
+        "id": 37
+    },
+    {
+        "city": "Denver",
+        "name": "Carter Road Social",
+        "estimated_cost": 140,
+        "user_rating": {
+            "average_rating": 4.6,
+            "votes": 2311
+        },
+        "id": 38
+    },
+    {
+        "city": "Denver",
+        "name": "R' ADDA",
+        "estimated_cost": 120,
+        "user_rating": {
+            "average_rating": 4.9,
+            "votes": 4255
+        },
+        "id": 39
+    },
+    {
+        "city": "Denver",
+        "name": "Ada Kitchen",
+        "estimated_cost": 180,
+        "user_rating": {
+            "average_rating": 4.5,
+            "votes": 3840
+        },
+        "id": 310
+    },
+    {
+        "city": "Denver",
+        "name": "Hitch",
+        "estimated_cost": 120,
+        "user_rating": {
+            "average_rating": 4.8,
+            "votes": 3277
+        },
+        "id": 311
+    },
+    {
+        "city": "Denver",
+        "name": "The Fusion Kitchen",
+        "estimated_cost": 160,
+        "user_rating": {
+            "average_rating": 4.5,
+            "votes": 1463
+        },
+        "id": 312
+    },
+    {
+        "city": "Denver",
+        "name": "Social",
+        "estimated_cost": 140,
+        "user_rating": {
+            "average_rating": 4.6,
+            "votes": 7838
+        },
+        "id": 313
+    },
+    {
+        "city": "Denver",
+        "name": "Rude Lounge",
+        "estimated_cost": 160,
+        "user_rating": {
+            "average_rating": 4.1,
+            "votes": 4353
+        },
+        "id": 314
+    },
+    {
+        "city": "Denver",
+        "name": "Hi Lounge",
+        "estimated_cost": 120,
+        "user_rating": {
+            "average_rating": 4.7,
+            "votes": 1687
+        },
+        "id": 315
+    },
+    {
+        "city": "Denver",
+        "name": "BKC DIVE",
+        "estimated_cost": 10,
+        "user_rating": {
+            "average_rating": 4.6,
+            "votes": 5687
+        },
+        "id": 316
+    },
+    {
+        "city": "Denver",
+        "name": "Capital Social",
+        "estimated_cost": 140,
+        "user_rating": {
+            "average_rating": 4.4,
+            "votes": 2937
+        },
+        "id": 317
+    },
+    {
+        "city": "Denver",
+        "name": "Joey's Pizza",
+        "estimated_cost": 80,
+        "user_rating": {
+            "average_rating": 4.6,
+            "votes": 6909
+        },
+        "id": 318
+    },
+    {
+        "city": "Denver",
+        "name": "Chili's American Grill & Bar",
+        "estimated_cost": 140,
+        "user_rating": {
+            "average_rating": 4.6,
+            "votes": 6814
+        },
+        "id": 319
+    },
+    {
+        "city": "Denver",
+        "name": "Vedge",
+        "estimated_cost": 10,
+        "user_rating": {
+            "average_rating": 4.7,
+            "votes": 3837
+        },
+        "id": 320
+    },
+    {
+        "city": "Denver",
+        "name": "Joey's Pizza",
+        "estimated_cost": 80,
+        "user_rating": {
+            "average_rating": 4.6,
+            "votes": 8289
+        },
+        "id": 321
+    },
+    {
+        "city": "Denver",
+        "name": "Grandmama's Cafe",
+        "estimated_cost": 110,
+        "user_rating": {
+            "average_rating": 4.0,
+            "votes": 3089
+        },
+        "id": 322
+    },
+    {
+        "city": "Denver",
+        "name": "Fun Republic Social",
+        "estimated_cost": 90,
+        "user_rating": {
+            "average_rating": 4.6,
+            "votes": 2914
+        },
+        "id": 323
+    },
+    {
+        "city": "Denver",
+        "name": "English Kitchen",
+        "estimated_cost": 150,
+        "user_rating": {
+            "average_rating": 4.6,
+            "votes": 1887
+        },
+        "id": 324
+    },
+    {
+        "city": "Denver",
+        "name": "Pi Bar and Kitchen",
+        "estimated_cost": 160,
+        "user_rating": {
+            "average_rating": 4.6,
+            "votes": 1927
+        },
+        "id": 325
+    },
+    {
+        "city": "Denver",
+        "name": "Coffee Culture",
+        "estimated_cost": 80,
+        "user_rating": {
+            "average_rating": 4.1,
+            "votes": 5634
+        },
+        "id": 326
+    },
+    {
+        "city": "Denver",
+        "name": "S Kitchen",
+        "estimated_cost": 160,
+        "user_rating": {
+            "average_rating": 4.5,
+            "votes": 1980
+        },
+        "id": 327
+    },
+    {
+        "city": "Denver",
+        "name": "Timess Square",
+        "estimated_cost": 80,
+        "user_rating": {
+            "average_rating": 4.4,
+            "votes": 1648
+        },
+        "id": 328
+    },
+    {
+        "city": "Denver",
+        "name": "House Of Tipsy",
+        "estimated_cost": 180,
+        "user_rating": {
+            "average_rating": 4.5,
+            "votes": 1558
+        },
+        "id": 329
+    },
+    {
+        "city": "Denver",
+        "name": "Yauatcha",
+        "estimated_cost": 280,
+        "user_rating": {
+            "average_rating": 4.8,
+            "votes": 5359
+        },
+        "id": 330
+    },
+    {
+        "city": "Denver",
+        "name": "HOP : House of Party",
+        "estimated_cost": 160,
+        "user_rating": {
+            "average_rating": 4.7,
+            "votes": 813
+        },
+        "id": 331
+    },
+    {
+        "city": "Denver",
+        "name": "Palladium Social",
+        "estimated_cost": 140,
+        "user_rating": {
+            "average_rating": 4.9,
+            "votes": 4892
+        },
+        "id": 332
+    },
+    {
+        "city": "Denver",
+        "name": "Bayroute",
+        "estimated_cost": 300,
+        "user_rating": {
+            "average_rating": 4.8,
+            "votes": 1466
+        },
+        "id": 333
+    },
+    {
+        "city": "Denver",
+        "name": "Garage Inc. Public House",
+        "estimated_cost": 150,
+        "user_rating": {
+            "average_rating": 4.5,
+            "votes": 684
+        },
+        "id": 334
+    },
+    {
+        "city": "Denver",
+        "name": "Jimis Burger",
+        "estimated_cost": 70,
+        "user_rating": {
+            "average_rating": 4.6,
+            "votes": 3680
+        },
+        "id": 335
+    },
+    {
+        "city": "Denver",
+        "name": "Eat Play Love",
+        "estimated_cost": 60,
+        "user_rating": {
+            "average_rating": 4.0,
+            "votes": 1178
+        },
+        "id": 336
+    },
+    {
+        "city": "Denver",
+        "name": "Tipsy Gypsy",
+        "estimated_cost": 150,
+        "user_rating": {
+            "average_rating": 4.5,
+            "votes": 2918
+        },
+        "id": 337
+    },
+    {
+        "city": "Denver",
+        "name": "Cafe Safar",
+        "estimated_cost": 60,
+        "user_rating": {
+            "average_rating": 4.0,
+            "votes": 2640
+        },
+        "id": 338
+    },
+    {
+        "city": "Denver",
+        "name": "The Cult",
+        "estimated_cost": 170,
+        "user_rating": {
+            "average_rating": 4.4,
+            "votes": 3037
+        },
+        "id": 339
+    },
+    {
+        "city": "Denver",
+        "name": "MRP - My Regular Place",
+        "estimated_cost": 130,
+        "user_rating": {
+            "average_rating": 4.0,
+            "votes": 2302
+        },
+        "id": 340
+    },
+    {
+        "city": "Portland",
+        "name": "Cafe Campagne",
+        "estimated_cost": 50,
+        "user_rating": {
+            "average_rating": 4.9,
+            "votes": 1817
+        },
+        "id": 271
+    },
+    {
+        "city": "Portland",
+        "name": "Little Neon Taco",
+        "estimated_cost": 20,
+        "user_rating": {
+            "average_rating": 4.5,
+            "votes": 780
+        },
+        "id": 272
+    },
+    {
+        "city": "Portland",
+        "name": "Domino's Pizza",
+        "estimated_cost": 70,
+        "user_rating": {
+            "average_rating": 4.0,
+            "votes": 939
+        },
+        "id": 273
+    },
+    {
+        "city": "Portland",
+        "name": "Ka Cho",
+        "estimated_cost": 450,
+        "user_rating": {
+            "average_rating": 4.1,
+            "votes": 692
+        },
+        "id": 274
+    },
+    {
+        "city": "Portland",
+        "name": "Seasons Restaurant",
+        "estimated_cost": 80,
+        "user_rating": {
+            "average_rating": 4.0,
+            "votes": 410
+        },
+        "id": 275
+    },
+    {
+        "city": "Portland",
+        "name": "Meskel",
+        "estimated_cost": 80,
+        "user_rating": {
+            "average_rating": 4.2,
+            "votes": 562
+        },
+        "id": 276
+    },
+    {
+        "city": "Portland",
+        "name": "Maneki",
+        "estimated_cost": 250,
+        "user_rating": {
+            "average_rating": 4.0,
+            "votes": 333
+        },
+        "id": 277
+    },
+    {
+        "city": "Portland",
+        "name": "Punjabi Kitchen",
+        "estimated_cost": 50,
+        "user_rating": {
+            "average_rating": 4.1,
+            "votes": 483
+        },
+        "id": 278
+    },
+    {
+        "city": "Portland",
+        "name": "KFC",
+        "estimated_cost": 50,
+        "user_rating": {
+            "average_rating": 4.1,
+            "votes": 521
+        },
+        "id": 279
+    },
+    {
+        "city": "Portland",
+        "name": "New Kathi Kabab",
+        "estimated_cost": 40,
+        "user_rating": {
+            "average_rating": 4.1,
+            "votes": 554
+        },
+        "id": 2710
+    },
+    {
+        "city": "Portland",
+        "name": "Domino's Pizza",
+        "estimated_cost": 70,
+        "user_rating": {
+            "average_rating": 3.6,
+            "votes": 50
+        },
+        "id": 2711
+    },
+    {
+        "city": "Portland",
+        "name": "The Breaking Bread",
+        "estimated_cost": 60,
+        "user_rating": {
+            "average_rating": 4.5,
+            "votes": 361
+        },
+        "id": 2712
+    },
+    {
+        "city": "Portland",
+        "name": "Kareem's",
+        "estimated_cost": 10,
+        "user_rating": {
+            "average_rating": 4.2,
+            "votes": 444
+        },
+        "id": 2713
+    },
+    {
+        "city": "Portland",
+        "name": "Moti Mahal Delux Tandoori Trail",
+        "estimated_cost": 10,
+        "user_rating": {
+            "average_rating": 4.5,
+            "votes": 434
+        },
+        "id": 2714
+    },
+    {
+        "city": "Portland",
+        "name": "Second Wife Restaurant",
+        "estimated_cost": 350,
+        "user_rating": {
+            "average_rating": 4.2,
+            "votes": 235
+        },
+        "id": 2715
+    },
+    {
+        "city": "Portland",
+        "name": "Domino's Pizza",
+        "estimated_cost": 70,
+        "user_rating": {
+            "average_rating": 3.7,
+            "votes": 455
+        },
+        "id": 2716
+    },
+    {
+        "city": "Portland",
+        "name": "Prana",
+        "estimated_cost": 10,
+        "user_rating": {
+            "average_rating": 4.6,
+            "votes": 343
+        },
+        "id": 2717
+    },
+    {
+        "city": "Portland",
+        "name": "The Best",
+        "estimated_cost": 80,
+        "user_rating": {
+            "average_rating": 4.2,
+            "votes": 344
+        },
+        "id": 2718
+    },
+    {
+        "city": "Portland",
+        "name": "Jashn",
+        "estimated_cost": 60,
+        "user_rating": {
+            "average_rating": 4.3,
+            "votes": 321
+        },
+        "id": 2719
+    },
+    {
+        "city": "Portland",
+        "name": "Seventh Heaven",
+        "estimated_cost": 40,
+        "user_rating": {
+            "average_rating": 4.3,
+            "votes": 491
+        },
+        "id": 2720
+    },
+    {
+        "city": "Portland",
+        "name": "Nirvana",
+        "estimated_cost": 110,
+        "user_rating": {
+            "average_rating": 4.6,
+            "votes": 285
+        },
+        "id": 2721
+    },
+    {
+        "city": "Portland",
+        "name": "KFC",
+        "estimated_cost": 50,
+        "user_rating": {
+            "average_rating": 4.2,
+            "votes": 266
+        },
+        "id": 2722
+    },
+    {
+        "city": "Portland",
+        "name": "Kitchen H",
+        "estimated_cost": 350,
+        "user_rating": {
+            "average_rating": 3.9,
+            "votes": 136
+        },
+        "id": 2723
+    },
+    {
+        "city": "Portland",
+        "name": "Hot Lips",
+        "estimated_cost": 50,
+        "user_rating": {
+            "average_rating": 4.1,
+            "votes": 269
+        },
+        "id": 2724
+    },
+    {
+        "city": "Portland",
+        "name": "Pizza Hut",
+        "estimated_cost": 70,
+        "user_rating": {
+            "average_rating": 4.1,
+            "votes": 294
+        },
+        "id": 2725
+    },
+    {
+        "city": "Portland",
+        "name": "K The Veg Restaurant",
+        "estimated_cost": 50,
+        "user_rating": {
+            "average_rating": 4.3,
+            "votes": 370
+        },
+        "id": 2726
+    },
+    {
+        "city": "Portland",
+        "name": "V Restaurant",
+        "estimated_cost": 60,
+        "user_rating": {
+            "average_rating": 4.0,
+            "votes": 219
+        },
+        "id": 2727
+    },
+    {
+        "city": "Portland",
+        "name": "Fork N Cork",
+        "estimated_cost": 70,
+        "user_rating": {
+            "average_rating": 4.3,
+            "votes": 197
+        },
+        "id": 2728
+    },
+    {
+        "city": "Portland",
+        "name": "Cafe Zam Zam",
+        "estimated_cost": 450,
+        "user_rating": {
+            "average_rating": 4.1,
+            "votes": 258
+        },
+        "id": 2729
+    },
+    {
+        "city": "Portland",
+        "name": "The Kav's",
+        "estimated_cost": 40,
+        "user_rating": {
+            "average_rating": 3.6,
+            "votes": 271
+        },
+        "id": 2730
+    },
+    {
+        "city": "Portland",
+        "name": "Chaibubble",
+        "estimated_cost": 60,
+        "user_rating": {
+            "average_rating": 4.4,
+            "votes": 171
+        },
+        "id": 2731
+    },
+    {
+        "city": "Portland",
+        "name": "Aroma - The Royal Retreat",
+        "estimated_cost": 150,
+        "user_rating": {
+            "average_rating": 3.9,
+            "votes": 150
+        },
+        "id": 2732
+    },
+    {
+        "city": "Portland",
+        "name": "Kullhad",
+        "estimated_cost": 350,
+        "user_rating": {
+            "average_rating": 4.4,
+            "votes": 216
+        },
+        "id": 2733
+    },
+    {
+        "city": "Portland",
+        "name": "FOODISM",
+        "estimated_cost": 20,
+        "user_rating": {
+            "average_rating": 3.8,
+            "votes": 184
+        },
+        "id": 2734
+    },
+    {
+        "city": "Portland",
+        "name": "Hoppipola",
+        "estimated_cost": 120,
+        "user_rating": {
+            "average_rating": 4.0,
+            "votes": 188
+        },
+        "id": 2735
+    },
+    {
+        "city": "Portland",
+        "name": "Hot Lips",
+        "estimated_cost": 10,
+        "user_rating": {
+            "average_rating": 3.9,
+            "votes": 236
+        },
+        "id": 2736
+    },
+    {
+        "city": "Portland",
+        "name": "Swad Desh",
+        "estimated_cost": 50,
+        "user_rating": {
+            "average_rating": 4.0,
+            "votes": 217
+        },
+        "id": 2737
+    },
+    {
+        "city": "Portland",
+        "name": "The Urban Brava",
+        "estimated_cost": 80,
+        "user_rating": {
+            "average_rating": 4.2,
+            "votes": 232
+        },
+        "id": 2738
+    },
+    {
+        "city": "Portland",
+        "name": "Yellow Sapphire - Hotel Capitol Hill",
+        "estimated_cost": 10,
+        "user_rating": {
+            "average_rating": 4.4,
+            "votes": 252
+        },
+        "id": 2739
+    },
+    {
+        "city": "Portland",
+        "name": "Vidorra Restro & Lounge",
+        "estimated_cost": 10,
+        "user_rating": {
+            "average_rating": 3.0,
+            "votes": 197
+        },
+        "id": 2740
+    },
+    {
+        "city": "Boston",
+        "name": "Boathouse",
+        "estimated_cost": 150,
+        "user_rating": {
+            "average_rating": 4.5,
+            "votes": 1061
+        },
+        "id": 121
+    },
+    {
+        "city": "Boston",
+        "name": "Sector 7 Social",
+        "estimated_cost": 140,
+        "user_rating": {
+            "average_rating": 4.8,
+            "votes": 2435
+        },
+        "id": 122
+    },
+    {
+        "city": "Boston",
+        "name": "Food@U",
+        "estimated_cost": 70,
+        "user_rating": {
+            "average_rating": 4.2,
+            "votes": 2056
+        },
+        "id": 123
+    },
+    {
+        "city": "Boston",
+        "name": "The Night Factory",
+        "estimated_cost": 80,
+        "user_rating": {
+            "average_rating": 3.9,
+            "votes": 1983
+        },
+        "id": 124
+    },
+    {
+        "city": "Boston",
+        "name": "La Pino'z Pizza",
+        "estimated_cost": 550,
+        "user_rating": {
+            "average_rating": 4.3,
+            "votes": 1271
+        },
+        "id": 125
+    },
+    {
+        "city": "Boston",
+        "name": "Bhena Da Dhaba",
+        "estimated_cost": 250,
+        "user_rating": {
+            "average_rating": 3.8,
+            "votes": 1466
+        },
+        "id": 126
+    },
+    {
+        "city": "Boston",
+        "name": "Cafe Z",
+        "estimated_cost": 120,
+        "user_rating": {
+            "average_rating": 4.5,
+            "votes": 1181
+        },
+        "id": 127
+    },
+    {
+        "city": "Boston",
+        "name": "Burger King",
+        "estimated_cost": 50,
+        "user_rating": {
+            "average_rating": 3.9,
+            "votes": 1082
+        },
+        "id": 128
+    },
+    {
+        "city": "Boston",
+        "name": "Subway",
+        "estimated_cost": 50,
+        "user_rating": {
+            "average_rating": 4.2,
+            "votes": 1147
+        },
+        "id": 129
+    },
+    {
+        "city": "Boston",
+        "name": "La Pino'z Pizza",
+        "estimated_cost": 550,
+        "user_rating": {
+            "average_rating": 4.5,
+            "votes": 855
+        },
+        "id": 1210
+    },
+    {
+        "city": "Boston",
+        "name": "Al Lazeezo",
+        "estimated_cost": 50,
+        "user_rating": {
+            "average_rating": 4.2,
+            "votes": 626
+        },
+        "id": 1211
+    },
+    {
+        "city": "Boston",
+        "name": "Amrit Sweets",
+        "estimated_cost": 70,
+        "user_rating": {
+            "average_rating": 4.0,
+            "votes": 963
+        },
+        "id": 1212
+    },
+    {
+        "city": "Boston",
+        "name": "Falcon Cafe Lounge",
+        "estimated_cost": 110,
+        "user_rating": {
+            "average_rating": 4.7,
+            "votes": 1456
+        },
+        "id": 1213
+    },
+    {
+        "city": "Boston",
+        "name": "Amritsari Kulcha Hub",
+        "estimated_cost": 250,
+        "user_rating": {
+            "average_rating": 4.0,
+            "votes": 1122
+        },
+        "id": 1214
+    },
+    {
+        "city": "Boston",
+        "name": "Pyramid",
+        "estimated_cost": 150,
+        "user_rating": {
+            "average_rating": 4.3,
+            "votes": 657
+        },
+        "id": 1215
+    },
+    {
+        "city": "Boston",
+        "name": "New Panna Sweets",
+        "estimated_cost": 30,
+        "user_rating": {
+            "average_rating": 4.0,
+            "votes": 1675
+        },
+        "id": 1216
+    },
+    {
+        "city": "Boston",
+        "name": "The Hedgehog Cafe",
+        "estimated_cost": 120,
+        "user_rating": {
+            "average_rating": 4.8,
+            "votes": 926
+        },
+        "id": 1217
+    },
+    {
+        "city": "Boston",
+        "name": "Pizza Freakerz",
+        "estimated_cost": 350,
+        "user_rating": {
+            "average_rating": 4.2,
+            "votes": 866
+        },
+        "id": 1218
+    },
+    {
+        "city": "Boston",
+        "name": "Boston Flavours",
+        "estimated_cost": 550,
+        "user_rating": {
+            "average_rating": 3.9,
+            "votes": 1051
+        },
+        "id": 1219
+    },
+    {
+        "city": "Boston",
+        "name": "Katani",
+        "estimated_cost": 450,
+        "user_rating": {
+            "average_rating": 4.1,
+            "votes": 1334
+        },
+        "id": 1220
+    },
+    {
+        "city": "Boston",
+        "name": "Pho Bac Súp Shop",
+        "estimated_cost": 30,
+        "user_rating": {
+            "average_rating": 4.1,
+            "votes": 1188
+        },
+        "id": 1221
+    },
+    {
+        "city": "Boston",
+        "name": "Biryani By Kilo",
+        "estimated_cost": 70,
+        "user_rating": {
+            "average_rating": 4.3,
+            "votes": 417
+        },
+        "id": 1222
+    },
+    {
+        "city": "Boston",
+        "name": "Khalsa Dhaba",
+        "estimated_cost": 50,
+        "user_rating": {
+            "average_rating": 3.9,
+            "votes": 105
+        },
+        "id": 1223
+    },
+    {
+        "city": "Boston",
+        "name": "City Cabana",
+        "estimated_cost": 130,
+        "user_rating": {
+            "average_rating": 4.1,
+            "votes": 291
+        },
+        "id": 1224
+    },
+    {
+        "city": "Boston",
+        "name": "Chaska 11",
+        "estimated_cost": 60,
+        "user_rating": {
+            "average_rating": 4.1,
+            "votes": 872
+        },
+        "id": 1225
+    },
+    {
+        "city": "Boston",
+        "name": "Beach N Brew",
+        "estimated_cost": 180,
+        "user_rating": {
+            "average_rating": 4.3,
+            "votes": 141
+        },
+        "id": 1226
+    },
+    {
+        "city": "Boston",
+        "name": "Khalsa Dhaba",
+        "estimated_cost": 40,
+        "user_rating": {
+            "average_rating": 4.1,
+            "votes": 130
+        },
+        "id": 1227
+    },
+    {
+        "city": "Boston",
+        "name": "Brooklyn Central",
+        "estimated_cost": 130,
+        "user_rating": {
+            "average_rating": 4.6,
+            "votes": 1222
+        },
+        "id": 1228
+    },
+    {
+        "city": "Boston",
+        "name": "Uncle Jack's",
+        "estimated_cost": 80,
+        "user_rating": {
+            "average_rating": 4.9,
+            "votes": 1537
+        },
+        "id": 1229
+    },
+    {
+        "city": "Boston",
+        "name": "KFC",
+        "estimated_cost": 50,
+        "user_rating": {
+            "average_rating": 4.0,
+            "votes": 890
+        },
+        "id": 1230
+    },
+    {
+        "city": "Boston",
+        "name": "K Cafe",
+        "estimated_cost": 250,
+        "user_rating": {
+            "average_rating": 4.2,
+            "votes": 1132
+        },
+        "id": 1231
+    },
+    {
+        "city": "Boston",
+        "name": "Sodhi's Zaika",
+        "estimated_cost": 150,
+        "user_rating": {
+            "average_rating": 4.0,
+            "votes": 952
+        },
+        "id": 1232
+    },
+    {
+        "city": "Boston",
+        "name": "Chinese Fast Food",
+        "estimated_cost": 30,
+        "user_rating": {
+            "average_rating": 3.7,
+            "votes": 954
+        },
+        "id": 1233
+    },
+    {
+        "city": "Boston",
+        "name": "The Last Course",
+        "estimated_cost": 60,
+        "user_rating": {
+            "average_rating": 4.4,
+            "votes": 564
+        },
+        "id": 1234
+    },
+    {
+        "city": "Boston",
+        "name": "The G.T. Road",
+        "estimated_cost": 140,
+        "user_rating": {
+            "average_rating": 4.4,
+            "votes": 372
+        },
+        "id": 1235
+    },
+    {
+        "city": "Boston",
+        "name": "Shirdi Food & Snacks",
+        "estimated_cost": 350,
+        "user_rating": {
+            "average_rating": 4.1,
+            "votes": 948
+        },
+        "id": 1236
+    },
+    {
+        "city": "Boston",
+        "name": "Amigo's Cafe",
+        "estimated_cost": 50,
+        "user_rating": {
+            "average_rating": 4.3,
+            "votes": 1099
+        },
+        "id": 1237
+    },
+    {
+        "city": "Boston",
+        "name": "The Shooters Cafe",
+        "estimated_cost": 70,
+        "user_rating": {
+            "average_rating": 4.0,
+            "votes": 636
+        },
+        "id": 1238
+    },
+    {
+        "city": "Boston",
+        "name": "Lah Di Dah",
+        "estimated_cost": 120,
+        "user_rating": {
+            "average_rating": 4.2,
+            "votes": 505
+        },
+        "id": 1239
+    },
+    {
+        "city": "Boston",
+        "name": "Subway",
+        "estimated_cost": 50,
+        "user_rating": {
+            "average_rating": 4.1,
+            "votes": 648
+        },
+        "id": 1240
+    },
+    {
+        "city": "Chicago",
+        "name": "Flechazo",
+        "estimated_cost": 140,
+        "user_rating": {
+            "average_rating": 4.9,
+            "votes": 2205
+        },
+        "id": 51
+    },
+    {
+        "city": "Chicago",
+        "name": "Culture",
+        "estimated_cost": 130,
+        "user_rating": {
+            "average_rating": 4.1,
+            "votes": 2648
+        },
+        "id": 52
+    },
+    {
+        "city": "Chicago",
+        "name": "Social",
+        "estimated_cost": 150,
+        "user_rating": {
+            "average_rating": 4.5,
+            "votes": 2118
+        },
+        "id": 53
+    },
+    {
+        "city": "Chicago",
+        "name": "Autobahn",
+        "estimated_cost": 130,
+        "user_rating": {
+            "average_rating": 4.8,
+            "votes": 2562
+        },
+        "id": 54
+    },
+    {
+        "city": "Chicago",
+        "name": "Universal Barbeque",
+        "estimated_cost": 120,
+        "user_rating": {
+            "average_rating": 4.6,
+            "votes": 1227
+        },
+        "id": 55
+    },
+    {
+        "city": "Chicago",
+        "name": "Barbeque Ville",
+        "estimated_cost": 10,
+        "user_rating": {
+            "average_rating": 4.5,
+            "votes": 1439
+        },
+        "id": 56
+    },
+    {
+        "city": "Chicago",
+        "name": "Kargo",
+        "estimated_cost": 10,
+        "user_rating": {
+            "average_rating": 4.4,
+            "votes": 2059
+        },
+        "id": 57
+    },
+    {
+        "city": "Chicago",
+        "name": "Teddy Boy",
+        "estimated_cost": 120,
+        "user_rating": {
+            "average_rating": 4.3,
+            "votes": 4063
+        },
+        "id": 58
+    },
+    {
+        "city": "Chicago",
+        "name": "AB's - Absolute Barbecues",
+        "estimated_cost": 140,
+        "user_rating": {
+            "average_rating": 4.9,
+            "votes": 4859
+        },
+        "id": 59
+    },
+    {
+        "city": "Chicago",
+        "name": "Kopp",
+        "estimated_cost": 120,
+        "user_rating": {
+            "average_rating": 4.4,
+            "votes": 1052
+        },
+        "id": 510
+    },
+    {
+        "city": "Chicago",
+        "name": "Noodle House",
+        "estimated_cost": 70,
+        "user_rating": {
+            "average_rating": 4.6,
+            "votes": 1244
+        },
+        "id": 511
+    },
+    {
+        "city": "Chicago",
+        "name": "Le Plaisir",
+        "estimated_cost": 10,
+        "user_rating": {
+            "average_rating": 4.8,
+            "votes": 4211
+        },
+        "id": 512
+    },
+    {
+        "city": "Chicago",
+        "name": "Cafe 1730",
+        "estimated_cost": 150,
+        "user_rating": {
+            "average_rating": 4.6,
+            "votes": 3156
+        },
+        "id": 513
+    },
+    {
+        "city": "Chicago",
+        "name": "Mughal Mahal",
+        "estimated_cost": 90,
+        "user_rating": {
+            "average_rating": 4.6,
+            "votes": 2316
+        },
+        "id": 514
+    },
+    {
+        "city": "Chicago",
+        "name": "Sentosa MultiCuisine Restaurant",
+        "estimated_cost": 120,
+        "user_rating": {
+            "average_rating": 4.9,
+            "votes": 984
+        },
+        "id": 515
+    },
+    {
+        "city": "Chicago",
+        "name": "The FML Lounge",
+        "estimated_cost": 110,
+        "user_rating": {
+            "average_rating": 4.1,
+            "votes": 1772
+        },
+        "id": 516
+    },
+    {
+        "city": "Chicago",
+        "name": "BarBerry",
+        "estimated_cost": 120,
+        "user_rating": {
+            "average_rating": 4.3,
+            "votes": 1490
+        },
+        "id": 517
+    },
+    {
+        "city": "Chicago",
+        "name": "Tatva",
+        "estimated_cost": 850,
+        "user_rating": {
+            "average_rating": 4.4,
+            "votes": 2039
+        },
+        "id": 518
+    },
+    {
+        "city": "Chicago",
+        "name": "The FML Lounge",
+        "estimated_cost": 110,
+        "user_rating": {
+            "average_rating": 4.3,
+            "votes": 728
+        },
+        "id": 519
+    },
+    {
+        "city": "Chicago",
+        "name": "Bonsouth",
+        "estimated_cost": 120,
+        "user_rating": {
+            "average_rating": 4.6,
+            "votes": 454
+        },
+        "id": 520
+    },
+    {
+        "city": "Chicago",
+        "name": "Laa Unico",
+        "estimated_cost": 140,
+        "user_rating": {
+            "average_rating": 4.7,
+            "votes": 1207
+        },
+        "id": 521
+    },
+    {
+        "city": "Chicago",
+        "name": "The K Factory",
+        "estimated_cost": 10,
+        "user_rating": {
+            "average_rating": 4.3,
+            "votes": 3225
+        },
+        "id": 522
+    },
+    {
+        "city": "Chicago",
+        "name": "Agent Jack's",
+        "estimated_cost": 130,
+        "user_rating": {
+            "average_rating": 4.2,
+            "votes": 2189
+        },
+        "id": 523
+    },
+    {
+        "city": "Chicago",
+        "name": "Cafe Goodluck",
+        "estimated_cost": 60,
+        "user_rating": {
+            "average_rating": 4.3,
+            "votes": 6589
+        },
+        "id": 524
+    },
+    {
+        "city": "Chicago",
+        "name": "11 East Street Cafe",
+        "estimated_cost": 180,
+        "user_rating": {
+            "average_rating": 4.2,
+            "votes": 3584
+        },
+        "id": 525
+    },
+    {
+        "city": "Chicago",
+        "name": "AB's - Absolute Barbecues",
+        "estimated_cost": 140,
+        "user_rating": {
+            "average_rating": 4.7,
+            "votes": 1581
+        },
+        "id": 526
+    },
+    {
+        "city": "Chicago",
+        "name": "Tarsh Gastronomia",
+        "estimated_cost": 150,
+        "user_rating": {
+            "average_rating": 4.4,
+            "votes": 1796
+        },
+        "id": 527
+    },
+    {
+        "city": "Chicago",
+        "name": "Cafe 1730",
+        "estimated_cost": 130,
+        "user_rating": {
+            "average_rating": 4.4,
+            "votes": 1082
+        },
+        "id": 528
+    },
+    {
+        "city": "Chicago",
+        "name": "Tales & Spirits",
+        "estimated_cost": 120,
+        "user_rating": {
+            "average_rating": 4.3,
+            "votes": 3496
+        },
+        "id": 529
+    },
+    {
+        "city": "Chicago",
+        "name": "Tawa Street",
+        "estimated_cost": 50,
+        "user_rating": {
+            "average_rating": 4.0,
+            "votes": 1011
+        },
+        "id": 530
+    },
+    {
+        "city": "Chicago",
+        "name": "Publiq",
+        "estimated_cost": 140,
+        "user_rating": {
+            "average_rating": 4.0,
+            "votes": 1426
+        },
+        "id": 531
+    },
+    {
+        "city": "Chicago",
+        "name": "Anna Idli",
+        "estimated_cost": 450,
+        "user_rating": {
+            "average_rating": 4.5,
+            "votes": 2461
+        },
+        "id": 532
+    },
+    {
+        "city": "Chicago",
+        "name": "Publiq",
+        "estimated_cost": 140,
+        "user_rating": {
+            "average_rating": 4.3,
+            "votes": 735
+        },
+        "id": 533
+    },
+    {
+        "city": "Chicago",
+        "name": "Gong",
+        "estimated_cost": 180,
+        "user_rating": {
+            "average_rating": 4.8,
+            "votes": 1145
+        },
+        "id": 534
+    },
+    {
+        "city": "Chicago",
+        "name": "Barbeque Ville",
+        "estimated_cost": 10,
+        "user_rating": {
+            "average_rating": 4.7,
+            "votes": 662
+        },
+        "id": 535
+    },
+    {
+        "city": "Chicago",
+        "name": "Fish Curry Rice",
+        "estimated_cost": 120,
+        "user_rating": {
+            "average_rating": 4.6,
+            "votes": 385
+        },
+        "id": 536
+    },
+    {
+        "city": "Chicago",
+        "name": "Agent Jack's",
+        "estimated_cost": 130,
+        "user_rating": {
+            "average_rating": 4.5,
+            "votes": 3750
+        },
+        "id": 537
+    },
+    {
+        "city": "Chicago",
+        "name": "Tales & Spirits",
+        "estimated_cost": 120,
+        "user_rating": {
+            "average_rating": 4.2,
+            "votes": 1580
+        },
+        "id": 538
+    },
+    {
+        "city": "Chicago",
+        "name": "Musang",
+        "estimated_cost": 50,
+        "user_rating": {
+            "average_rating": 4.4,
+            "votes": 5123
+        },
+        "id": 539
+    },
+    {
+        "city": "Chicago",
+        "name": "Effingut Brewerkz",
+        "estimated_cost": 170,
+        "user_rating": {
+            "average_rating": 4.6,
+            "votes": 2421
+        },
+        "id": 540
+    },
+    {
+        "city": "Austin",
+        "name": "The Esplendido Cafe",
+        "estimated_cost": 80,
+        "user_rating": {
+            "average_rating": 4.5,
+            "votes": 719
+        },
+        "id": 111
+    },
+    {
+        "city": "Austin",
+        "name": "Shree Annapurna",
+        "estimated_cost": 50,
+        "user_rating": {
+            "average_rating": 4.0,
+            "votes": 1680
+        },
+        "id": 112
+    },
+    {
+        "city": "Austin",
+        "name": "Bogarosa",
+        "estimated_cost": 80,
+        "user_rating": {
+            "average_rating": 4.1,
+            "votes": 1074
+        },
+        "id": 113
+    },
+    {
+        "city": "Austin",
+        "name": "Mocha",
+        "estimated_cost": 80,
+        "user_rating": {
+            "average_rating": 4.6,
+            "votes": 2225
+        },
+        "id": 114
+    },
+    {
+        "city": "Austin",
+        "name": "I Love Sandwich House",
+        "estimated_cost": 90,
+        "user_rating": {
+            "average_rating": 4.1,
+            "votes": 104
+        },
+        "id": 115
+    },
+    {
+        "city": "Austin",
+        "name": "Yanki Sizzlers",
+        "estimated_cost": 120,
+        "user_rating": {
+            "average_rating": 4.8,
+            "votes": 679
+        },
+        "id": 116
+    },
+    {
+        "city": "Austin",
+        "name": "Huber & Holly",
+        "estimated_cost": 80,
+        "user_rating": {
+            "average_rating": 4.7,
+            "votes": 1284
+        },
+        "id": 117
+    },
+    {
+        "city": "Austin",
+        "name": "Yanki Sizzlers",
+        "estimated_cost": 120,
+        "user_rating": {
+            "average_rating": 4.9,
+            "votes": 3221
+        },
+        "id": 118
+    },
+    {
+        "city": "Austin",
+        "name": "Makeba - The Lounge Cafe",
+        "estimated_cost": 10,
+        "user_rating": {
+            "average_rating": 4.2,
+            "votes": 215
+        },
+        "id": 119
+    },
+    {
+        "city": "Austin",
+        "name": "Coffee Culture",
+        "estimated_cost": 80,
+        "user_rating": {
+            "average_rating": 4.0,
+            "votes": 173
+        },
+        "id": 1110
+    },
+    {
+        "city": "Austin",
+        "name": "Ph Se Food",
+        "estimated_cost": 90,
+        "user_rating": {
+            "average_rating": 4.2,
+            "votes": 404
+        },
+        "id": 1111
+    },
+    {
+        "city": "Austin",
+        "name": "Mocha",
+        "estimated_cost": 80,
+        "user_rating": {
+            "average_rating": 4.4,
+            "votes": 916
+        },
+        "id": 1112
+    },
+    {
+        "city": "Austin",
+        "name": "Kabir Restaurant",
+        "estimated_cost": 60,
+        "user_rating": {
+            "average_rating": 4.1,
+            "votes": 2822
+        },
+        "id": 1113
+    },
+    {
+        "city": "Austin",
+        "name": "Rp's Pizzeria",
+        "estimated_cost": 550,
+        "user_rating": {
+            "average_rating": 4.4,
+            "votes": 639
+        },
+        "id": 1114
+    },
+    {
+        "city": "Austin",
+        "name": "La Pino'z Pizza",
+        "estimated_cost": 70,
+        "user_rating": {
+            "average_rating": 4.5,
+            "votes": 2227
+        },
+        "id": 1115
+    },
+    {
+        "city": "Austin",
+        "name": "Tea Villa Cafe",
+        "estimated_cost": 10,
+        "user_rating": {
+            "average_rating": 4.2,
+            "votes": 646
+        },
+        "id": 1116
+    },
+    {
+        "city": "Austin",
+        "name": "Forking Awesome",
+        "estimated_cost": 70,
+        "user_rating": {
+            "average_rating": 4.5,
+            "votes": 185
+        },
+        "id": 1117
+    },
+    {
+        "city": "Austin",
+        "name": "Queso Y Cafe",
+        "estimated_cost": 70,
+        "user_rating": {
+            "average_rating": 4.2,
+            "votes": 661
+        },
+        "id": 1118
+    },
+    {
+        "city": "Austin",
+        "name": "Kadak Bhagat",
+        "estimated_cost": 10,
+        "user_rating": {
+            "average_rating": 4.6,
+            "votes": 253
+        },
+        "id": 1119
+    },
+    {
+        "city": "Austin",
+        "name": "Fozzie's Pizzaiolo. Cafe. Deli",
+        "estimated_cost": 90,
+        "user_rating": {
+            "average_rating": 4.1,
+            "votes": 1617
+        },
+        "id": 1120
+    },
+    {
+        "city": "Austin",
+        "name": "The Cafe Baraco",
+        "estimated_cost": 750,
+        "user_rating": {
+            "average_rating": 4.1,
+            "votes": 1313
+        },
+        "id": 1121
+    },
+    {
+        "city": "Austin",
+        "name": "The Secret Kitchen",
+        "estimated_cost": 110,
+        "user_rating": {
+            "average_rating": 4.1,
+            "votes": 356
+        },
+        "id": 1122
+    },
+    {
+        "city": "Austin",
+        "name": "Anjoy Latenight Meals",
+        "estimated_cost": 50,
+        "user_rating": {
+            "average_rating": 4.3,
+            "votes": 1076
+        },
+        "id": 1123
+    },
+    {
+        "city": "Austin",
+        "name": "Yash's GBT",
+        "estimated_cost": 80,
+        "user_rating": {
+            "average_rating": 4.1,
+            "votes": 558
+        },
+        "id": 1124
+    },
+    {
+        "city": "Austin",
+        "name": "Honest",
+        "estimated_cost": 70,
+        "user_rating": {
+            "average_rating": 3.7,
+            "votes": 943
+        },
+        "id": 1125
+    },
+    {
+        "city": "Austin",
+        "name": "Eleven 11 Restro Cafe",
+        "estimated_cost": 10,
+        "user_rating": {
+            "average_rating": 4.2,
+            "votes": 968
+        },
+        "id": 1126
+    },
+    {
+        "city": "Austin",
+        "name": "Parosa",
+        "estimated_cost": 80,
+        "user_rating": {
+            "average_rating": 4.0,
+            "votes": 713
+        },
+        "id": 1127
+    },
+    {
+        "city": "Austin",
+        "name": "Standard's Punjabi Khana",
+        "estimated_cost": 450,
+        "user_rating": {
+            "average_rating": 3.7,
+            "votes": 1030
+        },
+        "id": 1128
+    },
+    {
+        "city": "Austin",
+        "name": "Bar del Corso",
+        "estimated_cost": 50,
+        "user_rating": {
+            "average_rating": 4.7,
+            "votes": 470
+        },
+        "id": 1129
+    },
+    {
+        "city": "Austin",
+        "name": "Brick Kitchen - Five Petals",
+        "estimated_cost": 90,
+        "user_rating": {
+            "average_rating": 4.4,
+            "votes": 1337
+        },
+        "id": 1130
+    },
+    {
+        "city": "Austin",
+        "name": "Little French House",
+        "estimated_cost": 10,
+        "user_rating": {
+            "average_rating": 4.3,
+            "votes": 185
+        },
+        "id": 1131
+    },
+    {
+        "city": "Austin",
+        "name": "Cafe De Italiano",
+        "estimated_cost": 950,
+        "user_rating": {
+            "average_rating": 4.3,
+            "votes": 693
+        },
+        "id": 1132
+    },
+    {
+        "city": "Austin",
+        "name": "RP's Pizzeria",
+        "estimated_cost": 550,
+        "user_rating": {
+            "average_rating": 4.4,
+            "votes": 940
+        },
+        "id": 1133
+    },
+    {
+        "city": "Austin",
+        "name": "Lady Jaye",
+        "estimated_cost": 60,
+        "user_rating": {
+            "average_rating": 4.6,
+            "votes": 1227
+        },
+        "id": 1134
+    },
+    {
+        "city": "Austin",
+        "name": "The Dhaba",
+        "estimated_cost": 60,
+        "user_rating": {
+            "average_rating": 4.5,
+            "votes": 261
+        },
+        "id": 1135
+    },
+    {
+        "city": "Austin",
+        "name": "Food On Way",
+        "estimated_cost": 40,
+        "user_rating": {
+            "average_rating": 3.9,
+            "votes": 2627
+        },
+        "id": 1136
+    },
+    {
+        "city": "Austin",
+        "name": "Kadak Bhagat",
+        "estimated_cost": 120,
+        "user_rating": {
+            "average_rating": 4.7,
+            "votes": 258
+        },
+        "id": 1137
+    },
+    {
+        "city": "Austin",
+        "name": "Unlocked",
+        "estimated_cost": 10,
+        "user_rating": {
+            "average_rating": 4.4,
+            "votes": 1202
+        },
+        "id": 1138
+    },
+    {
+        "city": "Austin",
+        "name": "Kaffee - Mast Hai",
+        "estimated_cost": 750,
+        "user_rating": {
+            "average_rating": 4.4,
+            "votes": 864
+        },
+        "id": 1139
+    },
+    {
+        "city": "Austin",
+        "name": "Nini's Kitchen",
+        "estimated_cost": 10,
+        "user_rating": {
+            "average_rating": 4.5,
+            "votes": 1809
+        },
+        "id": 1140
+    },
+    {
+        "city": "Houston",
+        "name": "Double Roti",
+        "estimated_cost": 70,
+        "user_rating": {
+            "average_rating": 4.2,
+            "votes": 312
+        },
+        "id": 91
+    },
+    {
+        "city": "Houston",
+        "name": "Ifthar",
+        "estimated_cost": 350,
+        "user_rating": {
+            "average_rating": 4.0,
+            "votes": 732
+        },
+        "id": 92
+    },
+    {
+        "city": "Houston",
+        "name": "Kashi Art Cafe",
+        "estimated_cost": 60,
+        "user_rating": {
+            "average_rating": 4.4,
+            "votes": 1209
+        },
+        "id": 93
+    },
+    {
+        "city": "Houston",
+        "name": "Cafe 17",
+        "estimated_cost": 70,
+        "user_rating": {
+            "average_rating": 4.6,
+            "votes": 877
+        },
+        "id": 94
+    },
+    {
+        "city": "Houston",
+        "name": "The Grill Lab",
+        "estimated_cost": 70,
+        "user_rating": {
+            "average_rating": 4.3,
+            "votes": 579
+        },
+        "id": 95
+    },
+    {
+        "city": "Houston",
+        "name": "Mocha Art Cafe",
+        "estimated_cost": 70,
+        "user_rating": {
+            "average_rating": 4.8,
+            "votes": 566
+        },
+        "id": 96
+    },
+    {
+        "city": "Houston",
+        "name": "BSweets",
+        "estimated_cost": 250,
+        "user_rating": {
+            "average_rating": 4.5,
+            "votes": 168
+        },
+        "id": 97
+    },
+    {
+        "city": "Houston",
+        "name": "360 Degrees Pizzeria",
+        "estimated_cost": 150,
+        "user_rating": {
+            "average_rating": 4.2,
+            "votes": 427
+        },
+        "id": 98
+    },
+    {
+        "city": "Houston",
+        "name": "Nasi And Mee",
+        "estimated_cost": 10,
+        "user_rating": {
+            "average_rating": 4.7,
+            "votes": 196
+        },
+        "id": 99
+    },
+    {
+        "city": "Houston",
+        "name": "Dhe Puttu",
+        "estimated_cost": 60,
+        "user_rating": {
+            "average_rating": 4.4,
+            "votes": 1142
+        },
+        "id": 910
+    },
+    {
+        "city": "Houston",
+        "name": "Hotel Harsh Dhaba",
+        "estimated_cost": 250,
+        "user_rating": {
+            "average_rating": 4.1,
+            "votes": 579
+        },
+        "id": 911
+    },
+    {
+        "city": "Houston",
+        "name": "Mi Casa",
+        "estimated_cost": 50,
+        "user_rating": {
+            "average_rating": 4.1,
+            "votes": 234
+        },
+        "id": 912
+    },
+    {
+        "city": "Houston",
+        "name": "Al Reem Kuzhimandi",
+        "estimated_cost": 40,
+        "user_rating": {
+            "average_rating": 4.4,
+            "votes": 915
+        },
+        "id": 913
+    },
+    {
+        "city": "Houston",
+        "name": "Bloomsbury's Global Kitchen & Bakehouse",
+        "estimated_cost": 650,
+        "user_rating": {
+            "average_rating": 4.4,
+            "votes": 882
+        },
+        "id": 914
+    },
+    {
+        "city": "Houston",
+        "name": "Paragon",
+        "estimated_cost": 90,
+        "user_rating": {
+            "average_rating": 4.5,
+            "votes": 1422
+        },
+        "id": 915
+    },
+    {
+        "city": "Houston",
+        "name": "Tonico Cafe",
+        "estimated_cost": 40,
+        "user_rating": {
+            "average_rating": 4.3,
+            "votes": 917
+        },
+        "id": 916
+    },
+    {
+        "city": "Houston",
+        "name": "Barbeque Nation",
+        "estimated_cost": 150,
+        "user_rating": {
+            "average_rating": 4.9,
+            "votes": 925
+        },
+        "id": 917
+    },
+    {
+        "city": "Houston",
+        "name": "Zaatar Arabic Restaurant",
+        "estimated_cost": 30,
+        "user_rating": {
+            "average_rating": 4.2,
+            "votes": 283
+        },
+        "id": 918
+    },
+    {
+        "city": "Houston",
+        "name": "Seagull Restaurant",
+        "estimated_cost": 80,
+        "user_rating": {
+            "average_rating": 3.8,
+            "votes": 499
+        },
+        "id": 919
+    },
+    {
+        "city": "Houston",
+        "name": "The Voyager",
+        "estimated_cost": 60,
+        "user_rating": {
+            "average_rating": 4.0,
+            "votes": 514
+        },
+        "id": 920
+    },
+    {
+        "city": "Houston",
+        "name": "Ming's Wok",
+        "estimated_cost": 550,
+        "user_rating": {
+            "average_rating": 4.2,
+            "votes": 490
+        },
+        "id": 921
+    },
+    {
+        "city": "Houston",
+        "name": "Cafe d' arabia",
+        "estimated_cost": 50,
+        "user_rating": {
+            "average_rating": 4.1,
+            "votes": 502
+        },
+        "id": 922
+    },
+    {
+        "city": "Houston",
+        "name": "The Asian Kitchen by Tokyo Bay",
+        "estimated_cost": 110,
+        "user_rating": {
+            "average_rating": 4.5,
+            "votes": 308
+        },
+        "id": 923
+    },
+    {
+        "city": "Houston",
+        "name": "ChaiCofi",
+        "estimated_cost": 750,
+        "user_rating": {
+            "average_rating": 4.3,
+            "votes": 503
+        },
+        "id": 924
+    },
+    {
+        "city": "Houston",
+        "name": "Sethi Da Dhaba",
+        "estimated_cost": 50,
+        "user_rating": {
+            "average_rating": 4.1,
+            "votes": 451
+        },
+        "id": 925
+    },
+    {
+        "city": "Houston",
+        "name": "French Toast",
+        "estimated_cost": 70,
+        "user_rating": {
+            "average_rating": 4.6,
+            "votes": 579
+        },
+        "id": 926
+    },
+    {
+        "city": "Houston",
+        "name": "Zaatar Arabic Restaurant",
+        "estimated_cost": 50,
+        "user_rating": {
+            "average_rating": 4.1,
+            "votes": 395
+        },
+        "id": 927
+    },
+    {
+        "city": "Houston",
+        "name": "Milano Ice Cream",
+        "estimated_cost": 30,
+        "user_rating": {
+            "average_rating": 4.7,
+            "votes": 567
+        },
+        "id": 928
+    },
+    {
+        "city": "Houston",
+        "name": "Sheba Kuzhimandhi",
+        "estimated_cost": 40,
+        "user_rating": {
+            "average_rating": 4.2,
+            "votes": 403
+        },
+        "id": 929
+    },
+    {
+        "city": "Houston",
+        "name": "KFC",
+        "estimated_cost": 50,
+        "user_rating": {
+            "average_rating": 3.4,
+            "votes": 455
+        },
+        "id": 930
+    },
+    {
+        "city": "Houston",
+        "name": "Thaal Kitchen",
+        "estimated_cost": 30,
+        "user_rating": {
+            "average_rating": 3.6,
+            "votes": 607
+        },
+        "id": 931
+    },
+    {
+        "city": "Houston",
+        "name": "Thakkaaram",
+        "estimated_cost": 60,
+        "user_rating": {
+            "average_rating": 3.9,
+            "votes": 619
+        },
+        "id": 932
+    },
+    {
+        "city": "Houston",
+        "name": "Alakapuri",
+        "estimated_cost": 30,
+        "user_rating": {
+            "average_rating": 4.2,
+            "votes": 659
+        },
+        "id": 933
+    },
+    {
+        "city": "Houston",
+        "name": "Nawras Seafood Restaurant",
+        "estimated_cost": 10,
+        "user_rating": {
+            "average_rating": 4.3,
+            "votes": 541
+        },
+        "id": 934
+    },
+    {
+        "city": "Houston",
+        "name": "Palaaram",
+        "estimated_cost": 550,
+        "user_rating": {
+            "average_rating": 4.1,
+            "votes": 370
+        },
+        "id": 935
+    },
+    {
+        "city": "Houston",
+        "name": "Brindhavan Vegetarian Restaurant",
+        "estimated_cost": 30,
+        "user_rating": {
+            "average_rating": 4.3,
+            "votes": 507
+        },
+        "id": 936
+    },
+    {
+        "city": "Houston",
+        "name": "Mustake Multicuisine Restaurant",
+        "estimated_cost": 10,
+        "user_rating": {
+            "average_rating": 3.9,
+            "votes": 567
+        },
+        "id": 937
+    },
+    {
+        "city": "Houston",
+        "name": "Cocoa Tree",
+        "estimated_cost": 10,
+        "user_rating": {
+            "average_rating": 4.5,
+            "votes": 969
+        },
+        "id": 938
+    },
+    {
+        "city": "Houston",
+        "name": "Chiyang",
+        "estimated_cost": 450,
+        "user_rating": {
+            "average_rating": 4.0,
+            "votes": 590
+        },
+        "id": 939
+    },
+    {
+        "city": "Houston",
+        "name": "Ikka's Restaurant",
+        "estimated_cost": 60,
+        "user_rating": {
+            "average_rating": 3.6,
+            "votes": 112
+        },
+        "id": 940
+    }
+]
