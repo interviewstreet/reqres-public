@@ -1152,3 +1152,23 @@ describe('weather.json', () => {
         }).catch((err) => console.log(err));
   });
 });
+
+describe('food_outlets.json', () => {
+  it('/api/food_outlets/?name=...', (done) => {
+    chai.request(server)
+        .get('/api/food_outlets/?city=Seattle')
+        .then((res) => {
+          res.body.data[0].should.be.eql({
+            "city": "Seattle",
+            "name": "Cafe Juanita",
+            "estimated_cost": 160,
+            "user_rating": {
+                "aggregate_rating": "4.9",
+                "votes": "16203"
+            },
+            "id": "41"
+          });
+          done();
+        }).catch((err) => console.log(err));
+  });
+});

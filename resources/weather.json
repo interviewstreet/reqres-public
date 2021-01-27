@@ -80,6 +80,22 @@
     ]
   },
   {
+    "name": "Atlanta",
+    "weather": "33 degree",
+    "status": [
+      "Wind: 6Kmph",
+      "Humidity: 11%"
+    ]
+  },
+  {
+    "name": "Austin",
+    "weather": "20 degree",
+    "status": [
+      "Wind: 20Kmph",
+      "Humidity: 30%"
+    ]
+  },
+  {
     "name": "Baise",
     "weather": "35 degree",
     "status": [
@@ -160,6 +176,14 @@
     ]
   },
   {
+    "name": "Boston",
+    "weather": "-4 degree",
+    "status": [
+      "Wind: 16Kmph",
+      "Humidity: 69%"
+    ]
+  },
+  {
     "name": "Cagliari",
     "weather": "31 degree",
     "status": [
@@ -184,7 +208,23 @@
     ]
   },
   {
+    "name": "Charlotte",
+    "weather": "0 degree",
+    "status": [
+      "Wind: 7Kmph",
+      "Humidity: 31%"
+    ]
+  },
+  {
     "name": "Chikusei",
+    "weather": "10 degree",
+    "status": [
+      "Wind: 7Kmph",
+      "Humidity: 31%"
+    ]
+  },
+  {
+    "name": "Cincinnati",
     "weather": "10 degree",
     "status": [
       "Wind: 7Kmph",
@@ -269,6 +309,14 @@
     "status": [
       "Wind: 39Kmph",
       "Humidity: 22%"
+    ]
+  },
+  {
+    "name": "Denver",
+    "weather": "-3 degree",
+    "status": [
+      "Wind: 10Kmph",
+      "Humidity: 73%"
     ]
   },
   {
@@ -968,6 +1016,14 @@
     ]
   },
   {
+    "name": "Miami",
+    "weather": "13 degree",
+    "status": [
+      "Wind: 14Kmph",
+      "Humidity: 81%"
+    ]
+  },
+  {
     "name": "Minglanilla",
     "weather": "21 degree",
     "status": [
@@ -1168,11 +1224,27 @@
     ]
   },
   {
+    "name": "Phoenix",
+    "weather": "15 degree",
+    "status": [
+      "Wind: 14Kmph",
+      "Humidity: 17%"
+    ]
+  },
+  {
     "name": "Picos",
     "weather": "17 degree",
     "status": [
       "Wind: 22Kmph",
       "Humidity: 20%"
+    ]
+  },
+  {
+    "name": "Pittsburg",
+    "weather": "8 degree",
+    "status": [
+      "Wind: 8Kmph",
+      "Humidity: 69%"
     ]
   },
   {
@@ -1189,6 +1261,14 @@
     "status": [
       "Wind: 29Kmph",
       "Humidity: 56%"
+    ]
+  },
+  {
+    "name": "Portland",
+    "weather": "7 degree",
+    "status": [
+      "Wind: 8Kmph",
+      "Humidity: 84%"
     ]
   },
   {
@@ -1352,6 +1432,14 @@
     ]
   },
   {
+    "name": "Seattle",
+    "weather": "7 degree",
+    "status": [
+      "Wind: 18Kmph",
+      "Humidity: 83%"
+    ]
+  },
+  {
     "name": "Sector 2",
     "weather": "8 degree",
     "status": [
@@ -1505,6 +1593,14 @@
   },
   {
     "name": "Troyes",
+    "weather": "33 degree",
+    "status": [
+      "Wind: 17Kmph",
+      "Humidity: 14%"
+    ]
+  },
+  {
+    "name": "Tucson",
     "weather": "33 degree",
     "status": [
       "Wind: 17Kmph",
