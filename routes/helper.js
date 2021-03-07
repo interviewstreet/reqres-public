@@ -8,7 +8,7 @@ module.exports = {
             paginatedItems = _.rest(items, offset).slice(0, (options.page_size || config.pagination.page_size));
     
         return res.status(200).send({
-            page: page,
+            page: parseInt(page),
             per_page: options.page_size || config.pagination.page_size,
             total: items.length,
             total_pages: Math.ceil(items.length / (options.page_size || config.pagination.page_size)),
