@@ -40,4 +40,6 @@ jobs:
         cluster: ${{ secrets.CLUSTER_NAME }}
         codedeploy-appspec: appspec.yaml
         wait-for-service-stability: true
+        codedeploy-application: ${{ secrets.CODEDEPLOY_APPLICATION }}
+        codedeploy-deployment-group: ${{ secrets.CODEDEPLOY_DEPLOYMENT_GROUP }}
 
