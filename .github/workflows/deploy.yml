@@ -30,7 +30,7 @@ jobs:
       with:
         task-definition: ./task-definition.json
         container-name: json-mock-container
-        image: ${{ github.event.inputs.ECR_Image_tag }}
+        image: 563410562074.dkr.ecr.us-east-1.amazonaws.com/reqres:${{ github.event.inputs.ECR_Image_tag }}
 
     - name: Deploy Amazon ECS task definition
       uses: aws-actions/amazon-ecs-deploy-task-definition@v1
