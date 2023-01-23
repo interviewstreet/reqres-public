@@ -16,7 +16,6 @@ Check all `/api` endpoints
       ✓ /api/stocks?page=... (41ms)
       ✓ /api/stocks?property=...&page=...
       ✓ /api/stocks/search?property=...&page=...
-
   Dynamic APIs
     ✓ /datetime
 */
