@@ -1,0 +1,2578 @@
+[
+  {
+    "university": "Massachusetts Institute of Technology (MIT)",
+    "rank_display": "1",
+    "score": 100,
+    "type": "Private",
+    "student_faculty_ratio": 4,
+    "international_students": "3,730",
+    "faculty_count": "3,065",
+    "location": {
+      "city": "Cambridge",
+      "country": "United States",
+      "region": "North America"
+    }
+  },
+  {
+    "university": "University of Oxford",
+    "rank_display": "2",
+    "score": 99.5,
+    "type": "Public",
+    "student_faculty_ratio": 3,
+    "international_students": "8,442",
+    "faculty_count": "6,708",
+    "location": {
+      "city": "Oxford",
+      "country": "United Kingdom",
+      "region": "Europe"
+    }
+  },
+  {
+    "university": "Stanford University",
+    "rank_display": "3",
+    "score": 98.7,
+    "type": "Private",
+    "student_faculty_ratio": 3,
+    "international_students": "3,879",
+    "faculty_count": "4,725",
+    "location": {
+      "city": "Stanford",
+      "country": "United States",
+      "region": "North America"
+    }
+  },
+  {
+    "university": "University of Cambridge",
+    "rank_display": "3",
+    "score": 98.7,
+    "type": "Public",
+    "student_faculty_ratio": 4,
+    "international_students": "7,925",
+    "faculty_count": "5,800",
+    "location": {
+      "city": "Cambridge",
+      "country": "United Kingdom",
+      "region": "Europe"
+    }
+  },
+  {
+    "university": "Harvard University",
+    "rank_display": "5",
+    "score": 98,
+    "type": "Private",
+    "student_faculty_ratio": 5,
+    "international_students": "5,877",
+    "faculty_count": "4,646",
+    "location": {
+      "city": "Cambridge",
+      "country": "United States",
+      "region": "North America"
+    }
+  },
+  {
+    "university": "California Institute of Technology (Caltech)",
+    "rank_display": "6",
+    "score": 97.4,
+    "type": "Private",
+    "student_faculty_ratio": 2,
+    "international_students": "692",
+    "faculty_count": "968",
+    "location": {
+      "city": "Pasadena",
+      "country": "United States",
+      "region": "North America"
+    }
+  },
+  {
+    "university": "Imperial College London",
+    "rank_display": "7",
+    "score": 97.3,
+    "type": "Public",
+    "student_faculty_ratio": 5,
+    "international_students": "11,143",
+    "faculty_count": "8,000",
+    "location": {
+      "city": "London",
+      "country": "United Kingdom",
+      "region": "Europe"
+    }
+  },
+  {
+    "university": "ETH Zurich - Swiss Federal Institute of Technology",
+    "rank_display": "8",
+    "score": 95.4,
+    "type": "Public",
+    "student_faculty_ratio": 7,
+    "international_students": "7,733",
+    "faculty_count": "2,719",
+    "location": {
+      "city": "Z\u00fcrich",
+      "country": "Switzerland",
+      "region": "Europe"
+    }
+  },
+  {
+    "university": "UCL",
+    "rank_display": "8",
+    "score": 95.4,
+    "type": "Public",
+    "student_faculty_ratio": 5,
+    "international_students": "21,824",
+    "faculty_count": "7,195",
+    "location": {
+      "city": "London",
+      "country": "United Kingdom",
+      "region": "Europe"
+    }
+  },
+  {
+    "university": "University of Chicago",
+    "rank_display": "10",
+    "score": 94.5,
+    "type": "Private",
+    "student_faculty_ratio": 6,
+    "international_students": "4,696",
+    "faculty_count": "2,703",
+    "location": {
+      "city": "Chicago",
+      "country": "United States",
+      "region": "North America"
+    }
+  },
+  {
+    "university": "National University of Singapore (NUS)",
+    "rank_display": "11",
+    "score": 93.9,
+    "type": "Public",
+    "student_faculty_ratio": 7,
+    "international_students": "7,551",
+    "faculty_count": "4,288",
+    "location": {
+      "city": "Singapore",
+      "country": "Singapore",
+      "region": "Asia"
+    }
+  },
+  {
+    "university": "Nanyang Technological University, Singapore (NTU)",
+    "rank_display": "12",
+    "score": 90.8,
+    "type": "Public",
+    "student_faculty_ratio": 6,
+    "international_students": "6,091",
+    "faculty_count": "3,812",
+    "location": {
+      "city": "Singapore",
+      "country": "Singapore",
+      "region": "Asia"
+    }
+  },
+  {
+    "university": "University of Pennsylvania",
+    "rank_display": "13",
+    "score": 90.7,
+    "type": "Private",
+    "student_faculty_ratio": 4,
+    "international_students": "4,636",
+    "faculty_count": "5,154",
+    "location": {
+      "city": "Philadelphia",
+      "country": "United States",
+      "region": "North America"
+    }
+  },
+  {
+    "university": "EPFL",
+    "rank_display": "14",
+    "score": 90.2,
+    "type": "Public",
+    "student_faculty_ratio": 6,
+    "international_students": "6,426",
+    "faculty_count": "1,767",
+    "location": {
+      "city": "Lausanne",
+      "country": "Switzerland",
+      "region": "Europe"
+    }
+  },
+  {
+    "university": "Yale University",
+    "rank_display": "14",
+    "score": 90.2,
+    "type": "Private",
+    "student_faculty_ratio": 2,
+    "international_students": "2,537",
+    "faculty_count": "5,391",
+    "location": {
+      "city": "New Haven",
+      "country": "United States",
+      "region": "North America"
+    }
+  },
+  {
+    "university": "The University of Edinburgh",
+    "rank_display": "16",
+    "score": 89.9,
+    "type": "Public",
+    "student_faculty_ratio": 7,
+    "international_students": "14,637",
+    "faculty_count": "4,832",
+    "location": {
+      "city": "Edinburgh",
+      "country": "United Kingdom",
+      "region": "Europe"
+    }
+  },
+  {
+    "university": "Tsinghua University",
+    "rank_display": "17",
+    "score": 89,
+    "type": "Public",
+    "student_faculty_ratio": 6,
+    "international_students": "5,420",
+    "faculty_count": "6,174",
+    "location": {
+      "city": "Beijing",
+      "country": "China (Mainland)",
+      "region": "Asia"
+    }
+  },
+  {
+    "university": "Peking University",
+    "rank_display": "18",
+    "score": 88.8,
+    "type": "Public",
+    "student_faculty_ratio": 6,
+    "international_students": "5,436",
+    "faculty_count": "5,302",
+    "location": {
+      "city": "Beijing",
+      "country": "China (Mainland)",
+      "region": "Asia"
+    }
+  },
+  {
+    "university": "Columbia University",
+    "rank_display": "19",
+    "score": 88.7,
+    "type": "Private",
+    "student_faculty_ratio": 4,
+    "international_students": "11,252",
+    "faculty_count": "7,087",
+    "location": {
+      "city": "New York City",
+      "country": "United States",
+      "region": "North America"
+    }
+  },
+  {
+    "university": "Princeton University",
+    "rank_display": "20",
+    "score": 88.6,
+    "type": "Private",
+    "student_faculty_ratio": 8,
+    "international_students": "1,912",
+    "faculty_count": "1,050",
+    "location": {
+      "city": "Princeton",
+      "country": "United States",
+      "region": "North America"
+    }
+  },
+  {
+    "university": "Cornell University",
+    "rank_display": "21",
+    "score": 88.3,
+    "type": "Private",
+    "student_faculty_ratio": 8,
+    "international_students": "5,675",
+    "faculty_count": "2,843",
+    "location": {
+      "city": "Ithaca",
+      "country": "United States",
+      "region": "North America"
+    }
+  },
+  {
+    "university": "The University of Hong Kong",
+    "rank_display": "22",
+    "score": 86.3,
+    "type": "Public",
+    "student_faculty_ratio": 7,
+    "international_students": "8,311",
+    "faculty_count": "2,944",
+    "location": {
+      "city": "Hong Kong",
+      "country": "Hong Kong SAR",
+      "region": "Asia"
+    }
+  },
+  {
+    "university": "The University of Tokyo",
+    "rank_display": "23",
+    "score": 86.2,
+    "type": "Public",
+    "student_faculty_ratio": 6,
+    "international_students": "3,983",
+    "faculty_count": "4,473",
+    "location": { "city": "Tokyo", "country": "Japan", "region": "Asia" }
+  },
+  {
+    "university": "University of Michigan-Ann Arbor",
+    "rank_display": "23",
+    "score": 86.2,
+    "type": "Public",
+    "student_faculty_ratio": 6,
+    "international_students": "7,341",
+    "faculty_count": "7,132",
+    "location": {
+      "city": "Ann Arbor",
+      "country": "United States",
+      "region": "North America"
+    }
+  },
+  {
+    "university": "Johns Hopkins University",
+    "rank_display": "25",
+    "score": 85.9,
+    "type": "Private",
+    "student_faculty_ratio": 3,
+    "international_students": "5,070",
+    "faculty_count": "4,855",
+    "location": {
+      "city": "Baltimore",
+      "country": "United States",
+      "region": "North America"
+    }
+  },
+  {
+    "university": "University of Toronto",
+    "rank_display": "26",
+    "score": 85.3,
+    "type": "Public",
+    "student_faculty_ratio": 8,
+    "international_students": "27,536",
+    "faculty_count": "9,881",
+    "location": {
+      "city": "Toronto",
+      "country": "Canada",
+      "region": "North America"
+    }
+  },
+  {
+    "university": "McGill University",
+    "rank_display": "27",
+    "score": 84,
+    "type": "Public",
+    "student_faculty_ratio": 7,
+    "international_students": "10,827",
+    "faculty_count": "3,876",
+    "location": {
+      "city": "Montreal",
+      "country": "Canada",
+      "region": "North America"
+    }
+  },
+  {
+    "university": "The Australian National University",
+    "rank_display": "27",
+    "score": 84,
+    "type": "Public",
+    "student_faculty_ratio": 9,
+    "international_students": "6,496",
+    "faculty_count": "1,763",
+    "location": {
+      "city": "Canberra",
+      "country": "Australia",
+      "region": "Oceania"
+    }
+  },
+  {
+    "university": "The University of Manchester",
+    "rank_display": "27",
+    "score": 84,
+    "type": "Public",
+    "student_faculty_ratio": 8,
+    "international_students": "16,079",
+    "faculty_count": "4,889",
+    "location": {
+      "city": "Manchester",
+      "country": "United Kingdom",
+      "region": "Europe"
+    }
+  },
+  {
+    "university": "Northwestern University",
+    "rank_display": "30",
+    "score": 82.8,
+    "type": "Private",
+    "student_faculty_ratio": 5,
+    "international_students": "3,846",
+    "faculty_count": "3,652",
+    "location": {
+      "city": "Evanston",
+      "country": "United States",
+      "region": "North America"
+    }
+  },
+  {
+    "university": "Fudan University",
+    "rank_display": "31",
+    "score": 82.6,
+    "type": "Public",
+    "student_faculty_ratio": 6,
+    "international_students": "5,322",
+    "faculty_count": "4,526",
+    "location": {
+      "city": "Shanghai",
+      "country": "China (Mainland)",
+      "region": "Asia"
+    }
+  },
+  {
+    "university": "University of California, Berkeley (UCB)",
+    "rank_display": "32",
+    "score": 82.5,
+    "type": "Public",
+    "student_faculty_ratio": 11,
+    "international_students": "9,428",
+    "faculty_count": "3,701",
+    "location": {
+      "city": "Berkeley",
+      "country": "United States",
+      "region": "North America"
+    }
+  },
+  {
+    "university": "Kyoto University",
+    "rank_display": "33",
+    "score": 82.3,
+    "type": "Public",
+    "student_faculty_ratio": 6,
+    "international_students": "2,863",
+    "faculty_count": "3,911",
+    "location": { "city": "Kyoto", "country": "Japan", "region": "Asia" }
+  },
+  {
+    "university": "The Hong Kong University of Science and Technology",
+    "rank_display": "34",
+    "score": 82.2,
+    "type": "Public",
+    "student_faculty_ratio": 8,
+    "international_students": "3,033",
+    "faculty_count": "697",
+    "location": {
+      "city": "Hong Kong",
+      "country": "Hong Kong SAR",
+      "region": "Asia"
+    }
+  },
+  {
+    "university": "King's College London",
+    "rank_display": "35",
+    "score": 82,
+    "type": "Public",
+    "student_faculty_ratio": 7,
+    "international_students": "15,075",
+    "faculty_count": "4,216",
+    "location": {
+      "city": "London",
+      "country": "United Kingdom",
+      "region": "Europe"
+    }
+  },
+  {
+    "university": "Seoul National University",
+    "rank_display": "36",
+    "score": 81.7,
+    "type": "Public",
+    "student_faculty_ratio": 7,
+    "international_students": "1,914",
+    "faculty_count": "3,859",
+    "location": { "city": "Seoul", "country": "South Korea", "region": "Asia" }
+  },
+  {
+    "university": "The University of Melbourne",
+    "rank_display": "37",
+    "score": 81.4,
+    "type": "Public",
+    "student_faculty_ratio": 19,
+    "international_students": "21,406",
+    "faculty_count": "4,835",
+    "location": {
+      "city": "Parkville",
+      "country": "Australia",
+      "region": "Oceania"
+    }
+  },
+  {
+    "university": "The University of Sydney",
+    "rank_display": "38",
+    "score": 80.4,
+    "type": "Public",
+    "student_faculty_ratio": 13,
+    "international_students": "25,940",
+    "faculty_count": "3,571",
+    "location": {
+      "city": "Sydney",
+      "country": "Australia",
+      "region": "Oceania"
+    }
+  },
+  {
+    "university": "The Chinese University of Hong Kong (CUHK)",
+    "rank_display": "39",
+    "score": 80.3,
+    "type": "Public",
+    "student_faculty_ratio": 8,
+    "international_students": "6,062",
+    "faculty_count": "2,201",
+    "location": {
+      "city": "Hong Kong",
+      "country": "Hong Kong SAR",
+      "region": "Asia"
+    }
+  },
+  {
+    "university": "University of California, Los Angeles (UCLA)",
+    "rank_display": "40",
+    "score": 79.7,
+    "type": "Public",
+    "student_faculty_ratio": 10,
+    "international_students": "6,140",
+    "faculty_count": "4,487",
+    "location": {
+      "city": "Los Angeles",
+      "country": "United States",
+      "region": "North America"
+    }
+  },
+  {
+    "university": "KAIST - Korea Advanced Institute of Science & Technology",
+    "rank_display": "41",
+    "score": 79.1,
+    "type": "Public",
+    "student_faculty_ratio": 8,
+    "international_students": "869",
+    "faculty_count": "1,307",
+    "location": {
+      "city": "Daejeon",
+      "country": "South Korea",
+      "region": "Asia"
+    }
+  },
+  {
+    "university": "New York University (NYU)",
+    "rank_display": "42",
+    "score": 78.9,
+    "type": "Private",
+    "student_faculty_ratio": 6,
+    "international_students": "16,218",
+    "faculty_count": "7,874",
+    "location": {
+      "city": "New York City",
+      "country": "United States",
+      "region": "North America"
+    }
+  },
+  {
+    "university": "The University of New South Wales (UNSW Sydney)",
+    "rank_display": "43",
+    "score": 77.7,
+    "type": "Public",
+    "student_faculty_ratio": 14,
+    "international_students": "21,603",
+    "faculty_count": "3,219",
+    "location": {
+      "city": "Sydney",
+      "country": "Australia",
+      "region": "Oceania"
+    }
+  },
+  {
+    "university": "Universit\u00e9 PSL",
+    "rank_display": "44",
+    "score": 77.6,
+    "type": "Public",
+    "student_faculty_ratio": 5,
+    "international_students": "4,922",
+    "faculty_count": "3,914",
+    "location": { "city": "", "country": "France", "region": "Europe" }
+  },
+  {
+    "university": "Zhejiang University",
+    "rank_display": "45",
+    "score": 77.4,
+    "type": "Public",
+    "student_faculty_ratio": 7,
+    "international_students": "9,177",
+    "faculty_count": "6,065",
+    "location": {
+      "city": "Hangzhou",
+      "country": "China (Mainland)",
+      "region": "Asia"
+    }
+  },
+  {
+    "university": "University of British Columbia",
+    "rank_display": "46",
+    "score": 77.1,
+    "type": "Public",
+    "student_faculty_ratio": 9,
+    "international_students": "15,399",
+    "faculty_count": "6,201",
+    "location": {
+      "city": "Vancouver",
+      "country": "Canada",
+      "region": "North America"
+    }
+  },
+  {
+    "university": "The University of Queensland",
+    "rank_display": "47",
+    "score": 76.6,
+    "type": "Public",
+    "student_faculty_ratio": 12,
+    "international_students": "22,241",
+    "faculty_count": "3,513",
+    "location": {
+      "city": "Brisbane City",
+      "country": "Australia",
+      "region": "Oceania"
+    }
+  },
+  {
+    "university": "University of California, San Diego (UCSD)",
+    "rank_display": "48",
+    "score": 76.1,
+    "type": "Public",
+    "student_faculty_ratio": 8,
+    "international_students": "8,567",
+    "faculty_count": "4,545",
+    "location": {
+      "city": "San Diego",
+      "country": "United States",
+      "region": "North America"
+    }
+  },
+  {
+    "university": "Institut Polytechnique de Paris",
+    "rank_display": "49",
+    "score": 75.9,
+    "type": "Public",
+    "student_faculty_ratio": 6,
+    "international_students": "2,413",
+    "faculty_count": "1,057",
+    "location": {
+      "city": "Palaiseau Cedex",
+      "country": "France",
+      "region": "Europe"
+    }
+  },
+  {
+    "university": "The London School of Economics and Political Science (LSE)",
+    "rank_display": "49",
+    "score": 75.8,
+    "type": "Public",
+    "student_faculty_ratio": 10,
+    "international_students": "8,274",
+    "faculty_count": "1,172",
+    "location": {
+      "city": "London",
+      "country": "United Kingdom",
+      "region": "Europe"
+    }
+  },
+  {
+    "university": "Shanghai Jiao Tong University",
+    "rank_display": "50",
+    "score": 75.6,
+    "type": "Public",
+    "student_faculty_ratio": 9,
+    "international_students": "6,371",
+    "faculty_count": "4,386",
+    "location": {
+      "city": "Shanghai",
+      "country": "China (Mainland)",
+      "region": "Asia"
+    }
+  },
+  {
+    "university": "Technical University of Munich",
+    "rank_display": "50",
+    "score": 75.6,
+    "type": "Public",
+    "student_faculty_ratio": 5,
+    "international_students": "11,447",
+    "faculty_count": "6,663",
+    "location": { "city": "Munich", "country": "Germany", "region": "Europe" }
+  },
+  {
+    "university": "Duke University",
+    "rank_display": "52",
+    "score": 75.2,
+    "type": "Private",
+    "student_faculty_ratio": 3,
+    "international_students": "3,445",
+    "faculty_count": "5,673",
+    "location": {
+      "city": "Durham",
+      "country": "United States",
+      "region": "North America"
+    }
+  },
+  {
+    "university": "Carnegie Mellon University",
+    "rank_display": "53",
+    "score": 74.6,
+    "type": "Private",
+    "student_faculty_ratio": 9,
+    "international_students": "5,739",
+    "faculty_count": "1,534",
+    "location": {
+      "city": "Pittsburgh",
+      "country": "United States",
+      "region": "North America"
+    }
+  },
+  {
+    "university": "City University of Hong Kong",
+    "rank_display": "53",
+    "score": 74.6,
+    "type": "Public",
+    "student_faculty_ratio": 6,
+    "international_students": "5,331",
+    "faculty_count": "1,483",
+    "location": {
+      "city": "Hong Kong",
+      "country": "Hong Kong SAR",
+      "region": "Asia"
+    }
+  },
+  {
+    "university": "University of Amsterdam",
+    "rank_display": "55",
+    "score": 73.8,
+    "type": "Public",
+    "student_faculty_ratio": 11,
+    "international_students": "7,969",
+    "faculty_count": "6,000",
+    "location": {
+      "city": "Amsterdam",
+      "country": "Netherlands",
+      "region": "Europe"
+    }
+  },
+  {
+    "university": "Tokyo Institute of Technology (Tokyo Tech)",
+    "rank_display": "56",
+    "score": 73.5,
+    "type": "Public",
+    "student_faculty_ratio": 7,
+    "international_students": "1,622",
+    "faculty_count": "1,492",
+    "location": { "city": "Tokyo", "country": "Japan", "region": "Asia" }
+  },
+  {
+    "university": "Delft University of Technology",
+    "rank_display": "57",
+    "score": 73.1,
+    "type": "Public",
+    "student_faculty_ratio": 10,
+    "international_students": "6,104",
+    "faculty_count": "2,041",
+    "location": {
+      "city": "Delft",
+      "country": "Netherlands",
+      "region": "Europe"
+    }
+  },
+  {
+    "university": "Monash University",
+    "rank_display": "58",
+    "score": 72.2,
+    "type": "Public",
+    "student_faculty_ratio": 15,
+    "international_students": "31,049",
+    "faculty_count": "3,852",
+    "location": {
+      "city": "Melbourne",
+      "country": "Australia",
+      "region": "Oceania"
+    }
+  },
+  {
+    "university": "Brown University",
+    "rank_display": "60",
+    "score": 71.3,
+    "type": "Private",
+    "student_faculty_ratio": 7,
+    "international_students": "2,002",
+    "faculty_count": "1,389",
+    "location": {
+      "city": "Providence",
+      "country": "United States",
+      "region": "North America"
+    }
+  },
+  {
+    "university": "The University of Warwick",
+    "rank_display": "61",
+    "score": 71.2,
+    "type": "Public",
+    "student_faculty_ratio": 9,
+    "international_students": "10,459",
+    "faculty_count": "2,634",
+    "location": {
+      "city": "Coventry",
+      "country": "United Kingdom",
+      "region": "Europe"
+    }
+  },
+  {
+    "university": "University of Bristol",
+    "rank_display": "62",
+    "score": 71,
+    "type": "Public",
+    "student_faculty_ratio": 8,
+    "international_students": "7,483",
+    "faculty_count": "20,311",
+    "location": {
+      "city": "Bristol",
+      "country": "United Kingdom",
+      "region": "Europe"
+    }
+  },
+  {
+    "university": "Ruprecht-Karls-Universit\u00e4t Heidelberg",
+    "rank_display": "63",
+    "score": 70.8,
+    "type": "Public",
+    "student_faculty_ratio": 5,
+    "international_students": "4,048",
+    "faculty_count": "4,100",
+    "location": {
+      "city": "Heidelberg",
+      "country": "Germany",
+      "region": "Europe"
+    }
+  },
+  {
+    "university": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen",
+    "rank_display": "64",
+    "score": 70.1,
+    "type": "Public",
+    "student_faculty_ratio": 9,
+    "international_students": "5,958",
+    "faculty_count": "3,914",
+    "location": { "city": "Munich", "country": "Germany", "region": "Europe" }
+  },
+  {
+    "university": "Universiti Malaya (UM)",
+    "rank_display": "65",
+    "score": 69.8,
+    "type": "Public",
+    "student_faculty_ratio": 8,
+    "international_students": "3,340",
+    "faculty_count": "2,386",
+    "location": {
+      "city": "Kuala Lumpur",
+      "country": "Malaysia",
+      "region": "Asia"
+    }
+  },
+  {
+    "university": "The Hong Kong Polytechnic University",
+    "rank_display": "66",
+    "score": 69.1,
+    "type": "Public",
+    "student_faculty_ratio": 7,
+    "international_students": "5,774",
+    "faculty_count": "2,822",
+    "location": {
+      "city": "Hong Kong",
+      "country": "Hong Kong SAR",
+      "region": "Asia"
+    }
+  },
+  {
+    "university": "University of Texas at Austin",
+    "rank_display": "67",
+    "score": 68.4,
+    "type": "Public",
+    "student_faculty_ratio": 17,
+    "international_students": "4,953",
+    "faculty_count": "2,887",
+    "location": {
+      "city": "Austin",
+      "country": "United States",
+      "region": "North America"
+    }
+  },
+  {
+    "university": "National Taiwan University (NTU)",
+    "rank_display": "68",
+    "score": 68.2,
+    "type": "Public",
+    "student_faculty_ratio": 10,
+    "international_students": "5,058",
+    "faculty_count": "2,939",
+    "location": { "city": "Taipei City", "country": "Taiwan", "region": "Asia" }
+  },
+  {
+    "university": "Universidad de Buenos Aires (UBA)",
+    "rank_display": "69",
+    "score": 67.9,
+    "type": "Public",
+    "student_faculty_ratio": 7,
+    "international_students": "29,516",
+    "faculty_count": "16,103",
+    "location": {
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "region": "Latin America"
+    }
+  },
+  {
+    "university": "KU Leuven",
+    "rank_display": "70",
+    "score": 67.2,
+    "type": "Public",
+    "student_faculty_ratio": 18,
+    "international_students": "8,485",
+    "faculty_count": "2,677",
+    "location": { "city": "Leuven", "country": "Belgium", "region": "Europe" }
+  },
+  {
+    "university": "University of Zurich",
+    "rank_display": "70",
+    "score": 67.2,
+    "type": "Public",
+    "student_faculty_ratio": 6,
+    "international_students": "5,044",
+    "faculty_count": "3,761",
+    "location": {
+      "city": "Z\u00fcrich",
+      "country": "Switzerland",
+      "region": "Europe"
+    }
+  },
+  {
+    "university": "Sorbonne University",
+    "rank_display": "72",
+    "score": 67.1,
+    "type": "Public",
+    "student_faculty_ratio": 9,
+    "international_students": "8,782",
+    "faculty_count": "4,680",
+    "location": { "city": "", "country": "France", "region": "Europe" }
+  },
+  {
+    "university": "University of Glasgow",
+    "rank_display": "73",
+    "score": 66.8,
+    "type": "Public",
+    "student_faculty_ratio": 9,
+    "international_students": "11,065",
+    "faculty_count": "3,314",
+    "location": {
+      "city": "Glasgow",
+      "country": "United Kingdom",
+      "region": "Europe"
+    }
+  },
+  {
+    "university": "Korea University",
+    "rank_display": "74",
+    "score": 66.3,
+    "type": "Private",
+    "student_faculty_ratio": 6,
+    "international_students": "3,325",
+    "faculty_count": "4,026",
+    "location": { "city": "Seoul", "country": "South Korea", "region": "Asia" }
+  },
+  {
+    "university": "Osaka University",
+    "rank_display": "75",
+    "score": 66.2,
+    "type": "Public",
+    "student_faculty_ratio": 7,
+    "international_students": "2,268",
+    "faculty_count": "3,127",
+    "location": { "city": "Osaka City", "country": "Japan", "region": "Asia" }
+  },
+  {
+    "university": "University of Wisconsin-Madison",
+    "rank_display": "75",
+    "score": 66.2,
+    "type": "Public",
+    "student_faculty_ratio": 8,
+    "international_students": "5,737",
+    "faculty_count": "5,166",
+    "location": {
+      "city": "Madison",
+      "country": "United States",
+      "region": "North America"
+    }
+  },
+  {
+    "university": "University of Southampton",
+    "rank_display": "77",
+    "score": 65.7,
+    "type": "Public",
+    "student_faculty_ratio": 9,
+    "international_students": "8,417",
+    "faculty_count": "2,468",
+    "location": {
+      "city": "Southampton",
+      "country": "United Kingdom",
+      "region": "Europe"
+    }
+  },
+  {
+    "university": "Lomonosov Moscow State University",
+    "rank_display": "78",
+    "score": 65.6,
+    "type": "Public",
+    "student_faculty_ratio": 5,
+    "international_students": "5,476",
+    "faculty_count": "6,575",
+    "location": { "city": "Moscow", "country": "Russia", "region": "Europe" }
+  },
+  {
+    "university": "University of Copenhagen",
+    "rank_display": "79",
+    "score": 65.5,
+    "type": "Public",
+    "student_faculty_ratio": 4,
+    "international_students": "4,135",
+    "faculty_count": "7,293",
+    "location": {
+      "city": "Copenhagen",
+      "country": "Denmark",
+      "region": "Europe"
+    }
+  },
+  {
+    "university": "Yonsei University",
+    "rank_display": "79",
+    "score": 65.5,
+    "type": "Private",
+    "student_faculty_ratio": 6,
+    "international_students": "4,274",
+    "faculty_count": "3,605",
+    "location": { "city": "Seoul", "country": "South Korea", "region": "Asia" }
+  },
+  {
+    "university": "Pohang University of Science And Technology (POSTECH)",
+    "rank_display": "81",
+    "score": 65.4,
+    "type": "Private",
+    "student_faculty_ratio": 4,
+    "international_students": "87",
+    "faculty_count": "743",
+    "location": {
+      "city": "Pohang ",
+      "country": "South Korea",
+      "region": "Asia"
+    }
+  },
+  {
+    "university": "Durham University",
+    "rank_display": "82",
+    "score": 65.2,
+    "type": "Public",
+    "student_faculty_ratio": 11,
+    "international_students": "6,174",
+    "faculty_count": "1,775",
+    "location": {
+      "city": "Durham",
+      "country": "United Kingdom",
+      "region": "Europe"
+    }
+  },
+  {
+    "university": "Tohoku University",
+    "rank_display": "82",
+    "score": 65.2,
+    "type": "Public",
+    "student_faculty_ratio": 5,
+    "international_students": "1,872",
+    "faculty_count": "3,323",
+    "location": { "city": "Sendai City", "country": "Japan", "region": "Asia" }
+  },
+  {
+    "university": "University of Illinois at Urbana-Champaign",
+    "rank_display": "82",
+    "score": 65.2,
+    "type": "Public",
+    "student_faculty_ratio": 17,
+    "international_students": "9,987",
+    "faculty_count": "2,748",
+    "location": {
+      "city": "Champaign",
+      "country": "United States",
+      "region": "North America"
+    }
+  },
+  {
+    "university": "The University of Auckland",
+    "rank_display": "85",
+    "score": 65,
+    "type": "Public",
+    "student_faculty_ratio": 12,
+    "international_students": "9,924",
+    "faculty_count": "2,316",
+    "location": {
+      "city": "Auckland",
+      "country": "New Zealand",
+      "region": "Oceania"
+    }
+  },
+  {
+    "university": "University of Washington",
+    "rank_display": "85",
+    "score": 65,
+    "type": "Public",
+    "student_faculty_ratio": 15,
+    "international_students": "7,362",
+    "faculty_count": "2,796",
+    "location": {
+      "city": "Seattle",
+      "country": "United States",
+      "region": "North America"
+    }
+  },
+  {
+    "university": "Universit\u00e9 Paris-Saclay",
+    "rank_display": "86",
+    "score": 64.9,
+    "type": "Public",
+    "student_faculty_ratio": 5,
+    "international_students": "7,649",
+    "faculty_count": "8,010",
+    "location": { "city": "", "country": "France", "region": "Europe" }
+  },
+  {
+    "university": "Lund University",
+    "rank_display": "87",
+    "score": 63.8,
+    "type": "Public",
+    "student_faculty_ratio": 9,
+    "international_students": "6,682",
+    "faculty_count": "3,040",
+    "location": { "city": "Lund", "country": "Sweden", "region": "Europe" }
+  },
+  {
+    "university": "Georgia Institute of Technology",
+    "rank_display": "88",
+    "score": 63.5,
+    "type": "Public",
+    "student_faculty_ratio": 19,
+    "international_students": "5,675",
+    "faculty_count": "1,267",
+    "location": {
+      "city": "Atlanta",
+      "country": "United States",
+      "region": "North America"
+    }
+  },
+  {
+    "university": "KTH Royal Institute of Technology ",
+    "rank_display": "89",
+    "score": 63.2,
+    "type": "Public",
+    "student_faculty_ratio": 8,
+    "international_students": "3,057",
+    "faculty_count": "3,600",
+    "location": { "city": "Stockholm", "country": "Sweden", "region": "Europe" }
+  },
+  {
+    "university": "University of Birmingham",
+    "rank_display": "90",
+    "score": 62.9,
+    "type": "Public",
+    "student_faculty_ratio": 9,
+    "international_students": "10,457",
+    "faculty_count": "3,586",
+    "location": {
+      "city": "Birmingham",
+      "country": "United Kingdom",
+      "region": "Europe"
+    }
+  },
+  {
+    "university": "University of St Andrews",
+    "rank_display": "91",
+    "score": 62.8,
+    "type": "Public",
+    "student_faculty_ratio": 8,
+    "international_students": "4,377",
+    "faculty_count": "1,208",
+    "location": {
+      "city": "St. Andrews",
+      "country": "United Kingdom",
+      "region": "Europe"
+    }
+  },
+  {
+    "university": "University of Leeds",
+    "rank_display": "92",
+    "score": 62.6,
+    "type": "Public",
+    "student_faculty_ratio": 10,
+    "international_students": "11,584",
+    "faculty_count": "3,593",
+    "location": {
+      "city": "Leeds",
+      "country": "United Kingdom",
+      "region": "Europe"
+    }
+  },
+  {
+    "university": "The University of Western Australia",
+    "rank_display": "93",
+    "score": 62.5,
+    "type": "Public",
+    "student_faculty_ratio": 12,
+    "international_students": "9,017",
+    "faculty_count": "1,539",
+    "location": { "city": "Perth", "country": "Australia", "region": "Oceania" }
+  },
+  {
+    "university": "Rice University",
+    "rank_display": "94",
+    "score": 62.3,
+    "type": "Private",
+    "student_faculty_ratio": 7,
+    "international_students": "2,278",
+    "faculty_count": "996",
+    "location": {
+      "city": "Houston",
+      "country": "United States",
+      "region": "North America"
+    }
+  },
+  {
+    "university": "The University of Sheffield",
+    "rank_display": "95",
+    "score": 61.6,
+    "type": "Public",
+    "student_faculty_ratio": 8,
+    "international_students": "11,090",
+    "faculty_count": "3,463",
+    "location": {
+      "city": "Sheffield",
+      "country": "United Kingdom",
+      "region": "Europe"
+    }
+  },
+  {
+    "university": "Pennsylvania State University",
+    "rank_display": "96",
+    "score": 61.5,
+    "type": "Public",
+    "student_faculty_ratio": 11,
+    "international_students": "6,943",
+    "faculty_count": "4,207",
+    "location": {
+      "city": "University Park",
+      "country": "United States",
+      "region": "North America"
+    }
+  },
+  {
+    "university": "Sungkyunkwan University (SKKU)",
+    "rank_display": "97",
+    "score": 60.5,
+    "type": "Private",
+    "student_faculty_ratio": 7,
+    "international_students": "3,821",
+    "faculty_count": "3,313",
+    "location": { "city": "Suwon", "country": "South Korea", "region": "Asia" }
+  },
+  {
+    "university": "University of Science and Technology of China",
+    "rank_display": "98",
+    "score": 60.1,
+    "type": "Public",
+    "student_faculty_ratio": 7,
+    "international_students": "1,019",
+    "faculty_count": "2,708",
+    "location": {
+      "city": "Hefei",
+      "country": "China (Mainland)",
+      "region": "Asia"
+    }
+  },
+  {
+    "university": "Technical University of Denmark",
+    "rank_display": "99",
+    "score": 59.9,
+    "type": "Public",
+    "student_faculty_ratio": 4,
+    "international_students": "2,495",
+    "faculty_count": "2,219",
+    "location": {
+      "city": "Kongens Lyngby",
+      "country": "Denmark",
+      "region": "Europe"
+    }
+  },
+  {
+    "university": "University of North Carolina, Chapel Hill",
+    "rank_display": "100",
+    "score": 59.6,
+    "type": "Public",
+    "student_faculty_ratio": 7,
+    "international_students": "2,749",
+    "faculty_count": "4,646",
+    "location": {
+      "city": "Chapel Hill",
+      "country": "United States",
+      "region": "North America"
+    }
+  },
+  {
+    "university": "Trinity College Dublin, The University of Dublin",
+    "rank_display": "101",
+    "score": 59.5,
+    "type": "Public",
+    "student_faculty_ratio": 12,
+    "international_students": "5,593",
+    "faculty_count": "1,383",
+    "location": { "city": "Dublin", "country": "Ireland", "region": "Europe" }
+  },
+  {
+    "university": "University of Oslo",
+    "rank_display": "102",
+    "score": 59,
+    "type": "Public",
+    "student_faculty_ratio": 7,
+    "international_students": "2,560",
+    "faculty_count": "2,600",
+    "location": { "city": "Oslo", "country": "Norway", "region": "Europe" }
+  },
+  {
+    "university": "University of Nottingham",
+    "rank_display": "103",
+    "score": 58.9,
+    "type": "Public",
+    "student_faculty_ratio": 10,
+    "international_students": "9,659",
+    "faculty_count": "3,386",
+    "location": {
+      "city": "Nottingham",
+      "country": "United Kingdom",
+      "region": "Europe"
+    }
+  },
+  {
+    "university": "University of Helsinki",
+    "rank_display": "104",
+    "score": 58.5,
+    "type": "Public",
+    "student_faculty_ratio": 8,
+    "international_students": "1,254",
+    "faculty_count": "2,855",
+    "location": { "city": "Helsinki", "country": "Finland", "region": "Europe" }
+  },
+  {
+    "university": "Universidad Nacional Aut\u00f3noma de M\u00e9xico  (UNAM)",
+    "rank_display": "105",
+    "score": 58.3,
+    "type": "Public",
+    "student_faculty_ratio": 9,
+    "international_students": "5,110",
+    "faculty_count": "16,381",
+    "location": {
+      "city": "Mexico City",
+      "country": "Mexico",
+      "region": "Latin America"
+    }
+  },
+  {
+    "university": "University of Geneva",
+    "rank_display": "105",
+    "score": 58.3,
+    "type": "Public",
+    "student_faculty_ratio": 9,
+    "international_students": "6,547",
+    "faculty_count": "1,814",
+    "location": {
+      "city": "Geneva",
+      "country": "Switzerland",
+      "region": "Europe"
+    }
+  },
+  {
+    "university": "Washington University in St. Louis",
+    "rank_display": "107",
+    "score": 58,
+    "type": "Private",
+    "student_faculty_ratio": 5,
+    "international_students": "3,535",
+    "faculty_count": "3,193",
+    "location": {
+      "city": "St. Louis",
+      "country": "United States",
+      "region": "North America"
+    }
+  },
+  {
+    "university": "The University of Adelaide",
+    "rank_display": "108",
+    "score": 57.9,
+    "type": "Public",
+    "student_faculty_ratio": 13,
+    "international_students": "10,107",
+    "faculty_count": "1,757",
+    "location": {
+      "city": "Adelaide",
+      "country": "Australia",
+      "region": "Oceania"
+    }
+  },
+  {
+    "university": "University of California, Davis",
+    "rank_display": "108",
+    "score": 57.9,
+    "type": "Public",
+    "student_faculty_ratio": 10,
+    "international_students": "8,414",
+    "faculty_count": "3,420",
+    "location": {
+      "city": "Davis",
+      "country": "United States",
+      "region": "North America"
+    }
+  },
+  {
+    "university": "King Abdulaziz University (KAU)",
+    "rank_display": "109",
+    "score": 57.7,
+    "type": "Public",
+    "student_faculty_ratio": 8,
+    "international_students": "6,821",
+    "faculty_count": "4,054",
+    "location": {
+      "city": "Jeddah",
+      "country": "Saudi Arabia",
+      "region": "Asia"
+    }
+  },
+  {
+    "university": "Utrecht University",
+    "rank_display": "110",
+    "score": 57.5,
+    "type": "Public",
+    "student_faculty_ratio": 10,
+    "international_students": "4,454",
+    "faculty_count": "3,254",
+    "location": {
+      "city": "Utrecht",
+      "country": "Netherlands",
+      "region": "Europe"
+    }
+  },
+  {
+    "university": "Universit\u00e9 de Montr\u00e9al ",
+    "rank_display": "111",
+    "score": 57.3,
+    "type": "Public",
+    "student_faculty_ratio": 7,
+    "international_students": "7,625",
+    "faculty_count": "5,533",
+    "location": {
+      "city": "Montreal",
+      "country": "Canada",
+      "region": "North America"
+    }
+  },
+  {
+    "university": "Aalto University",
+    "rank_display": "112",
+    "score": 57,
+    "type": "Public",
+    "student_faculty_ratio": 9,
+    "international_students": "2,202",
+    "faculty_count": "1,396",
+    "location": { "city": "Espoo", "country": "Finland", "region": "Europe" }
+  },
+  {
+    "university": "Boston University",
+    "rank_display": "112",
+    "score": 57,
+    "type": "Private",
+    "student_faculty_ratio": 10,
+    "international_students": "8,159",
+    "faculty_count": "2,642",
+    "location": {
+      "city": "Boston",
+      "country": "United States",
+      "region": "North America"
+    }
+  },
+  {
+    "university": "Leiden University",
+    "rank_display": "112",
+    "score": 57,
+    "type": "Public",
+    "student_faculty_ratio": 12,
+    "international_students": "6,064",
+    "faculty_count": "2,069",
+    "location": {
+      "city": "Leiden",
+      "country": "Netherlands",
+      "region": "Europe"
+    }
+  },
+  {
+    "university": "University of Southern California",
+    "rank_display": "112",
+    "score": 57,
+    "type": "Private",
+    "student_faculty_ratio": 10,
+    "international_students": "9,107",
+    "faculty_count": "3,116",
+    "location": {
+      "city": "Los Angeles",
+      "country": "United States",
+      "region": "North America"
+    }
+  },
+  {
+    "university": "Purdue University",
+    "rank_display": "116",
+    "score": 56.9,
+    "type": "Public",
+    "student_faculty_ratio": 15,
+    "international_students": "8,034",
+    "faculty_count": "2,622",
+    "location": {
+      "city": "West Lafayette",
+      "country": "United States",
+      "region": "North America"
+    }
+  },
+  {
+    "university": "Queen Mary University of London",
+    "rank_display": "117",
+    "score": 56.7,
+    "type": "Public",
+    "student_faculty_ratio": 9,
+    "international_students": "8,625",
+    "faculty_count": "2,119",
+    "location": {
+      "city": "London",
+      "country": "United Kingdom",
+      "region": "Europe"
+    }
+  },
+  {
+    "university": "Nagoya University",
+    "rank_display": "118",
+    "score": 56.2,
+    "type": "Public",
+    "student_faculty_ratio": 6,
+    "international_students": "1,879",
+    "faculty_count": "2,512",
+    "location": { "city": "Nagoya", "country": "Japan", "region": "Asia" }
+  },
+  {
+    "university": "University of Bern",
+    "rank_display": "119",
+    "score": 56.1,
+    "type": "Public",
+    "student_faculty_ratio": 8,
+    "international_students": "1,776",
+    "faculty_count": "1,212",
+    "location": { "city": "Bern", "country": "Switzerland", "region": "Europe" }
+  },
+  {
+    "university": "The Ohio State University",
+    "rank_display": "120",
+    "score": 56,
+    "type": "Public",
+    "student_faculty_ratio": 9,
+    "international_students": "7,029",
+    "faculty_count": "6,388",
+    "location": {
+      "city": "Columbus",
+      "country": "United States",
+      "region": "North America"
+    }
+  },
+  {
+    "university": "Chalmers University of Technology",
+    "rank_display": "121",
+    "score": 55.9,
+    "type": "Private",
+    "student_faculty_ratio": 8,
+    "international_students": "2,502",
+    "faculty_count": "2,500",
+    "location": {
+      "city": "Gothenburg",
+      "country": "Sweden",
+      "region": "Europe"
+    }
+  },
+  {
+    "university": "Universidade de S\u00e3o Paulo",
+    "rank_display": "121",
+    "score": 55.9,
+    "type": "Public",
+    "student_faculty_ratio": 13,
+    "international_students": "1,858",
+    "faculty_count": "4,943",
+    "location": {
+      "city": "S\u00e3o Paulo",
+      "country": "Brazil",
+      "region": "Latin America"
+    }
+  },
+  {
+    "university": "Wageningen University & Research",
+    "rank_display": "123",
+    "score": 55.8,
+    "type": "Public",
+    "student_faculty_ratio": 5,
+    "international_students": "4,131",
+    "faculty_count": "2,767",
+    "location": {
+      "city": "Wageningen",
+      "country": "Netherlands",
+      "region": "Europe"
+    }
+  },
+  {
+    "university": "Uppsala University",
+    "rank_display": "124",
+    "score": 55.4,
+    "type": "Public",
+    "student_faculty_ratio": 10,
+    "international_students": "8,401",
+    "faculty_count": "2,843",
+    "location": { "city": "Uppsala", "country": "Sweden", "region": "Europe" }
+  },
+  {
+    "university": "Eindhoven University of Technology",
+    "rank_display": "125",
+    "score": 55.3,
+    "type": "Public",
+    "student_faculty_ratio": 9,
+    "international_students": "1,872",
+    "faculty_count": "1,145",
+    "location": {
+      "city": "Eindhoven",
+      "country": "Netherlands",
+      "region": "Europe"
+    }
+  },
+  {
+    "university": "University of Alberta",
+    "rank_display": "126",
+    "score": 55.2,
+    "type": "Public",
+    "student_faculty_ratio": 9,
+    "international_students": "9,689",
+    "faculty_count": "3,645",
+    "location": {
+      "city": "Edmonton",
+      "country": "Canada",
+      "region": "North America"
+    }
+  },
+  {
+    "university": "Freie Universitaet Berlin",
+    "rank_display": "127",
+    "score": 54.9,
+    "type": "Public",
+    "student_faculty_ratio": 25,
+    "international_students": "6,659",
+    "faculty_count": "1,389",
+    "location": { "city": "Berlin", "country": "Germany", "region": "Europe" }
+  },
+  {
+    "university": "Humboldt-Universit\u00e4t zu Berlin",
+    "rank_display": "128",
+    "score": 54.8,
+    "type": "Public",
+    "student_faculty_ratio": 17,
+    "international_students": "5,239",
+    "faculty_count": "1,967",
+    "location": { "city": "Berlin", "country": "Germany", "region": "Europe" }
+  },
+  {
+    "university": "University of Groningen",
+    "rank_display": "128",
+    "score": 54.8,
+    "type": "Public",
+    "student_faculty_ratio": 8,
+    "international_students": "9,397",
+    "faculty_count": "3,724",
+    "location": {
+      "city": "Groningen",
+      "country": "Netherlands",
+      "region": "Europe"
+    }
+  },
+  {
+    "university": "\u00c9cole Normale Sup\u00e9rieure de Lyon",
+    "rank_display": "130",
+    "score": 54.6,
+    "type": "Public",
+    "student_faculty_ratio": 5,
+    "international_students": "233",
+    "faculty_count": "387",
+    "location": { "city": "Lyon", "country": "France", "region": "Europe" }
+  },
+  {
+    "university": "Nanjing University",
+    "rank_display": "131",
+    "score": 54.2,
+    "type": "Public",
+    "student_faculty_ratio": 11,
+    "international_students": "2,513",
+    "faculty_count": "3,040",
+    "location": {
+      "city": "Nanjing",
+      "country": "China (Mainland)",
+      "region": "Asia"
+    }
+  },
+  {
+    "university": "Lancaster University",
+    "rank_display": "132",
+    "score": 54,
+    "type": "Public",
+    "student_faculty_ratio": 10,
+    "international_students": "5,557",
+    "faculty_count": "1,440",
+    "location": {
+      "city": "Lancaster",
+      "country": "United Kingdom",
+      "region": "Europe"
+    }
+  },
+  {
+    "university": "University of Technology Sydney",
+    "rank_display": "133",
+    "score": 53.9,
+    "type": "Public",
+    "student_faculty_ratio": 16,
+    "international_students": "8,653",
+    "faculty_count": "2,183",
+    "location": {
+      "city": "Haymarket",
+      "country": "Australia",
+      "region": "Oceania"
+    }
+  },
+  {
+    "university": "Newcastle University",
+    "rank_display": "134",
+    "score": 53.8,
+    "type": "Public",
+    "student_faculty_ratio": 10,
+    "international_students": "8,100",
+    "faculty_count": "2,766",
+    "location": {
+      "city": "Newcastle upon Tyne",
+      "country": "United Kingdom",
+      "region": "Europe"
+    }
+  },
+  {
+    "university": "Pontificia Universidad Cat\u00f3lica de Chile (UC)",
+    "rank_display": "135",
+    "score": 53.6,
+    "type": "Private",
+    "student_faculty_ratio": 12,
+    "international_students": "1,072",
+    "faculty_count": "2,343",
+    "location": {
+      "city": "Santiago",
+      "country": "Chile",
+      "region": "Latin America"
+    }
+  },
+  {
+    "university": "KIT, Karlsruhe Institute of Technology",
+    "rank_display": "136",
+    "score": 53.4,
+    "type": "Public",
+    "student_faculty_ratio": 10,
+    "international_students": "5,030",
+    "faculty_count": "2,080",
+    "location": {
+      "city": "Karlsruhe",
+      "country": "Germany",
+      "region": "Europe"
+    }
+  },
+  {
+    "university": "Kyushu University",
+    "rank_display": "137",
+    "score": 53.3,
+    "type": "Public",
+    "student_faculty_ratio": 7,
+    "international_students": "2,125",
+    "faculty_count": "2,761",
+    "location": { "city": "Fukuoka City", "country": "Japan", "region": "Asia" }
+  },
+  {
+    "university": "University of Basel",
+    "rank_display": "138",
+    "score": 53,
+    "type": "Public",
+    "student_faculty_ratio": 9,
+    "international_students": "2,875",
+    "faculty_count": "1,036",
+    "location": {
+      "city": "Basel",
+      "country": "Switzerland",
+      "region": "Europe"
+    }
+  },
+  {
+    "university": "McMaster University",
+    "rank_display": "140",
+    "score": 52.7,
+    "type": "Public",
+    "student_faculty_ratio": 7,
+    "international_students": "5,386",
+    "faculty_count": "3,819",
+    "location": {
+      "city": "Hamilton",
+      "country": "Canada",
+      "region": "North America"
+    }
+  },
+  {
+    "university": "Ghent University",
+    "rank_display": "141",
+    "score": 52.6,
+    "type": "Public",
+    "student_faculty_ratio": 7,
+    "international_students": "4,609",
+    "faculty_count": "5,537",
+    "location": { "city": "Ghent", "country": "Belgium", "region": "Europe" }
+  },
+  {
+    "university": "Politecnico di Milano",
+    "rank_display": "142",
+    "score": 52.5,
+    "type": "Public",
+    "student_faculty_ratio": 21,
+    "international_students": "7,452",
+    "faculty_count": "1,659",
+    "location": { "city": "Milan", "country": "Italy", "region": "Europe" }
+  },
+  {
+    "university": "Universiti Putra Malaysia (UPM)",
+    "rank_display": "143",
+    "score": 52.2,
+    "type": "Public",
+    "student_faculty_ratio": 8,
+    "international_students": "5,040",
+    "faculty_count": "2,174",
+    "location": {
+      "city": "Seri Kembangan",
+      "country": "Malaysia",
+      "region": "Asia"
+    }
+  },
+  {
+    "university": "Universiti Kebangsaan Malaysia (UKM)",
+    "rank_display": "144",
+    "score": 52,
+    "type": "Public",
+    "student_faculty_ratio": 6,
+    "international_students": "2,410",
+    "faculty_count": "2,829",
+    "location": { "city": "Bangi", "country": "Malaysia", "region": "Asia" }
+  },
+  {
+    "university": "Hokkaido University",
+    "rank_display": "145",
+    "score": 51.4,
+    "type": "Public",
+    "student_faculty_ratio": 7,
+    "international_students": "1,984",
+    "faculty_count": "2,476",
+    "location": { "city": "Sapporo", "country": "Japan", "region": "Asia" }
+  },
+  {
+    "university": "University of California, Santa Barbara (UCSB)",
+    "rank_display": "146",
+    "score": 51.2,
+    "type": "Public",
+    "student_faculty_ratio": 16,
+    "international_students": "4,309",
+    "faculty_count": "1,597",
+    "location": {
+      "city": "Santa Barbara",
+      "country": "United States",
+      "region": "North America"
+    }
+  },
+  {
+    "university": "Universiti Sains Malaysia (USM)",
+    "rank_display": "147",
+    "score": 51,
+    "type": "Public",
+    "student_faculty_ratio": 8,
+    "international_students": "4,198",
+    "faculty_count": "2,249",
+    "location": { "city": "Gelugor", "country": "Malaysia", "region": "Asia" }
+  },
+  {
+    "university": "Stockholm University",
+    "rank_display": "148",
+    "score": 50.6,
+    "type": "Public",
+    "student_faculty_ratio": 12,
+    "international_students": "7,567",
+    "faculty_count": "2,325",
+    "location": { "city": "Stockholm", "country": "Sweden", "region": "Europe" }
+  },
+  {
+    "university": "The University of Exeter",
+    "rank_display": "149",
+    "score": 50.5,
+    "type": "Public",
+    "student_faculty_ratio": 10,
+    "international_students": "7,188",
+    "faculty_count": "2,393",
+    "location": {
+      "city": "Exeter",
+      "country": "United Kingdom",
+      "region": "Europe"
+    }
+  },
+  {
+    "university": "University of Waterloo",
+    "rank_display": "149",
+    "score": 50.5,
+    "type": "Public",
+    "student_faculty_ratio": 18,
+    "international_students": "10,269",
+    "faculty_count": "1,908",
+    "location": {
+      "city": "Waterloo",
+      "country": "Canada",
+      "region": "North America"
+    }
+  },
+  {
+    "university": "Cardiff University",
+    "rank_display": "151",
+    "score": 50.4,
+    "type": "Public",
+    "student_faculty_ratio": 9,
+    "international_students": "7,819",
+    "faculty_count": "3,350",
+    "location": {
+      "city": "Cardiff",
+      "country": "United Kingdom",
+      "region": "Europe"
+    }
+  },
+  {
+    "university": "University of Vienna",
+    "rank_display": "151",
+    "score": 50.4,
+    "type": "Public",
+    "student_faculty_ratio": 12,
+    "international_students": "14,514",
+    "faculty_count": "3,637",
+    "location": { "city": "Vienna", "country": "Austria", "region": "Europe" }
+  },
+  {
+    "university": "University of York",
+    "rank_display": "151",
+    "score": 50.4,
+    "type": "Public",
+    "student_faculty_ratio": 9,
+    "international_students": "5,098",
+    "faculty_count": "2,209",
+    "location": {
+      "city": "York",
+      "country": "United Kingdom",
+      "region": "Europe"
+    }
+  },
+  {
+    "university": "University of Rochester",
+    "rank_display": "154",
+    "score": 50.3,
+    "type": "Private",
+    "student_faculty_ratio": 5,
+    "international_students": "3,644",
+    "faculty_count": "1,853",
+    "location": {
+      "city": "Rochester",
+      "country": "United States",
+      "region": "North America"
+    }
+  },
+  {
+    "university": "Aarhus University",
+    "rank_display": "155",
+    "score": 50.2,
+    "type": "Public",
+    "student_faculty_ratio": 11,
+    "international_students": "2,911",
+    "faculty_count": "683",
+    "location": { "city": "Aarhus", "country": "Denmark", "region": "Europe" }
+  },
+  {
+    "university": "Hanyang University",
+    "rank_display": "156",
+    "score": 49.8,
+    "type": "Private",
+    "student_faculty_ratio": 7,
+    "international_students": "3,455",
+    "faculty_count": "3,164",
+    "location": { "city": "Seoul", "country": "South Korea", "region": "Asia" }
+  },
+  {
+    "university": "Michigan State University",
+    "rank_display": "157",
+    "score": 49.7,
+    "type": "Public",
+    "student_faculty_ratio": 15,
+    "international_students": "5,795",
+    "faculty_count": "3,008",
+    "location": {
+      "city": "East Lansing",
+      "country": "United States",
+      "region": "North America"
+    }
+  },
+  {
+    "university": "University of Maryland, College Park",
+    "rank_display": "158",
+    "score": 49.5,
+    "type": "Public",
+    "student_faculty_ratio": 10,
+    "international_students": "4,659",
+    "faculty_count": "3,798",
+    "location": {
+      "city": "College Park",
+      "country": "United States",
+      "region": "North America"
+    }
+  },
+  {
+    "university": "Technische Universit\u00e4t Berlin (TU Berlin)",
+    "rank_display": "159",
+    "score": 49.3,
+    "type": "Public",
+    "student_faculty_ratio": 10,
+    "international_students": "6,464",
+    "faculty_count": "2,331",
+    "location": { "city": "Berlin", "country": "Germany", "region": "Europe" }
+  },
+  {
+    "university": "Emory University",
+    "rank_display": "160",
+    "score": 48.6,
+    "type": "Private",
+    "student_faculty_ratio": 5,
+    "international_students": "2,264",
+    "faculty_count": "2,725",
+    "location": {
+      "city": "Atlanta",
+      "country": "United States",
+      "region": "North America"
+    }
+  },
+  {
+    "university": "Case Western Reserve University",
+    "rank_display": "161",
+    "score": 48.2,
+    "type": "Private",
+    "student_faculty_ratio": 7,
+    "international_students": "2,864",
+    "faculty_count": "1,639",
+    "location": {
+      "city": "Cleveland",
+      "country": "United States",
+      "region": "North America"
+    }
+  },
+  {
+    "university": "Tecnol\u00f3gico de Monterrey",
+    "rank_display": "161",
+    "score": 48.2,
+    "type": "Private",
+    "student_faculty_ratio": 8,
+    "international_students": "3,514",
+    "faculty_count": "5,894",
+    "location": {
+      "city": "Monterrey",
+      "country": "Mexico",
+      "region": "Latin America"
+    }
+  },
+  {
+    "university": "King Fahd University of Petroleum & Minerals",
+    "rank_display": "163",
+    "score": 48.1,
+    "type": "Public",
+    "student_faculty_ratio": 7,
+    "international_students": "782",
+    "faculty_count": "1,103",
+    "location": {
+      "city": "Dhahran",
+      "country": "Saudi Arabia",
+      "region": "Asia"
+    }
+  },
+  {
+    "university": "University of Pittsburgh",
+    "rank_display": "163",
+    "score": 48.1,
+    "type": "Public",
+    "student_faculty_ratio": 6,
+    "international_students": "2,590",
+    "faculty_count": "4,746",
+    "location": {
+      "city": "Pittsburgh",
+      "country": "United States",
+      "region": "North America"
+    }
+  },
+  {
+    "university": "RWTH Aachen University",
+    "rank_display": "165",
+    "score": 48,
+    "type": "Public",
+    "student_faculty_ratio": 19,
+    "international_students": "12,477",
+    "faculty_count": "2,431",
+    "location": { "city": "Aachen", "country": "Germany", "region": "Europe" }
+  },
+  {
+    "university": "Alma Mater Studiorum - University of Bologna",
+    "rank_display": "166",
+    "score": 47.7,
+    "type": "Public",
+    "student_faculty_ratio": 24,
+    "international_students": "5,536",
+    "faculty_count": "2,885",
+    "location": { "city": "Bologna", "country": "Italy", "region": "Europe" }
+  },
+  {
+    "university": "University of Bath",
+    "rank_display": "166",
+    "score": 47.7,
+    "type": "Public",
+    "student_faculty_ratio": 12,
+    "international_students": "5,326",
+    "faculty_count": "1,339",
+    "location": {
+      "city": "Bath",
+      "country": "United Kingdom",
+      "region": "Europe"
+    }
+  },
+  {
+    "university": "Texas A&M University",
+    "rank_display": "168",
+    "score": 47.6,
+    "type": "Public",
+    "student_faculty_ratio": 21,
+    "international_students": "6,621",
+    "faculty_count": "3,049",
+    "location": {
+      "city": "College Station",
+      "country": "United States",
+      "region": "North America"
+    }
+  },
+  {
+    "university": "Universitat de Barcelona",
+    "rank_display": "168",
+    "score": 47.6,
+    "type": "Public",
+    "student_faculty_ratio": 15,
+    "international_students": "6,979",
+    "faculty_count": "3,002",
+    "location": { "city": "Barcelona", "country": "Spain", "region": "Europe" }
+  },
+  {
+    "university": "Western University",
+    "rank_display": "170",
+    "score": 47.5,
+    "type": "Public",
+    "student_faculty_ratio": 22,
+    "international_students": "6,314",
+    "faculty_count": "1,311",
+    "location": {
+      "city": "London",
+      "country": "Canada",
+      "region": "North America"
+    }
+  },
+  {
+    "university": "Sapienza University of Rome",
+    "rank_display": "171",
+    "score": 47.2,
+    "type": "Public",
+    "student_faculty_ratio": 23,
+    "international_students": "5,960",
+    "faculty_count": "3,287",
+    "location": { "city": "Rome", "country": "Italy", "region": "Europe" }
+  },
+  {
+    "university": "Albert-Ludwigs-Universitaet Freiburg",
+    "rank_display": "172",
+    "score": 47,
+    "type": "Public",
+    "student_faculty_ratio": 11,
+    "international_students": "3,883",
+    "faculty_count": "1,993",
+    "location": {
+      "city": "Freiburg im Breisgau",
+      "country": "Germany",
+      "region": "Europe"
+    }
+  },
+  {
+    "university": "University College Dublin",
+    "rank_display": "173",
+    "score": 46.9,
+    "type": "Public",
+    "student_faculty_ratio": 12,
+    "international_students": "6,118",
+    "faculty_count": "1,836",
+    "location": { "city": "Dublin", "country": "Ireland", "region": "Europe" }
+  },
+  {
+    "university": "University of Florida",
+    "rank_display": "173",
+    "score": 46.9,
+    "type": "Public",
+    "student_faculty_ratio": 7,
+    "international_students": "4,143",
+    "faculty_count": "6,222",
+    "location": {
+      "city": "Gainesville",
+      "country": "United States",
+      "region": "North America"
+    }
+  },
+  {
+    "university": "Al-Farabi Kazakh National University",
+    "rank_display": "175",
+    "score": 46.8,
+    "type": "Public",
+    "student_faculty_ratio": 6,
+    "international_students": "3,054",
+    "faculty_count": "4,047",
+    "location": { "city": "Almaty", "country": "Kazakhstan", "region": "Asia" }
+  },
+  {
+    "university": "University of Lausanne",
+    "rank_display": "176",
+    "score": 46.6,
+    "type": "Public",
+    "student_faculty_ratio": 9,
+    "international_students": "3,026",
+    "faculty_count": "1,478",
+    "location": {
+      "city": "Lausanne",
+      "country": "Switzerland",
+      "region": "Europe"
+    }
+  },
+  {
+    "university": "Eberhard Karls Universit\u00e4t T\u00fcbingen",
+    "rank_display": "177",
+    "score": 46.4,
+    "type": "Public",
+    "student_faculty_ratio": 5,
+    "international_students": "2,872",
+    "faculty_count": "4,517",
+    "location": {
+      "city": "T\u00fcbingen",
+      "country": "Germany",
+      "region": "Europe"
+    }
+  },
+  {
+    "university": "Indian Institute of Technology Bombay (IITB)",
+    "rank_display": "177",
+    "score": 46.4,
+    "type": "Public",
+    "student_faculty_ratio": 11,
+    "international_students": "116",
+    "faculty_count": "1,015",
+    "location": { "city": "Mumbai", "country": "India", "region": "Asia" }
+  },
+  {
+    "university": "Erasmus University Rotterdam ",
+    "rank_display": "179",
+    "score": 46.3,
+    "type": "Public",
+    "student_faculty_ratio": 11,
+    "international_students": "5,932",
+    "faculty_count": "2,699",
+    "location": {
+      "city": "Rotterdam",
+      "country": "Netherlands",
+      "region": "Europe"
+    }
+  },
+  {
+    "university": "National Tsing Hua University",
+    "rank_display": "180",
+    "score": 46.1,
+    "type": "Public",
+    "student_faculty_ratio": 10,
+    "international_students": "1,551",
+    "faculty_count": "1,265",
+    "location": {
+      "city": "Hsinchu City",
+      "country": "Taiwan",
+      "region": "Asia"
+    }
+  },
+  {
+    "university": "Technische Universit\u00e4t Wien",
+    "rank_display": "180",
+    "score": 46.1,
+    "type": "Public",
+    "student_faculty_ratio": 11,
+    "international_students": "2,515",
+    "faculty_count": "761",
+    "location": { "city": "Vienna", "country": "Austria", "region": "Europe" }
+  },
+  {
+    "university": "University of Gothenburg",
+    "rank_display": "180",
+    "score": 46.1,
+    "type": "Public",
+    "student_faculty_ratio": 8,
+    "international_students": "5,652",
+    "faculty_count": "2,680",
+    "location": {
+      "city": "Gothenburg",
+      "country": "Sweden",
+      "region": "Europe"
+    }
+  },
+  {
+    "university": "Khalifa University",
+    "rank_display": "183",
+    "score": 46,
+    "type": "Public",
+    "student_faculty_ratio": 6,
+    "international_students": "652",
+    "faculty_count": "498",
+    "location": {
+      "city": "Abu Dhabi",
+      "country": "United Arab Emirates",
+      "region": "Asia"
+    }
+  },
+  {
+    "university": "Universidad de Chile",
+    "rank_display": "183",
+    "score": 46,
+    "type": "Public",
+    "student_faculty_ratio": 15,
+    "international_students": "1,697",
+    "faculty_count": "2,412",
+    "location": {
+      "city": "Santiago",
+      "country": "Chile",
+      "region": "Latin America"
+    }
+  },
+  {
+    "university": "Indian Institute of Technology Delhi (IITD)",
+    "rank_display": "185",
+    "score": 45.9,
+    "type": "Public",
+    "student_faculty_ratio": 11,
+    "international_students": "100",
+    "faculty_count": "843",
+    "location": { "city": "New Delhi", "country": "India", "region": "Asia" }
+  },
+  {
+    "university": "Indian Institute of Science",
+    "rank_display": "186",
+    "score": 45.7,
+    "type": "Public",
+    "student_faculty_ratio": 9,
+    "international_students": "5",
+    "faculty_count": "446",
+    "location": { "city": "Bangalore", "country": "India", "region": "Asia" }
+  },
+  {
+    "university": "University of Minnesota Twin Cities",
+    "rank_display": "186",
+    "score": 45.7,
+    "type": "Public",
+    "student_faculty_ratio": 11,
+    "international_students": "5,630",
+    "faculty_count": "5,087",
+    "location": {
+      "city": "Minneapolis",
+      "country": "United States",
+      "region": "North America"
+    }
+  },
+  {
+    "university": "Universit\u00e9 catholique de Louvain (UCLouvain)",
+    "rank_display": "188",
+    "score": 45.6,
+    "type": "Private",
+    "student_faculty_ratio": 19,
+    "international_students": "4,524",
+    "faculty_count": "1,315",
+    "location": {
+      "city": "Louvain-la-Neuve",
+      "country": "Belgium",
+      "region": "Europe"
+    }
+  },
+  {
+    "university": "University of Liverpool",
+    "rank_display": "189",
+    "score": 45.5,
+    "type": "Public",
+    "student_faculty_ratio": 10,
+    "international_students": "9,500",
+    "faculty_count": "2,771",
+    "location": {
+      "city": "Liverpool",
+      "country": "United Kingdom",
+      "region": "Europe"
+    }
+  },
+  {
+    "university": "University of Twente",
+    "rank_display": "189",
+    "score": 45.5,
+    "type": "Public",
+    "student_faculty_ratio": 10,
+    "international_students": "3,872",
+    "faculty_count": "1,177",
+    "location": {
+      "city": "Enschede",
+      "country": "Netherlands",
+      "region": "Europe"
+    }
+  },
+  {
+    "university": "Dartmouth College",
+    "rank_display": "191",
+    "score": 45.1,
+    "type": "Private",
+    "student_faculty_ratio": 8,
+    "international_students": "997",
+    "faculty_count": "836",
+    "location": {
+      "city": "Hanover",
+      "country": "United States",
+      "region": "North America"
+    }
+  },
+  {
+    "university": "Universiti Teknologi Malaysia ",
+    "rank_display": "191",
+    "score": 45.1,
+    "type": "Public",
+    "student_faculty_ratio": 11,
+    "international_students": "4,956",
+    "faculty_count": "1,869",
+    "location": { "city": "Skudai", "country": "Malaysia", "region": "Asia" }
+  },
+  {
+    "university": "University of Wollongong",
+    "rank_display": "193",
+    "score": 44.9,
+    "type": "Public",
+    "student_faculty_ratio": 13,
+    "international_students": "4,779",
+    "faculty_count": "1,410",
+    "location": {
+      "city": "Wollongong",
+      "country": "Australia",
+      "region": "Oceania"
+    }
+  },
+  {
+    "university": "Curtin University",
+    "rank_display": "194",
+    "score": 44.8,
+    "type": "Public",
+    "student_faculty_ratio": 14,
+    "international_students": "4,565",
+    "faculty_count": "1,698",
+    "location": { "city": "Perth", "country": "Australia", "region": "Oceania" }
+  },
+  {
+    "university": "Technische Universit\u00e4t Dresden",
+    "rank_display": "194",
+    "score": 44.8,
+    "type": "Public",
+    "student_faculty_ratio": 7,
+    "international_students": "5,167",
+    "faculty_count": "4,636",
+    "location": { "city": "Dresden", "country": "Germany", "region": "Europe" }
+  },
+  {
+    "university": "University of Otago",
+    "rank_display": "194",
+    "score": 44.8,
+    "type": "Public",
+    "student_faculty_ratio": 14,
+    "international_students": "3,585",
+    "faculty_count": "1,333",
+    "location": {
+      "city": "Dunedin",
+      "country": "New Zealand",
+      "region": "Oceania"
+    }
+  },
+  {
+    "university": "The University of Newcastle, Australia (UON)",
+    "rank_display": "197",
+    "score": 44.6,
+    "type": "Public",
+    "student_faculty_ratio": 11,
+    "international_students": "1,747",
+    "faculty_count": "1,135",
+    "location": {
+      "city": "Callaghan",
+      "country": "Australia",
+      "region": "Oceania"
+    }
+  },
+  {
+    "university": "The Hebrew University of Jerusalem",
+    "rank_display": "198",
+    "score": 44.5,
+    "type": "Public",
+    "student_faculty_ratio": 7,
+    "international_students": "1,176",
+    "faculty_count": "2,295",
+    "location": { "city": "Jerusalem", "country": "Israel", "region": "Asia" }
+  },
+  {
+    "university": "University of Bergen",
+    "rank_display": "199",
+    "score": 44.2,
+    "type": "Public",
+    "student_faculty_ratio": 7,
+    "international_students": "832",
+    "faculty_count": "1,634",
+    "location": { "city": "Bergen", "country": "Norway", "region": "Europe" }
+  }
+]
