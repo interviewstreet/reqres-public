@@ -1391,7 +1391,7 @@ describe('tvseries.json', () => {
       .then((res) => {
         res.body.data[0].should.be.eql({
           name: "Lost",
-          runtime_of_series: "(2004\u20132010)",
+          runtime_of_series: "(2004-2010)",
           certificate: "A",
           runtime_of_episodes: "44 min",
           genre: "Adventure, Drama, Fantasy",
