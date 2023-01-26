@@ -5,29 +5,24 @@
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
-    "compile" : "node compile_data.js",
+    "compile": "node compile_data.js",
     "test": "npm run compile && mocha tests/"
   },
   "author": "Ben Howdle <hello@benhowdle.im> (http://benhowdle.im/)",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^1.9.0",
-    "cors": "^2.4.2",
-    "express": "^4.9.7",
-    "fecha": "^2.3.3",
-    "hbs": "^2.7.0",
-    "lodash": "^2.4.1"
+    "body-parser": "^1.20.1",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "fecha": "^4.2.3",
+    "hbs": "^4.2.0",
+    "lodash": "^4.17.21"
   },
   "devDependencies": {
-    "bluebird": "^3.5.0",
-    "chai": "^4.1.2",
-    "chai-http": "^3.0.0",
-    "gulp": "^3.8.8",
-    "gulp-autoprefixer": "^1.0.1",
-    "gulp-livereload": "^2.1.1",
-    "gulp-ruby-sass": "^0.7.1",
-    "gulp-watch": "^1.1.0",
+    "bluebird": "^3.7.2",
+    "chai": "^4.3.7",
+    "chai-http": "^4.3.0",
     "lodash.range": "^3.2.0",
-    "mocha": "^3.5.0"
+    "mocha": "^9.2.2"
   }
 }

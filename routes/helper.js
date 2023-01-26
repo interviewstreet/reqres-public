@@ -6,7 +6,7 @@ module.exports = {
         var page = req.query.page || 1,
             offset = (page - 1) * (options.page_size || config.pagination.page_size),
             fields = (req.query.fields && req.query.fields.split(',')) || [],
-            paginatedItems = _.rest(items, offset).slice(0, (options.page_size || config.pagination.page_size));
+            paginatedItems = _.slice(items, offset).slice(0, (options.page_size || config.pagination.page_size));
 
         if (fields && fields.length) {
             paginatedItems = paginatedItems.map(item => _.pick(item, (val, key) => fields.includes(key)));
