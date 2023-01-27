@@ -1,7 +1,7 @@
 [
   {
     "name": "Game of Thrones",
-    "runtime_of_series": "(2011\u20132019)",
+    "runtime_of_series": "(2011-2019)",
     "certificate": "A",
     "runtime_of_episodes": "57 min",
     "genre": "Action, Adventure, Drama",
@@ -12,7 +12,7 @@
   },
   {
     "name": "Breaking Bad",
-    "runtime_of_series": "(2008\u20132013)",
+    "runtime_of_series": "(2008-2013)",
     "certificate": "18",
     "runtime_of_episodes": "49 min",
     "genre": "Crime, Drama, Thriller",
@@ -23,7 +23,7 @@
   },
   {
     "name": "The Walking Dead",
-    "runtime_of_series": "(2010\u2013 )",
+    "runtime_of_series": "(2010- )",
     "certificate": "18+",
     "runtime_of_episodes": "44 min",
     "genre": "Drama, Horror, Thriller",
@@ -34,7 +34,7 @@
   },
   {
     "name": "Friends",
-    "runtime_of_series": "(1994\u20132004)",
+    "runtime_of_series": "(1994-2004)",
     "certificate": "13+",
     "runtime_of_episodes": "22 min",
     "genre": "Comedy, Romance",
@@ -45,7 +45,7 @@
   },
   {
     "name": "Stranger Things",
-    "runtime_of_series": "(2016\u2013 )",
+    "runtime_of_series": "(2016- )",
     "certificate": "15",
     "runtime_of_episodes": "51 min",
     "genre": "Drama, Fantasy, Horror",
@@ -56,7 +56,7 @@
   },
   {
     "name": "Sherlock",
-    "runtime_of_series": "(2010\u20132017)",
+    "runtime_of_series": "(2010-2017)",
     "certificate": "UA",
     "runtime_of_episodes": "88 min",
     "genre": "Crime, Drama, Mystery",
@@ -67,7 +67,7 @@
   },
   {
     "name": "The Big Bang Theory",
-    "runtime_of_series": "(2007\u20132019)",
+    "runtime_of_series": "(2007-2019)",
     "certificate": "U",
     "runtime_of_episodes": "22 min",
     "genre": "Comedy, Romance",
@@ -78,7 +78,7 @@
   },
   {
     "name": "Dexter",
-    "runtime_of_series": "(2006\u20132021)",
+    "runtime_of_series": "(2006-2021)",
     "certificate": "A",
     "runtime_of_episodes": "53 min",
     "genre": "Crime, Drama, Mystery",
@@ -89,7 +89,7 @@
   },
   {
     "name": "How I Met Your Mother",
-    "runtime_of_series": "(2005\u20132014)",
+    "runtime_of_series": "(2005-2014)",
     "certificate": "15+",
     "runtime_of_episodes": "22 min",
     "genre": "Comedy, Romance",
@@ -100,7 +100,7 @@
   },
   {
     "name": "True Detective",
-    "runtime_of_series": "(2014\u2013 )",
+    "runtime_of_series": "(2014- )",
     "certificate": "A",
     "runtime_of_episodes": "55 min",
     "genre": "Crime, Drama, Mystery",
@@ -111,7 +111,7 @@
   },
   {
     "name": "Lost",
-    "runtime_of_series": "(2004\u20132010)",
+    "runtime_of_series": "(2004-2010)",
     "certificate": "A",
     "runtime_of_episodes": "44 min",
     "genre": "Adventure, Drama, Fantasy",
@@ -122,7 +122,7 @@
   },
   {
     "name": "Prison Break",
-    "runtime_of_series": "(2005\u20132017)",
+    "runtime_of_series": "(2005-2017)",
     "certificate": "UA",
     "runtime_of_episodes": "44 min",
     "genre": "Action, Crime, Drama",
@@ -133,7 +133,7 @@
   },
   {
     "name": "House of Cards",
-    "runtime_of_series": "(2013\u20132018)",
+    "runtime_of_series": "(2013-2018)",
     "certificate": "16+",
     "runtime_of_episodes": "51 min",
     "genre": "Drama",
@@ -144,7 +144,7 @@
   },
   {
     "name": "Black Mirror",
-    "runtime_of_series": "(2011\u2013 )",
+    "runtime_of_series": "(2011- )",
     "certificate": "A",
     "runtime_of_episodes": "60 min",
     "genre": "Drama, Sci-Fi, Thriller",
@@ -155,7 +155,7 @@
   },
   {
     "name": "Vikings",
-    "runtime_of_series": "(2013\u20132020)",
+    "runtime_of_series": "(2013-2020)",
     "certificate": "A",
     "runtime_of_episodes": "44 min",
     "genre": "Action, Adventure, Drama",
@@ -166,7 +166,7 @@
   },
   {
     "name": "Westworld",
-    "runtime_of_series": "(2016\u2013 )",
+    "runtime_of_series": "(2016- )",
     "certificate": "A",
     "runtime_of_episodes": "62 min",
     "genre": "Drama, Mystery, Sci-Fi",
@@ -177,7 +177,7 @@
   },
   {
     "name": "The Office",
-    "runtime_of_series": "(2005\u20132013)",
+    "runtime_of_series": "(2005-2013)",
     "certificate": "U",
     "runtime_of_episodes": "22 min",
     "genre": "Comedy",
@@ -188,7 +188,7 @@
   },
   {
     "name": "House M.D.",
-    "runtime_of_series": "(2004\u20132012)",
+    "runtime_of_series": "(2004-2012)",
     "certificate": "UA",
     "runtime_of_episodes": "44 min",
     "genre": "Drama, Mystery",
@@ -199,7 +199,7 @@
   },
   {
     "name": "Arrow",
-    "runtime_of_series": "(2012\u20132020)",
+    "runtime_of_series": "(2012-2020)",
     "certificate": "A",
     "runtime_of_episodes": "42 min",
     "genre": "Action, Adventure, Crime",
@@ -210,7 +210,7 @@
   },
   {
     "name": "Supernatural",
-    "runtime_of_series": "(2005\u20132020)",
+    "runtime_of_series": "(2005-2020)",
     "certificate": "16+",
     "runtime_of_episodes": "44 min",
     "genre": "Drama, Fantasy, Horror",
@@ -221,7 +221,7 @@
   },
   {
     "name": "Rick and Morty",
-    "runtime_of_series": "(2013\u2013 )",
+    "runtime_of_series": "(2013- )",
     "certificate": "16+",
     "runtime_of_episodes": "23 min",
     "genre": "Animation, Adventure, Comedy",
@@ -232,7 +232,7 @@
   },
   {
     "name": "The Simpsons",
-    "runtime_of_series": "(1989\u2013 )",
+    "runtime_of_series": "(1989- )",
     "certificate": "U",
     "runtime_of_episodes": "22 min",
     "genre": "Animation, Comedy",
@@ -243,7 +243,7 @@
   },
   {
     "name": "Suits",
-    "runtime_of_series": "(2011\u20132019)",
+    "runtime_of_series": "(2011-2019)",
     "certificate": "13+",
     "runtime_of_episodes": "44 min",
     "genre": "Comedy, Drama",
@@ -254,7 +254,7 @@
   },
   {
     "name": "Daredevil",
-    "runtime_of_series": "(2015\u20132018)",
+    "runtime_of_series": "(2015-2018)",
     "certificate": "18+",
     "runtime_of_episodes": "54 min",
     "genre": "Action, Crime, Drama",
@@ -265,7 +265,7 @@
   },
   {
     "name": "Narcos",
-    "runtime_of_series": "(2015\u20132017)",
+    "runtime_of_series": "(2015-2017)",
     "certificate": "A",
     "runtime_of_episodes": "49 min",
     "genre": "Biography, Crime, Drama",
@@ -276,7 +276,7 @@
   },
   {
     "name": "Modern Family",
-    "runtime_of_series": "(2009\u20132020)",
+    "runtime_of_series": "(2009-2020)",
     "certificate": "12+",
     "runtime_of_episodes": "22 min",
     "genre": "Comedy, Drama, Romance",
@@ -287,7 +287,7 @@
   },
   {
     "name": "Peaky Blinders",
-    "runtime_of_series": "(2013\u2013 )",
+    "runtime_of_series": "(2013- )",
     "certificate": "A",
     "runtime_of_episodes": "60 min",
     "genre": "Crime, Drama",
@@ -298,7 +298,7 @@
   },
   {
     "name": "Mr. Robot",
-    "runtime_of_series": "(2015\u20132019)",
+    "runtime_of_series": "(2015-2019)",
     "certificate": "16+",
     "runtime_of_episodes": "49 min",
     "genre": "Crime, Drama, Thriller",
@@ -309,7 +309,7 @@
   },
   {
     "name": "South Park",
-    "runtime_of_series": "(1997\u2013 )",
+    "runtime_of_series": "(1997- )",
     "certificate": "18+",
     "runtime_of_episodes": "22 min",
     "genre": "Animation, Comedy",
@@ -320,7 +320,7 @@
   },
   {
     "name": "Fargo",
-    "runtime_of_series": "(2014\u2013 )",
+    "runtime_of_series": "(2014- )",
     "certificate": "16+",
     "runtime_of_episodes": "53 min",
     "genre": "Crime, Drama, Thriller",
@@ -331,7 +331,7 @@
   },
   {
     "name": "Better Call Saul",
-    "runtime_of_series": "(2015\u20132021)",
+    "runtime_of_series": "(2015-2021)",
     "certificate": "16+",
     "runtime_of_episodes": "46 min",
     "genre": "Crime, Drama",
@@ -342,7 +342,7 @@
   },
   {
     "name": "Homeland",
-    "runtime_of_series": "(2011\u20132020)",
+    "runtime_of_series": "(2011-2020)",
     "certificate": "UA",
     "runtime_of_episodes": "55 min",
     "genre": "Crime, Drama, Mystery",
@@ -353,7 +353,7 @@
   },
   {
     "name": "The Flash",
-    "runtime_of_series": "(2014\u2013 )",
+    "runtime_of_series": "(2014- )",
     "certificate": "12+",
     "runtime_of_episodes": "43 min",
     "genre": "Action, Adventure, Drama",
@@ -364,7 +364,7 @@
   },
   {
     "name": "Family Guy",
-    "runtime_of_series": "(1999\u2013 )",
+    "runtime_of_series": "(1999- )",
     "certificate": "13",
     "runtime_of_episodes": "22 min",
     "genre": "Animation, Comedy",
@@ -375,7 +375,7 @@
   },
   {
     "name": "The Sopranos",
-    "runtime_of_series": "(1999\u20132007)",
+    "runtime_of_series": "(1999-2007)",
     "certificate": "15+",
     "runtime_of_episodes": "55 min",
     "genre": "Crime, Drama",
@@ -386,7 +386,7 @@
   },
   {
     "name": "La casa de papel",
-    "runtime_of_series": "(2017\u2013 )",
+    "runtime_of_series": "(2017- )",
     "certificate": "16+",
     "runtime_of_episodes": "70 min",
     "genre": "Action, Crime, Mystery",
@@ -397,7 +397,7 @@
   },
   {
     "name": "The Mandalorian",
-    "runtime_of_series": "(2019\u2013 )",
+    "runtime_of_series": "(2019- )",
     "certificate": "U",
     "runtime_of_episodes": "40 min",
     "genre": "Action, Adventure, Sci-Fi",
@@ -408,7 +408,7 @@
   },
   {
     "name": "The Wire",
-    "runtime_of_series": "(2002\u20132008)",
+    "runtime_of_series": "(2002-2008)",
     "certificate": "15+",
     "runtime_of_episodes": "59 min",
     "genre": "Crime, Drama, Thriller",
@@ -419,7 +419,7 @@
   },
   {
     "name": "Dark",
-    "runtime_of_series": "(2017\u20132020)",
+    "runtime_of_series": "(2017-2020)",
     "certificate": "16+",
     "runtime_of_episodes": "60 min",
     "genre": "Crime, Drama, Mystery",
@@ -430,7 +430,7 @@
   },
   {
     "name": "The Vampire Diaries",
-    "runtime_of_series": "(2009\u20132017)",
+    "runtime_of_series": "(2009-2017)",
     "certificate": "16+",
     "runtime_of_episodes": "43 min",
     "genre": "Drama, Fantasy, Horror",
@@ -441,7 +441,7 @@
   },
   {
     "name": "Orange Is the New Black",
-    "runtime_of_series": "(2013\u20132019)",
+    "runtime_of_series": "(2013-2019)",
     "certificate": "18+",
     "runtime_of_episodes": "59 min",
     "genre": "Comedy, Crime, Drama",
@@ -452,7 +452,7 @@
   },
   {
     "name": "American Horror Story",
-    "runtime_of_series": "(2011\u2013 )",
+    "runtime_of_series": "(2011- )",
     "certificate": "A",
     "runtime_of_episodes": "60 min",
     "genre": "Drama, Horror, Thriller",
@@ -463,7 +463,7 @@
   },
   {
     "name": "Arrested Development",
-    "runtime_of_series": "(2003\u20132019)",
+    "runtime_of_series": "(2003-2019)",
     "certificate": "A",
     "runtime_of_episodes": "22 min",
     "genre": "Comedy",
@@ -474,7 +474,7 @@
   },
   {
     "name": "Sons of Anarchy",
-    "runtime_of_series": "(2008\u20132014)",
+    "runtime_of_series": "(2008-2014)",
     "certificate": "18",
     "runtime_of_episodes": "45 min",
     "genre": "Crime, Drama, Thriller",
@@ -485,7 +485,7 @@
   },
   {
     "name": "13 Reasons Why",
-    "runtime_of_series": "(2017\u20132020)",
+    "runtime_of_series": "(2017-2020)",
     "certificate": "16+",
     "runtime_of_episodes": "60 min",
     "genre": "Drama, Mystery, Thriller",
@@ -496,7 +496,7 @@
   },
   {
     "name": "Seinfeld",
-    "runtime_of_series": "(1989\u20131998)",
+    "runtime_of_series": "(1989-1998)",
     "certificate": "13",
     "runtime_of_episodes": "22 min",
     "genre": "Comedy",
@@ -507,7 +507,7 @@
   },
   {
     "name": "Grey's Anatomy",
-    "runtime_of_series": "(2005\u2013 )",
+    "runtime_of_series": "(2005- )",
     "certificate": "15+",
     "runtime_of_episodes": "41 min",
     "genre": "Drama, Romance",
@@ -518,7 +518,7 @@
   },
   {
     "name": "Avatar: The Last Airbender",
-    "runtime_of_series": "(2005\u20132008)",
+    "runtime_of_series": "(2005-2008)",
     "certificate": "U",
     "runtime_of_episodes": "23 min",
     "genre": "Animation, Action, Adventure",
@@ -529,7 +529,7 @@
   },
   {
     "name": "The Boys",
-    "runtime_of_series": "(2019\u2013 )",
+    "runtime_of_series": "(2019- )",
     "certificate": "18+",
     "runtime_of_episodes": "60 min",
     "genre": "Action, Comedy, Crime",
@@ -540,7 +540,7 @@
   },
   {
     "name": "Two and a Half Men",
-    "runtime_of_series": "(2003\u20132015)",
+    "runtime_of_series": "(2003-2015)",
     "certificate": "16+",
     "runtime_of_episodes": "22 min",
     "genre": "Comedy, Romance",
@@ -551,7 +551,7 @@
   },
   {
     "name": "Death Note: Desu n\u00f4to",
-    "runtime_of_series": "(2006\u20132007)",
+    "runtime_of_series": "(2006-2007)",
     "certificate": "16+",
     "runtime_of_episodes": "24 min",
     "genre": "Animation, Crime, Drama",
@@ -562,7 +562,7 @@
   },
   {
     "name": "Lucifer",
-    "runtime_of_series": "(2016\u2013 )",
+    "runtime_of_series": "(2016- )",
     "certificate": "15",
     "runtime_of_episodes": "42 min",
     "genre": "Crime, Drama, Fantasy",
@@ -573,7 +573,7 @@
   },
   {
     "name": "Heroes",
-    "runtime_of_series": "(II) (2006\u20132010)",
+    "runtime_of_series": "(II) (2006-2010)",
     "certificate": "16",
     "runtime_of_episodes": "45 min",
     "genre": "Drama, Fantasy, Sci-Fi",
@@ -584,7 +584,7 @@
   },
   {
     "name": "True Blood",
-    "runtime_of_series": "(2008\u20132014)",
+    "runtime_of_series": "(2008-2014)",
     "certificate": "18",
     "runtime_of_episodes": "55 min",
     "genre": "Drama, Fantasy, Mystery",
@@ -595,7 +595,7 @@
   },
   {
     "name": "Hannibal",
-    "runtime_of_series": "(2013\u20132015)",
+    "runtime_of_series": "(2013-2015)",
     "certificate": "A",
     "runtime_of_episodes": "44 min",
     "genre": "Crime, Drama, Horror",
@@ -606,7 +606,7 @@
   },
   {
     "name": "Brooklyn Nine-Nine",
-    "runtime_of_series": "(2013\u20132022)",
+    "runtime_of_series": "(2013-2022)",
     "certificate": "13+",
     "runtime_of_episodes": "22 min",
     "genre": "Comedy, Crime",
@@ -617,7 +617,7 @@
   },
   {
     "name": "Spartacus: Blood and Sand",
-    "runtime_of_series": "(2010\u20132013)",
+    "runtime_of_series": "(2010-2013)",
     "certificate": "16+",
     "runtime_of_episodes": "55 min",
     "genre": "Action, Adventure, Biography",
@@ -628,7 +628,7 @@
   },
   {
     "name": "Fringe",
-    "runtime_of_series": "(2008\u20132013)",
+    "runtime_of_series": "(2008-2013)",
     "certificate": "16",
     "runtime_of_episodes": "46 min",
     "genre": "Drama, Mystery, Sci-Fi",
@@ -639,7 +639,7 @@
   },
   {
     "name": "Community",
-    "runtime_of_series": "(2009\u20132015)",
+    "runtime_of_series": "(2009-2015)",
     "certificate": "U",
     "runtime_of_episodes": "22 min",
     "genre": "Comedy",
@@ -650,7 +650,7 @@
   },
   {
     "name": "Mindhunter",
-    "runtime_of_series": "(2017\u20132019)",
+    "runtime_of_series": "(2017-2019)",
     "certificate": "16+",
     "runtime_of_episodes": "60 min",
     "genre": "Crime, Drama, Thriller",
@@ -661,7 +661,7 @@
   },
   {
     "name": "The 100",
-    "runtime_of_series": "(2014\u20132020)",
+    "runtime_of_series": "(2014-2020)",
     "certificate": "A",
     "runtime_of_episodes": "43 min",
     "genre": "Drama, Mystery, Sci-Fi",
@@ -672,7 +672,7 @@
   },
   {
     "name": "Parks and Recreation",
-    "runtime_of_series": "(2009\u20132020)",
+    "runtime_of_series": "(2009-2020)",
     "certificate": "13",
     "runtime_of_episodes": "22 min",
     "genre": "Comedy",
@@ -683,7 +683,7 @@
   },
   {
     "name": "Futurama",
-    "runtime_of_series": "(1999\u20132013)",
+    "runtime_of_series": "(1999-2013)",
     "certificate": "7",
     "runtime_of_episodes": "22 min",
     "genre": "Animation, Comedy, Sci-Fi",
@@ -694,7 +694,7 @@
   },
   {
     "name": "Gotham",
-    "runtime_of_series": "(2014\u20132019)",
+    "runtime_of_series": "(2014-2019)",
     "certificate": "18+",
     "runtime_of_episodes": "42 min",
     "genre": "Action, Crime, Drama",
@@ -705,7 +705,7 @@
   },
   {
     "name": "Once Upon a Time",
-    "runtime_of_series": "(2011\u20132018)",
+    "runtime_of_series": "(2011-2018)",
     "certificate": "16+",
     "runtime_of_episodes": "60 min",
     "genre": "Adventure, Fantasy, Romance",
@@ -716,7 +716,7 @@
   },
   {
     "name": "Mad Men",
-    "runtime_of_series": "(2007\u20132015)",
+    "runtime_of_series": "(2007-2015)",
     "certificate": "16+",
     "runtime_of_episodes": "47 min",
     "genre": "Drama",
@@ -727,7 +727,7 @@
   },
   {
     "name": "Shameless",
-    "runtime_of_series": "(2011\u20132021)",
+    "runtime_of_series": "(2011-2021)",
     "certificate": "18+",
     "runtime_of_episodes": "46 min",
     "genre": "Comedy, Drama",
@@ -738,7 +738,7 @@
   },
   {
     "name": "Shingeki no kyojin",
-    "runtime_of_series": "(2013\u2013 )",
+    "runtime_of_series": "(2013- )",
     "certificate": "13",
     "runtime_of_episodes": "24 min",
     "genre": "Animation, Action, Adventure",
@@ -749,7 +749,7 @@
   },
   {
     "name": "Doctor Who",
-    "runtime_of_series": "(2005\u2013 )",
+    "runtime_of_series": "(2005- )",
     "certificate": "U",
     "runtime_of_episodes": "45 min",
     "genre": "Adventure, Drama, Family",
@@ -760,7 +760,7 @@
   },
   {
     "name": "Agents of S.H.I.E.L.D.",
-    "runtime_of_series": "(2013\u20132020)",
+    "runtime_of_series": "(2013-2020)",
     "certificate": "16+",
     "runtime_of_episodes": "45 min",
     "genre": "Action, Adventure, Drama",
@@ -771,7 +771,7 @@
   },
   {
     "name": "The Blacklist",
-    "runtime_of_series": "(2013\u2013 )",
+    "runtime_of_series": "(2013- )",
     "certificate": "16+",
     "runtime_of_episodes": "43 min",
     "genre": "Crime, Drama, Mystery",
@@ -782,7 +782,7 @@
   },
   {
     "name": "Jessica Jones",
-    "runtime_of_series": "(2015\u20132019)",
+    "runtime_of_series": "(2015-2019)",
     "certificate": "18",
     "runtime_of_episodes": "56 min",
     "genre": "Action, Crime, Drama",
@@ -793,7 +793,7 @@
   },
   {
     "name": "New Girl",
-    "runtime_of_series": "(2011\u20132018)",
+    "runtime_of_series": "(2011-2018)",
     "certificate": "15+",
     "runtime_of_episodes": "22 min",
     "genre": "Comedy",
@@ -804,7 +804,7 @@
   },
   {
     "name": "It's Always Sunny in Philadelphia",
-    "runtime_of_series": "(2005\u2013 )",
+    "runtime_of_series": "(2005- )",
     "certificate": "15+",
     "runtime_of_episodes": "22 min",
     "genre": "Comedy",
@@ -815,7 +815,7 @@
   },
   {
     "name": "Ozark",
-    "runtime_of_series": "(2017\u2013 )",
+    "runtime_of_series": "(2017- )",
     "certificate": "16+",
     "runtime_of_episodes": "60 min",
     "genre": "Crime, Drama, Thriller",
@@ -826,7 +826,7 @@
   },
   {
     "name": "The Punisher",
-    "runtime_of_series": "(2017\u20132019)",
+    "runtime_of_series": "(2017-2019)",
     "certificate": "A",
     "runtime_of_episodes": "53 min",
     "genre": "Action, Crime, Drama",
@@ -837,7 +837,7 @@
   },
   {
     "name": "Twin Peaks",
-    "runtime_of_series": "(1990\u20131991)",
+    "runtime_of_series": "(1990-1991)",
     "certificate": "18",
     "runtime_of_episodes": "47 min",
     "genre": "Crime, Drama, Mystery",
@@ -848,7 +848,7 @@
   },
   {
     "name": "The Handmaid's Tale",
-    "runtime_of_series": "(2017\u2013 )",
+    "runtime_of_series": "(2017- )",
     "certificate": "A",
     "runtime_of_episodes": "60 min",
     "genre": "Drama, Sci-Fi, Thriller",
@@ -859,7 +859,7 @@
   },
   {
     "name": "24",
-    "runtime_of_series": "(2001\u20132010)",
+    "runtime_of_series": "(2001-2010)",
     "certificate": "U",
     "runtime_of_episodes": "44 min",
     "genre": "Action, Crime, Drama",
@@ -870,7 +870,7 @@
   },
   {
     "name": "Californication",
-    "runtime_of_series": "(2007\u20132014)",
+    "runtime_of_series": "(2007-2014)",
     "certificate": "18",
     "runtime_of_episodes": "28 min",
     "genre": "Comedy, Drama",
@@ -881,7 +881,7 @@
   },
   {
     "name": "The Mentalist",
-    "runtime_of_series": "(2008\u2013 )",
+    "runtime_of_series": "(2008- )",
     "certificate": "16+",
     "runtime_of_episodes": "43 min",
     "genre": "Crime, Drama, Mystery",
@@ -892,7 +892,7 @@
   },
   {
     "name": "Downton Abbey",
-    "runtime_of_series": "(2010\u20132015)",
+    "runtime_of_series": "(2010-2015)",
     "certificate": "7+",
     "runtime_of_episodes": "58 min",
     "genre": "Drama, Romance",
@@ -903,7 +903,7 @@
   },
   {
     "name": "Person of Interest",
-    "runtime_of_series": "(2011\u20132016)",
+    "runtime_of_series": "(2011-2016)",
     "certificate": "16",
     "runtime_of_episodes": "43 min",
     "genre": "Action, Crime, Drama",
@@ -914,7 +914,7 @@
   },
   {
     "name": "The Umbrella Academy",
-    "runtime_of_series": "(2019\u2013 )",
+    "runtime_of_series": "(2019- )",
     "certificate": "16+",
     "runtime_of_episodes": "60 min",
     "genre": "Action, Adventure, Comedy",
@@ -925,7 +925,7 @@
   },
   {
     "name": "Sex Education",
-    "runtime_of_series": "(2019\u2013 )",
+    "runtime_of_series": "(2019- )",
     "certificate": "A",
     "runtime_of_episodes": "45 min",
     "genre": "Comedy, Drama",
@@ -936,7 +936,7 @@
   },
   {
     "name": "Entourage",
-    "runtime_of_series": "(2004\u20132011)",
+    "runtime_of_series": "(2004-2011)",
     "certificate": "15+",
     "runtime_of_episodes": "28 min",
     "genre": "Comedy, Drama",
@@ -947,7 +947,7 @@
   },
   {
     "name": "Big Little Lies",
-    "runtime_of_series": "(2017\u20132019)",
+    "runtime_of_series": "(2017-2019)",
     "certificate": "15+",
     "runtime_of_episodes": "60 min",
     "genre": "Crime, Drama, Mystery",
@@ -958,7 +958,7 @@
   },
   {
     "name": "Rome",
-    "runtime_of_series": "(2005\u20132007)",
+    "runtime_of_series": "(2005-2007)",
     "certificate": "18",
     "runtime_of_episodes": "52 min",
     "genre": "Action, Drama, History",
@@ -969,7 +969,7 @@
   },
   {
     "name": "Gossip Girl",
-    "runtime_of_series": "(2007\u20132012)",
+    "runtime_of_series": "(2007-2012)",
     "certificate": "18",
     "runtime_of_episodes": "42 min",
     "genre": "Drama, Romance",
@@ -980,7 +980,7 @@
   },
   {
     "name": "That '70s Show",
-    "runtime_of_series": "(1998\u20132006)",
+    "runtime_of_series": "(1998-2006)",
     "certificate": "18",
     "runtime_of_episodes": "22 min",
     "genre": "Comedy, Romance",
@@ -991,7 +991,7 @@
   },
   {
     "name": "Battlestar Galactica",
-    "runtime_of_series": "(2004\u20132009)",
+    "runtime_of_series": "(2004-2009)",
     "certificate": "U",
     "runtime_of_episodes": "44 min",
     "genre": "Action, Adventure, Drama",
@@ -1002,7 +1002,7 @@
   },
   {
     "name": "Pretty Little Liars",
-    "runtime_of_series": "(2010\u20132017)",
+    "runtime_of_series": "(2010-2017)",
     "certificate": "A",
     "runtime_of_episodes": "44 min",
     "genre": "Drama, Mystery, Romance",
@@ -1013,7 +1013,7 @@
   },
   {
     "name": "The Crown",
-    "runtime_of_series": "(2016\u2013 )",
+    "runtime_of_series": "(2016- )",
     "certificate": "16+",
     "runtime_of_episodes": "58 min",
     "genre": "Biography, Drama, History",
@@ -1024,7 +1024,7 @@
   },
   {
     "name": "The End of the F***ing World",
-    "runtime_of_series": "(2017\u20132019)",
+    "runtime_of_series": "(2017-2019)",
     "certificate": "18+",
     "runtime_of_episodes": "25 min",
     "genre": "Adventure, Comedy, Crime",
@@ -1035,7 +1035,7 @@
   },
   {
     "name": "You",
-    "runtime_of_series": "(2018\u2013 )",
+    "runtime_of_series": "(2018- )",
     "certificate": "16+",
     "runtime_of_episodes": "45 min",
     "genre": "Crime, Drama, Romance",
@@ -1046,7 +1046,7 @@
   },
   {
     "name": "Altered Carbon",
-    "runtime_of_series": "(2018\u20132020)",
+    "runtime_of_series": "(2018-2020)",
     "certificate": "16+",
     "runtime_of_episodes": "60 min",
     "genre": "Action, Drama, Sci-Fi",
@@ -1057,7 +1057,7 @@
   },
   {
     "name": "Castle",
-    "runtime_of_series": "(2009\u20132016)",
+    "runtime_of_series": "(2009-2016)",
     "certificate": "A",
     "runtime_of_episodes": "43 min",
     "genre": "Comedy, Crime, Drama",
@@ -1068,7 +1068,7 @@
   },
   {
     "name": "Bones",
-    "runtime_of_series": "(2005\u20132017)",
+    "runtime_of_series": "(2005-2017)",
     "certificate": "15+",
     "runtime_of_episodes": "40 min",
     "genre": "Comedy, Crime, Drama",
@@ -1079,7 +1079,7 @@
   },
   {
     "name": "Sense8",
-    "runtime_of_series": "(2015\u20132018)",
+    "runtime_of_series": "(2015-2018)",
     "certificate": "18",
     "runtime_of_episodes": "60 min",
     "genre": "Drama, Mystery, Sci-Fi",
@@ -1090,7 +1090,7 @@
   },
   {
     "name": "Archer",
-    "runtime_of_series": "(2009\u2013 )",
+    "runtime_of_series": "(2009- )",
     "certificate": "18",
     "runtime_of_episodes": "22 min",
     "genre": "Animation, Action, Comedy",
@@ -1101,7 +1101,7 @@
   },
   {
     "name": "Glee",
-    "runtime_of_series": "(2009\u20132015)",
+    "runtime_of_series": "(2009-2015)",
     "certificate": "18",
     "runtime_of_episodes": "44 min",
     "genre": "Comedy, Drama, Music",
@@ -1112,7 +1112,7 @@
   },
   {
     "name": "The IT Crowd",
-    "runtime_of_series": "(2006\u20132013)",
+    "runtime_of_series": "(2006-2013)",
     "certificate": "16",
     "runtime_of_episodes": "25 min",
     "genre": "Comedy",
@@ -1123,7 +1123,7 @@
   },
   {
     "name": "Buffy the Vampire Slayer",
-    "runtime_of_series": "(1997\u20132003)",
+    "runtime_of_series": "(1997-2003)",
     "certificate": "A",
     "runtime_of_episodes": "44 min",
     "genre": "Action, Drama, Fantasy",
@@ -1134,7 +1134,7 @@
   },
   {
     "name": "How to Get Away with Murder",
-    "runtime_of_series": "(2014\u20132020)",
+    "runtime_of_series": "(2014-2020)",
     "certificate": "18+",
     "runtime_of_episodes": "43 min",
     "genre": "Crime, Drama, Mystery",
@@ -1145,7 +1145,7 @@
   },
   {
     "name": "Chuck",
-    "runtime_of_series": "(2007\u20132012)",
+    "runtime_of_series": "(2007-2012)",
     "certificate": "16",
     "runtime_of_episodes": "43 min",
     "genre": "Action, Comedy, Drama",
@@ -1156,7 +1156,7 @@
   },
   {
     "name": "Teen Wolf",
-    "runtime_of_series": "(2011\u20132017)",
+    "runtime_of_series": "(2011-2017)",
     "certificate": "18",
     "runtime_of_episodes": "41 min",
     "genre": "Action, Drama, Fantasy",
@@ -1167,7 +1167,7 @@
   },
   {
     "name": "Silicon Valley",
-    "runtime_of_series": "(2014\u20132019)",
+    "runtime_of_series": "(2014-2019)",
     "certificate": "15+",
     "runtime_of_episodes": "28 min",
     "genre": "Comedy",
@@ -1178,7 +1178,7 @@
   },
   {
     "name": "Outlander",
-    "runtime_of_series": "(2014\u2013 )",
+    "runtime_of_series": "(2014- )",
     "certificate": "A",
     "runtime_of_episodes": "64 min",
     "genre": "Drama, Fantasy, Romance",
@@ -1189,7 +1189,7 @@
   },
   {
     "name": "Hagane no renkinjutsushi",
-    "runtime_of_series": "(2009\u20132012)",
+    "runtime_of_series": "(2009-2012)",
     "certificate": "18+",
     "runtime_of_episodes": "24 min",
     "genre": "Animation, Action, Adventure",
@@ -1200,7 +1200,7 @@
   },
   {
     "name": "The Fresh Prince of Bel-Air",
-    "runtime_of_series": "(1990\u20131996)",
+    "runtime_of_series": "(1990-1996)",
     "certificate": "U",
     "runtime_of_episodes": "22 min",
     "genre": "Comedy",
@@ -1211,7 +1211,7 @@
   },
   {
     "name": "Luther",
-    "runtime_of_series": "(2010\u20132019)",
+    "runtime_of_series": "(2010-2019)",
     "certificate": "18",
     "runtime_of_episodes": "60 min",
     "genre": "Crime, Drama, Mystery",
@@ -1222,7 +1222,7 @@
   },
   {
     "name": "Six Feet Under",
-    "runtime_of_series": "(2001\u20132005)",
+    "runtime_of_series": "(2001-2005)",
     "certificate": "15+",
     "runtime_of_episodes": "55 min",
     "genre": "Comedy, Drama",
@@ -1233,7 +1233,7 @@
   },
   {
     "name": "NCIS: Naval Criminal Investigative Service",
-    "runtime_of_series": "(2003\u2013 )",
+    "runtime_of_series": "(2003- )",
     "certificate": "16",
     "runtime_of_episodes": "60 min",
     "genre": "Action, Crime, Drama",
@@ -1244,7 +1244,7 @@
   },
   {
     "name": "Riverdale",
-    "runtime_of_series": "(2017\u2013 )",
+    "runtime_of_series": "(2017- )",
     "certificate": "13+",
     "runtime_of_episodes": "45 min",
     "genre": "Crime, Drama, Mystery",
@@ -1255,7 +1255,7 @@
   },
   {
     "name": "White Collar",
-    "runtime_of_series": "(2009\u20132014)",
+    "runtime_of_series": "(2009-2014)",
     "certificate": "15+",
     "runtime_of_episodes": "40 min",
     "genre": "Comedy, Crime, Drama",
@@ -1266,7 +1266,7 @@
   },
   {
     "name": "The Originals",
-    "runtime_of_series": "(2013\u20132018)",
+    "runtime_of_series": "(2013-2018)",
     "certificate": "16+",
     "runtime_of_episodes": "45 min",
     "genre": "Drama, Fantasy, Horror",
@@ -1277,7 +1277,7 @@
   },
   {
     "name": "Malcolm in the Middle",
-    "runtime_of_series": "(2000\u20132006)",
+    "runtime_of_series": "(2000-2006)",
     "certificate": "12+",
     "runtime_of_episodes": "22 min",
     "genre": "Comedy, Family",
@@ -1288,7 +1288,7 @@
   },
   {
     "name": "Luke Cage",
-    "runtime_of_series": "(2016\u20132018)",
+    "runtime_of_series": "(2016-2018)",
     "certificate": "18",
     "runtime_of_episodes": "55 min",
     "genre": "Action, Crime, Drama",
@@ -1299,7 +1299,7 @@
   },
   {
     "name": "American Dad!",
-    "runtime_of_series": "(2005\u2013 )",
+    "runtime_of_series": "(2005- )",
     "certificate": "U",
     "runtime_of_episodes": "22 min",
     "genre": "Animation, Comedy",
@@ -1310,7 +1310,7 @@
   },
   {
     "name": "One Punch Man: Wanpanman",
-    "runtime_of_series": "(2015\u2013 )",
+    "runtime_of_series": "(2015- )",
     "certificate": "16+",
     "runtime_of_episodes": "24 min",
     "genre": "Animation, Action, Comedy",
@@ -1321,7 +1321,7 @@
   },
   {
     "name": "The Good Place",
-    "runtime_of_series": "(2016\u20132020)",
+    "runtime_of_series": "(2016-2020)",
     "certificate": "13+",
     "runtime_of_episodes": "22 min",
     "genre": "Comedy, Drama, Fantasy",
@@ -1332,7 +1332,7 @@
   },
   {
     "name": "Iron Fist",
-    "runtime_of_series": "(2017\u20132018)",
+    "runtime_of_series": "(2017-2018)",
     "certificate": "16",
     "runtime_of_episodes": "55 min",
     "genre": "Action, Adventure, Crime",
@@ -1343,7 +1343,7 @@
   },
   {
     "name": "BoJack Horseman",
-    "runtime_of_series": "(2014\u20132020)",
+    "runtime_of_series": "(2014-2020)",
     "certificate": "18+",
     "runtime_of_episodes": "25 min",
     "genre": "Animation, Comedy, Drama",
@@ -1354,7 +1354,7 @@
   },
   {
     "name": "Fear the Walking Dead",
-    "runtime_of_series": "(2015\u2013 )",
+    "runtime_of_series": "(2015- )",
     "certificate": "16+",
     "runtime_of_episodes": "44 min",
     "genre": "Drama, Horror, Sci-Fi",
@@ -1365,7 +1365,7 @@
   },
   {
     "name": "Penny Dreadful",
-    "runtime_of_series": "(2014\u20132016)",
+    "runtime_of_series": "(2014-2016)",
     "certificate": "18",
     "runtime_of_episodes": "60 min",
     "genre": "Drama, Fantasy, Horror",
@@ -1376,7 +1376,7 @@
   },
   {
     "name": "Supergirl",
-    "runtime_of_series": "(2015\u20132021)",
+    "runtime_of_series": "(2015-2021)",
     "certificate": "12+",
     "runtime_of_episodes": "43 min",
     "genre": "Action, Adventure, Drama",
@@ -1387,7 +1387,7 @@
   },
   {
     "name": "The Expanse",
-    "runtime_of_series": "(2015\u2013 )",
+    "runtime_of_series": "(2015- )",
     "certificate": "16+",
     "runtime_of_episodes": "60 min",
     "genre": "Drama, Mystery, Sci-Fi",
@@ -1398,7 +1398,7 @@
   },
   {
     "name": "Cobra Kai",
-    "runtime_of_series": "(2018\u2013 )",
+    "runtime_of_series": "(2018- )",
     "certificate": "A",
     "runtime_of_episodes": "30 min",
     "genre": "Action, Comedy, Drama",
@@ -1409,7 +1409,7 @@
   },
   {
     "name": "Grimm",
-    "runtime_of_series": "(2011\u20132017)",
+    "runtime_of_series": "(2011-2017)",
     "certificate": "16",
     "runtime_of_episodes": "45 min",
     "genre": "Crime, Drama, Fantasy",
@@ -1420,7 +1420,7 @@
   },
   {
     "name": "Top Gear",
-    "runtime_of_series": "(2002\u2013 )",
+    "runtime_of_series": "(2002- )",
     "certificate": "13",
     "runtime_of_episodes": "60 min",
     "genre": "Adventure, Comedy, Reality-TV",
@@ -1431,7 +1431,7 @@
   },
   {
     "name": "This Is Us",
-    "runtime_of_series": "(2016\u2013 )",
+    "runtime_of_series": "(2016- )",
     "certificate": "16",
     "runtime_of_episodes": "45 min",
     "genre": "Comedy, Drama, Romance",
@@ -1442,7 +1442,7 @@
   },
   {
     "name": "Sex and the City",
-    "runtime_of_series": "(1998\u20132004)",
+    "runtime_of_series": "(1998-2004)",
     "certificate": "A",
     "runtime_of_episodes": "30 min",
     "genre": "Comedy, Drama, Romance",
@@ -1453,7 +1453,7 @@
   },
   {
     "name": "The Newsroom",
-    "runtime_of_series": "(2012\u20132014)",
+    "runtime_of_series": "(2012-2014)",
     "certificate": "15+",
     "runtime_of_episodes": "55 min",
     "genre": "Drama",
@@ -1464,7 +1464,7 @@
   },
   {
     "name": "Curb Your Enthusiasm",
-    "runtime_of_series": "(2000\u2013 )",
+    "runtime_of_series": "(2000- )",
     "certificate": "15+",
     "runtime_of_episodes": "28 min",
     "genre": "Comedy",
@@ -1475,7 +1475,7 @@
   },
   {
     "name": "Weeds",
-    "runtime_of_series": "(2005\u20132012)",
+    "runtime_of_series": "(2005-2012)",
     "certificate": "A",
     "runtime_of_episodes": "28 min",
     "genre": "Comedy, Crime, Drama",
@@ -1486,7 +1486,7 @@
   },
   {
     "name": "Star Trek: The Next Generation",
-    "runtime_of_series": "(1987\u20131994)",
+    "runtime_of_series": "(1987-1994)",
     "certificate": "U",
     "runtime_of_episodes": "44 min",
     "genre": "Action, Adventure, Mystery",
@@ -1497,7 +1497,7 @@
   },
   {
     "name": "Fleabag",
-    "runtime_of_series": "(2016\u20132019)",
+    "runtime_of_series": "(2016-2019)",
     "certificate": "18+",
     "runtime_of_episodes": "27 min",
     "genre": "Comedy, Drama",
@@ -1508,7 +1508,7 @@
   },
   {
     "name": "Orphan Black",
-    "runtime_of_series": "(2013\u20132017)",
+    "runtime_of_series": "(2013-2017)",
     "certificate": "18",
     "runtime_of_episodes": "44 min",
     "genre": "Action, Drama, Sci-Fi",
@@ -1519,7 +1519,7 @@
   },
   {
     "name": "Gilmore Girls",
-    "runtime_of_series": "(2000\u20132007)",
+    "runtime_of_series": "(2000-2007)",
     "certificate": "18",
     "runtime_of_episodes": "44 min",
     "genre": "Comedy, Drama",
@@ -1530,7 +1530,7 @@
   },
   {
     "name": "Elementary",
-    "runtime_of_series": "(2012\u20132019)",
+    "runtime_of_series": "(2012-2019)",
     "certificate": "16+",
     "runtime_of_episodes": "60 min",
     "genre": "Crime, Drama, Mystery",
@@ -1541,7 +1541,7 @@
   },
   {
     "name": "Bates Motel",
-    "runtime_of_series": "(2013\u20132017)",
+    "runtime_of_series": "(2013-2017)",
     "certificate": "16",
     "runtime_of_episodes": "45 min",
     "genre": "Drama, Horror, Mystery",
@@ -1552,7 +1552,7 @@
   },
   {
     "name": "Love, Death & Robots",
-    "runtime_of_series": "(2019\u2013 )",
+    "runtime_of_series": "(2019- )",
     "certificate": "18",
     "runtime_of_episodes": "15 min",
     "genre": "Animation, Short, Comedy",
@@ -1563,7 +1563,7 @@
   },
   {
     "name": "Star Trek: Discovery",
-    "runtime_of_series": "(2017\u2013 )",
+    "runtime_of_series": "(2017- )",
     "certificate": "15+",
     "runtime_of_episodes": "60 min",
     "genre": "Action, Adventure, Drama",
@@ -1574,7 +1574,7 @@
   },
   {
     "name": "Deadwood",
-    "runtime_of_series": "(2004\u20132006)",
+    "runtime_of_series": "(2004-2006)",
     "certificate": "18",
     "runtime_of_episodes": "55 min",
     "genre": "Crime, Drama, History",
@@ -1596,7 +1596,7 @@
   },
   {
     "name": "Broadchurch",
-    "runtime_of_series": "(2013\u20132017)",
+    "runtime_of_series": "(2013-2017)",
     "certificate": "16",
     "runtime_of_episodes": "48 min",
     "genre": "Crime, Drama, Mystery",
@@ -1607,7 +1607,7 @@
   },
   {
     "name": "Misfits",
-    "runtime_of_series": "(2009\u20132013)",
+    "runtime_of_series": "(2009-2013)",
     "certificate": "UA",
     "runtime_of_episodes": "60 min",
     "genre": "Comedy, Drama, Fantasy",
@@ -1618,7 +1618,7 @@
   },
   {
     "name": "Black Sails",
-    "runtime_of_series": "(2014\u20132017)",
+    "runtime_of_series": "(2014-2017)",
     "certificate": "18",
     "runtime_of_episodes": "56 min",
     "genre": "Adventure, Drama",
@@ -1629,7 +1629,7 @@
   },
   {
     "name": "Legends of Tomorrow",
-    "runtime_of_series": "(2016\u2013 )",
+    "runtime_of_series": "(2016- )",
     "certificate": "A",
     "runtime_of_episodes": "42 min",
     "genre": "Action, Adventure, Drama",
@@ -1640,7 +1640,7 @@
   },
   {
     "name": "The OA",
-    "runtime_of_series": "(2016\u20132019)",
+    "runtime_of_series": "(2016-2019)",
     "certificate": "A",
     "runtime_of_episodes": "60 min",
     "genre": "Drama, Fantasy, Mystery",
@@ -1651,7 +1651,7 @@
   },
   {
     "name": "2 Broke Girls",
-    "runtime_of_series": "(2011\u20132017)",
+    "runtime_of_series": "(2011-2017)",
     "certificate": "16",
     "runtime_of_episodes": "22 min",
     "genre": "Comedy",
@@ -1662,7 +1662,7 @@
   },
   {
     "name": "Jack Ryan",
-    "runtime_of_series": "(2018\u2013 )",
+    "runtime_of_series": "(2018- )",
     "certificate": "16+",
     "runtime_of_episodes": "60 min",
     "genre": "Action, Drama, Thriller",
@@ -1673,7 +1673,7 @@
   },
   {
     "name": "The Sinner",
-    "runtime_of_series": "(2017\u2013 )",
+    "runtime_of_series": "(2017- )",
     "certificate": "18",
     "runtime_of_episodes": "45 min",
     "genre": "Crime, Drama, Mystery",
@@ -1684,7 +1684,7 @@
   },
   {
     "name": "The Man in the High Castle",
-    "runtime_of_series": "(2015\u20132019)",
+    "runtime_of_series": "(2015-2019)",
     "certificate": "18+",
     "runtime_of_episodes": "60 min",
     "genre": "Drama, Sci-Fi, Thriller",
@@ -1695,7 +1695,7 @@
   },
   {
     "name": "Banshee",
-    "runtime_of_series": "(2013\u20132016)",
+    "runtime_of_series": "(2013-2016)",
     "certificate": "18",
     "runtime_of_episodes": "60 min",
     "genre": "Action, Crime, Drama",
@@ -1706,7 +1706,7 @@
   },
   {
     "name": "Making a Murderer",
-    "runtime_of_series": "(2015\u20132018)",
+    "runtime_of_series": "(2015-2018)",
     "certificate": "16",
     "runtime_of_episodes": "60 min",
     "genre": "Documentary, Crime",
@@ -1728,7 +1728,7 @@
   },
   {
     "name": "Killing Eve",
-    "runtime_of_series": "(2018\u2013 )",
+    "runtime_of_series": "(2018- )",
     "certificate": "15+",
     "runtime_of_episodes": "42 min",
     "genre": "Action, Adventure, Drama",
@@ -1739,7 +1739,7 @@
   },
   {
     "name": "The Last Kingdom",
-    "runtime_of_series": "(2015\u2013 )",
+    "runtime_of_series": "(2015- )",
     "certificate": "18+",
     "runtime_of_episodes": "60 min",
     "genre": "Action, Drama, History",
@@ -1750,7 +1750,7 @@
   },
   {
     "name": "Psych",
-    "runtime_of_series": "(2006\u20132014)",
+    "runtime_of_series": "(2006-2014)",
     "certificate": "13",
     "runtime_of_episodes": "44 min",
     "genre": "Comedy, Crime, Mystery",
@@ -1761,7 +1761,7 @@
   },
   {
     "name": "After Life",
-    "runtime_of_series": "(2019\u2013 )",
+    "runtime_of_series": "(2019- )",
     "certificate": "18",
     "runtime_of_episodes": "30 min",
     "genre": "Comedy, Drama",
@@ -1772,7 +1772,7 @@
   },
   {
     "name": "The Americans",
-    "runtime_of_series": "(2013\u20132018)",
+    "runtime_of_series": "(2013-2018)",
     "certificate": "15+",
     "runtime_of_episodes": "44 min",
     "genre": "Crime, Drama, Mystery",
@@ -1783,7 +1783,7 @@
   },
   {
     "name": "Naruto: Shipp\u00fbden",
-    "runtime_of_series": "(2007\u20132017)",
+    "runtime_of_series": "(2007-2017)",
     "certificate": "7",
     "runtime_of_episodes": "24 min",
     "genre": "Animation, Action, Adventure",
@@ -1794,7 +1794,7 @@
   },
   {
     "name": "The Fall",
-    "runtime_of_series": "(I) (2013\u20132016)",
+    "runtime_of_series": "(I) (2013-2016)",
     "certificate": "18",
     "runtime_of_episodes": "60 min",
     "genre": "Crime, Drama, Thriller",
@@ -1805,7 +1805,7 @@
   },
   {
     "name": "Stargate SG-1",
-    "runtime_of_series": "(1997\u20132007)",
+    "runtime_of_series": "(1997-2007)",
     "certificate": "U",
     "runtime_of_episodes": "44 min",
     "genre": "Action, Adventure, Drama",
@@ -1816,7 +1816,7 @@
   },
   {
     "name": "The O.C.",
-    "runtime_of_series": "(2003\u20132007)",
+    "runtime_of_series": "(2003-2007)",
     "certificate": "18",
     "runtime_of_episodes": "44 min",
     "genre": "Comedy, Drama, Romance",
@@ -1827,7 +1827,7 @@
   },
   {
     "name": "The Marvelous Mrs. Maisel",
-    "runtime_of_series": "(2017\u2013 )",
+    "runtime_of_series": "(2017- )",
     "certificate": "16+",
     "runtime_of_episodes": "57 min",
     "genre": "Comedy, Drama",
@@ -1838,7 +1838,7 @@
   },
   {
     "name": "The Inbetweeners",
-    "runtime_of_series": "(2008\u20132010)",
+    "runtime_of_series": "(2008-2010)",
     "certificate": "15+",
     "runtime_of_episodes": "25 min",
     "genre": "Comedy",
@@ -1849,7 +1849,7 @@
   },
   {
     "name": "The Leftovers",
-    "runtime_of_series": "(2014\u20132017)",
+    "runtime_of_series": "(2014-2017)",
     "certificate": "A",
     "runtime_of_episodes": "60 min",
     "genre": "Drama, Fantasy, Mystery",
@@ -1860,7 +1860,7 @@
   },
   {
     "name": "American Crime Story",
-    "runtime_of_series": "(2016\u2013 )",
+    "runtime_of_series": "(2016- )",
     "certificate": "18",
     "runtime_of_episodes": "42 min",
     "genre": "Biography, Crime, Drama",
@@ -1882,7 +1882,7 @@
   },
   {
     "name": "Chilling Adventures of Sabrina",
-    "runtime_of_series": "(2018\u20132020)",
+    "runtime_of_series": "(2018-2020)",
     "certificate": "18",
     "runtime_of_episodes": "60 min",
     "genre": "Drama, Fantasy, Horror",
@@ -1893,7 +1893,7 @@
   },
   {
     "name": "Designated Survivor",
-    "runtime_of_series": "(2016\u20132019)",
+    "runtime_of_series": "(2016-2019)",
     "certificate": "16+",
     "runtime_of_episodes": "60 min",
     "genre": "Action, Drama, Mystery",
@@ -1904,7 +1904,7 @@
   },
   {
     "name": "Ray Donovan",
-    "runtime_of_series": "(2013\u20132020)",
+    "runtime_of_series": "(2013-2020)",
     "certificate": "18",
     "runtime_of_episodes": "60 min",
     "genre": "Crime, Drama",
@@ -1915,7 +1915,7 @@
   },
   {
     "name": "CSI: Crime Scene Investigation",
-    "runtime_of_series": "(2000\u20132015)",
+    "runtime_of_series": "(2000-2015)",
     "certificate": "16",
     "runtime_of_episodes": "60 min",
     "genre": "Crime, Drama, Mystery",
@@ -1926,7 +1926,7 @@
   },
   {
     "name": "Charmed",
-    "runtime_of_series": "(1998\u20132006)",
+    "runtime_of_series": "(1998-2006)",
     "certificate": "U",
     "runtime_of_episodes": "42 min",
     "genre": "Drama, Fantasy, Mystery",
@@ -1937,7 +1937,7 @@
   },
   {
     "name": "Sacred Games",
-    "runtime_of_series": "(2018\u20132019)",
+    "runtime_of_series": "(2018-2019)",
     "certificate": "A",
     "runtime_of_episodes": "50 min",
     "genre": "Action, Crime, Drama",
@@ -1948,7 +1948,7 @@
   },
   {
     "name": "American Gods",
-    "runtime_of_series": "(2017\u2013 )",
+    "runtime_of_series": "(2017- )",
     "certificate": "A",
     "runtime_of_episodes": "60 min",
     "genre": "Drama, Fantasy, Mystery",
@@ -1959,7 +1959,7 @@
   },
   {
     "name": "Skins",
-    "runtime_of_series": "(2007\u20132013)",
+    "runtime_of_series": "(2007-2013)",
     "certificate": "UA",
     "runtime_of_episodes": "46 min",
     "genre": "Drama",
@@ -1970,7 +1970,7 @@
   },
   {
     "name": "Gravity Falls",
-    "runtime_of_series": "(2012\u20132016)",
+    "runtime_of_series": "(2012-2016)",
     "certificate": "PG",
     "runtime_of_episodes": "23 min",
     "genre": "Animation, Adventure, Comedy",
@@ -1981,7 +1981,7 @@
   },
   {
     "name": "Merlin",
-    "runtime_of_series": "(2008\u20132012)",
+    "runtime_of_series": "(2008-2012)",
     "certificate": "16",
     "runtime_of_episodes": "45 min",
     "genre": "Adventure, Drama, Fantasy",
@@ -1992,7 +1992,7 @@
   },
   {
     "name": "Star Trek",
-    "runtime_of_series": "(1966\u20131969)",
+    "runtime_of_series": "(1966-1969)",
     "certificate": "7",
     "runtime_of_episodes": "50 min",
     "genre": "Action, Adventure, Sci-Fi",
@@ -2003,7 +2003,7 @@
   },
   {
     "name": "Agent Carter",
-    "runtime_of_series": "(2015\u20132016)",
+    "runtime_of_series": "(2015-2016)",
     "certificate": "12+",
     "runtime_of_episodes": "42 min",
     "genre": "Action, Adventure, Sci-Fi",
@@ -2014,7 +2014,7 @@
   },
   {
     "name": "Lost in Space",
-    "runtime_of_series": "(2018\u2013 )",
+    "runtime_of_series": "(2018- )",
     "certificate": "7",
     "runtime_of_episodes": "60 min",
     "genre": "Adventure, Drama, Family",
@@ -2025,7 +2025,7 @@
   },
   {
     "name": "One Tree Hill",
-    "runtime_of_series": "(2003\u20132012)",
+    "runtime_of_series": "(2003-2012)",
     "certificate": "13",
     "runtime_of_episodes": "60 min",
     "genre": "Drama, Romance, Sport",
@@ -2036,7 +2036,7 @@
   },
   {
     "name": "Naruto",
-    "runtime_of_series": "(2002\u20132007)",
+    "runtime_of_series": "(2002-2007)",
     "certificate": "16",
     "runtime_of_episodes": "24 min",
     "genre": "Animation, Action, Adventure",
@@ -2047,7 +2047,7 @@
   },
   {
     "name": "One Piece: Wan p\u00eesu",
-    "runtime_of_series": "(1999\u2013 )",
+    "runtime_of_series": "(1999- )",
     "certificate": "7",
     "runtime_of_episodes": "24 min",
     "genre": "Animation, Action, Adventure",
@@ -2058,7 +2058,7 @@
   },
   {
     "name": "Schitt's Creek",
-    "runtime_of_series": "(2015\u20132020)",
+    "runtime_of_series": "(2015-2020)",
     "certificate": "18+",
     "runtime_of_episodes": "22 min",
     "genre": "Comedy",
@@ -2069,7 +2069,7 @@
   },
   {
     "name": "Billions",
-    "runtime_of_series": "(2016\u2013 )",
+    "runtime_of_series": "(2016- )",
     "certificate": "15+",
     "runtime_of_episodes": "60 min",
     "genre": "Drama",
@@ -2080,7 +2080,7 @@
   },
   {
     "name": "The Tudors",
-    "runtime_of_series": "(2007\u20132010)",
+    "runtime_of_series": "(2007-2010)",
     "certificate": "18",
     "runtime_of_episodes": "60 min",
     "genre": "Drama, History, Romance",
@@ -2091,7 +2091,7 @@
   },
   {
     "name": "The Good Wife",
-    "runtime_of_series": "(2009\u20132016)",
+    "runtime_of_series": "(2009-2016)",
     "certificate": "16",
     "runtime_of_episodes": "43 min",
     "genre": "Crime, Drama, Mystery",
@@ -2102,7 +2102,7 @@
   },
   {
     "name": "Preacher",
-    "runtime_of_series": "(2016\u20132019)",
+    "runtime_of_series": "(2016-2019)",
     "certificate": "18+",
     "runtime_of_episodes": "60 min",
     "genre": "Adventure, Drama, Fantasy",
@@ -2113,7 +2113,7 @@
   },
   {
     "name": "Paranormal",
-    "runtime_of_series": "(2020\u2013 )",
+    "runtime_of_series": "(2020- )",
     "certificate": "15+",
     "runtime_of_episodes": "45 min",
     "genre": "Drama, Fantasy, Horror",
@@ -2124,7 +2124,7 @@
   },
   {
     "name": "Russian Doll",
-    "runtime_of_series": "(2019\u2013 )",
+    "runtime_of_series": "(2019- )",
     "certificate": "A",
     "runtime_of_episodes": "30 min",
     "genre": "Adventure, Comedy, Drama",
@@ -2135,7 +2135,7 @@
   },
   {
     "name": "Hawaii Five-0",
-    "runtime_of_series": "(2010\u20132020)",
+    "runtime_of_series": "(2010-2020)",
     "certificate": "16",
     "runtime_of_episodes": "42 min",
     "genre": "Action, Crime, Drama",
@@ -2146,7 +2146,7 @@
   },
   {
     "name": "Titans",
-    "runtime_of_series": "(I) (2018\u2013 )",
+    "runtime_of_series": "(I) (2018- )",
     "certificate": "A",
     "runtime_of_episodes": "45 min",
     "genre": "Action, Adventure, Crime",
@@ -2157,7 +2157,7 @@
   },
   {
     "name": "Blindspot",
-    "runtime_of_series": "(2015\u20132020)",
+    "runtime_of_series": "(2015-2020)",
     "certificate": "16",
     "runtime_of_episodes": "42 min",
     "genre": "Action, Crime, Drama",
@@ -2168,7 +2168,7 @@
   },
   {
     "name": "Master of None",
-    "runtime_of_series": "(2015\u20132017)",
+    "runtime_of_series": "(2015-2017)",
     "certificate": "16",
     "runtime_of_episodes": "30 min",
     "genre": "Comedy, Drama",
@@ -2179,7 +2179,7 @@
   },
   {
     "name": "Bob's Burgers",
-    "runtime_of_series": "(2011\u2013 )",
+    "runtime_of_series": "(2011- )",
     "certificate": "U",
     "runtime_of_episodes": "22 min",
     "genre": "Animation, Comedy",
@@ -2190,7 +2190,7 @@
   },
   {
     "name": "Girls",
-    "runtime_of_series": "(2012\u20132017)",
+    "runtime_of_series": "(2012-2017)",
     "certificate": "18",
     "runtime_of_episodes": "28 min",
     "genre": "Comedy, Drama",
