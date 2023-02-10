@@ -1,0 +1,145 @@
+name: Build
+on:
+  # push:
+  #   branches: [ "master" ]
+  pull_request:
+    branches: [ "master" ]
+    types: [opened, synchronize, closed]
+
+env:
+  AWS_REGION: "us-east-1"
+
+jobs:
+  pre-req:
+    name: Setting up pre-req
+    runs-on: ubuntu-latest
+    outputs:
+      SECRET_ENV: ${{ steps.secret-env.outputs.SECRET_ENV }}
+      AWS_ACCESS_KEY: ${{ steps.secret-name.outputs.ACCESS_KEY }}
+      AWS_SECRET_ACCESS_KEY: ${{ steps.secret-name.outputs.SECRET_ACCESS_KEY }}
+
+    steps:
+
+    - name: Set EnvVar for Secret
+      id: secret-env
+      run: |
+        if [[ ${{ github.head_ref || github.ref_name }} == 'master' ]]; then
+            echo "SECRET_ENV=PROD" >> "$GITHUB_OUTPUT"
+        else
+            echo "SECRET_ENV=DEV" >> "$GITHUB_OUTPUT"
+        fi
+
+    - name: Set SecretName
+      id: secret-name
+      run: |
+        echo "ACCESS_KEY=AWS_${{ steps.secret-env.outputs.SECRET_ENV }}_ACCESS_KEY" >> "$GITHUB_OUTPUT"
+        echo "SECRET_ACCESS_KEY=AWS_${{ steps.secret-env.outputs.SECRET_ENV }}_SECRET_ACCESS_KEY" >> "$GITHUB_OUTPUT"
+
+
+  Deploy:
+    if: (!(github.event.action == 'closed' || github.event.pull_request.merged == true))
+    needs: pre-req
+    name: Create Infra
+    runs-on: ubuntu-latest
+
+    env:
+      AWS_ACCESS_KEY_ID_NAME: ${{ needs.pre-req.outputs.AWS_ACCESS_KEY }}
+      AWS_SECRET_ACCESS_KEY_NAME: ${{ needs.pre-req.outputs.AWS_SECRET_ACCESS_KEY }}
+
+    steps:
+
+    - name: Check out code
+      uses: actions/checkout@v3
+    
+    - name: Configure AWS credentials
+      uses: aws-actions/configure-aws-credentials@v1-node16
+      with:
+        aws-access-key-id: ${{ secrets[env.AWS_ACCESS_KEY_ID_NAME] }}
+        aws-secret-access-key: ${{ secrets[env.AWS_SECRET_ACCESS_KEY_NAME] }}
+        aws-region: ${{ env.AWS_REGION }}
+
+    - name: Login to Amazon ECR
+      id: login-ecr
+      uses: aws-actions/amazon-ecr-login@v1
+
+    - name: Build, tag, and push image to Amazon ECR
+      env:
+        ECR_REGISTRY: ${{ steps.login-ecr.outputs.registry }}
+        ECR_REPOSITORY: reqres
+        IMAGE_TAG: ${{ github.sha }}
+        IMAGE_TAG_LATEST: ${{ 'latest' }}
+      run: |
+        docker build -t $ECR_REGISTRY/$ECR_REPOSITORY:$IMAGE_TAG -t $ECR_REGISTRY/$ECR_REPOSITORY:$IMAGE_TAG_LATEST .
+        docker push $ECR_REGISTRY/$ECR_REPOSITORY --all-tags
+
+    - name: Terraform plan and apply
+      env:
+        ECR_REGISTRY: ${{ steps.login-ecr.outputs.registry }}
+        ECR_REPOSITORY: reqres
+        IMAGE_TAG: ${{ github.sha }}
+      run: |
+         cd terraform/
+         terraform init
+         if [[ ${{ needs.pre-req.outputs.SECRET_ENV }} == 'PROD' ]]; then
+            WORKSPACE_NAME=PROD
+         else
+            WORKSPACE_NAME=dev-${{ github.head_ref || github.ref_name }}
+         fi
+         
+         terraform workspace select $WORKSPACE_NAME || terraform workspace new $WORKSPACE_NAME 
+
+         terraform apply --var-file ${{ needs.pre-req.outputs.SECRET_ENV }}_variables.tfvars --var image="$ECR_REGISTRY/$ECR_REPOSITORY:$IMAGE_TAG" -auto-approve
+         echo "ENDPOINT=$(terraform output dns_name | tr -d '"')" >> $GITHUB_ENV
+
+    - name: Post comment message
+      uses: actions/github-script@v5
+      with:
+        github-token: ${{secrets.GITHUB_TOKEN}}
+        script: |
+          github.rest.issues.createComment({
+            issue_number: context.issue.number,
+            owner: context.repo.owner,
+            repo: context.repo.repo,
+            body: 'Endpoint is available at https://${{ env.ENDPOINT }}'
+          })
+      if: github.event_name == 'pull_request'
+
+
+
+
+  Destroy:
+    if: (github.event.action == 'closed' || github.event.pull_request.merged == true)
+    needs: [pre-req]
+    name: Destroy Infra
+    runs-on: ubuntu-latest
+
+    env:
+      AWS_ACCESS_KEY_ID_NAME: ${{ needs.pre-req.outputs.AWS_ACCESS_KEY }}
+      AWS_SECRET_ACCESS_KEY_NAME: ${{ needs.pre-req.outputs.AWS_SECRET_ACCESS_KEY }}
+
+    steps:
+
+    - name: Check out code
+      uses: actions/checkout@v3
+    
+    - name: Configure AWS credentials
+      uses: aws-actions/configure-aws-credentials@v1-node16
+      with:
+        aws-access-key-id: ${{ secrets[env.AWS_ACCESS_KEY_ID_NAME] }}
+        aws-secret-access-key: ${{ secrets[env.AWS_SECRET_ACCESS_KEY_NAME] }}
+        aws-region: ${{ env.AWS_REGION }}
+
+    - name: Terraform Destroy
+      run: |
+         cd terraform/
+         terraform init
+         if [[ ${{ needs.pre-req.outputs.SECRET_ENV }} == 'PROD' ]]; then
+            WORKSPACE_NAME=PROD
+         else
+            WORKSPACE_NAME=dev-${{ github.head_ref || github.ref_name }}
+         fi
+         
+         terraform workspace select $WORKSPACE_NAME || terraform workspace new $WORKSPACE_NAME 
+         terraform destroy --var-file ${{ needs.pre-req.outputs.SECRET_ENV }}_variables.tfvars -auto-approve
+
+         terraform workspace select default && terraform workspace delete $WORKSPACE_NAME
