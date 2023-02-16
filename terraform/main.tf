@@ -97,7 +97,7 @@ resource "aws_lb" "jsonmock_alb" {
   security_groups    = [aws_security_group.alb_sg.id]
   subnets            = var.public_subnets
 
-  enable_deletion_protection = terraform.workspace == "PROD" ? true : false
+  enable_deletion_protection = terraform.workspace == "PROD" ? false : false
 
   tags = var.common_tags
 }
@@ -234,15 +234,17 @@ resource "aws_ecs_service" "jsonmock_service" {
 }
 
 data "aws_route53_zone" "dns" {
+  count        = terraform.workspace != "PROD" ? 1 : 0
   name         = "${var.dns_name}."
   private_zone = false
 }
 
 
 resource "aws_route53_record" "jsonmock-CNAME" {
+  count      = terraform.workspace != "PROD" ? 1 : 0
   depends_on = [aws_ecs_service.jsonmock_service]
 
-  zone_id = data.aws_route53_zone.dns.zone_id
+  zone_id = data.aws_route53_zone.dns[terraform.workspace != "PROD" ? 0 : 1].zone_id
   name    = local.fqdn
   type    = "CNAME"
   records = [aws_lb.jsonmock_alb.dns_name]
@@ -250,7 +252,7 @@ resource "aws_route53_record" "jsonmock-CNAME" {
 }
 
 output "dns_name" {
-  value = aws_route53_record.jsonmock-CNAME.name
+  value = terraform.workspace != "PROD" ? aws_route53_record.jsonmock-CNAME[terraform.workspace != "PROD" ? 0 : 1].name : null
 }
 
 

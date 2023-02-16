@@ -24,7 +24,7 @@ common_tags = {
   "Project"              = "Reqres"
 }
 
-assume_role = "<PLACEHOLDER_FOR_PROD_ROLE>"
+assume_role = "arn:aws:iam::134148934511:role/ReqResTerraformRole"
 
 autoscaling = {
   min_capacity       = 1
