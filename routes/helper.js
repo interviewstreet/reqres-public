@@ -3,6 +3,14 @@ var config = require("./../config.json"),
 
 module.exports = {
     returnAll: function(items, req, res, options={}) {
+        // if req.query.page is not set, default to 1
+        // if req.query.page is set, but not a number or less than 1, return 400
+        if (req.query.page && (isNaN(req.query.page) || req.query.page < 1)) {
+            return res.status(400).send({
+                error: "Invalid page number"
+            });
+        }
+
         var page = req.query.page || 1,
             offset = (page - 1) * (options.page_size || config.pagination.page_size),
             fields = (req.query.fields && req.query.fields.split(',')) || [],
