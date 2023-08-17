@@ -39,4 +39,39 @@ describe('Check functionality', () => {
           });
       });
   });
+  // check if invalid page number results in error 400 and error message as {"error":"Invalid page number"}
+  describe('Check invalid page numbers', () => {
+    // check if page is 0
+    it('Check page number 0', (done) => {
+      chai.request(server)
+        .get('/api/stocks?page=ab')
+        .end((err, res) => {
+          res.should.have.status(400);
+          res.body.should.be.eql({ "error": "Invalid page number" });
+          done();
+        });
+    });
+
+    // check if page is -1
+    it('Check page number -1', (done) => {
+      chai.request(server)
+        .get('/api/stocks?page=-1')
+        .end((err, res) => {
+          res.should.have.status(400);
+          res.body.should.be.eql({ "error": "Invalid page number" });
+          done();
+        });
+    });
+
+    // check if page is NaN
+    it('Check page number NaN', (done) => {
+      chai.request(server)
+        .get('/api/stocks?page=ab')
+        .end((err, res) => {
+          res.should.have.status(400);
+          res.body.should.be.eql({ "error": "Invalid page number" });
+          done();
+        });
+    });
+  });
 });
