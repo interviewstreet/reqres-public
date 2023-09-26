@@ -5,7 +5,7 @@
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
-    "compile" : "node compile_data.js",
+    "compile": "node compile_data.js",
     "test": "npm run compile && mocha tests/"
   },
   "author": "Ben Howdle <hello@benhowdle.im> (http://benhowdle.im/)",

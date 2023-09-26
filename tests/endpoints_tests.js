@@ -1406,6 +1406,26 @@ describe('tvseries.json', () => {
   });
 });
 
+
+describe('disney_movies.json', () => {
+  it('/api/disney_movies?property=...', (done) => {
+    chai
+      .request(server)
+      .get('/api/disney_movies?title=Ahsoka')
+      .then((res) => {
+        res.body.data[0].should.be.eql({
+          title: "Ahsoka",
+          run_time: "2023 -",
+          runtime_of_episodes: "30-56 minutes",
+          genre: "Action/Adventure",
+          imdb_rating: "8/10",
+          overview: "Former Jedi knight Ahsoka Tano investigates an emerging threat to a vulnerable galaxy.",
+        });
+        done();
+      });
+  });
+});
+
 describe('universities.json', () => {
   it('/api/universities?page=...', (done) => {
     let startIndex = 0;

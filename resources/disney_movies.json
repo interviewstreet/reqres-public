@@ -1,0 +1,34 @@
+[
+    {
+        "title": "Ahsoka",
+        "run_time": "2023 -",
+        "runtime_of_episodes": "30-56 minutes",
+        "genre": "Action/Adventure",
+        "imdb_rating": "8/10",
+        "overview": "Former Jedi knight Ahsoka Tano investigates an emerging threat to a vulnerable galaxy."
+    },
+    {
+        "title": "American Born Chinese",
+        "run_time": "2023 -",
+        "runtime_of_episodes": "29-43 minutes",
+        "genre": "Action Comedy",
+        "imdb_rating": "7.1/10",
+        "overview": "Jin Wang, an average teenager, juggles his high school social life with his home life; when he meets a new student on the first day of the school year, even more worlds collide as Jin is unwittingly entangled in a battle of Chinese mythological gods."
+    },
+    {
+        "title": "Only Murders in the Building",
+        "run_time": "2021 -",
+        "runtime_of_episodes": "26-38 minutes",
+        "genre": "Comedy-drama; Mystery thriller",
+        "imdb_rating": "8.1/10",
+        "overview": "Three strangers share an obsession with true crime and suddenly find themselves wrapped up in one. When a grisly death occurs inside their exclusive Upper West Side apartment building, the trio suspects murder and employs their precise knowledge of true crime to investigate the truth. Perhaps even more explosive are the lies they tell one another. Soon, the endangered trio comes to realize a killer might be living among them as they race to decipher the mounting clues before it's too late."
+    },
+    {
+        "title": "SportsCenter",
+        "run_time": "1979 -",
+        "runtime_of_episodes": "60 minutes",
+        "genre": "Sports news",
+        "imdb_rating": "8.1/10",
+        "overview": "The latest news, highlights and inside information from every corner of the sports world is presented each day on SportsCenter, ESPN's first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new late-night show each weekday before the stage is cleared for a live SportsCenter morning block that emphasizes fast-paced, highlights-driven reports and what's new on social media platforms."
+    }
+]
