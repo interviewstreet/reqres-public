@@ -777,6 +777,71 @@ describe('Check all `/api` endpoints', () => {
         });
   });
 
+  describe('football_teams.json', () => {
+    it('/api/football/teams?page=...', (done) => {
+      let startIndex=0;
+      let endIndex = 10;
+      let pages = range(1,6);
+      Promise.mapSeries(pages, (page) => {
+          return chai.request(server)
+            .get('/api/football/teams/?page=' + page.toString())
+            .then((res) => {
+              return res.body.data;
+            })
+        }).then((results) => {
+          for (let result of results) {
+            result.should.be.eql(data['football_teams'].slice(startIndex, endIndex));
+            startIndex += 10;
+            endIndex += 10;
+          }
+          done();
+        }).catch((err) => {
+          console.log(err);
+          done(err);
+        });
+    })
+
+    it('/api/football/teams?property=...&page=...', (done) => {
+      chai.request(server)
+        .get('/api/football/teams?league=English Premier League (EPL)&name=Arsenal FC')
+        .then((res) => {
+          res.body.data[0].should.be.eql({
+            name: "Arsenal FC",
+            captain: "Pierre-Emerick Aubameyang",
+            vice_captain: "Alexandre Lacazette",
+            goalkeeper: "Bernd Leno",
+            number_of_players: 25,
+            current_active_players: 22,
+            league: "English Premier League (EPL)",
+            nation: "England",
+            estimated_value: "$2 billion",
+            estimated_value_numeric: 2000000000,
+            owner_name: "Stan Kroenke",
+            number_of_league_titles_won: 13,
+            last_league_title_winning_year: 2003,
+            number_of_champions_league_titles_won: 0,
+            last_champions_league_winning_year: null,
+            total_silverware_count: 30,
+            manager: "Mikel Arteta",
+            stadium_name: "Emirates Stadium",
+            stadium_capacity: 60355,
+            league_position_2021: 5,
+            league_top_three_finishes: 18,
+            number_of_runner_ups_in_champions_league: 0,
+            highest_goalscorer: "Thierry Henry",
+            highest_assist_provider: "Thierry Henry",
+            highest_clean_sheet_holder: "David Seaman",
+            most_capped_player: "Tony Adams",
+            appearnaces_most_capped_player: 669
+          });
+          done();
+        }).catch((err) => {
+          console.log(err);
+          done(err);
+        });
+      });
+  })
+
   describe('restaurants.json', () => {
     it('/api/restaurants?page=...', (done) => {
         let startIndex = 0;
