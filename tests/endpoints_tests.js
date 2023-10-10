@@ -781,7 +781,7 @@ describe('Check all `/api` endpoints', () => {
     it('/api/football/teams?page=...', (done) => {
       let startIndex=0;
       let endIndex = 10;
-      let pages = range(1,6);
+      let pages = range(1,26);
       Promise.mapSeries(pages, (page) => {
           return chai.request(server)
             .get('/api/football/teams/?page=' + page.toString())
